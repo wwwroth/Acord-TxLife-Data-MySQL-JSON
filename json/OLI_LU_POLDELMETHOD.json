@@ -1,0 +1,58 @@
+[
+ {
+   "Description": "Deliver policy by overnight mail",
+   "Name": "OLI_POLDELMETHOD_OVERNITE",
+   "Value": 2,
+   "Definition": "Use the ReqPolicyDeliverToPartyID to locate the correct address to use for overnight mail.",
+   "Notes": ""
+ },
+ {
+   "Description": "Deliver policy by regular mail",
+   "Name": "OLI_POLDELMETHOD_MAIL",
+   "Value": 1,
+   "Definition": "Use the ReqPolicyDeliverToPartyID to locate the correct address.",
+   "Notes": ""
+ },
+ {
+   "Description": "Deliver policy in person",
+   "Name": "OLI_POLDELMETHOD_INPERSON",
+   "Value": 5,
+   "Definition": "Deliver policy in person by a hand-delivery method, such as by messenger/courier, agent, or other individual.Use the ReqPolicyDeliverToPartyID to locate the correct physical address.",
+   "Notes": ""
+ },
+ {
+   "Description": "Deliver policy via Electronic Portal",
+   "Name": "OLI_POLDELMETHOD_PORTAL",
+   "Value": 6,
+   "Definition": "Use the ReqPolicyDeliverToPartyID to locate the correct email address that would have received the information for retrieving the policy from the portal.",
+   "Notes": ""
+ },
+ {
+   "Description": "Deliver policy via e-mail",
+   "Name": "OLI_POLDELMETHOD_EMAIL",
+   "Value": 3,
+   "Definition": "Use the ReqPolicyDeliverToPartyID to locate the correct email address.",
+   "Notes": ""
+ },
+ {
+   "Description": "Deliver policy via fax.",
+   "Name": "OLI_POLDELMETHOD_FAX",
+   "Value": 4,
+   "Definition": "Use the ReqPolicyDeliverToPartyID to locate the correct fax number.",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ }
+]

@@ -1,0 +1,184 @@
+[
+ {
+   "Description": "Automatic Premium Loan",
+   "Name": "OLI_PAYMETH_APL",
+   "Value": 15,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Collection Institution",
+   "Name": "OLI_PAYMETH_COLLECTION",
+   "Value": 10,
+   "Definition": "Payments are being collected by a firm/institution whose purpose is to resolve amounts owed on delinquent accounts.",
+   "Notes": ""
+ },
+ {
+   "Description": "Combined Billing",
+   "Name": "OLI_PAYMETH_COMBBILL",
+   "Value": 14,
+   "Definition": "This is usually used for a private policy owner who has numerous personal policies for himself / herself and maybe for others intheir household.",
+   "Notes": ""
+ },
+ {
+   "Description": "Credit Card Billing",
+   "Name": "OLI_PAYMETH_CREDCARD",
+   "Value": 9,
+   "Definition": "A premium payment method under which policyowners authorize their credit card issuer (bank/financial institution) to pay premiums automatically on due dates to the insurer.",
+   "Notes": ""
+ },
+ {
+   "Description": "Deferred Premium Facility",
+   "Name": "OLI_PAYMETH_DPF",
+   "Value": 31,
+   "Definition": "This indicates that premiums have been deferred until a future date as the Savings Benefit is being used as security for the deferred premiums.",
+   "Notes": ""
+ },
+ {
+   "Description": "Discounted Premium",
+   "Name": "OLI_PAYMETH_DISCPREM",
+   "Value": 16,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Distributor Has Requested Release of Funds",
+   "Name": "OLI_PAYMETH_DISTRIREQ",
+   "Value": 28,
+   "Definition": "The Distributor has requested the release of funds, which will follow. For a new policy, the carrier should initiate the set up of the policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Dividends on Deposit",
+   "Name": "OLI_PAYMETH_DIVDEP",
+   "Value": 17,
+   "Definition": "Premiums are paid systematically from the dividend accumulations on deposit.",
+   "Notes": ""
+ },
+ {
+   "Description": "Electronic Funds Transfer",
+   "Name": "OLI_PAYMETH_ETRANS",
+   "Value": 7,
+   "Definition": "A premium payment method under which policyowners authorize their banks to pay premiums automatically on due dates by transferring funds by wire from the bank to the insurer. This method includes Traditional EFT, like ACH (Automated Clearing House).",
+   "Notes": ""
+ },
+ {
+   "Description": "Government Allotment",
+   "Name": "OLI_PAYMENT_GOVALLOT",
+   "Value": 8,
+   "Definition": "Fractional amounts are collected via payroll deduction by a government agency and submitted to the carrier (without a \"bill\"), and the carrier aggregates these amounts until enough to pay the next modal premium is accumulated.",
+   "Notes": ""
+ },
+ {
+   "Description": "Irregular Billing",
+   "Name": "OLI_PAYMETH_IRREGBILL",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "List Bill",
+   "Name": "OLI_PAYMENT_LISTBILL",
+   "Value": 5,
+   "Definition": "Multiple policy bills are sent in a single logical \"bill\" (physical or electronic), and that the recipient of the bill (e.g. a corporate owner) is the source of the funds to pay the bill.",
+   "Notes": ""
+ },
+ {
+   "Description": "No Billing",
+   "Name": "OLI_PAYMETH_NOBILL",
+   "Value": 1,
+   "Definition": "All the premiums had been paid. Also, known as paid up policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paid based on premium offset",
+   "Name": "OLI_PAYMETH_PREMOFF",
+   "Value": 25,
+   "Definition": "Premium offset method in effect is defined using Life.PremOffsetMethod. That field indicates what premium offset method is selected. This value identifies when it has been invoked.",
+   "Notes": ""
+ },
+ {
+   "Description": "Paid in Advance",
+   "Name": "OLI_PAYMETH_PAID",
+   "Value": 4,
+   "Definition": "Premium paid before the due date. For example, a premium is due on July 1, 1997, but insured actually makes the premium payment on January 1, 1997, receiving a premium discount.",
+   "Notes": ""
+ },
+ {
+   "Description": "Pay from a Premium Deposit Fund",
+   "Name": "OLI_PAYMETH_PREMDEPFUND",
+   "Value": 12,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pay From Special Accounts",
+   "Name": "OLI_PAYMETH_SPECACCT",
+   "Value": 13,
+   "Definition": "The payment for the policy will come from \"special accounts\". An example is Salary Savings. Special Accounts payment method would be any payments outside of modal or bank draft. IE. salary savings, commercial company payments, etc.",
+   "Notes": ""
+ },
+ {
+   "Description": "Payroll Deduction",
+   "Name": "OLI_PAYMENT_PAYROLL",
+   "Value": 6,
+   "Definition": "A premium payment method under which an employer deducts individual life insurance premiums directly from an employees paycheck and sends these premiums to the insurance company.Multiple policy bills for these employees may be sent to the employer as one logical bill in a manner similar to a list bill.",
+   "Notes": ""
+ },
+ {
+   "Description": "Pre-Authorized Check",
+   "Name": "OLI_PAYMETH_PAC",
+   "Value": 26,
+   "Definition": "A form of electronic fund transfer that may be processed differently from ACH (Automatic Clearing House). Includes Pre-Arranged Withdrawal (PAW).",
+   "Notes": ""
+ },
+ {
+   "Description": "Premium Waiver",
+   "Name": "OLI_PAYMETH_WAIVER",
+   "Value": 30,
+   "Definition": "A premium waiver is in effect",
+   "Notes": ""
+ },
+ {
+   "Description": "Pre-signed, post dated cheques",
+   "Name": "OLI_PAYMETH_POSTDATECHK",
+   "Value": 29,
+   "Definition": "The cheques are signed in advance and are post dated to correlate with premium due dates.",
+   "Notes": ""
+ },
+ {
+   "Description": "Receiving Carrier to Request Release of Funds",
+   "Name": "OLI_PAYMETH_CARRIERREQ",
+   "Value": 27,
+   "Definition": "The Receiving Carrier will need to Request the release of funds, based upon paperwork to follow or on instructions included with the transaction.",
+   "Notes": ""
+ },
+ {
+   "Description": "Regular Billing",
+   "Name": "OLI_PAYMETH_REGBILL",
+   "Value": 2,
+   "Definition": "Premiums are billed on a regular basis either by direct deduction from the bank account or through the mail.",
+   "Notes": ""
+ },
+ {
+   "Description": "Suspended Billing",
+   "Name": "OLI_PAYMETH_SUSPNDBILL",
+   "Value": 11,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ }
+]

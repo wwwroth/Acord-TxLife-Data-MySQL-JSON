@@ -1,0 +1,681 @@
+[
+ {
+   "Description": "/40 lpf",
+   "Name": "OLI_MEASUNIT_HPF40",
+   "Value": 66,
+   "Definition": "Per 40 Low Power Fieldlook at 4 fields, average the count and multiply by 10",
+   "Notes": ""
+ },
+ {
+   "Description": "%",
+   "Name": "OLI_MEASUNIT_PCT",
+   "Value": 1,
+   "Definition": "Standard Percentage",
+   "Notes": ""
+ },
+ {
+   "Description": "%norm",
+   "Name": "OLI_MEASUNIT_PCTNORM",
+   "Value": 3,
+   "Definition": "Percent Normal",
+   "Notes": ""
+ },
+ {
+   "Description": "%ref",
+   "Name": "OLI_MEASUNIT_PCTREF",
+   "Value": 2,
+   "Definition": "Percent Reference",
+   "Notes": ""
+ },
+ {
+   "Description": "10^12/L",
+   "Name": "OLI_MEASUNIT_10TOPWR12LI",
+   "Value": 73,
+   "Definition": "Ten to the power of 12 per liter - a unit of measure for cell counts.",
+   "Notes": ""
+ },
+ {
+   "Description": "10^9/L",
+   "Name": "OLI_MEASUNIT_10TOPWR9LI",
+   "Value": 74,
+   "Definition": "Ten to the power of 9 per liter - a unit of measure for cell counts.",
+   "Notes": ""
+ },
+ {
+   "Description": "AU/ml",
+   "Name": "OLI_MEASUNIT_AUPERML",
+   "Value": 4,
+   "Definition": "Antibody Units per Milliliter",
+   "Notes": ""
+ },
+ {
+   "Description": "copy/mL",
+   "Name": "OLI_MEASUNIT_COPYPERML",
+   "Value": 22,
+   "Definition": "Copies per Milliliter",
+   "Notes": ""
+ },
+ {
+   "Description": "Days",
+   "Name": "OLI_MEASUNITS_DAY",
+   "Value": 67,
+   "Definition": "Duration of time measured in units of days.",
+   "Notes": ""
+ },
+ {
+   "Description": "Degrees Celsius",
+   "Name": "OLI_MEASUNIT_DEGC",
+   "Value": 7,
+   "Definition": "Temperature measured in degrees Celsius",
+   "Notes": ""
+ },
+ {
+   "Description": "Degrees Fahrenheit",
+   "Name": "OLI_MEASUNIT_DEGF",
+   "Value": 6,
+   "Definition": "Temperature measured in degrees Fahrenheit.",
+   "Notes": ""
+ },
+ {
+   "Description": "EAI Units",
+   "Name": "OLI_MEASUNIT_EAIUNITS",
+   "Value": 5,
+   "Definition": "Special units used in HIV testing",
+   "Notes": ""
+ },
+ {
+   "Description": "fL",
+   "Name": "OLI_MEASUNIT_FL",
+   "Value": 23,
+   "Definition": "Femptoliter",
+   "Notes": ""
+ },
+ {
+   "Description": "Fraction",
+   "Name": "OLI_MEASUNIT_FRACTION",
+   "Value": 75,
+   "Definition": "Fraction - a unit of measure for T3 Update and % Free PSA",
+   "Notes": ""
+ },
+ {
+   "Description": "ft.",
+   "Name": "OLI_MEASUNIT_FT",
+   "Value": 89,
+   "Definition": "Standard Feet (12 inches)",
+   "Notes": ""
+ },
+ {
+   "Description": "g/dL",
+   "Name": "OLI_MEASUNIT_GPERDL",
+   "Value": 25,
+   "Definition": "Grams per Deciliter",
+   "Notes": ""
+ },
+ {
+   "Description": "g/L",
+   "Name": "OLI_MEASUNIT_GPERL",
+   "Value": 96,
+   "Definition": "gram per liter (g/L or g/l)",
+   "Notes": ""
+ },
+ {
+   "Description": "g%",
+   "Name": "OLI_MEASUNIT_GPCT",
+   "Value": 24,
+   "Definition": "Grams Percent",
+   "Notes": ""
+ },
+ {
+   "Description": "Hours",
+   "Name": "OLI_MEASUNIT_HOURS",
+   "Value": 26,
+   "Definition": "Hours",
+   "Notes": ""
+ },
+ {
+   "Description": "HPF",
+   "Name": "OLI_MEASUNIT_HPF",
+   "Value": 8,
+   "Definition": "High Power Field",
+   "Notes": ""
+ },
+ {
+   "Description": "Inches",
+   "Name": "OLI_MEASUNIT_INCHES",
+   "Value": 14,
+   "Definition": "Standard Inches",
+   "Notes": ""
+ },
+ {
+   "Description": "INDEX",
+   "Name": "OLI_MEASUNIT_INDEX",
+   "Value": 10,
+   "Definition": "Used for values measured relative to a standard index.",
+   "Notes": ""
+ },
+ {
+   "Description": "IU",
+   "Name": "OLI_MEASUNIT_IU",
+   "Value": 76,
+   "Definition": "International Units",
+   "Notes": ""
+ },
+ {
+   "Description": "IU/L",
+   "Name": "OLI_MEASUNIT_IUPERL",
+   "Value": 11,
+   "Definition": "International Units per Liter",
+   "Notes": ""
+ },
+ {
+   "Description": "IU/mL",
+   "Name": "OLI_MEASUNIT_IUPERML",
+   "Value": 12,
+   "Definition": "International Units per Milliliter",
+   "Notes": ""
+ },
+ {
+   "Description": "k",
+   "Name": "OLI_MEASUNIT_THOUSANDS",
+   "Value": 86,
+   "Definition": "Thousands",
+   "Notes": ""
+ },
+ {
+   "Description": "K/mL",
+   "Name": "OLI_MEASUNIT_KMCL",
+   "Value": 77,
+   "Definition": "Thousand per microliter.",
+   "Notes": ""
+ },
+ {
+   "Description": "k/mm3",
+   "Name": "OLI_MEASUNIT_KPERMM3",
+   "Value": 27,
+   "Definition": "Thousands per Cubic Millimeter",
+   "Notes": ""
+ },
+ {
+   "Description": "kg",
+   "Name": "OLI_MEASUNIT_KG",
+   "Value": 93,
+   "Definition": "Kilograms",
+   "Notes": ""
+ },
+ {
+   "Description": "Km",
+   "Name": "OLI_MEASUNIT_KM",
+   "Value": 94,
+   "Definition": "Kilometers",
+   "Notes": ""
+ },
+ {
+   "Description": "KU/L",
+   "Name": "OLI_MEASUNIT_KUPERL",
+   "Value": 28,
+   "Definition": "Killiunits per Liter",
+   "Notes": ""
+ },
+ {
+   "Description": "Life Expectancy",
+   "Name": "OLI_MEASUNIT_LIFEEXPECTANCY",
+   "Value": 95,
+   "Definition": "Used to specify a time period estimating the life expectancy of a person.",
+   "Notes": ""
+ },
+ {
+   "Description": "Lifetime",
+   "Name": "OLI_MEASUNIT_LIFETIME",
+   "Value": 87,
+   "Definition": "Used to specify a time period extending for the entire lifetime of a person.",
+   "Notes": ""
+ },
+ {
+   "Description": "LPF",
+   "Name": "OLI_MEASUNIT_LPF",
+   "Value": 9,
+   "Definition": "Low Power Field",
+   "Notes": ""
+ },
+ {
+   "Description": "m",
+   "Name": "OLI_MEASUNIT_METER",
+   "Value": 91,
+   "Definition": "Meters",
+   "Notes": ""
+ },
+ {
+   "Description": "m/mm3",
+   "Name": "OLI_MEASUNIT_MPERMM3",
+   "Value": 29,
+   "Definition": "Millions per Cubic Millimeter",
+   "Notes": ""
+ },
+ {
+   "Description": "m/uL",
+   "Name": "OLI_MEASUNIT_MPERUL",
+   "Value": 81,
+   "Definition": "Millions per microliter",
+   "Notes": ""
+ },
+ {
+   "Description": "mEq/24hr",
+   "Name": "OLI_MEASUNIT_MEQPER24HR",
+   "Value": 30,
+   "Definition": "Milliequivalent per 24 hours",
+   "Notes": ""
+ },
+ {
+   "Description": "mEq/L",
+   "Name": "OLI_MEASUNIT_MEQPERL",
+   "Value": 31,
+   "Definition": "Milliequivalents per Liter",
+   "Notes": ""
+ },
+ {
+   "Description": "mg/24hr",
+   "Name": "OLI_MEASUNIT_MG24HR",
+   "Value": 38,
+   "Definition": "Milligrams per 24 hours",
+   "Notes": ""
+ },
+ {
+   "Description": "mg/dL",
+   "Name": "OLI_MEASUNIT_MGPERDL",
+   "Value": 40,
+   "Definition": "Milligrams per Deciliter",
+   "Notes": ""
+ },
+ {
+   "Description": "mg/gCREA",
+   "Name": "OLI_MEASUNIT_MGPERDCREA",
+   "Value": 41,
+   "Definition": "Milligrams per Gram of CreatinineMeasurement unit to be used for Lab Results only",
+   "Notes": ""
+ },
+ {
+   "Description": "mg/L",
+   "Name": "OLI_MEASUNIT_MGPERL",
+   "Value": 39,
+   "Definition": "Milligrams per Liter",
+   "Notes": ""
+ },
+ {
+   "Description": "mg/mgCREA",
+   "Name": "OLI_MEASUNIT_MGPERMGCREA",
+   "Value": 79,
+   "Definition": "Milligrams per milligram creatinine",
+   "Notes": ""
+ },
+ {
+   "Description": "mg/mmolCREA",
+   "Name": "OLI_MEASUNIT_MGMMCREA",
+   "Value": 80,
+   "Definition": "Milligrams per millimole creatinine",
+   "Notes": ""
+ },
+ {
+   "Description": "mg%",
+   "Name": "OLI_MEASUNIT_MGPCT",
+   "Value": 37,
+   "Definition": "Milligrams Percent",
+   "Notes": ""
+ },
+ {
+   "Description": "mi.",
+   "Name": "OLI_MEASUNIT_MI",
+   "Value": 90,
+   "Definition": "Standard Miles (5280 feet)",
+   "Notes": ""
+ },
+ {
+   "Description": "min",
+   "Name": "OLI_MEASUNIT_MINUTES",
+   "Value": 42,
+   "Definition": "Minutes",
+   "Notes": ""
+ },
+ {
+   "Description": "mIU/L",
+   "Name": "OLI_MEASUNIT_MIUPERL",
+   "Value": 32,
+   "Definition": "Milli-International Units per Liter",
+   "Notes": ""
+ },
+ {
+   "Description": "mIU/mL",
+   "Name": "OLI_MEASUNIT_MIUPERML",
+   "Value": 33,
+   "Definition": "Milli-International Units per Milliliter",
+   "Notes": ""
+ },
+ {
+   "Description": "mL",
+   "Name": "OLI_MEASUNIT_ML",
+   "Value": 34,
+   "Definition": "Milliliters",
+   "Notes": ""
+ },
+ {
+   "Description": "mL/min",
+   "Name": "OLI_MEASUNIT_MLPERMIN",
+   "Value": 35,
+   "Definition": "Milliters per Minute",
+   "Notes": ""
+ },
+ {
+   "Description": "mm/hr",
+   "Name": "OLI_MEASUNIT_MMPERHR",
+   "Value": 44,
+   "Definition": "Millimeters per Hour",
+   "Notes": ""
+ },
+ {
+   "Description": "mm3",
+   "Name": "OLI_MEASUNIT_MM3",
+   "Value": 45,
+   "Definition": "Cubic millimeter",
+   "Notes": ""
+ },
+ {
+   "Description": "mm Hg",
+   "Name": "OLI_MEASUNIT_MMHG",
+   "Value": 43,
+   "Definition": "Millimeters of Mercury",
+   "Notes": ""
+ },
+ {
+   "Description": "mmol/24hr",
+   "Name": "OLI_MEASUNIT_MMOLPER24HR",
+   "Value": 46,
+   "Definition": "Millimoles per 24 hours",
+   "Notes": ""
+ },
+ {
+   "Description": "mmol/gCREA",
+   "Name": "OLI_MEASUNIT_MMGMCREA",
+   "Value": 78,
+   "Definition": "Millimoles per gram creatinine",
+   "Notes": ""
+ },
+ {
+   "Description": "mmol/L",
+   "Name": "OLI_MEASUNIT_MMOLPERL",
+   "Value": 47,
+   "Definition": "Millimoles per Liter",
+   "Notes": ""
+ },
+ {
+   "Description": "mmols/mo",
+   "Name": "OLI_MEASUNIT_MMOLPERMOL",
+   "Value": 97,
+   "Definition": "HbA1c (IFCC) Measurement",
+   "Notes": ""
+ },
+ {
+   "Description": "months",
+   "Name": "OLI_MEASUNIT_MONTHS",
+   "Value": 48,
+   "Definition": "Months",
+   "Notes": ""
+ },
+ {
+   "Description": "mOsm/kg",
+   "Name": "OLI_MEASUNIT_MOSMPERKG",
+   "Value": 15,
+   "Definition": "Miliosmoles per Kilogram",
+   "Notes": ""
+ },
+ {
+   "Description": "mph",
+   "Name": "OLI_MEASUNIT_MPH",
+   "Value": 88,
+   "Definition": "Miles per hour",
+   "Notes": ""
+ },
+ {
+   "Description": "mU/min",
+   "Name": "OLI_MEASUNIT_MUPERMIN",
+   "Value": 36,
+   "Definition": "Milli-Units per Milliliter",
+   "Notes": ""
+ },
+ {
+   "Description": "ng/dl",
+   "Name": "OLI_MEASUNIT_NGPERDL",
+   "Value": 49,
+   "Definition": "Nanograms per Deciliter to measure volume",
+   "Notes": ""
+ },
+ {
+   "Description": "ng/dL",
+   "Name": "OLI_MEASUNIT_NGPERDLDEPLAB",
+   "Value": 82,
+   "Definition": "Nanograms per deciliter used as a measuring unit on Lab Services reports",
+   "Notes": ""
+ },
+ {
+   "Description": "ng/mL",
+   "Name": "OLI_MEASUNIT_NGPERML",
+   "Value": 50,
+   "Definition": "Nanograms per Milliliter to measure volume",
+   "Notes": ""
+ },
+ {
+   "Description": "ng/mL",
+   "Name": "OLI_MEASUNIT_NGMPERL",
+   "Value": 83,
+   "Definition": "Nanograms per milliliter used as a measuring unit on Lab Services Reports",
+   "Notes": ""
+ },
+ {
+   "Description": "nmol/L",
+   "Name": "OLI_MEASUNIT_NMOLPERL",
+   "Value": 51,
+   "Definition": "Nanomoles per Liter to measure volume",
+   "Notes": ""
+ },
+ {
+   "Description": "nmol/L",
+   "Name": "OLI_MEASUNIT_NMOLPERLLAB",
+   "Value": 84,
+   "Definition": "Nanomoles per liter used as a measuring unit on Lab Services reports",
+   "Notes": ""
+ },
+ {
+   "Description": "OD Ratio",
+   "Name": "OLI_MEASUNIT_ODRATIO",
+   "Value": 16,
+   "Definition": "Special ratio used in HIV screening.",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "pg",
+   "Name": "OLI_MEASUNIT_PG",
+   "Value": 52,
+   "Definition": "Picograms",
+   "Notes": ""
+ },
+ {
+   "Description": "pg/dl",
+   "Name": "OLI_MEASUNIT_PGPERDL",
+   "Value": 53,
+   "Definition": "Picograms per Deciliter",
+   "Notes": ""
+ },
+ {
+   "Description": "pg/mL",
+   "Name": "OLI_MEASUNIT_PGPERML",
+   "Value": 54,
+   "Definition": "Picograms per Milliliter",
+   "Notes": ""
+ },
+ {
+   "Description": "pmol",
+   "Name": "OLI_MEASUNIT_PMOL",
+   "Value": 85,
+   "Definition": "Picomoles",
+   "Notes": ""
+ },
+ {
+   "Description": "Pounds",
+   "Name": "OLI_MEASUNIT_LBS",
+   "Value": 13,
+   "Definition": "Standard Pounds",
+   "Notes": ""
+ },
+ {
+   "Description": "PPB",
+   "Name": "OLI_MEASUNIT_PPB",
+   "Value": 17,
+   "Definition": "Parts per Billion",
+   "Notes": ""
+ },
+ {
+   "Description": "Quarters",
+   "Name": "OLI_MEASUNIT_QUARTERS",
+   "Value": 72,
+   "Definition": "Duration of time measured in units of quarters of a year (three month segments)",
+   "Notes": ""
+ },
+ {
+   "Description": "seconds",
+   "Name": "OLI_MEASUNIT_SECONDS",
+   "Value": 55,
+   "Definition": "Seconds",
+   "Notes": ""
+ },
+ {
+   "Description": "Titer",
+   "Name": "OLI_MEASUNIT_TITER",
+   "Value": 18,
+   "Definition": "Often used to express a substance's concentration in a given sample.",
+   "Notes": ""
+ },
+ {
+   "Description": "U/gHb",
+   "Name": "OLI_MEASUNIT_UPERGHB",
+   "Value": 20,
+   "Definition": "Units per Gram of HGB",
+   "Notes": ""
+ },
+ {
+   "Description": "U/L",
+   "Name": "OLI_MEASUNIT_UPERL",
+   "Value": 19,
+   "Definition": "Units per Liter",
+   "Notes": ""
+ },
+ {
+   "Description": "U/mL",
+   "Name": "OLI_MEASUNIT_UPERML",
+   "Value": 21,
+   "Definition": "Units per Milliliter",
+   "Notes": ""
+ },
+ {
+   "Description": "u3",
+   "Name": "OLI_MEASUNIT_CUBICMICRONS",
+   "Value": 65,
+   "Definition": "Cubic Microns",
+   "Notes": ""
+ },
+ {
+   "Description": "ug/24hr",
+   "Name": "OLI_MEASUNIT_UGPER24HR",
+   "Value": 58,
+   "Definition": "Micrograms per 24 hours",
+   "Notes": ""
+ },
+ {
+   "Description": "ug/dL",
+   "Name": "OLI_MEASUNIT_UGPERDL",
+   "Value": 60,
+   "Definition": "Micorgrams per Deciliter",
+   "Notes": ""
+ },
+ {
+   "Description": "ug/g",
+   "Name": "OLI_MEASUNIT_UGPERG",
+   "Value": 61,
+   "Definition": "Micrograms per Gram",
+   "Notes": ""
+ },
+ {
+   "Description": "ug/gCREA",
+   "Name": "OLI_MEASUNIT_UGPERGCREA",
+   "Value": 62,
+   "Definition": "Micrograms per Gram of CreatinineMeasurement unit to be used for Lab Results only",
+   "Notes": ""
+ },
+ {
+   "Description": "ug/L",
+   "Name": "OLI_MEASUNIT_UGPERL",
+   "Value": 59,
+   "Definition": "Micrograms per Liter",
+   "Notes": ""
+ },
+ {
+   "Description": "ug/mL",
+   "Name": "OLI_MEASUNIT_UGPERML",
+   "Value": 63,
+   "Definition": "Micrograms per Milliter",
+   "Notes": ""
+ },
+ {
+   "Description": "uIU/mL",
+   "Name": "OLI_MEASUNIT_UIUPERML",
+   "Value": 56,
+   "Definition": "Micro International Units per Milliliter",
+   "Notes": ""
+ },
+ {
+   "Description": "uM3",
+   "Name": "OLI_MEASUNIT_UM3",
+   "Value": 57,
+   "Definition": "Cubic Micrometers",
+   "Notes": ""
+ },
+ {
+   "Description": "umol/L",
+   "Name": "OLI_MEASUNIT_UMOLPERL",
+   "Value": 64,
+   "Definition": "Micromoles per Liter",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Weeks",
+   "Name": "OLI_MEASUNIT_WEEKS",
+   "Value": 69,
+   "Definition": "Duration of time measured in units of weeks",
+   "Notes": ""
+ },
+ {
+   "Description": "yd.",
+   "Name": "OLI_MEASUNIT_YD",
+   "Value": 92,
+   "Definition": "Standard Yards (3 feet)",
+   "Notes": ""
+ },
+ {
+   "Description": "Years",
+   "Name": "OLI_MEASUNITS_YEAR",
+   "Value": 68,
+   "Definition": "Duration of time measured in units of years",
+   "Notes": ""
+ }
+]

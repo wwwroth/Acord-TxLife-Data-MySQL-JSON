@@ -1,0 +1,65 @@
+[
+ {
+   "Description": "Agent customer service email address",
+   "Name": "OLI_EMAIL_AGENTCSE",
+   "Value": 3,
+   "Definition": "Carrier's email address agent will use for customer service.",
+   "Notes": ""
+ },
+ {
+   "Description": "Business",
+   "Name": "OLI_EMAIL_BUSINESS",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Client customer service email address",
+   "Name": "OLI_EMAIL_CLIENTCSE",
+   "Value": 4,
+   "Definition": "Carrier's email address client will use for customer service.",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Personal",
+   "Name": "OLI_EMAIL_PERSONAL",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Previous",
+   "Name": "OLI_EMAIL_PREVIOUS",
+   "Value": 7,
+   "Definition": "\"Previous\" where type (Personal, Business, etc.) is unknown or not applicable",
+   "Notes": ""
+ },
+ {
+   "Description": "Primary Email Address",
+   "Name": "OLI_EMAIL_PRIMARY",
+   "Value": 5,
+   "Definition": "An email address that has been designated as the primary address for email contact.",
+   "Notes": ""
+ },
+ {
+   "Description": "Secondary or Alternate Email Address",
+   "Name": "OLI_EMAIL_ALTERNATE",
+   "Value": 6,
+   "Definition": "An email address that has been designated as the secondary or alternate address for email contact.",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ }
+]

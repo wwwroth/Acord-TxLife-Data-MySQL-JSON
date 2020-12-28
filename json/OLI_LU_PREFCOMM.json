@@ -1,0 +1,86 @@
+[
+ {
+   "Description": "Don't Contact",
+   "Name": "OLI_PREFCOMM_NONE",
+   "Value": 5,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electronic Portal",
+   "Name": "OLI_PREFCOMM_PORTAL",
+   "Value": 10,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "E-Mail",
+   "Name": "OLI_PREFCOMM_EMAIL",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fax",
+   "Name": "OLI_PREFCOMM_FAX",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-person",
+   "Name": "OLI_PREFCOMM_INPERSON",
+   "Value": 8,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "No preference specified",
+   "Name": "OLI_PREFCOMM_NOPREF",
+   "Value": 7,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Phone",
+   "Name": "OLI_PREFCOMM_PHONE",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Regular Mail",
+   "Name": "OLI_PREFCOMM_MAIL",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Text Message",
+   "Name": "OLI_PREFCOMM_TEXTMESSAGE",
+   "Value": 6,
+   "Definition": "Used to designate a preference to receive certain types of communication via text message.",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Video Conference",
+   "Name": "OLI_PREFCOMM_VIDEO",
+   "Value": 9,
+   "Definition": "",
+   "Notes": ""
+ }
+]

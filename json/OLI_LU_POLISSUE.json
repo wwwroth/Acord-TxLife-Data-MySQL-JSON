@@ -1,0 +1,100 @@
+[
+ {
+   "Description": "Aviation",
+   "Name": "OLI_COVISSU_AVIATION",
+   "Value": 10,
+   "Definition": "Underwriting rules used to issue the coverage are specific to those required to issue aviation based life insurance",
+   "Notes": ""
+ },
+ {
+   "Description": "Blended (Policy has Underwritten and Guaranteed Issue coverages.) Only applies at Policy Level",
+   "Name": "OLI_COVISSU_PERCOVERAGE",
+   "Value": 8,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Conversion - Non-contractual",
+   "Name": "OLI_COVISSU_NONCNTRCTCONVERT",
+   "Value": 11,
+   "Definition": "Non-contractual conversion - Underwriting is needed",
+   "Notes": ""
+ },
+ {
+   "Description": "Conversion - No underwriting done",
+   "Name": "OLI_COVISSU_CONVERTED",
+   "Value": 9,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Express Underwriting",
+   "Name": "OLI_COVISSU_EXPRESS",
+   "Value": 12,
+   "Definition": "Express Underwriting is a data-driven underwriting process used to render a decision without the need for invasive requirements such as a physical examination or an Attending Physician Statement (APS).",
+   "Notes": ""
+ },
+ {
+   "Description": "Field Issue",
+   "Name": "OLI_COVISSU_FIELDISSUE",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial Underwriting",
+   "Name": "OLI_COVISSU_FINANCIALUNDERWRITTEN",
+   "Value": 5,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Full Underwriting",
+   "Name": "OLI_COVISSU_FULL",
+   "Value": 1,
+   "Definition": "Answering all of the medical questions in the policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Guaranteed Issue",
+   "Name": "OLI_COVISSU_GUAR",
+   "Value": 3,
+   "Definition": "The right to purchase insurance without being required to provide evidence of insurability.",
+   "Notes": ""
+ },
+ {
+   "Description": "Mass Underwriting",
+   "Name": "OLI_COVISSU_MASSUNDERWRITING",
+   "Value": 6,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Reduced Underwriting",
+   "Name": "OLI_COVISSU_REDUCEDUNDERWRITING",
+   "Value": 7,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Simplified Underwriting",
+   "Name": "OLI_COVISSU_SIMP",
+   "Value": 2,
+   "Definition": "Answering slightly different and less medical type questions as compared to Full Underwriting.",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ }
+]

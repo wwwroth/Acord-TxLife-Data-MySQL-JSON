@@ -1,0 +1,3530 @@
+[
+ {
+   "Description": "Aberdeen City",
+   "Name": "OLI_GBR_ABE",
+   "Value": 651,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Aberdeenshire",
+   "Name": "OLI_GBR_ABD",
+   "Value": 652,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Aguascalientes",
+   "Name": "OLI_MEX_AGS",
+   "Value": 401,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Aichi",
+   "Name": "OLI_JPN_AICHI",
+   "Value": 301,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ain",
+   "Name": "OLI_FRA_DEPT001",
+   "Value": 33001,
+   "Definition": "Department in the region of Rhône-Alpes",
+   "Notes": ""
+ },
+ {
+   "Description": "Aisne",
+   "Name": "OLI_FRA_DEPT002",
+   "Value": 33002,
+   "Definition": "Department in the region of Picardie",
+   "Notes": ""
+ },
+ {
+   "Description": "AKA NL Newfoundland and Labrador",
+   "Name": "OLI_CAN_NF",
+   "Value": 105,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Akita",
+   "Name": "OLI_JPN_AKITA",
+   "Value": 302,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Alabama",
+   "Name": "OLI_USA_AL",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Alaska",
+   "Name": "OLI_USA_AK",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Alberta",
+   "Name": "OLI_CAN_AB",
+   "Value": 101,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Allier",
+   "Name": "OLI_FRA_DEPT003",
+   "Value": 33003,
+   "Definition": "Department in the region of Auvergne",
+   "Notes": ""
+ },
+ {
+   "Description": "All states",
+   "Name": "OLI_ALL_STATES",
+   "Value": 1000,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Alpes-de-Haute-Provence",
+   "Name": "OLI_FRA_DEPT004",
+   "Value": 33004,
+   "Definition": "Department in the region of Provence-Alpes-Côte d'Azur",
+   "Notes": ""
+ },
+ {
+   "Description": "Alpes-Maritimes",
+   "Name": "OLI_FRA_DEPT006",
+   "Value": 33006,
+   "Definition": "Department in the region of Provence-Alpes-Côte d'Azur",
+   "Notes": ""
+ },
+ {
+   "Description": "American Samoa",
+   "Name": "OLI_USA_AS",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Angus",
+   "Name": "OLI_GBR_ANS",
+   "Value": 653,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Antrim",
+   "Name": "OLI_GBR_ANT",
+   "Value": 611,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Aomori",
+   "Name": "OLI_JPN_AOMORI",
+   "Value": 303,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ardèche",
+   "Name": "OLI_FRA_DEPT007",
+   "Value": 33007,
+   "Definition": "Department in the region of Rhône-Alpes",
+   "Notes": ""
+ },
+ {
+   "Description": "Ardennes",
+   "Name": "OLI_FRA_DEPT008",
+   "Value": 33008,
+   "Definition": "Department in the region of Champagne-Ardenne",
+   "Notes": ""
+ },
+ {
+   "Description": "Ards",
+   "Name": "OLI_GBR_ARD",
+   "Value": 612,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Argyll and Bute",
+   "Name": "OLI_GBR_AGB",
+   "Value": 654,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Ariège",
+   "Name": "OLI_FRA_DEPT009",
+   "Value": 33009,
+   "Definition": "Department in the region of Midi-Pyrénées",
+   "Notes": ""
+ },
+ {
+   "Description": "Arizona",
+   "Name": "OLI_USA_AZ",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Arkansas",
+   "Name": "OLI_USA_AR",
+   "Value": 5,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Armagh",
+   "Name": "OLI_GBR_ARM",
+   "Value": 613,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Armed Forces Americas (except Canada)",
+   "Name": "OLI_USA_AA",
+   "Value": 60,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Armed Forces Canada, Africa, Europe, Middle East",
+   "Name": "OLI_USA_AE",
+   "Value": 61,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Aube",
+   "Name": "OLI_FRA_DEPT010",
+   "Value": 33010,
+   "Definition": "Department in the region of Champagne-Ardenne",
+   "Notes": ""
+ },
+ {
+   "Description": "Aude",
+   "Name": "OLI_FRA_DEPT011",
+   "Value": 33011,
+   "Definition": "Department in the region of Languedoc-Roussillon",
+   "Notes": ""
+ },
+ {
+   "Description": "Australian Capital Territory",
+   "Name": "OLI_AUS_ACT",
+   "Value": 201,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Aveyron",
+   "Name": "OLI_FRA_DEPT012",
+   "Value": 33012,
+   "Definition": "Department in the region of Midi-Pyrénées",
+   "Notes": ""
+ },
+ {
+   "Description": "Baja California",
+   "Name": "OLI_MEX_BC",
+   "Value": 402,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Baja California Sur",
+   "Name": "OLI_MEX_BCS",
+   "Value": 403,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ballymena",
+   "Name": "OLI_GBR_BLA",
+   "Value": 614,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Ballymoney",
+   "Name": "OLI_GBR_BLY",
+   "Value": 615,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Banbridge",
+   "Name": "OLI_GBR_BNB",
+   "Value": 616,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Barking and Dagenham",
+   "Name": "OLI_GBR_BDG",
+   "Value": 752,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Barnet",
+   "Name": "OLI_GBR_BNE",
+   "Value": 753,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Barnsley",
+   "Name": "OLI_GBR_BNS",
+   "Value": 822,
+   "Definition": "South Yorkshire District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Bas-Rhin",
+   "Name": "OLI_FRA_DEPT067",
+   "Value": 33067,
+   "Definition": "Department in the region of Alsace",
+   "Notes": ""
+ },
+ {
+   "Description": "Bath and North East Somerset",
+   "Name": "OLI_GBR_BAS",
+   "Value": 832,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Bedfordshire",
+   "Name": "OLI_GBR_BDF",
+   "Value": 789,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Belfast",
+   "Name": "OLI_GBR_BFS",
+   "Value": 617,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Bexley",
+   "Name": "OLI_GBR_BEX",
+   "Value": 754,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Birmingham",
+   "Name": "OLI_GBR_BIR",
+   "Value": 879,
+   "Definition": "West Midlands District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Blackburn with Darwen",
+   "Name": "OLI_GBR_BBD",
+   "Value": 833,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Blackpool",
+   "Name": "OLI_GBR_BPL",
+   "Value": 834,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Blaenau Gwent",
+   "Name": "OLI_GBR_BGW",
+   "Value": 701,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Bolton",
+   "Name": "OLI_GBR_BOL",
+   "Value": 742,
+   "Definition": "Greater Manchester District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Bouches-du-Rhône",
+   "Name": "OLI_FRA_DEPT013",
+   "Value": 33013,
+   "Definition": "Department in the region of Provence-Alpes-Côte d'Azur",
+   "Notes": ""
+ },
+ {
+   "Description": "Bournemouth",
+   "Name": "OLI_GBR_BMH",
+   "Value": 835,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Bracknell Forest",
+   "Name": "OLI_GBR_BRC",
+   "Value": 836,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Bradford",
+   "Name": "OLI_GBR_BRD",
+   "Value": 886,
+   "Definition": "West Yorkshire District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Brent",
+   "Name": "OLI_GBR_BEN",
+   "Value": 755,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Bridgend",
+   "Name": "OLI_GBR_BGE",
+   "Value": 702,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Brighton and Hove",
+   "Name": "OLI_GBR_BNH",
+   "Value": 837,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Bristol, City of",
+   "Name": "OLI_GBR_BST",
+   "Value": 838,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "British Columbia",
+   "Name": "OLI_CAN_BC",
+   "Value": 102,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bromley",
+   "Name": "OLI_GBR_BRY",
+   "Value": 756,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Buckinghamshire",
+   "Name": "OLI_GBR_BKM",
+   "Value": 790,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Bury",
+   "Name": "OLI_GBR_BUR",
+   "Value": 743,
+   "Definition": "Greater Manchester District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Caerphilly",
+   "Name": "OLI_GBR_CAY",
+   "Value": 703,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Calderdale",
+   "Name": "OLI_GBR_CLD",
+   "Value": 887,
+   "Definition": "West Yorkshire District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "California",
+   "Name": "OLI_USA_CA",
+   "Value": 6,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Calvados",
+   "Name": "OLI_FRA_DEPT014",
+   "Value": 33014,
+   "Definition": "Department in the region of Basse-Normandie",
+   "Notes": ""
+ },
+ {
+   "Description": "Cambridgeshire",
+   "Name": "OLI_GBR_CAM",
+   "Value": 791,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Camden",
+   "Name": "OLI_GBR_CMD",
+   "Value": 757,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Campeche",
+   "Name": "OLI_MEX_CAMP",
+   "Value": 404,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cantal",
+   "Name": "OLI_FRA_DEPT015",
+   "Value": 33015,
+   "Definition": "Department in the region of Auvergne",
+   "Notes": ""
+ },
+ {
+   "Description": "Cardiff",
+   "Name": "OLI_GBR_CRF",
+   "Value": 704,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Carmarthenshire",
+   "Name": "OLI_GBR_CMN",
+   "Value": 705,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Carrickfergus",
+   "Name": "OLI_GBR_CKF",
+   "Value": 618,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Castlereagh",
+   "Name": "OLI_GBR_CSR",
+   "Value": 619,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Ceredigion [Sir Ceredigion]",
+   "Name": "OLI_GBR_CGN",
+   "Value": 706,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Charente",
+   "Name": "OLI_FRA_DEPT016",
+   "Value": 33016,
+   "Definition": "Department in the region of Poitou-Charentes",
+   "Notes": ""
+ },
+ {
+   "Description": "Charente-Maritime",
+   "Name": "OLI_FRA_DEPT017",
+   "Value": 33017,
+   "Definition": "Department in the region of Poitou-Charentes",
+   "Notes": ""
+ },
+ {
+   "Description": "Cher",
+   "Name": "OLI_FRA_DEPT018",
+   "Value": 33018,
+   "Definition": "Department in the region of Centre",
+   "Notes": ""
+ },
+ {
+   "Description": "Cheshire",
+   "Name": "OLI_GBR_CHS",
+   "Value": 792,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Chiapas",
+   "Name": "OLI_MEX_CHIS",
+   "Value": 405,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chiba",
+   "Name": "OLI_JPN_CHIBA",
+   "Value": 304,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chihuahua",
+   "Name": "OLI_MEX_CHIH",
+   "Value": 406,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Clackmannanshire",
+   "Name": "OLI_GBR_CLK",
+   "Value": 655,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Coahuila",
+   "Name": "OLI_MEX_COAH",
+   "Value": 407,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Coleraine",
+   "Name": "OLI_GBR_CLR",
+   "Value": 620,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Colima",
+   "Name": "OLI_MEX_COL",
+   "Value": 408,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Colorado",
+   "Name": "OLI_USA_CO",
+   "Value": 7,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Connecticut",
+   "Name": "OLI_USA_CT",
+   "Value": 8,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Conwy",
+   "Name": "OLI_GBR_CWY",
+   "Value": 707,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Cookstown",
+   "Name": "OLI_GBR_CKT",
+   "Value": 621,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Cornwall",
+   "Name": "OLI_GBR_CON",
+   "Value": 793,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Corrèze",
+   "Name": "OLI_FRA_DEPT019",
+   "Value": 33019,
+   "Definition": "Department in the region of Limousin",
+   "Notes": ""
+ },
+ {
+   "Description": "Corse-du-Sud",
+   "Name": "OLI_FRA_DEPT02A",
+   "Value": 33901,
+   "Definition": "Department in the region of Corsica",
+   "Notes": ""
+ },
+ {
+   "Description": "Côte-d'Or",
+   "Name": "OLI_FRA_DEPT021",
+   "Value": 33021,
+   "Definition": "Department in the region of Bourgogne",
+   "Notes": ""
+ },
+ {
+   "Description": "Côtes-d'Armor",
+   "Name": "OLI_FRA_DEPT022",
+   "Value": 33022,
+   "Definition": "Department in the region of Bretagne",
+   "Notes": ""
+ },
+ {
+   "Description": "Coventry",
+   "Name": "OLI_GBR_COV",
+   "Value": 880,
+   "Definition": "West Midlands District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Craigavon",
+   "Name": "OLI_GBR_CGV",
+   "Value": 622,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Creuse",
+   "Name": "OLI_FRA_DEPT023",
+   "Value": 33023,
+   "Definition": "Department in the region of Limousin",
+   "Notes": ""
+ },
+ {
+   "Description": "Croydon",
+   "Name": "OLI_GBR_CRY",
+   "Value": 758,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Cumbria",
+   "Name": "OLI_GBR_CMA",
+   "Value": 794,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Darlington",
+   "Name": "OLI_GBR_DAL",
+   "Value": 839,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Delaware",
+   "Name": "OLI_USA_DE",
+   "Value": 9,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Denbighshire",
+   "Name": "OLI_GBR_DEN",
+   "Value": 708,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Derby",
+   "Name": "OLI_GBR_DER",
+   "Value": 840,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Derbyshire",
+   "Name": "OLI_GBR_DBY",
+   "Value": 795,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Derry",
+   "Name": "OLI_GBR_DRY",
+   "Value": 623,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Deux-Sèvres",
+   "Name": "OLI_FRA_DEPT079",
+   "Value": 33079,
+   "Definition": "Department in the region of Poitou-Charentes",
+   "Notes": ""
+ },
+ {
+   "Description": "Devon",
+   "Name": "OLI_GBR_DEV",
+   "Value": 796,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "District of Columbia",
+   "Name": "OLI_USA_DC",
+   "Value": 10,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Distrito Federal",
+   "Name": "OLI_MEX_DF",
+   "Value": 409,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Doncaster",
+   "Name": "OLI_GBR_DNC",
+   "Value": 823,
+   "Definition": "South Yorkshire District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Dordogne",
+   "Name": "OLI_FRA_DEPT024",
+   "Value": 33024,
+   "Definition": "Department in the region of Aquitaine",
+   "Notes": ""
+ },
+ {
+   "Description": "Dorset",
+   "Name": "OLI_GBR_DOR",
+   "Value": 741,
+   "Definition": "County",
+   "Notes": ""
+ },
+ {
+   "Description": "Doubs",
+   "Name": "OLI_FRA_DEPT025",
+   "Value": 33025,
+   "Definition": "Department in the region of Franche-Comté",
+   "Notes": ""
+ },
+ {
+   "Description": "Down",
+   "Name": "OLI_GBR_DOW",
+   "Value": 624,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Drôme",
+   "Name": "OLI_FRA_DEPT026",
+   "Value": 33026,
+   "Definition": "Department in the region of Rhône-Alpes",
+   "Notes": ""
+ },
+ {
+   "Description": "Dudley",
+   "Name": "OLI_GBR_DUD",
+   "Value": 881,
+   "Definition": "West Midlands District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Dumfries and Galloway",
+   "Name": "OLI_GBR_DGY",
+   "Value": 656,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Dundee City",
+   "Name": "OLI_GBR_DND",
+   "Value": 657,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Dungannon",
+   "Name": "OLI_GBR_DGN",
+   "Value": 625,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Durango",
+   "Name": "OLI_MEX_DGO",
+   "Value": 410,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Durham",
+   "Name": "OLI_GBR_DUR",
+   "Value": 797,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Ealing",
+   "Name": "OLI_GBR_EAL",
+   "Value": 759,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "East Ayrshire",
+   "Name": "OLI_GBR_EAY",
+   "Value": 658,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "East Dunbartonshire",
+   "Name": "OLI_GBR_EDU",
+   "Value": 659,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Eastern Cape",
+   "Name": "OLI_ZA_EASTCAPE",
+   "Value": 506,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "East Lothian",
+   "Name": "OLI_GBR_ELN",
+   "Value": 660,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "East Renfrewshire",
+   "Name": "OLI_GBR_ERW",
+   "Value": 661,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "East Riding of Yorkshire",
+   "Name": "OLI_GBR_ERY",
+   "Value": 841,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "East Sussex",
+   "Name": "OLI_GBR_ESX",
+   "Value": 798,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Edinburgh, City of",
+   "Name": "OLI_GBR_EDH",
+   "Value": 662,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Ehime",
+   "Name": "OLI_JPN_EHIME",
+   "Value": 305,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Eilean Siar",
+   "Name": "OLI_GBR_ELS",
+   "Value": 663,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Enfield",
+   "Name": "OLI_GBR_ENF",
+   "Value": 760,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Essex",
+   "Name": "OLI_GBR_ESS",
+   "Value": 799,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Essonne",
+   "Name": "OLI_FRA_DEPT091",
+   "Value": 33091,
+   "Definition": "Department in the region of Île-de-France",
+   "Notes": ""
+ },
+ {
+   "Description": "Eure",
+   "Name": "OLI_FRA_DEPT027",
+   "Value": 33027,
+   "Definition": "Department in the region of Haute-Normandie",
+   "Notes": ""
+ },
+ {
+   "Description": "Eure-et-Loir",
+   "Name": "OLI_FRA_DEPT028",
+   "Value": 33028,
+   "Definition": "Department in the region of Centre",
+   "Notes": ""
+ },
+ {
+   "Description": "Falkirk",
+   "Name": "OLI_GBR_FAL",
+   "Value": 664,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Federated States of Micronesia",
+   "Name": "OLI_USA_FS",
+   "Value": 11,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fermanagh",
+   "Name": "OLI_GBR_FER",
+   "Value": 626,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Fife",
+   "Name": "OLI_GBR_FIF",
+   "Value": 665,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Finistère",
+   "Name": "OLI_FRA_DEPT029",
+   "Value": 33029,
+   "Definition": "Department in the region of Bretagne",
+   "Notes": ""
+ },
+ {
+   "Description": "Flintshire",
+   "Name": "OLI_GBR_FLN",
+   "Value": 709,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Florida",
+   "Name": "OLI_USA_FL",
+   "Value": 12,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Freestate",
+   "Name": "OLI_ZA_FREESTATE",
+   "Value": 507,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fukui",
+   "Name": "OLI_JPN_FUKUI",
+   "Value": 306,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fukuoka",
+   "Name": "OLI_JPN_FUKUOKA",
+   "Value": 307,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fukushima",
+   "Name": "OLI_JPN_FUKUSHIMA",
+   "Value": 308,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gard",
+   "Name": "OLI_FRA_DEPT030",
+   "Value": 33030,
+   "Definition": "Department in the region of Languedoc-Roussillon",
+   "Notes": ""
+ },
+ {
+   "Description": "Gateshead",
+   "Name": "OLI_GBR_GAT",
+   "Value": 827,
+   "Definition": "Tyne and Wear District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Gauteng",
+   "Name": "OLI_ZA_GAUTENG",
+   "Value": 501,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Georgia",
+   "Name": "OLI_USA_GA",
+   "Value": 13,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gers",
+   "Name": "OLI_FRA_DEPT032",
+   "Value": 33032,
+   "Definition": "Department in the region of Midi-Pyrénées",
+   "Notes": ""
+ },
+ {
+   "Description": "Gifu",
+   "Name": "OLI_JPN_GIFU",
+   "Value": 309,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gironde",
+   "Name": "OLI_FRA_DEPT033",
+   "Value": 33033,
+   "Definition": "Department in the region of Aquitaine",
+   "Notes": ""
+ },
+ {
+   "Description": "Glasgow City",
+   "Name": "OLI_GBR_GLG",
+   "Value": 666,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Gloucestershire",
+   "Name": "OLI_GBR_GLS",
+   "Value": 800,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Greenwich",
+   "Name": "OLI_GBR_GRE",
+   "Value": 761,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Guadeloupe",
+   "Name": "OLI_FRA_DEPT971",
+   "Value": 33971,
+   "Definition": "Department in the region of Guadeloupe",
+   "Notes": ""
+ },
+ {
+   "Description": "Guam",
+   "Name": "OLI_USA_GU",
+   "Value": 14,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Guanajuato",
+   "Name": "OLI_MEX_GTO",
+   "Value": 411,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Guantanamo Bay (US Naval Base) Cuba",
+   "Name": "OLI_USA_GB",
+   "Value": 80,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Guernsey [Guernesey]",
+   "Name": "OLI_GBR_GSY",
+   "Value": 601,
+   "Definition": "One of Channel Islands",
+   "Notes": ""
+ },
+ {
+   "Description": "Guerrero",
+   "Name": "OLI_MEX_GRO",
+   "Value": 412,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gunma",
+   "Name": "OLI_JPN_GUNMA",
+   "Value": 310,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gwynedd",
+   "Name": "OLI_GBR_GWN",
+   "Value": 710,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Hackney",
+   "Name": "OLI_GBR_HCK",
+   "Value": 762,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Halton",
+   "Name": "OLI_GBR_HAL",
+   "Value": 842,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Hammersmith and Fulham",
+   "Name": "OLI_GBR_HMF",
+   "Value": 763,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Hampshire",
+   "Name": "OLI_GBR_HAM",
+   "Value": 801,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Haringey",
+   "Name": "OLI_GBR_HRY",
+   "Value": 764,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Harrow",
+   "Name": "OLI_GBR_HRW",
+   "Value": 765,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Hartlepool",
+   "Name": "OLI_GBR_HPL",
+   "Value": 843,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Haute-Corse",
+   "Name": "OLI_FRA_DEPT02B",
+   "Value": 33902,
+   "Definition": "Department in the region of Corsica",
+   "Notes": ""
+ },
+ {
+   "Description": "Haute-Garonne",
+   "Name": "OLI_FRA_DEPT031",
+   "Value": 33031,
+   "Definition": "Department in the region of Midi-Pyrénées",
+   "Notes": ""
+ },
+ {
+   "Description": "Haute-Loire",
+   "Name": "OLI_FRA_DEPT043",
+   "Value": 33043,
+   "Definition": "Department in the region of Auvergne",
+   "Notes": ""
+ },
+ {
+   "Description": "Haute-Marne",
+   "Name": "OLI_FRA_DEPT052",
+   "Value": 33052,
+   "Definition": "Department in the region of Champagne-Ardenne",
+   "Notes": ""
+ },
+ {
+   "Description": "Hautes-Alpes",
+   "Name": "OLI_FRA_DEPT005",
+   "Value": 33005,
+   "Definition": "Department in the region of Provence-Alpes-Côte d'Azur",
+   "Notes": ""
+ },
+ {
+   "Description": "Haute-Saône",
+   "Name": "OLI_FRA_DEPT070",
+   "Value": 33070,
+   "Definition": "Department in the region of Franche-Comté",
+   "Notes": ""
+ },
+ {
+   "Description": "Haute-Savoie",
+   "Name": "OLI_FRA_DEPT074",
+   "Value": 33074,
+   "Definition": "Department in the region of Rhône-Alpes",
+   "Notes": ""
+ },
+ {
+   "Description": "Hautes-Pyrénées",
+   "Name": "OLI_FRA_DEPT065",
+   "Value": 33065,
+   "Definition": "Department in the region of Midi-Pyrénées",
+   "Notes": ""
+ },
+ {
+   "Description": "Haute-Vienne",
+   "Name": "OLI_FRA_DEPT087",
+   "Value": 33087,
+   "Definition": "Department in the region of Limousin",
+   "Notes": ""
+ },
+ {
+   "Description": "Haut-Rhin",
+   "Name": "OLI_FRA_DEPT068",
+   "Value": 33068,
+   "Definition": "Department in the region of Alsace",
+   "Notes": ""
+ },
+ {
+   "Description": "Hauts-de-Seine",
+   "Name": "OLI_FRA_DEPT092",
+   "Value": 33092,
+   "Definition": "Department in the region of Île-de-France",
+   "Notes": ""
+ },
+ {
+   "Description": "Havering",
+   "Name": "OLI_GBR_HAV",
+   "Value": 766,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Hawaii",
+   "Name": "OLI_USA_HI",
+   "Value": 15,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hérault",
+   "Name": "OLI_FRA_DEPT034",
+   "Value": 33034,
+   "Definition": "Department in the region of Languedoc-Roussillon",
+   "Notes": ""
+ },
+ {
+   "Description": "Herefordshire, County of",
+   "Name": "OLI_GBR_HEF",
+   "Value": 844,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Hertfordshire",
+   "Name": "OLI_GBR_HRT",
+   "Value": 802,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Hidalgo",
+   "Name": "OLI_MEX_HGO",
+   "Value": 413,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Highland",
+   "Name": "OLI_GBR_HLD",
+   "Value": 667,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Hillingdon",
+   "Name": "OLI_GBR_HIL",
+   "Value": 767,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Hiroshima",
+   "Name": "OLI_JPN_HIROSHIMA",
+   "Value": 311,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hokkaido",
+   "Name": "OLI_JPN_HOKKAIDO",
+   "Value": 312,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hounslow",
+   "Name": "OLI_GBR_HNS",
+   "Value": 768,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Hyogo",
+   "Name": "OLI_JPN_HYOGO",
+   "Value": 313,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ibaraki",
+   "Name": "OLI_JPN_IBARAKI",
+   "Value": 314,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Idaho",
+   "Name": "OLI_USA_ID",
+   "Value": 16,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ille-et-Vilaine",
+   "Name": "OLI_FRA_DEPT035",
+   "Value": 33035,
+   "Definition": "Department in the region of Bretagne",
+   "Notes": ""
+ },
+ {
+   "Description": "Illinois",
+   "Name": "OLI_USA_IL",
+   "Value": 17,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Indiana",
+   "Name": "OLI_USA_IN",
+   "Value": 18,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Indre",
+   "Name": "OLI_FRA_DEPT036",
+   "Value": 33036,
+   "Definition": "Department in the region of Centre",
+   "Notes": ""
+ },
+ {
+   "Description": "Indre-et-Loire",
+   "Name": "OLI_FRA_DEPT037",
+   "Value": 33037,
+   "Definition": "Department in the region of Centre",
+   "Notes": ""
+ },
+ {
+   "Description": "Inverclyde",
+   "Name": "OLI_GBR_IVC",
+   "Value": 668,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Iowa",
+   "Name": "OLI_USA_IA",
+   "Value": 19,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Isère",
+   "Name": "OLI_FRA_DEPT038",
+   "Value": 33038,
+   "Definition": "Department in the region of Rhône-Alpes",
+   "Notes": ""
+ },
+ {
+   "Description": "Ishikawa",
+   "Name": "OLI_JPN_ISHIKAWA",
+   "Value": 315,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Isle of Anglesey",
+   "Name": "OLI_GBR_AGY",
+   "Value": 711,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Isle of Wight",
+   "Name": "OLI_GBR_IOW",
+   "Value": 845,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Isles of Scilly",
+   "Name": "OLI_GBR_IOS",
+   "Value": 846,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Islington",
+   "Name": "OLI_GBR_ISL",
+   "Value": 769,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Iwate",
+   "Name": "OLI_JPN_IWATE",
+   "Value": 316,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Jalisco",
+   "Name": "OLI_MEX_JAL",
+   "Value": 414,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Jersey",
+   "Name": "OLI_GBR_JSY",
+   "Value": 602,
+   "Definition": "One of Channel Islands",
+   "Notes": ""
+ },
+ {
+   "Description": "Jura",
+   "Name": "OLI_FRA_DEPT039",
+   "Value": 33039,
+   "Definition": "Department in the region of Franche-Comté",
+   "Notes": ""
+ },
+ {
+   "Description": "Kagawa",
+   "Name": "OLI_JPN_KAGAWA",
+   "Value": 317,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kagoshima",
+   "Name": "OLI_JPN_KAGOSHIMA",
+   "Value": 318,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kanagawa",
+   "Name": "OLI_JPN_KANAGAWA",
+   "Value": 319,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kansas",
+   "Name": "OLI_USA_KS",
+   "Value": 20,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kensington and Chelsea",
+   "Name": "OLI_GBR_KEC",
+   "Value": 770,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Kent",
+   "Name": "OLI_GBR_KEN",
+   "Value": 803,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Kentucky",
+   "Name": "OLI_USA_KY",
+   "Value": 21,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kingston upon Hull, City of",
+   "Name": "OLI_GBR_KHL",
+   "Value": 847,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Kingston upon Thames",
+   "Name": "OLI_GBR_KTT",
+   "Value": 771,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Kirklees",
+   "Name": "OLI_GBR_KIR",
+   "Value": 888,
+   "Definition": "West Yorkshire District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Knowsley",
+   "Name": "OLI_GBR_KWL",
+   "Value": 784,
+   "Definition": "Merseyside District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Kouchi",
+   "Name": "OLI_JPN_KOUCHI",
+   "Value": 320,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kumamoto",
+   "Name": "OLI_JPN_KUMAMOTO",
+   "Value": 321,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kwa Zulu Natal",
+   "Name": "OLI_ZA_KWZULUNATAL",
+   "Value": 505,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kyoto",
+   "Name": "OLI_JPN_KYOTO",
+   "Value": 322,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lambeth",
+   "Name": "OLI_GBR_LBH",
+   "Value": 772,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Lancashire",
+   "Name": "OLI_GBR_LAN",
+   "Value": 804,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Landes",
+   "Name": "OLI_FRA_DEPT040",
+   "Value": 33040,
+   "Definition": "Department in the region of Aquitaine",
+   "Notes": ""
+ },
+ {
+   "Description": "Larne",
+   "Name": "OLI_GBR_LRN",
+   "Value": 627,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Leeds",
+   "Name": "OLI_GBR_LDS",
+   "Value": 889,
+   "Definition": "West Yorkshire District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Leicester",
+   "Name": "OLI_GBR_LCE",
+   "Value": 848,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Leicestershire",
+   "Name": "OLI_GBR_LEC",
+   "Value": 805,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Lewisham",
+   "Name": "OLI_GBR_LEW",
+   "Value": 773,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Limavady",
+   "Name": "OLI_GBR_LMV",
+   "Value": 628,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Lincolnshire",
+   "Name": "OLI_GBR_LIN",
+   "Value": 806,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Lisburn",
+   "Name": "OLI_GBR_LSB",
+   "Value": 629,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Liverpool",
+   "Name": "OLI_GBR_LIV",
+   "Value": 785,
+   "Definition": "Merseyside District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Loire",
+   "Name": "OLI_FRA_DEPT042",
+   "Value": 33042,
+   "Definition": "Department in the region of Rhône-Alpes",
+   "Notes": ""
+ },
+ {
+   "Description": "Loire-Atlantique",
+   "Name": "OLI_FRA_DEPT044",
+   "Value": 33044,
+   "Definition": "Department in the region of Pays de la Loire",
+   "Notes": ""
+ },
+ {
+   "Description": "Loiret",
+   "Name": "OLI_FRA_DEPT045",
+   "Value": 33045,
+   "Definition": "Department in the region of Centre",
+   "Notes": ""
+ },
+ {
+   "Description": "Loir-et-Cher",
+   "Name": "OLI_FRA_DEPT041",
+   "Value": 33041,
+   "Definition": "Department in the region of Centre",
+   "Notes": ""
+ },
+ {
+   "Description": "London, City of",
+   "Name": "OLI_GBR_LND",
+   "Value": 826,
+   "Definition": "Special Area",
+   "Notes": ""
+ },
+ {
+   "Description": "Lot",
+   "Name": "OLI_FRA_DEPT046",
+   "Value": 33046,
+   "Definition": "Department in the region of Midi-Pyrénées",
+   "Notes": ""
+ },
+ {
+   "Description": "Lot-et-Garonne",
+   "Name": "OLI_FRA_DEPT047",
+   "Value": 33047,
+   "Definition": "Department in the region of Aquitaine",
+   "Notes": ""
+ },
+ {
+   "Description": "Louisiana",
+   "Name": "OLI_USA_LA",
+   "Value": 22,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lozère",
+   "Name": "OLI_FRA_DEPT048",
+   "Value": 33048,
+   "Definition": "Department in the region of Languedoc-Roussillon",
+   "Notes": ""
+ },
+ {
+   "Description": "Luton",
+   "Name": "OLI_GBR_LUT",
+   "Value": 849,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Magherafelt",
+   "Name": "OLI_GBR_MFT",
+   "Value": 630,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Maine",
+   "Name": "OLI_USA_ME",
+   "Value": 23,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Maine-et-Loire",
+   "Name": "OLI_FRA_DEPT049",
+   "Value": 33049,
+   "Definition": "Department in the region of Pays de la Loire",
+   "Notes": ""
+ },
+ {
+   "Description": "Manche",
+   "Name": "OLI_FRA_DEPT050",
+   "Value": 33050,
+   "Definition": "Department in the region of Basse-Normandie",
+   "Notes": ""
+ },
+ {
+   "Description": "Manchester",
+   "Name": "OLI_GBR_MAN",
+   "Value": 744,
+   "Definition": "Greater Manchester District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Manitoba",
+   "Name": "OLI_CAN_MB",
+   "Value": 103,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Marne",
+   "Name": "OLI_FRA_DEPT051",
+   "Value": 33051,
+   "Definition": "Department in the region of Champagne-Ardenne",
+   "Notes": ""
+ },
+ {
+   "Description": "Marshall Islands",
+   "Name": "OLI_USA_MH",
+   "Value": 24,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Maryland",
+   "Name": "OLI_USA_MD",
+   "Value": 25,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Massachusetts",
+   "Name": "OLI_USA_MA",
+   "Value": 26,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mayenne",
+   "Name": "OLI_FRA_DEPT053",
+   "Value": 33053,
+   "Definition": "Department in the region of Pays de la Loire",
+   "Notes": ""
+ },
+ {
+   "Description": "Medway",
+   "Name": "OLI_GBR_MDW",
+   "Value": 850,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Merthyr Tydfil",
+   "Name": "OLI_GBR_MTY",
+   "Value": 712,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Merton",
+   "Name": "OLI_GBR_MRT",
+   "Value": 774,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Meurthe-et-Moselle",
+   "Name": "OLI_FRA_DEPT054",
+   "Value": 33054,
+   "Definition": "Department in the region of Lorraine",
+   "Notes": ""
+ },
+ {
+   "Description": "Meuse",
+   "Name": "OLI_FRA_DEPT055",
+   "Value": 33055,
+   "Definition": "Department in the region of Lorraine",
+   "Notes": ""
+ },
+ {
+   "Description": "México",
+   "Name": "OLI_MEX_MEX",
+   "Value": 415,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Michigan",
+   "Name": "OLI_USA_MI",
+   "Value": 27,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Michoacan",
+   "Name": "OLI_MEX_MICH",
+   "Value": 416,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Middlesbrough",
+   "Name": "OLI_GBR_MDB",
+   "Value": 851,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Midlothian",
+   "Name": "OLI_GBR_MLN",
+   "Value": 669,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Mie",
+   "Name": "OLI_JPN_MIE",
+   "Value": 323,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Milton Keynes",
+   "Name": "OLI_GBR_MIK",
+   "Value": 852,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Minnesota",
+   "Name": "OLI_USA_MN",
+   "Value": 28,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mississippi",
+   "Name": "OLI_USA_MS",
+   "Value": 29,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Missouri",
+   "Name": "OLI_USA_MO",
+   "Value": 30,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Miyagi",
+   "Name": "OLI_JPN_MIYAGI",
+   "Value": 324,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Miyazaki",
+   "Name": "OLI_JPN_MIYAZAKI",
+   "Value": 325,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Monmouthshire",
+   "Name": "OLI_GBR_MON",
+   "Value": 713,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Montana",
+   "Name": "OLI_USA_MT",
+   "Value": 31,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Moray",
+   "Name": "OLI_GBR_MRY",
+   "Value": 670,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Morbihan",
+   "Name": "OLI_FRA_DEPT056",
+   "Value": 33056,
+   "Definition": "Department in the region of Bretagne",
+   "Notes": ""
+ },
+ {
+   "Description": "Morelos",
+   "Name": "OLI_MEX_MOR",
+   "Value": 417,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Moselle",
+   "Name": "OLI_FRA_DEPT057",
+   "Value": 33057,
+   "Definition": "Department in the region of Lorraine",
+   "Notes": ""
+ },
+ {
+   "Description": "Moyle",
+   "Name": "OLI_GBR_MYL",
+   "Value": 631,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Mpumalanga",
+   "Name": "OLI_ZA_MPUMALANGA",
+   "Value": 509,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nagano",
+   "Name": "OLI_JPN_NAGANO",
+   "Value": 326,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nagasaki",
+   "Name": "OLI_JPN_NAGASAKI",
+   "Value": 327,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nara",
+   "Name": "OLI_JPN_NARA",
+   "Value": 328,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nayarit",
+   "Name": "OLI_MEX_NAY",
+   "Value": 418,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Neath Port Talbot",
+   "Name": "OLI_GBR_NTL",
+   "Value": 714,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Nebraska",
+   "Name": "OLI_USA_NE",
+   "Value": 32,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nevada",
+   "Name": "OLI_USA_NV",
+   "Value": 33,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "New Brunswick",
+   "Name": "OLI_CAN_NB",
+   "Value": 104,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Newcastle upon Tyne",
+   "Name": "OLI_GBR_NET",
+   "Value": 828,
+   "Definition": "Tyne and Wear District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Newham",
+   "Name": "OLI_GBR_NWM",
+   "Value": 775,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "New Hampshire",
+   "Name": "OLI_USA_NH",
+   "Value": 34,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "New Jersey",
+   "Name": "OLI_USA_NJ",
+   "Value": 35,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "New Mexico",
+   "Name": "OLI_USA_NM",
+   "Value": 36,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Newport",
+   "Name": "OLI_GBR_NWP",
+   "Value": 715,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Newry and Mourne",
+   "Name": "OLI_GBR_NYM",
+   "Value": 632,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "New South Wales",
+   "Name": "OLI_AUS_NSW",
+   "Value": 202,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Newtownabbey",
+   "Name": "OLI_GBR_NTA",
+   "Value": 633,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "New York",
+   "Name": "OLI_USA_NY",
+   "Value": 37,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nièvre",
+   "Name": "OLI_FRA_DEPT058",
+   "Value": 33058,
+   "Definition": "Department in the region of Bourgogne",
+   "Notes": ""
+ },
+ {
+   "Description": "Niigata",
+   "Name": "OLI_JPN_NIIGATA",
+   "Value": 329,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nord",
+   "Name": "OLI_FRA_DEPT059",
+   "Value": 33059,
+   "Definition": "Department in the region of Nord-Pas-de-Calais",
+   "Notes": ""
+ },
+ {
+   "Description": "Norfolk",
+   "Name": "OLI_GBR_NFK",
+   "Value": 807,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Northamptonshire",
+   "Name": "OLI_GBR_NTH",
+   "Value": 809,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "North Ayrshire",
+   "Name": "OLI_GBR_NAY",
+   "Value": 671,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "North Carolina",
+   "Name": "OLI_USA_NC",
+   "Value": 38,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "North Dakota",
+   "Name": "OLI_USA_ND",
+   "Value": 39,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "North Down",
+   "Name": "OLI_GBR_NDN",
+   "Value": 634,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "North East Lincolnshire",
+   "Name": "OLI_GBR_NEL",
+   "Value": 853,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Northern Cape",
+   "Name": "OLI_ZA_NORTHCAPE",
+   "Value": 508,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Northern Mariana Islands",
+   "Name": "OLI_USA_MP",
+   "Value": 40,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Northern Province",
+   "Name": "OLI_ZA_NORTHPROVINCE",
+   "Value": 503,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Northern Territory",
+   "Name": "OLI_AUS_NT",
+   "Value": 203,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "North Lanarkshire",
+   "Name": "OLI_GBR_NLK",
+   "Value": 672,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "North Lincolnshire",
+   "Name": "OLI_GBR_NLN",
+   "Value": 854,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "North Somerset",
+   "Name": "OLI_GBR_NSM",
+   "Value": 855,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "North Tyneside",
+   "Name": "OLI_GBR_NTY",
+   "Value": 829,
+   "Definition": "Tyne and Wear District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Northumberland",
+   "Name": "OLI_GBR_NBL",
+   "Value": 810,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Northwest Province",
+   "Name": "OLI_ZA_NWPROVINCE",
+   "Value": 504,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Northwest Territories",
+   "Name": "OLI_CAN_NT",
+   "Value": 106,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "North Yorkshire",
+   "Name": "OLI_GBR_NYK",
+   "Value": 808,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Nottingham",
+   "Name": "OLI_GBR_NGM",
+   "Value": 856,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Nottinghamshire",
+   "Name": "OLI_GBR_NTT",
+   "Value": 811,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Nova Scotia",
+   "Name": "OLI_CAN_NS",
+   "Value": 107,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nuevo León",
+   "Name": "OLI_MEX_NL",
+   "Value": 419,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nunavut",
+   "Name": "OLI_CAN_NUNAVUT",
+   "Value": 113,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oaxaca",
+   "Name": "OLI_MEX_OAX",
+   "Value": 420,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ohio",
+   "Name": "OLI_USA_OH",
+   "Value": 41,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oise",
+   "Name": "OLI_FRA_DEPT060",
+   "Value": 33060,
+   "Definition": "Department in the region of Picardie",
+   "Notes": ""
+ },
+ {
+   "Description": "Oita",
+   "Name": "OLI_JPN_OITA",
+   "Value": 330,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Okayama",
+   "Name": "OLI_JPN_OKAYAMA",
+   "Value": 331,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Okinawa",
+   "Name": "OLI_JPN_OKINAWA",
+   "Value": 332,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oklahoma",
+   "Name": "OLI_USA_OK",
+   "Value": 42,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oldham",
+   "Name": "OLI_GBR_OLD",
+   "Value": 745,
+   "Definition": "Greater Manchester District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Omagh",
+   "Name": "OLI_GBR_OMH",
+   "Value": 635,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Ontario",
+   "Name": "OLI_CAN_ON",
+   "Value": 108,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oregon",
+   "Name": "OLI_USA_OR",
+   "Value": 43,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Orkney Islands",
+   "Name": "OLI_GBR_ORK",
+   "Value": 673,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Orne",
+   "Name": "OLI_FRA_DEPT061",
+   "Value": 33061,
+   "Definition": "Department in the region of Basse-Normandie",
+   "Notes": ""
+ },
+ {
+   "Description": "Osaka",
+   "Name": "OLI_JPN_OSAKA",
+   "Value": 333,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oxfordshire",
+   "Name": "OLI_GBR_OXF",
+   "Value": 812,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Palau Island",
+   "Name": "OLI_USA_PW",
+   "Value": 44,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paris",
+   "Name": "OLI_FRA_DEPT075",
+   "Value": 33075,
+   "Definition": "Department in the region of Île-de-France",
+   "Notes": ""
+ },
+ {
+   "Description": "Pas-de-Calais",
+   "Name": "OLI_FRA_DEPT062",
+   "Value": 33062,
+   "Definition": "Department in the region of Nord-Pas-de-Calais",
+   "Notes": ""
+ },
+ {
+   "Description": "Pembrokeshire",
+   "Name": "OLI_GBR_PEM",
+   "Value": 716,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Pennsylvania",
+   "Name": "OLI_USA_PA",
+   "Value": 45,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Perth and Kinross",
+   "Name": "OLI_GBR_PKN",
+   "Value": 674,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Peterborough",
+   "Name": "OLI_GBR_PTE",
+   "Value": 857,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Plymouth",
+   "Name": "OLI_GBR_PLY",
+   "Value": 858,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Poole",
+   "Name": "OLI_GBR_POL",
+   "Value": 859,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Portsmouth",
+   "Name": "OLI_GBR_POR",
+   "Value": 860,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Powys",
+   "Name": "OLI_GBR_POW",
+   "Value": 717,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Prince Edward Island",
+   "Name": "OLI_CAN_PE",
+   "Value": 109,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Puebla",
+   "Name": "OLI_MEX_PUE",
+   "Value": 421,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Puerto Rico",
+   "Name": "OLI_USA_PR",
+   "Value": 46,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Puy-de-Dôme",
+   "Name": "OLI_FRA_DEPT063",
+   "Value": 33063,
+   "Definition": "Department in the region of Auvergne",
+   "Notes": ""
+ },
+ {
+   "Description": "Pyrénées-Atlantiques",
+   "Name": "OLI_FRA_DEPT064",
+   "Value": 33064,
+   "Definition": "Department in the region of Aquitaine",
+   "Notes": ""
+ },
+ {
+   "Description": "Pyrénées-Orientales",
+   "Name": "OLI_FRA_DEPT066",
+   "Value": 33066,
+   "Definition": "Department in the region of Languedoc-Roussillon",
+   "Notes": ""
+ },
+ {
+   "Description": "Quebec",
+   "Name": "OLI_CAN_PQ",
+   "Value": 110,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Queensland",
+   "Name": "OLI_AUS_QL",
+   "Value": 204,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Querétaro",
+   "Name": "OLI_MEX_QRO",
+   "Value": 422,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Quintana Roo",
+   "Name": "OLI_MEX_QR",
+   "Value": 423,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Reading",
+   "Name": "OLI_GBR_RDG",
+   "Value": 861,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Redbridge",
+   "Name": "OLI_GBR_RDB",
+   "Value": 776,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Redcar and Cleveland",
+   "Name": "OLI_GBR_RCC",
+   "Value": 862,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Renfrewshire",
+   "Name": "OLI_GBR_RFW",
+   "Value": 675,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Rhode Island",
+   "Name": "OLI_USA_RI",
+   "Value": 47,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Rhondda, Cynon, Taff",
+   "Name": "OLI_GBR_RCT",
+   "Value": 718,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Rhône",
+   "Name": "OLI_FRA_DEPT069",
+   "Value": 33069,
+   "Definition": "Department in the region of Rhône-Alpes",
+   "Notes": ""
+ },
+ {
+   "Description": "Richmond upon Thames",
+   "Name": "OLI_GBR_RIC",
+   "Value": 777,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Rochdale",
+   "Name": "OLI_GBR_RCH",
+   "Value": 746,
+   "Definition": "Greater Manchester District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Rotherham",
+   "Name": "OLI_GBR_ROT",
+   "Value": 824,
+   "Definition": "South Yorkshire District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Rutland",
+   "Name": "OLI_GBR_RUT",
+   "Value": 863,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Saga",
+   "Name": "OLI_JPN_SAGA",
+   "Value": 334,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Saitama",
+   "Name": "OLI_JPN_SAITAMA",
+   "Value": 335,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Salford",
+   "Name": "OLI_GBR_SLF",
+   "Value": 747,
+   "Definition": "Greater Manchester District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Sandwell",
+   "Name": "OLI_GBR_SAW",
+   "Value": 882,
+   "Definition": "West Midlands District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "San Luis Potos",
+   "Name": "OLI_MEX_SLP",
+   "Value": 424,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Saône-et-Loire",
+   "Name": "OLI_FRA_DEPT071",
+   "Value": 33071,
+   "Definition": "Department in the region of Bourgogne",
+   "Notes": ""
+ },
+ {
+   "Description": "Sarthe",
+   "Name": "OLI_FRA_DEPT072",
+   "Value": 33072,
+   "Definition": "Department in the region of Pays de la Loire",
+   "Notes": ""
+ },
+ {
+   "Description": "Saskatchewan",
+   "Name": "OLI_CAN_SK",
+   "Value": 111,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Savoie",
+   "Name": "OLI_FRA_DEPT073",
+   "Value": 33073,
+   "Definition": "Department in the region of Rhône-Alpes",
+   "Notes": ""
+ },
+ {
+   "Description": "Scottish Borders, The",
+   "Name": "OLI_GBR_SCB",
+   "Value": 676,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Sefton",
+   "Name": "OLI_GBR_SFT",
+   "Value": 786,
+   "Definition": "Merseyside District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Seine-et-Marne",
+   "Name": "OLI_FRA_DEPT077",
+   "Value": 33077,
+   "Definition": "Department in the region of Île-de-France",
+   "Notes": ""
+ },
+ {
+   "Description": "Seine-Maritime",
+   "Name": "OLI_FRA_DEPT076",
+   "Value": 33076,
+   "Definition": "Department in the region of Haute-Normandie",
+   "Notes": ""
+ },
+ {
+   "Description": "Seine-Saint-Denis",
+   "Name": "OLI_FRA_DEPT093",
+   "Value": 33093,
+   "Definition": "Department in the region of Île-de-France",
+   "Notes": ""
+ },
+ {
+   "Description": "Sheffield",
+   "Name": "OLI_GBR_SHF",
+   "Value": 825,
+   "Definition": "South Yorkshire District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Shetland Islands",
+   "Name": "OLI_GBR_ZET",
+   "Value": 677,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Shiga",
+   "Name": "OLI_JPN_SHIGA",
+   "Value": 336,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Shimane",
+   "Name": "OLI_JPN_SHIMANE",
+   "Value": 337,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Shizuoka",
+   "Name": "OLI_JPN_SHIZUOKA",
+   "Value": 338,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Shropshire",
+   "Name": "OLI_GBR_SHR",
+   "Value": 813,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Sinaloa",
+   "Name": "OLI_MEX_SIN",
+   "Value": 425,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Slough",
+   "Name": "OLI_GBR_SLG",
+   "Value": 864,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Solihull",
+   "Name": "OLI_GBR_SOL",
+   "Value": 883,
+   "Definition": "West Midlands District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Somerset",
+   "Name": "OLI_GBR_SOM",
+   "Value": 814,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Somme",
+   "Name": "OLI_FRA_DEPT080",
+   "Value": 33080,
+   "Definition": "Department in the region of Picardie",
+   "Notes": ""
+ },
+ {
+   "Description": "Sonora",
+   "Name": "OLI_MEX_SON",
+   "Value": 426,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Southampton",
+   "Name": "OLI_GBR_STH",
+   "Value": 866,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "South Australia",
+   "Name": "OLI_AUS_SA",
+   "Value": 205,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "South Ayrshire",
+   "Name": "OLI_GBR_SAY",
+   "Value": 678,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "South Carolina",
+   "Name": "OLI_USA_SC",
+   "Value": 48,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "South Dakota",
+   "Name": "OLI_USA_SD",
+   "Value": 49,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Southend-on-Sea",
+   "Name": "OLI_GBR_SOS",
+   "Value": 867,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "South Gloucestershire",
+   "Name": "OLI_GBR_SGC",
+   "Value": 865,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "South Lanarkshire",
+   "Name": "OLI_GBR_SLK",
+   "Value": 679,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "South Tyneside",
+   "Name": "OLI_GBR_STY",
+   "Value": 830,
+   "Definition": "Tyne and Wear District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Southwark",
+   "Name": "OLI_GBR_SWK",
+   "Value": 778,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "St. Helens",
+   "Name": "OLI_GBR_SHN",
+   "Value": 787,
+   "Definition": "Merseyside District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Staffordshire",
+   "Name": "OLI_GBR_STS",
+   "Value": 815,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Stirling",
+   "Name": "OLI_GBR_STG",
+   "Value": 680,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Stockport",
+   "Name": "OLI_GBR_SKP",
+   "Value": 748,
+   "Definition": "Greater Manchester District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Stockton-on-Tees",
+   "Name": "OLI_GBR_STT",
+   "Value": 868,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Stoke-on-Trent",
+   "Name": "OLI_GBR_STE",
+   "Value": 869,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Strabane",
+   "Name": "OLI_GBR_STB",
+   "Value": 636,
+   "Definition": "District Council Area in Northern Ireland",
+   "Notes": ""
+ },
+ {
+   "Description": "Suffolk",
+   "Name": "OLI_GBR_SFK",
+   "Value": 816,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Sunderland",
+   "Name": "OLI_GBR_SND",
+   "Value": 831,
+   "Definition": "Tyne and Wear District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Surrey",
+   "Name": "OLI_GBR_SRY",
+   "Value": 817,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Sutton",
+   "Name": "OLI_GBR_STN",
+   "Value": 779,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Swansea",
+   "Name": "OLI_GBR_SWA",
+   "Value": 719,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Swindon",
+   "Name": "OLI_GBR_SWD",
+   "Value": 870,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Tabasco",
+   "Name": "OLI_MEX_TAB",
+   "Value": 427,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tamaulipas",
+   "Name": "OLI_MEX_TAMPS",
+   "Value": 428,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tameside",
+   "Name": "OLI_GBR_TAM",
+   "Value": 749,
+   "Definition": "Greater Manchester District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Tarn",
+   "Name": "OLI_FRA_DEPT081",
+   "Value": 33081,
+   "Definition": "Department in the region of Midi-Pyrénées",
+   "Notes": ""
+ },
+ {
+   "Description": "Tarn-et-Garonne",
+   "Name": "OLI_FRA_DEPT082",
+   "Value": 33082,
+   "Definition": "Department in the region of Midi-Pyrénées",
+   "Notes": ""
+ },
+ {
+   "Description": "Tasmania",
+   "Name": "OLI_AUS_TAS",
+   "Value": 206,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Telford and Wrekin",
+   "Name": "OLI_GBR_TFW",
+   "Value": 871,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Tennessee",
+   "Name": "OLI_USA_TN",
+   "Value": 50,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Territoire de Belfort",
+   "Name": "OLI_FRA_DEPT090",
+   "Value": 33090,
+   "Definition": "Department in the region of Franche-Comté",
+   "Notes": ""
+ },
+ {
+   "Description": "Texas",
+   "Name": "OLI_USA_TX",
+   "Value": 51,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Thurrock",
+   "Name": "OLI_GBR_THR",
+   "Value": 872,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Tlaxcala",
+   "Name": "OLI_MEX_TLAX",
+   "Value": 429,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tochigi",
+   "Name": "OLI_JPN_TOCHIGI",
+   "Value": 339,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tokushima",
+   "Name": "OLI_JPN_TOKUSHIMA",
+   "Value": 340,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tokyo",
+   "Name": "OLI_JPN_TOKYO",
+   "Value": 341,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Torbay",
+   "Name": "OLI_GBR_TOB",
+   "Value": 873,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Torfaen",
+   "Name": "OLI_GBR_TOF",
+   "Value": 720,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Tottori",
+   "Name": "OLI_JPN_TOTTORI",
+   "Value": 342,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tower Hamlets",
+   "Name": "OLI_GBR_TWH",
+   "Value": 780,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Toyama",
+   "Name": "OLI_JPN_TOYAMA",
+   "Value": 343,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Trafford",
+   "Name": "OLI_GBR_TRF",
+   "Value": 750,
+   "Definition": "Greater Manchester District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "US Armed Forces Pacific",
+   "Name": "OLI_USA_AP",
+   "Value": 62,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Utah",
+   "Name": "OLI_USA_UT",
+   "Value": 52,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Val-d'Oise",
+   "Name": "OLI_FRA_DEPT095",
+   "Value": 33095,
+   "Definition": "Department in the region of Île-de-France",
+   "Notes": ""
+ },
+ {
+   "Description": "Val-de-Marne",
+   "Name": "OLI_FRA_DEPT094",
+   "Value": 33094,
+   "Definition": "Department in the region of Île-de-France",
+   "Notes": ""
+ },
+ {
+   "Description": "Vale of Glamorgan, The",
+   "Name": "OLI_GBR_VGL",
+   "Value": 721,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Var",
+   "Name": "OLI_FRA_DEPT083",
+   "Value": 33083,
+   "Definition": "Department in the region of Provence-Alpes-Côte d'Azur",
+   "Notes": ""
+ },
+ {
+   "Description": "Vaucluse",
+   "Name": "OLI_FRA_DEPT084",
+   "Value": 33084,
+   "Definition": "Department in the region of Provence-Alpes-Côte d'Azur",
+   "Notes": ""
+ },
+ {
+   "Description": "Vendée",
+   "Name": "OLI_FRA_DEPT085",
+   "Value": 33085,
+   "Definition": "Department in the region of Pays de la Loire",
+   "Notes": ""
+ },
+ {
+   "Description": "Veracruz",
+   "Name": "OLI_MEX_VER",
+   "Value": 430,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Vermont",
+   "Name": "OLI_USA_VT",
+   "Value": 53,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Victoria",
+   "Name": "OLI_AUS_VIC",
+   "Value": 207,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Vienne",
+   "Name": "OLI_FRA_DEPT086",
+   "Value": 33086,
+   "Definition": "Department in the region of Poitou-Charentes",
+   "Notes": ""
+ },
+ {
+   "Description": "Virginia",
+   "Name": "OLI_USA_VA",
+   "Value": 55,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Virgin Islands",
+   "Name": "OLI_USA_VI",
+   "Value": 54,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Vosges",
+   "Name": "OLI_FRA_DEPT088",
+   "Value": 33088,
+   "Definition": "Department in the region of Lorraine",
+   "Notes": ""
+ },
+ {
+   "Description": "Wakayama",
+   "Name": "OLI_JPN_WAKAYAMA",
+   "Value": 344,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wakefield",
+   "Name": "OLI_GBR_WKF",
+   "Value": 890,
+   "Definition": "West Yorkshire District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Walsall",
+   "Name": "OLI_GBR_WLL",
+   "Value": 884,
+   "Definition": "West Midlands District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Waltham Forest",
+   "Name": "OLI_GBR_WFT",
+   "Value": 781,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Wandsworth",
+   "Name": "OLI_GBR_WND",
+   "Value": 782,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "Warrington",
+   "Name": "OLI_GBR_WRT",
+   "Value": 874,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Warwickshire",
+   "Name": "OLI_GBR_WAR",
+   "Value": 818,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Washington",
+   "Name": "OLI_USA_WA",
+   "Value": 56,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "West Berkshire",
+   "Name": "OLI_GBR_WBK",
+   "Value": 875,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "West Dunbartonshire",
+   "Name": "OLI_GBR_WDU",
+   "Value": 681,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Western Australia",
+   "Name": "OLI_AUS_WA",
+   "Value": 208,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Western Cape",
+   "Name": "OLI_ZA_WESTERNCAPE",
+   "Value": 502,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "West Lothian",
+   "Name": "OLI_GBR_WLN",
+   "Value": 682,
+   "Definition": "Council Area in Scotland",
+   "Notes": ""
+ },
+ {
+   "Description": "Westminster",
+   "Name": "OLI_GBR_WSM",
+   "Value": 783,
+   "Definition": "London Borough",
+   "Notes": ""
+ },
+ {
+   "Description": "West Sussex",
+   "Name": "OLI_GBR_WSX",
+   "Value": 819,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "West Virginia",
+   "Name": "OLI_USA_WV",
+   "Value": 57,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wigan",
+   "Name": "OLI_GBR_WGN",
+   "Value": 751,
+   "Definition": "Greater Manchester District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Wiltshire",
+   "Name": "OLI_GBR_WIL",
+   "Value": 820,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Windsor and Maidenhead",
+   "Name": "OLI_GBR_WNM",
+   "Value": 876,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Wirral",
+   "Name": "OLI_GBR_WRL",
+   "Value": 788,
+   "Definition": "Merseyside District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Wisconsin",
+   "Name": "OLI_USA_WI",
+   "Value": 58,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wokingham",
+   "Name": "OLI_GBR_WOK",
+   "Value": 877,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Wolverhampton",
+   "Name": "OLI_GBR_WLV",
+   "Value": 885,
+   "Definition": "West Midlands District in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Worcestershire",
+   "Name": "OLI_GBR_WOR",
+   "Value": 821,
+   "Definition": "Shire County in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Wrexham",
+   "Name": "OLI_GBR_WRX",
+   "Value": 722,
+   "Definition": "Unitary Authority in Wales",
+   "Notes": ""
+ },
+ {
+   "Description": "Wyoming",
+   "Name": "OLI_USA_WY",
+   "Value": 59,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Yamagata",
+   "Name": "OLI_JPN_YAMAGATA",
+   "Value": 345,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Yamaguchi",
+   "Name": "OLI_JPN_YAMAGUCHI",
+   "Value": 346,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Yamanashi",
+   "Name": "OLI_JPN_YAMANASHI",
+   "Value": 347,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Yonne",
+   "Name": "OLI_FRA_DEPT089",
+   "Value": 33089,
+   "Definition": "Department in the region of Bourgogne",
+   "Notes": ""
+ },
+ {
+   "Description": "York",
+   "Name": "OLI_GBR_YOR",
+   "Value": 878,
+   "Definition": "Unitary Authority in England",
+   "Notes": ""
+ },
+ {
+   "Description": "Yucatán",
+   "Name": "OLI_MEX_YUC",
+   "Value": 431,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Yukon Territory",
+   "Name": "OLI_CAN_YT",
+   "Value": 112,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Yvelines",
+   "Name": "OLI_FRA_DEPT078",
+   "Value": 33078,
+   "Definition": "Department in the region of Île-de-France",
+   "Notes": ""
+ },
+ {
+   "Description": "Zacatecas",
+   "Name": "OLI_MEX_ZAC",
+   "Value": 432,
+   "Definition": "",
+   "Notes": ""
+ }
+]

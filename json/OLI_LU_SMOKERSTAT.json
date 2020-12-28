@@ -1,0 +1,37 @@
+[
+ {
+   "Description": "Current tobacco user",
+   "Name": "OLI_TOBACCO_CURRENT",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Never used tobacco in any form.",
+   "Name": "OLI_TOBACCO_NEVER",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Prior tobacco user",
+   "Name": "OLI_TOBACCO_PRIOR",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ }
+]

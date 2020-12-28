@@ -1,0 +1,954 @@
+[
+ {
+   "Description": "Accelerated Benefit",
+   "Name": "OLI_OPTTYPE_ABE",
+   "Value": 1,
+   "Definition": "This accelerated benefit rider allows the client to take an advance on the policy's death benefit due to long-term, catastrophic, or terminal illness. Also known as living benefits.",
+   "Notes": ""
+ },
+ {
+   "Description": "Accelerated Benefit for Cognitive Impairment",
+   "Name": "OLI_OPTTYPE_ABCOGIMP",
+   "Value": 153,
+   "Definition": "This accelerated benefit rider allows the client to take an advance on the policy's death benefit due to a cognitive impairment.",
+   "Notes": ""
+ },
+ {
+   "Description": "Accelerated Benefit for Nursing Home Care",
+   "Name": "OLI_OPTTYPE_ABNURSINGHOME",
+   "Value": 152,
+   "Definition": "This accelerated benefit rider allows the client to take an advance on the policy's death benefit for nursing home care.",
+   "Notes": ""
+ },
+ {
+   "Description": "Accidental Death and Dismemberment",
+   "Name": "OLI_OPTTYPE_ADD",
+   "Value": 3,
+   "Definition": "The face amount of a life insurance policy is payable if the insured dies or loses any two limbs or the sight of both eyes as the result of an accident.",
+   "Notes": ""
+ },
+ {
+   "Description": "Accidental Death Benefit",
+   "Name": "OLI_OPTTYPE_ADB",
+   "Value": 2,
+   "Definition": "The face amount of a life insurance policy is payable only if the insured dies as the result of an accident. OR It can be sold as a supplementary death benefit rider that provides for an amount of money in addition to the face amount of a life insurance policy. This additional amount is also payable only if the insured dies as the result of an accident.",
+   "Notes": ""
+ },
+ {
+   "Description": "Accidental Death Benefit - Joint Insured Only",
+   "Name": "OLI_OPTTYPE_ADBJOINT",
+   "Value": 43,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Accounting Benefit",
+   "Name": "OLI_OPTTYPE_ACCOUNTINGBNFT",
+   "Value": 126,
+   "Definition": "This rider provides a higher cash surrender value on large business cases that meet specified criteria. This rider waives surrender charges for the lifetime of the policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Additional Coverage Scheduled Option",
+   "Name": "OLI_OPTTYPE_ADDSCHED",
+   "Value": 74,
+   "Definition": "A Rider or Option that allows the policyholder to add additional coverage or buy an additional policy within a scheduled period of time. The exercise of the Rider/Option may or may not require special underwriting business rules based upon the carrier's process.",
+   "Notes": ""
+ },
+ {
+   "Description": "Adjustable Survivorship Life",
+   "Name": "OLI_OPTTYPE_ADJSURVL",
+   "Value": 61,
+   "Definition": "Survivorship life coverage that is adjustable",
+   "Notes": ""
+ },
+ {
+   "Description": "Affiliation Discount",
+   "Name": "OLI_OPTTYPE_AFFILIATION",
+   "Value": 55,
+   "Definition": "Provides a discount if the applicant is affiliated or otherwise is eligible for a insurer discount.",
+   "Notes": ""
+ },
+ {
+   "Description": "AIDS",
+   "Name": "OLI_OPTTYPE_AIDS",
+   "Value": 47,
+   "Definition": "This benefit adds the coverage of AIDS and AIDS related diseases to a coverage",
+   "Notes": ""
+ },
+ {
+   "Description": "Airbag Benefit",
+   "Name": "OLI_OPTTYPE_AIRBAG",
+   "Value": 103,
+   "Definition": "An additional benefit is provided if an air bag is deployed for the covered person during the accident.",
+   "Notes": ""
+ },
+ {
+   "Description": "Alternate Cash Surrender Value",
+   "Name": "OLI_OPTTYPE_ALTCASHSURRVAL",
+   "Value": 127,
+   "Definition": "This rider provides Net Surrender Values for the certain percentage range of specified number of years' premium in highly funded scenarios. Surrender Value prior to a specified anniversary is increased by a percent of cumulative policy loads plus a percentage of surrender charges through a specified policy year.",
+   "Notes": ""
+ },
+ {
+   "Description": "Alternative Cash Value Rider",
+   "Name": "OLI_OPTTYPE_ALTCV",
+   "Value": 137,
+   "Definition": "This rider lowers the base face amount charges of a policy, while increasing the enhanced no-lapse guarantee rider premium.",
+   "Notes": ""
+ },
+ {
+   "Description": "Assured Distribution Option",
+   "Name": "OLI_OPTTYPE_ASSUREDDISTOPTION",
+   "Value": 138,
+   "Definition": "This option guarantees the client a specified stream of distributions from their policy value dependent upon the amount of money in the policy's account value.",
+   "Notes": ""
+ },
+ {
+   "Description": "Auto Adjust of death benefit for tax exempt status",
+   "Name": "OLI_OPTTYPE_AUTOADJUST",
+   "Value": 132,
+   "Definition": "Automatic Adjustment of death benefit for tax exempt status.This option allows for the automatic adjustment of the policy value to the minimum amount necessary to maintain the policy tax exempt status.",
+   "Notes": ""
+ },
+ {
+   "Description": "Automatic Fixed Percentage Premium Increase",
+   "Name": "OLI_OPTTYPE_AFPPREMINC",
+   "Value": 52,
+   "Definition": "A contractually agreed increase on the premium payable. This increase percentage if fixed for the period of the contract",
+   "Notes": ""
+ },
+ {
+   "Description": "Automatic Increase Option",
+   "Name": "OLI_OPTTYPE_AUTOINC",
+   "Value": 4,
+   "Definition": "Like cost of living adjustment but is not based on percentage you indicate (e.g. 5%).",
+   "Notes": ""
+ },
+ {
+   "Description": "Automatic Index Linked Premium Increase",
+   "Name": "OLI_OPTTYPE_AILPREMINC",
+   "Value": 51,
+   "Definition": "A contractually agreed increase on the premium payable. This increase is not fixed, but linked to a specified index, i.e. CPI, Stock Exchange indices",
+   "Notes": ""
+ },
+ {
+   "Description": "Aviation Exclusion Rider",
+   "Name": "OLI_OPTTYPE_AVIATION",
+   "Value": 70,
+   "Definition": "An Aviation Exclusion Rider is an addendum that basically makes a policy void should the insured die in an aviation-related accident other than as a fare-paying passenger on a scheduled airline.",
+   "Notes": ""
+ },
+ {
+   "Description": "Beneficiary Insurance",
+   "Name": "OLI_OPTTYPE_BENEINSUR",
+   "Value": 19,
+   "Definition": "Term insurance on a beneficiary.",
+   "Notes": ""
+ },
+ {
+   "Description": "Benefit Distribution Rider",
+   "Name": "OLI_OPTTYPE_BDR",
+   "Value": 139,
+   "Definition": "Allows the policyowner to designate a portion of the policy's death benefit proceeds to be paid in specified modal payments.",
+   "Notes": ""
+ },
+ {
+   "Description": "Benefit Increase Provision",
+   "Name": "OLI_OPTTYPE_BINCPROV",
+   "Value": 32,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Benefit Selection Option",
+   "Name": "OLI_OPTTYPE_BSO",
+   "Value": 140,
+   "Definition": "This option allows the clients to reduce the cost of their policy's death benefit by reducing certain charges deducted from the policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Value Increase",
+   "Name": "OLI_OPTTYPE_BUSVALUEINC",
+   "Value": 25,
+   "Definition": "Automatic increase option that is tied to valuation of the business. As the business value goes up, the face amount of policy increases.",
+   "Notes": ""
+ },
+ {
+   "Description": "Cash Value Transfer Option",
+   "Name": "OLI_OPTTYPE_CVTRANSFER",
+   "Value": 39,
+   "Definition": "This is a conversion option to transfer funds from one account to another.",
+   "Notes": ""
+ },
+ {
+   "Description": "Change of Insured",
+   "Name": "OLI_OPTTYPE_CHGINS",
+   "Value": 26,
+   "Definition": "It is used in deferred comp cases (COLI) where a number of executives are covered and you change executives, you can transfer the plan to the other person.",
+   "Notes": ""
+ },
+ {
+   "Description": "Charge to Earnings Elimination",
+   "Name": "OLI_OPTTYPE_CHGEARNELIM",
+   "Value": 23,
+   "Definition": "Should say 'Charge'. In early years of policy, where cash value would ordinarily be less than cumulative premiums paid. This causes cash value to be equal to cumulative premiums paid.",
+   "Notes": ""
+ },
+ {
+   "Description": "Charitable Giving Benefit",
+   "Name": "OLI_OPTTYPE_CHARITY",
+   "Value": 141,
+   "Definition": "This rider provides an additional death benefit of a specified percentage of the base face amount to a charity designated by the policy owner.",
+   "Notes": ""
+ },
+ {
+   "Description": "Childcare Benefit",
+   "Name": "OLI_OPTTYPE_CHILDCARE",
+   "Value": 108,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Childhood Disease",
+   "Name": "OLI_OPTTYPE_CHILDDISEASE",
+   "Value": 40,
+   "Definition": "Childhood Disease is a specified disease benefit election for select products that provide protection for childhood diseases as defined in the insurance contract.",
+   "Notes": ""
+ },
+ {
+   "Description": "Children's Conversion Option",
+   "Name": "OLI_OPTTYPE_EXPCHILD",
+   "Value": 78,
+   "Definition": "The Children's Conversion rider/option allows the policyholder to buy an additional policy for the insured child when the insured child attains the age where they are no longer considered a child (and therefore covered) on the existing policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Children's Term Benefit",
+   "Name": "OLI_OPTTYPE_CTB",
+   "Value": 6,
+   "Definition": "Kind of term insurance that covers all of the children of the insured regardless of age or number. Children do not have to be born at the time policy is taken out for them to be covered. Demographic information about the individual children is not collected.",
+   "Notes": ""
+ },
+ {
+   "Description": "Chronic Illness Rider",
+   "Name": "OLI_OPTTYPE_CHRONICILL",
+   "Value": 142,
+   "Definition": "This accelerated benefit rider allows the client to take an advance on the policy's death benefit due to a chronic illness.",
+   "Notes": ""
+ },
+ {
+   "Description": "Convalescent Care Benefits Rider",
+   "Name": "OLI_OPTTYPE_CONVALESCARE",
+   "Value": 143,
+   "Definition": "Accelerates the rider's benefit limit for covered long-term care expenses for a specific time period {e.g., 2 years (24 months) or 3 years (36 months)}. The rider's benefit limit is equal to the specified amount of coverage which the insured selects at issue.",
+   "Notes": ""
+ },
+ {
+   "Description": "Cost of Living Increase or inflation guard",
+   "Name": "OLI_OPTTYPE_COLI",
+   "Value": 5,
+   "Definition": "Tied to government index, usually CPI.",
+   "Notes": ""
+ },
+ {
+   "Description": "Critical illness premium waiver",
+   "Name": "OLI_OPTTYPE_WPCRIT",
+   "Value": 57,
+   "Definition": "Covers cost of the policy contributions in the event of the principal insured becoming severely ill.",
+   "Notes": ""
+ },
+ {
+   "Description": "Death, Disability or Critical Illness",
+   "Name": "OLI_OPTTYPE_DBDISCRITILL",
+   "Value": 50,
+   "Definition": "Payment of the Coverage Sum Assured will happen in the event of Death, Disability or Critical Illness",
+   "Notes": ""
+ },
+ {
+   "Description": "Death Benefit",
+   "Name": "OLI_OPTTYPE_DB",
+   "Value": 48,
+   "Definition": "Payment of the Coverage Sum Assured will happen in the event of death",
+   "Notes": ""
+ },
+ {
+   "Description": "Death Benefit Guarantee",
+   "Name": "OLI_OPTTYPE_DEATHBENGUAR",
+   "Value": 144,
+   "Definition": "This rider ensures that a policy will not lapse before the Insured attains a specified age if premiums paid equal or exceed the death benefit guarantee premium requirement.",
+   "Notes": ""
+ },
+ {
+   "Description": "Default Premium Payment Option",
+   "Name": "OLI_OPTTYPE_DEFPAYMNT",
+   "Value": 33,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Designate Second Life",
+   "Name": "OLI_OPTTYPE_DSL",
+   "Value": 64,
+   "Definition": "Benefit that allows owner to designate a second life on the policy",
+   "Notes": ""
+ },
+ {
+   "Description": "Disability Benefit",
+   "Name": "OLI_OPTTYPE_DIB",
+   "Value": 7,
+   "Definition": "A feature added to some life insurance policies providing for waiver of premium and sometimes payment of monthly income, if the policyholder becomes totally and permanently disabled.",
+   "Notes": ""
+ },
+ {
+   "Description": "Disability or Critical Illness",
+   "Name": "OLI_OPTTYPE_DISCRITILL",
+   "Value": 49,
+   "Definition": "Payment of the Coverage Sum Assured will happen in the event of disability or critical illness.",
+   "Notes": ""
+ },
+ {
+   "Description": "Disappearance",
+   "Name": "OLI_OPTTYPE_DISAPP",
+   "Value": 105,
+   "Definition": "Benefits are provided in the event that person is declared legally dead following a disappearance.",
+   "Notes": ""
+ },
+ {
+   "Description": "Double/Triple Indemnity",
+   "Name": "OLI_OPTTYPE_DBLINDEM",
+   "Value": 18,
+   "Definition": "Double: An additional accidental death benefit that is equal to the face amount of the life insurance policy. Triple: A type of additional accidental death benefit coverage that pays an additional benefit equal to twice the policy's basic death benefit if the accident is sustained while the insured is a passenger in a public conveyance operated by a licensed common carrier, such as a bus, train, or airplane.",
+   "Notes": ""
+ },
+ {
+   "Description": "Downside Protection Rider",
+   "Name": "OLI_OPTTYPE_DOWNSIDEPROTECT",
+   "Value": 145,
+   "Definition": "This rider provides protection from extended market losses, protection from policy lapse and minimum death benefit up to specific age.",
+   "Notes": ""
+ },
+ {
+   "Description": "Dread Disease",
+   "Name": "OLI_OPTTYPE_DRDISEASE",
+   "Value": 101,
+   "Definition": "A defined percentage of the coverage amount is paid as a lump sum if the life insured is diagnosed with any of a range of defined diseases or medical conditions.",
+   "Notes": ""
+ },
+ {
+   "Description": "Enhanced Accidental Death Benefit",
+   "Name": "OLI_OPTTYPE_ADC",
+   "Value": 35,
+   "Definition": "Accidental Death Benefit with extra benefit for accident on a common carrier (i.e. an airline, taxi, etc.).",
+   "Notes": ""
+ },
+ {
+   "Description": "Enhanced Cash Value Option",
+   "Name": "OLI_OPTTYPE_ENHANCEDCV",
+   "Value": 38,
+   "Definition": "Provides an enhanced first year cash surrender value if certain premium requirements are met.",
+   "Notes": ""
+ },
+ {
+   "Description": "Enhanced Death Benefit",
+   "Name": "OLI_OPTTYPE_ENHCDDTHBNFT",
+   "Value": 128,
+   "Definition": "Modifies the death benefit to be equal to or higher than what is required to qualify as life insurance. The Death benefit is modified to be at a higher percentage, based on age.",
+   "Notes": ""
+ },
+ {
+   "Description": "Estate Preservation Rider",
+   "Name": "OLI_OPTTYPE_ESTATEPRESERVE",
+   "Value": 146,
+   "Definition": "Provides extra non-convertible coverage during a specified period for future estate tax liability that may be incurred when an existing life insurance policy is transferred to an irrevocable trust.",
+   "Notes": ""
+ },
+ {
+   "Description": "Estate Protection",
+   "Name": "OLI_OPTTYPE_ESTATEPROT",
+   "Value": 22,
+   "Definition": "The preparation of a plan of administration and disposition of one's property before or after death including will, trusts, gifts, power of attorney, etc.",
+   "Notes": ""
+ },
+ {
+   "Description": "Estate Tax Repeal Rider",
+   "Name": "OLI_OPTTYPE_ESTATETAXREPEAL",
+   "Value": 147,
+   "Definition": "This rider permits the policyowner to terminate the policy without charge if the federal estate tax imposed under the Internal Revenue Code or any similar body of law is repealed.",
+   "Notes": ""
+ },
+ {
+   "Description": "Exchange of Insured Option",
+   "Name": "OLI_OPTTYPE_EXCIO",
+   "Value": 65,
+   "Definition": "Option to exchange the insured on the policy",
+   "Notes": ""
+ },
+ {
+   "Description": "Exchange Provision",
+   "Name": "OLI_OPTTYPE_EXCHANGE",
+   "Value": 8,
+   "Definition": "Provides ability to exchange this policy for a different one (e.g. a term policy for a permanent policy) without submitting evidence for insurability.",
+   "Notes": ""
+ },
+ {
+   "Description": "Extended Maturity",
+   "Name": "OLI_OPTTYPE_EXTMATURITY",
+   "Value": 28,
+   "Definition": "If person lives past the maturity date, it allows you to extend the maturity of the policy past that date.",
+   "Notes": ""
+ },
+ {
+   "Description": "Extension of Benefit Option",
+   "Name": "OLI_OPTTYPE_EXTBO",
+   "Value": 31,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Extension of Conversion Period Option",
+   "Name": "OLI_OPTTYPE_ECPO",
+   "Value": 135,
+   "Definition": "Extension of Conversion Period Option - If elected, extends the conversion privilege to equal the level premium paying period chosen for the policy, giving the policyowner a greater opportunity to take advantage of the valuable conversion privilege and upgrade to permanent cash value insurance. Issue ages limits may apply.",
+   "Notes": ""
+ },
+ {
+   "Description": "Extra Protection Option",
+   "Name": "OLI_OPTTYPE_EXPEXTRA",
+   "Value": 77,
+   "Definition": "A Rider or Option on a Coverage which is available until the insured reaches an age specified in the policy documentation. This Option allows the policyholder to add additional coverage or buy an additional policy until he/she reaches the agreed upon age. The exercise of the Rider/Option may or may not require special underwriting business rules based upon the carrier's process.",
+   "Notes": ""
+ },
+ {
+   "Description": "Family Benefit",
+   "Name": "OLI_OPTTYPE_FAMILY",
+   "Value": 123,
+   "Definition": "This type of option provides life insurance coverage on the insured's family, including spouse and children. The coverage provided through such an option is term insurance and is often sold on the basis of coverage units and does not vary by actual number of individuals covered. Coverage on the child expires when the child reaches a specified age. Future children are automatically insured after birth, legal adoption, legal guardianship, etc. depending on policy provisions.Family options include the privilege to convert the term part of the contract to permanent insurance, this insurance on dependents will become paid up when the primary insured dies, and there is a decrease in the premium and/or automatic increase in the amount of insurance on the primary insured if his or her spouse dies first.",
+   "Notes": ""
+ },
+ {
+   "Description": "Female Add-On Benefit",
+   "Name": "OLI_OPTTYPE_FEMDRDDISEASE",
+   "Value": 84,
+   "Definition": "Covers specific female dread diseases or impairments. It will pay out if diagnosed with one of those diseases or impairments in a lump sum.",
+   "Notes": ""
+ },
+ {
+   "Description": "Functional Impairment",
+   "Name": "OLI_OPTTYPE_FUNCIMP",
+   "Value": 116,
+   "Definition": "Pays in the event of specified functional impairments.",
+   "Notes": ""
+ },
+ {
+   "Description": "Funeral Benefit",
+   "Name": "OLI_OPTTYPE_FUNERAL",
+   "Value": 100,
+   "Definition": "The specified Funeral Benefit amount forms part of the death benefit available to a beneficiary who has been nominated by the policyholder.",
+   "Notes": ""
+ },
+ {
+   "Description": "Group to Individual Policy Conversion",
+   "Name": "OLI_OPTTYPE_LIFECONV",
+   "Value": 109,
+   "Definition": "A group policy benefit can be converted to an individual policy",
+   "Notes": ""
+ },
+ {
+   "Description": "Guaranteed Insurance Option",
+   "Name": "OLI_OPTTYPE_GUARIR",
+   "Value": 66,
+   "Definition": "Additional life insurance purchased that has been issued on a guaranteed basis",
+   "Notes": ""
+ },
+ {
+   "Description": "Guaranteed Issue Option at specified Life Events",
+   "Name": "OLI_OPTTYPE_GRNTEISSUE",
+   "Value": 136,
+   "Definition": "An Option that allows the policyholder to add additional coverage or buy an additional policy at life events specified in the policy without the need to produce evidence of insurability or health, except for a negative HIV test.",
+   "Notes": ""
+ },
+ {
+   "Description": "Guaranteed Issue Option due to Birth or Adoption",
+   "Name": "OLI_OPTTYPE_ADDCHILD",
+   "Value": 76,
+   "Definition": "A Rider or Option that allows the policyholder to add additional coverage or buy an additional policy in the event that the policyholder's family increases by birth or adoption of a child or children. The exercise of the Rider/Option may or may not require special underwriting business rules based upon the carrier's process.",
+   "Notes": ""
+ },
+ {
+   "Description": "Guaranteed Issue Option due to Marriage",
+   "Name": "OLI_OPTTYPE_ADDMARR",
+   "Value": 75,
+   "Definition": "A Rider or Option that allows the policyholder to add additional coverage or buy an additional policy in the event that the policyholder gets married. The exercise of the Rider/Option may or may not require special underwriting business rules based upon the carrier's process.",
+   "Notes": ""
+ },
+ {
+   "Description": "Healthy Engagement Rider",
+   "Name": "OLI_OPTTYPE_HEALTHY",
+   "Value": 148,
+   "Definition": "This rider provides an opportunity for the policy value to earn rider credits based on healthy actions taken by the insured each year through a specified age.",
+   "Notes": ""
+ },
+ {
+   "Description": "HIV Accelerated Benefit Option",
+   "Name": "OLI_OPTTYPE_HIV",
+   "Value": 37,
+   "Definition": "Accelerated benefit rider which pays a portion of death benefit while living, but only in the case of HIV illness.",
+   "Notes": ""
+ },
+ {
+   "Description": "Hospice Care",
+   "Name": "OLI_OPTTYPE_HOSPICECARE",
+   "Value": 87,
+   "Definition": "A rider available for care that is intended to provide comfort for the terminal patient and support for their family.",
+   "Notes": ""
+ },
+ {
+   "Description": "Hospital Benefit",
+   "Name": "OLI_OPTTYPE_HOSP",
+   "Value": 82,
+   "Definition": "Covers in the event of the insured being hospitalized, but is linked to the insured amount, not to the amount of hospitalization expenses incurred by the insured",
+   "Notes": ""
+ },
+ {
+   "Description": "Joint Last to Die Payment on First Death",
+   "Name": "OLI_OPTTYPE_JOINTPAY",
+   "Value": 131,
+   "Definition": "The election of the percentage of policy value to be paid to the surviving insured when the first joint insured dies.",
+   "Notes": ""
+ },
+ {
+   "Description": "Known and Unknown",
+   "Name": "OLI_OPTTYPE_CATCHALL",
+   "Value": 114,
+   "Definition": "Covers all known and unknown, serious and permanent medical or physical conditions (lump  sum benefit)",
+   "Notes": ""
+ },
+ {
+   "Description": "Living Needs Benefit",
+   "Name": "OLI_OPTTYPE_LIVNEEDS",
+   "Value": 20,
+   "Definition": "This accelerated benefit rider allows the client to take an advance on the policy's death benefit due to long-term, catastrophic, or terminal illness. Also known as accelerated death benefits.",
+   "Notes": ""
+ },
+ {
+   "Description": "Long Term Care Accelerated Benefit Option",
+   "Name": "OLI_OPTTYPE_LTCABO",
+   "Value": 30,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Long Term Care Non-forfeiture",
+   "Name": "OLI_OPTTYPE_LTCNONFOR",
+   "Value": 42,
+   "Definition": "An optional benefit that provides continued (extended) benefits for a shortened duration or a cash refund if a policy lapses after it has been in force for a specified number of years.",
+   "Notes": ""
+ },
+ {
+   "Description": "Loyalty Discount",
+   "Name": "OLI_OPTTYPE_LOYALTY",
+   "Value": 121,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Marital Discount",
+   "Name": "OLI_OPTTYPE_MARITAL",
+   "Value": 119,
+   "Definition": "This discount applies because the individual is married. This is different then Spousal Discount which applies because both spouses are applying together.",
+   "Notes": ""
+ },
+ {
+   "Description": "Maternity",
+   "Name": "OLI_OPTTYPE_MATERNITY",
+   "Value": 41,
+   "Definition": "Maternity is an income protection benefit that covers loss of income and/or defined medical expenses due to a woman's pregnancy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Medical aid premium waiver",
+   "Name": "OLI_OPTTYPE_WPMED",
+   "Value": 46,
+   "Definition": "Covers cost of medical aid contributions in the event of the principal insured becoming severely ill, disabled or dies",
+   "Notes": ""
+ },
+ {
+   "Description": "Military Aviation",
+   "Name": "OLI_OPTTYPE_MILITARYAVIATION",
+   "Value": 117,
+   "Definition": "Used to identify whether or not an aviation extra is charged for coverage as the result of the insured's military flying. May also be used under Exclusion to identify that an insured is specifically not covered in the event of death related to military flying.",
+   "Notes": ""
+ },
+ {
+   "Description": "No Lapse Guarantee Option",
+   "Name": "OLI_OPTTYPE_NOLAPSE",
+   "Value": 9,
+   "Definition": "An agreement by the insurance company to keep the Universal Life Insurance in force, even if the Cash Value becomes zero or less than zero, provided that a specified Minimum Continuation Premium is made at the required time.",
+   "Notes": ""
+ },
+ {
+   "Description": "Occupation Specific Disability Benefit",
+   "Name": "OLI_OPTTYPE_DISSIMOCC",
+   "Value": 83,
+   "Definition": "Benefit pays in the event of own occupation disability (Permanent Incapacity). This applies to disability payments in event of being unable to exercise own occupation.",
+   "Notes": ""
+ },
+ {
+   "Description": "Option to Purchase Add'l Ins Underwriting Req'd",
+   "Name": "OLI_OPTTYPE_FTO",
+   "Value": 36,
+   "Definition": "Option to Purchase Additional Insurance, but some underwriting is still required. If accepted, the increased coverage will be issued at the original issue age, not the current attained age.",
+   "Notes": ""
+ },
+ {
+   "Description": "Option to Purchase Additional Insurance",
+   "Name": "OLI_OPTTYPE_OPAI",
+   "Value": 10,
+   "Definition": "Guaranteed insurability rider – has option to increase face amount without evidence of insurability at certain intervals.",
+   "Notes": ""
+ },
+ {
+   "Description": "Option to Purchase Paid-Up Additions",
+   "Name": "OLI_OPTTYPE_OPPUA",
+   "Value": 34,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Overloan Protection Rider",
+   "Name": "OLI_OPTTYPE_OPR",
+   "Value": 122,
+   "Definition": "The Overloan Protection Rider offers a level of protection to policyholders against lapsing their policy due to excess policy debt. The benefit is specifically designed for clients who take substantial loans. May also be referred to as \"Overload Protection Rider.\"",
+   "Notes": ""
+ },
+ {
+   "Description": "Payor Death Benefit",
+   "Name": "OLI_OPTTYPE_PAYORDB",
+   "Value": 11,
+   "Definition": "This option waives the premium if the policy's payor dies. This rider is typically offered to traditional products whose insured is a juvenile.",
+   "Notes": ""
+ },
+ {
+   "Description": "Payor Disability",
+   "Name": "OLI_OPTTYPE_PAYORDI",
+   "Value": 12,
+   "Definition": "This option waives the premium if the policy's payor (as opposed to insured) becomes disabled. This rider is typically offered to traditional products whose insured is a juvenile.",
+   "Notes": ""
+ },
+ {
+   "Description": "Permanent or Partial Incapacity",
+   "Name": "OLI_OPTTYPE_PPINC",
+   "Value": 81,
+   "Definition": "Combination benefit that covers permanent and or partial incapacitation.",
+   "Notes": ""
+ },
+ {
+   "Description": "Persistency Bonus Option",
+   "Name": "OLI_OPTTYPE_PERSIST",
+   "Value": 13,
+   "Definition": "If you keep the policy for some minimum number of years, insurance company will give you some 'kick in' - typically an interest kicker as a bonus.",
+   "Notes": ""
+ },
+ {
+   "Description": "Physical Impairment",
+   "Name": "OLI_OPTTYPE_PHYSIMP",
+   "Value": 115,
+   "Definition": "Provides cover for physical impairments in the event of diagnosis or occurrence of such impairments, and subject to any applicable waiting period.",
+   "Notes": ""
+ },
+ {
+   "Description": "Policy Split Option",
+   "Name": "OLI_OPTTYPE_SPLIT",
+   "Value": 15,
+   "Definition": "Divorce option, joint survivorship policy – if you get divorced, both spouses have option of converting it into 2 single life policies without proving insurability and incurring surrender charges.",
+   "Notes": ""
+ },
+ {
+   "Description": "Pool of Money",
+   "Name": "OLI_OPTTYPE_POOLOFMONEY",
+   "Value": 125,
+   "Definition": "A maximum dollar amount established for the policy which defines the cumulative limit for benefits to be paid based on carrier rules. Commonly, the amount of the pool is established by benefit amount multiplied by benefit time period.",
+   "Notes": ""
+ },
+ {
+   "Description": "Portability of Health Coverage",
+   "Name": "OLI_OPTTYPE_PORT",
+   "Value": 110,
+   "Definition": "Complies with requirements of HIPAA. The Health Insurance Portability and Accountability Act (HIPAA) provides rights and protections for participants and beneficiaries in group health plans. HIPAA includes protections for coverage under group health plans that limit exclusions for preexisting conditions; prohibit discrimination against employees and dependents based on their health status; and allow a special opportunity to enroll in a new plan to individuals in certain circumstances. HIPAA may also give you a right to purchase individual coverage if you have no group health plan coverage available, and have exhausted COBRA or other continuation coverage.",
+   "Notes": ""
+ },
+ {
+   "Description": "Premium Guarantee Option",
+   "Name": "OLI_OPTTYPE_PGO",
+   "Value": 14,
+   "Definition": "The premium will remain the same – neither increase nor decrease.",
+   "Notes": ""
+ },
+ {
+   "Description": "Premium Holiday (Waiver)",
+   "Name": "OLI_OPTTYPE_PREMHOLIDAY",
+   "Value": 151,
+   "Definition": "The Premium Holiday is a benefit that allows the Contracting Party to miss a premium during times of financial difficulty such as retrenchment, unemployment, maternity leave and study leave.",
+   "Notes": ""
+ },
+ {
+   "Description": "Premium Reserve Rider",
+   "Name": "OLI_OPTTYPE_PREMRESERVE",
+   "Value": 149,
+   "Definition": "This rider allows the client to pay premiums in addition to those paid for the policy and have these amounts accumulate in the same manner as the policy without being subject to all charges and expenses of the policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Premium Waiver - Joint Insured Only",
+   "Name": "OLI_OPTTYPE_WPJOINT",
+   "Value": 44,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pre-Pay Discount",
+   "Name": "OLI_DISCOUNT_PREPAY",
+   "Value": 53,
+   "Definition": "Provides a discount if some portion of future premiums are pre-paid along with the initial premium.",
+   "Notes": ""
+ },
+ {
+   "Description": "Presumptive Disability for a Specific Loss",
+   "Name": "OLI_OPTTYPE_PRESUMPTDISABLE",
+   "Value": 88,
+   "Definition": "An option available which indicates that the parent rider or coverage, which covers a specific loss, provides a presumption of disability even if the covered individual is still working after the loss. The presumption of disability option causes the claim to be paid if the loss is suffered regardless of actual disability.",
+   "Notes": ""
+ },
+ {
+   "Description": "PVT Met Values Plus Option",
+   "Name": "OLI_OPTTYPE_VALUESPLUS",
+   "Value": 45,
+   "Definition": "Values Plus is an option that can be added to a Life Policy to ensure that another carrier's policy's cash values can be \"rolled into\" this Life Policy",
+   "Notes": ""
+ },
+ {
+   "Description": "Qualified Adult Discount",
+   "Name": "OLI_OPTTYPE_QUALADLT",
+   "Value": 58,
+   "Definition": "Provides a discount if a \"qualified adults\" apply together for policies. Qualified Adult is a person of the same or opposite sex who meets all the criteria listed below.1) He or she is over the age of 18.2) He or she has lived with you for at least 12 months.3) He or she has a serious and committed relationship with you.4) He or she is not legally married nor a Domestic Partner to anyone else.5) He or she is financially interdependent with you Financially interdependent means that you and this person are jointly responsible for the cost of food and housing",
+   "Notes": ""
+ },
+ {
+   "Description": "Relaxation of Minimum Premium",
+   "Name": "OLI_OPTTYPE_RELAXMINPREM",
+   "Value": 24,
+   "Definition": "Allows policyholder to pay less than administrative minimum premium. A minimum cash value is required before this option will be supported. Generally has a time frame associated with it.",
+   "Notes": ""
+ },
+ {
+   "Description": "Repatriation of Remains",
+   "Name": "OLI_OPTTYPE_REMAINS",
+   "Value": 107,
+   "Definition": "Covers the costs of logistics of preparing and returning your remains to desired location",
+   "Notes": ""
+ },
+ {
+   "Description": "Respread option for joint/multi-life on 1st death",
+   "Name": "OLI_OPTTYPE_RESPREAD",
+   "Value": 133,
+   "Definition": "Respread or reallocation option for joint/multiple life coverages on first death.This option allows the owner to exercise at the first death of the lives insured, additional insurance coverage on each of the surviving lives insured equal to the amount of the death benefit on the first life, without providing evidence of insurability.",
+   "Notes": ""
+ },
+ {
+   "Description": "Retrenchment",
+   "Name": "OLI_OPTTYPE_RETRENCH",
+   "Value": 134,
+   "Definition": "An income replacement type benefit should the client become retrenched from his job (unemployed).This benefit is sold as a standalone OR it can be sold as a supplementary benefit.",
+   "Notes": ""
+ },
+ {
+   "Description": "Return of Premium - End of Specified Term",
+   "Name": "OLI_OPTTYPE_ROPT",
+   "Value": 118,
+   "Definition": "As defined by the contract, Return of Premium provides for the return of eligible premiums at the end of a defined period, if the insured is still living and the policy is in force.",
+   "Notes": ""
+ },
+ {
+   "Description": "Return of Premium - on Death",
+   "Name": "OLI_OPTTYPE_COSTREC",
+   "Value": 21,
+   "Definition": "Term insurance rider whose death benefit is equal to the eligible cumulative premiums paid to the policy purpose being if a person dies in any given year, you get back all the premiums. Also known as Cost Recovery.",
+   "Notes": ""
+ },
+ {
+   "Description": "Return of Premium - on First Death",
+   "Name": "OLI_OPTTYPE_COSTREC1ST",
+   "Value": 154,
+   "Definition": "For joint life policies, the eligible cumulative premium is returned upon the death of the first person. Also known as Cost Recovery.",
+   "Notes": ""
+ },
+ {
+   "Description": "Return of Premium - on Second Death",
+   "Name": "OLI_OPTTYPE_COSTREC2ND",
+   "Value": 155,
+   "Definition": "For joint life policies, the eligible cumulative premium is returned upon the death of the second person. Also known as Cost Recovery.",
+   "Notes": ""
+ },
+ {
+   "Description": "Return of Premium - on Surrender",
+   "Name": "OLI_OPTTYPE_MBGUAR",
+   "Value": 29,
+   "Definition": "On a full surrender, the return of eligible premiums (initial, unplanned, and any Benefit Increase premiums). Also known as Money Back Guarantee.",
+   "Notes": ""
+ },
+ {
+   "Description": "Salary Increase",
+   "Name": "OLI_OPTTYPE_SALINCREASE",
+   "Value": 27,
+   "Definition": "In the case of life insurance, this is a form of automatic increase option that is tied to multiple of insured's salary.",
+   "Notes": ""
+ },
+ {
+   "Description": "Seatbelt Benefit",
+   "Name": "OLI_OPTTYPE_SEATBELT",
+   "Value": 102,
+   "Definition": "An additional benefit is provided if a seatbelt was used for the covered person during the accident.",
+   "Notes": ""
+ },
+ {
+   "Description": "Select Health Discount",
+   "Name": "OLI_OPTTYPE_SELECTHEALTH",
+   "Value": 54,
+   "Definition": "Provides a discount if the applicant qualifies for the carriers definition of select or good health.",
+   "Notes": ""
+ },
+ {
+   "Description": "Small Business Discount",
+   "Name": "OLI_OPTTYPE_SMALLBUS",
+   "Value": 120,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Spousal Discount",
+   "Name": "OLI_OPTTYPE_SPOUSAL",
+   "Value": 56,
+   "Definition": "Provides a discount if a couple applies together for policies.",
+   "Notes": ""
+ },
+ {
+   "Description": "Suicide",
+   "Name": "OLI_OPTTYPE_SUICIDE",
+   "Value": 111,
+   "Definition": "Benefits provided in the event of suicide.",
+   "Notes": ""
+ },
+ {
+   "Description": "Suicide Clause",
+   "Name": "OLI_OPTTYPE_SUICIDECLAUSE",
+   "Value": 80,
+   "Definition": "Death attributed to suicide is not covered by some policies for a certain period of time",
+   "Notes": ""
+ },
+ {
+   "Description": "Surrender Charge Adjustment",
+   "Name": "OLI_OPTTYPE_SURRCHARGEADJ",
+   "Value": 129,
+   "Definition": "This rider provides a reduction of surrender charges in a carrier defined or optionally selected number of Policy Years. In some cases the surrender charge listed in the contract is multiplied by a percentage that is based on the policy year in which the surrender occurs.",
+   "Notes": ""
+ },
+ {
+   "Description": "Surrender Value Enhancement",
+   "Name": "OLI_OPTTYPE_SURRVALUEENHANCE",
+   "Value": 130,
+   "Definition": "This rider enhances the policy's net surrender value. This is commonly done by crediting a portion of cumulative premiums paid and by reducing the surrender charges. The benefit may be only available upon full surrender of the policy and the rider requires a minimum premium.",
+   "Notes": ""
+ },
+ {
+   "Description": "Surviving Insured Conversion",
+   "Name": "OLI_OPTTYPE_SURJTTERM",
+   "Value": 79,
+   "Definition": "The Surviving Insured Conversion rider/option allows the surviving insured on a joint policy to convert that policy to an individual policy after the death of the other joint insured.",
+   "Notes": ""
+ },
+ {
+   "Description": "Survivorship Additional Benefit",
+   "Name": "OLI_OPTTYPE_SURVAB",
+   "Value": 67,
+   "Definition": "Retirement income benefit of survivor of an insured individual",
+   "Notes": ""
+ },
+ {
+   "Description": "Survivorship Insurance Rider",
+   "Name": "OLI_OPTTYPE_SURVIR",
+   "Value": 68,
+   "Definition": "Death benefit paid after all insureds dieFor reinsurance messages, the LREACT mappings treat the base coverage as the policy with all riders being sent as options on the base coverage. Thus, certain codes that are traditionally riders are needed as options.",
+   "Notes": ""
+ },
+ {
+   "Description": "Terminal Illness Rider",
+   "Name": "OLI_OPTTYPE_TERMINALILL",
+   "Value": 150,
+   "Definition": "This accelerated benefit rider allows the client to take an advance on the policy's death benefit due to a terminal illness.",
+   "Notes": ""
+ },
+ {
+   "Description": "Terrorism Benefit",
+   "Name": "OLI_OPTTYPE_TERROR",
+   "Value": 113,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Travel Assistance Program",
+   "Name": "OLI_OPTTYPE_TRAVEL",
+   "Value": 104,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Waiver of Monthly Deductions (WMD)",
+   "Name": "OLI_OPTTYPE_WMD",
+   "Value": 16,
+   "Definition": "In flexible premium policies, the WMD rider causes the monthly deductions of the policy to be waived upon the disability of the primary insured.The WMD rider also keeps no lapse guarantee provisions in effect.",
+   "Notes": ""
+ },
+ {
+   "Description": "Waiver of Premium",
+   "Name": "OLI_OPTTYPE_WP",
+   "Value": 17,
+   "Definition": "A provision that sets certain conditions under which an insurance policy will be kept in full force by the company without the payment of premiums. It is used most frequently for those policyholders that become totally and permanently disabled but may be available in certain other cases.ORThe waiver of premium rider provides that the insurance company will not collect premiums for a period of time during which the insured is disabled.This type of rider is typically used for products that have a fixed premium structure such as traditional whole life or term.",
+   "Notes": ""
+ },
+ {
+   "Description": "Waiver of Surr Chrgs on Nursing Home Confinement",
+   "Name": "OLI_OPTTYPE_WSCNH",
+   "Value": 124,
+   "Definition": "The benefit provides that if the insured is confined to a nursing home or similar facility by a physician and requests a withdrawal from his/her policy, the surrender charge, if any, and withdrawal charge will be waived for that withdrawal (assuming all other business criteria have been met).No charges will be waived under this benefit resulting from a decrease in the basic insurance amount or a change on the type of death benefit.",
+   "Notes": ""
+ },
+ {
+   "Description": "War Risk",
+   "Name": "OLI_OPTTYPE_WAR",
+   "Value": 112,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Worksite modification",
+   "Name": "OLI_OPTTYPE_WORKSITE",
+   "Value": 106,
+   "Definition": "",
+   "Notes": ""
+ }
+]

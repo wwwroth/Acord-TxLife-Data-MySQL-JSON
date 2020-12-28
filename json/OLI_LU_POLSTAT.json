@@ -1,0 +1,632 @@
+[
+ {
+   "Description": "Active (inforce)",
+   "Name": "OLI_POLSTAT_ACTIVE",
+   "Value": 1,
+   "Definition": "A Policy Status of 'Active' only indicates that at least one, but possibly more, coverages or components of this contract are active. Each individual coverage must be evaluated to determine the status of each specific component. If any coverage is active, the contract is active.",
+   "Notes": ""
+ },
+ {
+   "Description": "Active - Preliminary Term",
+   "Name": "OLI_POLSTAT_PRETERM",
+   "Value": 48,
+   "Definition": "Both the Preliminary Term coverage and the basic policy have been approved and the premium for the Preliminary Term period has been paid, but the basic policy effective date has not been reached (Preliminary Term period still is in effect) nor has billing occurred for the initial premium, which has not been paid.",
+   "Notes": ""
+ },
+ {
+   "Description": "Active Rider Terminated - Policy Converted to NFO (non forfeiture options)",
+   "Name": "OLI_POLSTAT_RDRTERMNFO",
+   "Value": 90,
+   "Definition": "Original rider coverage is modified to reflect new non-forfeiture paid-up conditions",
+   "Notes": ""
+ },
+ {
+   "Description": "Annuitized",
+   "Name": "OLI_POLSTAT_ANNUITIZED",
+   "Value": 36,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Applied For",
+   "Name": "OLI_POLSTAT_APPLIEDFOR",
+   "Value": 21,
+   "Definition": "Transmission of a formal app is successful. This is only used for a formal application and only represents status from the perspective of the sender; i.e., the transmission of an application from a broker/vendor to the carrier. It does not reflect a carrier status.",
+   "Notes": ""
+ },
+ {
+   "Description": "Approved",
+   "Name": "OLI_POLSTAT_APPROVED",
+   "Value": 24,
+   "Definition": "Approved for issue (may or may not have outstanding requirements).",
+   "Notes": ""
+ },
+ {
+   "Description": "Approved Tentative Offer",
+   "Name": "OLI_POLSTAT_APPROVEDTENTOFFER",
+   "Value": 58,
+   "Definition": "Has been approved with tentative offer – as opposed to final offer. This is only used for a formal application.",
+   "Notes": ""
+ },
+ {
+   "Description": "Approve - Issue Hold",
+   "Name": "OLI_POLSTAT_ISSUEHOLD",
+   "Value": 103,
+   "Definition": "To have the case status 'Case is approved but issue process is on hold'. Case will not be issued until this hold is removed",
+   "Notes": ""
+ },
+ {
+   "Description": "Back Billed",
+   "Name": "OLI_POLSTAT_BACKBILL",
+   "Value": 32,
+   "Definition": "Not paid up to where you've been billed to.",
+   "Notes": ""
+ },
+ {
+   "Description": "Block Conversion",
+   "Name": "OLI_POLSTAT_CONVERTEDBLOCK",
+   "Value": 63,
+   "Definition": "Used when the issue system is used as a conversion vehicle for moving multiple policies from another administration system. This status is intended for use on the new policy/system not the original.",
+   "Notes": ""
+ },
+ {
+   "Description": "Canceled - Customer canceled new business app",
+   "Name": "OLI_POLSTAT_CANCELLED",
+   "Value": 39,
+   "Definition": "Customer is withdrawing new business application",
+   "Notes": ""
+ },
+ {
+   "Description": "Canceled - Customer canceled reinstatement request",
+   "Name": "OLI_POLSTAT_CANCELREINST",
+   "Value": 114,
+   "Definition": "Customer withdrew their application for reinstatement.",
+   "Notes": ""
+ },
+ {
+   "Description": "Canceled - Free Look",
+   "Name": "OLI_POLSTAT_FREELOOK",
+   "Value": 50,
+   "Definition": "Policy owner exercised the free look provision to terminate this policy. In the United Kingdom and Europe, \"Canceled - Free Look\" is called \"Cooling Off Cancellation\" as the \"Free Look Period\" is called the \"Cooling Off Period\".",
+   "Notes": ""
+ },
+ {
+   "Description": "Canceled - Home Office Cancellation",
+   "Name": "OLI_POLSTAT_HOCANCEL",
+   "Value": 13,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Canceled - no additional information specified",
+   "Name": "OLI_POLSTAT_GENERICCANC",
+   "Value": 112,
+   "Definition": "To be used in situations where a policy that was active at some point is canceled, but no additional information is known. For example, it is unknown which entity (carrier or customer) initiated the cancellation.",
+   "Notes": ""
+ },
+ {
+   "Description": "Candidate",
+   "Name": "OLI_POLSTAT_CANDIDATE",
+   "Value": 116,
+   "Definition": "Candidate Policy - Not yet proposed.",
+   "Notes": ""
+ },
+ {
+   "Description": "Carrier decline to issue",
+   "Name": "OLI_POLSTAT_DECISSUE",
+   "Value": 27,
+   "Definition": "The insurer refuses to issue a policy for the individual or company depending on the insurance company's terms of issuance of a policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Carrier decline to reinstate",
+   "Name": "OLI_POLSTAT_DECREINSTATE",
+   "Value": 28,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Carrier deferred (e.g. carrier is deferring coverage until certain conditions are met).",
+   "Name": "OLI_POLSTAT_DEFERRED",
+   "Value": 29,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cash Value Paid.",
+   "Name": "OLI_POLSTAT_CVPAID",
+   "Value": 16,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Claim pending without policy termination",
+   "Name": "OLI_POLSTAT_PENDCLAIMNOTERM",
+   "Value": 100,
+   "Definition": "A claim against the policy, which does not lead to the termination of the policy, is pending",
+   "Notes": ""
+ },
+ {
+   "Description": "Conditional Approval",
+   "Name": "OLI_POLSTAT_APPROVCOND",
+   "Value": 53,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Contractual change pending.",
+   "Name": "OLI_POLSTAT_CTRCTCHANGE",
+   "Value": 31,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Conversion Pending",
+   "Name": "OLI_POLSTAT_CONVPEND",
+   "Value": 41,
+   "Definition": "This status is intended for use on the new policy/system not the original.",
+   "Notes": ""
+ },
+ {
+   "Description": "Conversion with a new number",
+   "Name": "OLI_POLSTAT_CONVERTED",
+   "Value": 30,
+   "Definition": "Conversion implies that a previous policy exists. While considered old business, a conversion usually has a new effective date. This status is intended for use on the new policy/system not the original.",
+   "Notes": ""
+ },
+ {
+   "Description": "Conversion with the same number",
+   "Name": "OLI_POLSTAT_CONVERTEDSAME",
+   "Value": 64,
+   "Definition": "Conversion implies that a previous policy exists. The inforce policy with the same number must be terminated and carry exit code conversion out.",
+   "Notes": ""
+ },
+ {
+   "Description": "Counter offer - made by HO",
+   "Name": "OLI_POLSTAT_COUNTEROFFER",
+   "Value": 26,
+   "Definition": "Issued other than applied for. Must include at least one material change(s), may additionally include nonmaterial change(s)",
+   "Notes": ""
+ },
+ {
+   "Description": "Coverage is \"active\" but one (or more) of insureds have died",
+   "Name": "OLI_POLSTAT_SOMEDEAD",
+   "Value": 52,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Death Claim Paid.",
+   "Name": "OLI_POLSTAT_DEATH",
+   "Value": 11,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Death Claim Pending.",
+   "Name": "OLI_POLSTAT_DTHPEND",
+   "Value": 10,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Declined Not Eligible",
+   "Name": "OLI_POLSTAT_DECNOTELIG",
+   "Value": 35,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Disability claim pending without policy termination",
+   "Name": "OLI_POLSTAT_DISCLAIM",
+   "Value": 95,
+   "Definition": "A disability claim against the policy, which does not lead to the termination of the policy, is pendingThis is a disability claim on a Life coverage.",
+   "Notes": ""
+ },
+ {
+   "Description": "Dormant",
+   "Name": "OLI_POLSTAT_DORMANT",
+   "Value": 113,
+   "Definition": "This status applies to features that are not yet providing coverage, but for which some maintenance still needs to be performed. These features become active when triggered by some action on the policy such as the expiration of another feature.",
+   "Notes": ""
+ },
+ {
+   "Description": "Eligible, Issue Pending",
+   "Name": "OLI_POLSTAT_ELIGISSPEND",
+   "Value": 34,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Exercised",
+   "Name": "OLI_POLSTAT_EXERCISED",
+   "Value": 99,
+   "Definition": "A status which indicates that the associated Option or Rider has been exercised.",
+   "Notes": ""
+ },
+ {
+   "Description": "Expired",
+   "Name": "OLI_POLSTAT_EXPIRED",
+   "Value": 17,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Extended Term",
+   "Name": "OLI_POLSTAT_EXTTERM",
+   "Value": 18,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "FIU New Business Rejection",
+   "Name": "OLI_POLSTATUS_FIUREJECT",
+   "Value": 98,
+   "Definition": "A case may be rejected for FIU (Further Information Unobtainable) due to insufficient money or outstanding pre issue forms. A case pending in new business has a grace period (such as 45 days) for money and the pre issue forms. If these details are unobtainable for any reason, the underwriter FIU rejects the case.",
+   "Notes": ""
+ },
+ {
+   "Description": "FIU Reinstatement Rejection",
+   "Name": "OLI_POLSTAT_FIUREJECTREINST",
+   "Value": 115,
+   "Definition": "A reinstatement request may be Further Information Unobtainable (FIU) rejected for insufficient money or outstanding information.",
+   "Notes": ""
+ },
+ {
+   "Description": "Fully Paid-Up",
+   "Name": "OLI_POLSTAT_FULLPAIDUP",
+   "Value": 47,
+   "Definition": "Fully Paid-Up insurance (FPU) is in effect following the election by the policy owner of the conversion option that allows the policy owner to stop paying premiums prior to the end of the normal premium-paying period, and receive a paid up policy for the full current face amount. FPU is a combination of the reduced paid-up and premium reduction non-forfeiture options.Fully Paid Up -- Fully Paid-Up insurance (FPU) is a type of non-forfeiture option available on life insurance contracts (class code 1) where the policy owner may optionally elect to cease paying premiums prior to the end of the normal premium paying period as defined in the contract, and use the total cash value of the contract as a Net Single Premium to purchase a fully paid-up policy for the full face amount of the original contract. The total cost for conversion to a fully paid-up contract is based on the net single premium for the full original face amount plus the cost to retain certain supplemental benefit riders. The total cash value of the contract needs to be sufficient to cover the NSP cost -- Total CV includes the guaranteed cash value, the cash surrender value of any PUA's and OYT Additions and any dividends on deposit. If the total cash value required to cover the NSP is less than the cost to convert to fully paid-up, the policy owner may pay the amount to cover the shortage of the NSP; if the total cash value exceeds the cost, any unneeded amount over the NSP will be refunded in cash.",
+   "Notes": ""
+ },
+ {
+   "Description": "Grace Period",
+   "Name": "OLI_POLSTAT_GRACEPD",
+   "Value": 42,
+   "Definition": "The policy has lapsed due to non payment of premiums and is in its contractual grace period prior to final termination",
+   "Notes": ""
+ },
+ {
+   "Description": "HO Withdrew",
+   "Name": "OLI_POLSTAT_WITHDRAWNHO",
+   "Value": 59,
+   "Definition": "Status of coverage for an inquiry or formal application that the HO withdrew",
+   "Notes": ""
+ },
+ {
+   "Description": "Illustration declined",
+   "Name": "OLI_POLSTAT_ILLUSDEC",
+   "Value": 33,
+   "Definition": "Illustration System wants to return coverage to indicate it was declined.",
+   "Notes": ""
+ },
+ {
+   "Description": "Inactive",
+   "Name": "OLI_POLSTAT_INACTIVE",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Incomplete (application was incomplete).",
+   "Name": "OLI_POLSTAT_INCOMPLETE",
+   "Value": 23,
+   "Definition": "Either all of the application fields were not completed or the applicant did not provide complete information.",
+   "Notes": ""
+ },
+ {
+   "Description": "Inforce- Attained Age Conversion",
+   "Name": "OLI_POLSTAT_INFAGECONF",
+   "Value": 94,
+   "Definition": "Attained age of insured being reached resulted in a conversion, but policy remains inforce",
+   "Notes": ""
+ },
+ {
+   "Description": "Invalid",
+   "Name": "OLI_POLSTAT_INVALID",
+   "Value": 45,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Issued",
+   "Name": "OLI_POLSTAT_ISSUED",
+   "Value": 25,
+   "Definition": "All requirements were satisfied. Can be used with StatusReason to reflect it is not paid. Could also indicate all requirements satisfied but effective date not yet reached.",
+   "Notes": ""
+ },
+ {
+   "Description": "Issued with Requirements",
+   "Name": "OLI_POLSTAT_ISSUEDWREQUIREMENTS",
+   "Value": 44,
+   "Definition": "Issued with outstanding requirements.",
+   "Notes": ""
+ },
+ {
+   "Description": "Lapsed",
+   "Name": "OLI_POLSTAT_LAPSED",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lapse Pending.",
+   "Name": "OLI_POLSTAT_LAPSEPEND",
+   "Value": 5,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lapsing on a daily cost basis",
+   "Name": "OLI_POLSTAT_LAPSINGDAILY",
+   "Value": 61,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Matured",
+   "Name": "OLI_POLSTAT_MATURED",
+   "Value": 40,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Not Taken.",
+   "Name": "OLI_POLSTAT_NOTAKE",
+   "Value": 7,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Not Taken Out",
+   "Name": "OLI_POLSTAT_NOTTAKENOUT",
+   "Value": 65,
+   "Definition": "The Not Taken Out status indicates that the contract was declined before issue. The party declining the contract may be the contract owner or insurance company itself.",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paid-Up",
+   "Name": "OLI_POLSTAT_PAIDUP",
+   "Value": 3,
+   "Definition": "The life insurance contract has reached the end of its contractually defined premium-paying period. No further premiums are due, but the contract and its benefits are still in effect. For example: a 20-Pay Whole Life contract -- premiums are paid-up over a 20-year period and at the end of that period, the cash value continues to accumulate and the death benefit remains in effect until contract maturity or a claim is incurred.",
+   "Notes": ""
+ },
+ {
+   "Description": "Paid-Up Rider Terminated - Policy Converted to NFO (non forfeiture options)",
+   "Name": "OLI_POLSTAT_PDUPRDRTERMNFO",
+   "Value": 91,
+   "Definition": "Original paid-up rider coverage is modified to reflect NFO Conditions",
+   "Notes": ""
+ },
+ {
+   "Description": "Pending",
+   "Name": "OLI_POLSTAT_PENDING",
+   "Value": 8,
+   "Definition": "Request accepted for processing and under review by carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Pending Reinstatement",
+   "Name": "OLI_POLSTAT_PENDREINST",
+   "Value": 38,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pending Replacement",
+   "Name": "OLI_POLSTAT_PENDREPLACEMENT",
+   "Value": 46,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pending Transmission",
+   "Name": "OLI_POLSTAT_PENDINGTRANS",
+   "Value": 22,
+   "Definition": "The application is completed and ready to be sent but transmission has not taken place.The transferring of a property title from one individual to another. OR The legal transfer and receipt of ownership rights.",
+   "Notes": ""
+ },
+ {
+   "Description": "Policy was issued with changes",
+   "Name": "OLI_POLSTAT_CHANGEISS",
+   "Value": 43,
+   "Definition": "Policy was issued with non-material change(s).",
+   "Notes": ""
+ },
+ {
+   "Description": "Policy was not placed",
+   "Name": "OLI_POLSTAT_NOTPLACED",
+   "Value": 51,
+   "Definition": "Carrier did not place the policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Postponed",
+   "Name": "OLI_POLSTAT_POSTPONED",
+   "Value": 62,
+   "Definition": "Used when a case needs to be re-opened from an issued status. Deprecated in favor of Policy Status \"OLI_POLSTAT_DEFERRED\".",
+   "Notes": ""
+ },
+ {
+   "Description": "Producer Withdrew",
+   "Name": "OLI_POLSTAT_WITHDRAWNFLD",
+   "Value": 60,
+   "Definition": "Status of coverage for an inquiry or formal application that the Producer (Agent) withdrew (changed mind, etc.)",
+   "Notes": ""
+ },
+ {
+   "Description": "Proposed",
+   "Name": "OLI_POLSTAT_PROPOSED",
+   "Value": 12,
+   "Definition": "Not yet submitted to carrier for consideration.",
+   "Notes": ""
+ },
+ {
+   "Description": "Quoted",
+   "Name": "OLI_POLSTAT_QUOTED",
+   "Value": 57,
+   "Definition": "A request for a rate quote or an informal application (AKA trial application) was received by the carrier. If the carrier was able to satisfy the request the status is quoted.",
+   "Notes": ""
+ },
+ {
+   "Description": "Reconsider and Approve",
+   "Name": "OLI_POLSTATUS_RECONSIDER",
+   "Value": 97,
+   "Definition": "Final action procedure done on a case which has gotten Further Information Unobtainable (FIU) rejected and subsequently received the Money and/or pre-issue forms within the 45 day grace period.",
+   "Notes": ""
+ },
+ {
+   "Description": "Reduced Paid Up",
+   "Name": "OLI_POLSTAT_REDUCEDPAIDUP",
+   "Value": 20,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Re-entry pending",
+   "Name": "OLI_POLSTAT_REENTRYPENDING",
+   "Value": 56,
+   "Definition": "Policy owner has elected to re-qualify for a premium rate comparable to a new issue premium rate for someone of the same age.",
+   "Notes": ""
+ },
+ {
+   "Description": "Reinstated",
+   "Name": "OLI_POLSTAT_REINSTATED",
+   "Value": 37,
+   "Definition": "Subtle short period between pending and active- awaiting policy exhibit",
+   "Notes": ""
+ },
+ {
+   "Description": "Reissue",
+   "Name": "OLI_POLSTAT_REISSUE",
+   "Value": 19,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Request Refused",
+   "Name": "OLI_POLSTAT_REQREFUSE",
+   "Value": 109,
+   "Definition": "The submission of a request for a quote, trial/informal or formal application cannot be processed",
+   "Notes": ""
+ },
+ {
+   "Description": "Rescinded",
+   "Name": "OLI_POLSTAT_RESCINDED",
+   "Value": 111,
+   "Definition": "Type of policy cancellation by the carrier during the contestable period. The rescission is usually triggered by a death claim where misrepresentation has been discovered in the information provided by the applicant.",
+   "Notes": ""
+ },
+ {
+   "Description": "Risk Not Acceptable",
+   "Name": "OLI_POLSTAT_RISKNOTACCEPT",
+   "Value": 110,
+   "Definition": "Has gone through an underwriting process for an informal application and determined that the risk was not acceptable to the carrier",
+   "Notes": ""
+ },
+ {
+   "Description": "Status of 'Departure Extension'",
+   "Name": "OLI_POLSTAT_DEPARTUREEXTENSION",
+   "Value": 93,
+   "Definition": "A member is on departure extension",
+   "Notes": ""
+ },
+ {
+   "Description": "Status of 'member left'",
+   "Name": "OLI_POLSTAT_MEMBERLEAVES",
+   "Value": 92,
+   "Definition": "A member has left employment",
+   "Notes": ""
+ },
+ {
+   "Description": "Submitted to Underwriting",
+   "Name": "OLI_POLSTAT_SUBMITTEDTOUW",
+   "Value": 54,
+   "Definition": "The proposed policy is a completed application and is submitted to Underwriting. All initial information/requirements required to put the policy in Underwriting have been accepted.",
+   "Notes": ""
+ },
+ {
+   "Description": "Surrendered",
+   "Name": "OLI_POLSTAT_SURR",
+   "Value": 6,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Suspend",
+   "Name": "OLI_POLSTAT_SUSPEND",
+   "Value": 55,
+   "Definition": "Suspend indicates whether financial activity is suspended on a Policy or not. Some reasons for freezing a Policy could be because of the death of the insured, an internal processing problem, etc.",
+   "Notes": ""
+ },
+ {
+   "Description": "Terminated",
+   "Name": "OLI_POLSTAT_TERMINATE",
+   "Value": 14,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Terminated - Reserves Released",
+   "Name": "OLI_POLSTAT_TERMRESRELEASD",
+   "Value": 89,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Under Disability",
+   "Name": "OLI_POLSTAT_DI",
+   "Value": 15,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Under Retrenchment (Unemployment)",
+   "Name": "OLI_POLSTAT_RETRENCH",
+   "Value": 108,
+   "Definition": "Under Retrenchment (Unemployment) status indicates that the insured is receiving a retrenchment benefit from this policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Underwriting complete, policy paid",
+   "Name": "OLI_POLSTAT_NOTPAID",
+   "Value": 106,
+   "Definition": "This accounts for the fact that some companies will not issue the policy until something has been paid towards it.",
+   "Notes": ""
+ },
+ {
+   "Description": "Underwriting incomplete; policy paid",
+   "Name": "OLI_POLSTAT_PAIDUNDINC",
+   "Value": 107,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Vested",
+   "Name": "OLI_POLSTAT_VESTED",
+   "Value": 117,
+   "Definition": "A person's right to the full amount of some type of benefit, most commonly employee benefits such as stock options, profit sharing or retirement benefits. Fully vested benefits often accrue to employees each year, but they only become the employee's property according to a vesting schedule. Vesting may occur on a gradual schedule, such as 25% per year, or on a \"cliff\" schedule where 100% of benefits vest at a set time, such as four years after the award date.",
+   "Notes": ""
+ },
+ {
+   "Description": "Waiver",
+   "Name": "OLI_POLSTAT_WAIVER",
+   "Value": 9,
+   "Definition": "",
+   "Notes": ""
+ }
+]

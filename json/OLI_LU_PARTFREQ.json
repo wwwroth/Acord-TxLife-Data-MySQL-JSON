@@ -1,0 +1,65 @@
+[
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Per day",
+   "Name": "OLI_USAGEFREQ_PERDAY",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Per Lifetime",
+   "Name": "OLI_USAGEFREQ_PERLIFETIME",
+   "Value": 7,
+   "Definition": "Used to specify a time period extending for the entire lifetime of a person.",
+   "Notes": ""
+ },
+ {
+   "Description": "Per month",
+   "Name": "OLI_USAGEFREQ_PERMONTH",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Per week",
+   "Name": "OLI_USAGEFREQ_PERWEEK",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Per year",
+   "Name": "OLI_USAGEFREQ_PERYEAR",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Random",
+   "Name": "OLI_USAGEFREQ_RANDOM",
+   "Value": 6,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Single",
+   "Name": "OLI_USAGEFREQ_SINGLE",
+   "Value": 5,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ }
+]

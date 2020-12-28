@@ -1,0 +1,338 @@
+[
+ {
+   "Description": "Annual Calendar",
+   "Name": "OLI_PAYMODE_ANNUALCAL",
+   "Value": 30,
+   "Definition": "Payment is paid annually, and is driven off of calendar year as opposed to policy anniversary.",
+   "Notes": ""
+ },
+ {
+   "Description": "Annual or Annually",
+   "Name": "OLI_PAYMODE_ANNUAL",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Any Paymode is allowed",
+   "Name": "OLI_PAYMODE_ANY",
+   "Value": 100,
+   "Definition": "Used in Product Definitions only",
+   "Notes": ""
+ },
+ {
+   "Description": "Bi-Weekly (every two weeks)",
+   "Name": "OLI_PAYMODE_BIWKLY",
+   "Value": 7,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Day or Daily",
+   "Name": "OLI_PAYMODE_DAILY",
+   "Value": 8,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Every 10 months",
+   "Name": "OLI_PAYMODE_EVERY10MTHS",
+   "Value": 21,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Every 11 months",
+   "Name": "OLI_PAYMODE_EVERY11MTHS",
+   "Value": 22,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Every 2 months",
+   "Name": "OLI_PAYMODE_EVERY2MTHS",
+   "Value": 15,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Every 4 months",
+   "Name": "OLI_PAYMODE_EVERY4MTHS",
+   "Value": 16,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Every 4 weeks (4 weekly)",
+   "Name": "OLI_PAYMODE_4WKLY",
+   "Value": 12,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Every 5 months",
+   "Name": "OLI_PAYMODE_EVERY5MTHS",
+   "Value": 17,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Every 7 months",
+   "Name": "OLI_PAYMODE_EVERY7MTHS",
+   "Value": 18,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Every 8 months",
+   "Name": "OLI_PAYMODE_EVERY8MTHS",
+   "Value": 19,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Every 9 months",
+   "Name": "OLI_PAYMODE_EVERY9MTHS",
+   "Value": 20,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Every three weeks",
+   "Name": "OLI_PAYMODE_EVERY3WKS",
+   "Value": 24,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fiscal Quarterly mode of payment",
+   "Name": "OLI_PAYMODE_FISCALQUARTER",
+   "Value": 23,
+   "Definition": "Assumes fiscal date is based off start date",
+   "Notes": ""
+ },
+ {
+   "Description": "Hour or Hourly",
+   "Name": "OLI_PAYMODE_HOURLY",
+   "Value": 51,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lifetime",
+   "Name": "OLI_PAYMODE_LIFETIME",
+   "Value": 40,
+   "Definition": "Used to define a Lifetime period of time",
+   "Notes": ""
+ },
+ {
+   "Description": "Mixed",
+   "Name": "OLI_PAYMODE_MIXED",
+   "Value": 98,
+   "Definition": "Used when a payment schedule is comprised of portions of premium that are paid on different schedules. For instance, one portion may be paid monthly while another is paid annually. For example, the details of each portion would be specified via an Arrangement object.",
+   "Notes": ""
+ },
+ {
+   "Description": "Monthly for 10 months",
+   "Name": "OLI_PAYMODE_MNTH410",
+   "Value": 13,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Monthly for 8 months",
+   "Name": "OLI_PAYMODE_MNTH48",
+   "Value": 14,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Monthly for Nine months",
+   "Name": "OLI_PAYMODE_MNTH49",
+   "Value": 10,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Month or Monthly",
+   "Name": "OLI_PAYMODE_MNTHLY",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "None",
+   "Name": "OLI_PAYMODE_NONE",
+   "Value": 99,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Once every 5 years",
+   "Name": "OLI_PAYMODE_5YEARS",
+   "Value": 31,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payment is made once every three years",
+   "Name": "OLI_PAYMODE_TRIANNUAL",
+   "Value": 41,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payment made 5 times a year",
+   "Name": "OLI_PAYMODE_QTRFIVE",
+   "Value": 29,
+   "Definition": "Policy is paid on a quarterly basis with first payment being paid at beginning of billing cycle, and final payment being paid at end of billing cycle.",
+   "Notes": ""
+ },
+ {
+   "Description": "Payments made 10 times a year",
+   "Name": "OLI_PAYMODE_TENTHLY",
+   "Value": 43,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payments made 11 times per year.",
+   "Name": "OLI_PAYMODE_ELEVENTHLY",
+   "Value": 26,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payments made 13 times a year",
+   "Name": "OLI_PAYMODE_THIRTTEENLY",
+   "Value": 44,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payments made 14 times per year.",
+   "Name": "OLI_PAYMODE_FOURTEENTHLY",
+   "Value": 27,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payments made 16 times a year",
+   "Name": "OLI_PAYMODE_SIXTEENTHLY",
+   "Value": 45,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payments made 18 times a year",
+   "Name": "OLI_PAYMODE_EIGTHTEENLY",
+   "Value": 46,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payments made 19 times a year",
+   "Name": "OLI_PAYMODE_NINETEENLY",
+   "Value": 47,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payments made 20 times a year",
+   "Name": "OLI_PAYMODE_TWENTYLY",
+   "Value": 48,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payments made 21 times a year",
+   "Name": "OLI_PAYMODE_TWENTHFIRSTLY",
+   "Value": 49,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payments made 22 times a year",
+   "Name": "OLI_PAYMODE_TWENTYSECONDLY",
+   "Value": 50,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payments made 28 times per year.",
+   "Name": "OLI_PAYMODE_TWENTYEIGHTHLY",
+   "Value": 28,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payments made 7 times per year.",
+   "Name": "OLI_PAYMODE_SEVENTHLY",
+   "Value": 25,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payments made 9 times a year",
+   "Name": "OLI_PAYMODE_NINETHLY",
+   "Value": 42,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Quarter or Quarterly",
+   "Name": "OLI_PAYMODE_QUARTLY",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Random",
+   "Name": "OLI_PAYMODE_RANDOM",
+   "Value": 11,
+   "Definition": "Random means \"Triggered by a random event\"",
+   "Notes": ""
+ },
+ {
+   "Description": "Semi-Annual (twice a year)",
+   "Name": "OLI_PAYMODE_BIANNUAL",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Semi-Monthly (twice a month)",
+   "Name": "OLI_PAYMODE_BIMNTHLY",
+   "Value": 5,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Single Payment",
+   "Name": "OLI_PAYMODE_SINGLEPAY",
+   "Value": 9,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Week or Weekly",
+   "Name": "OLI_PAYMODE_WKLY",
+   "Value": 6,
+   "Definition": "",
+   "Notes": ""
+ }
+]

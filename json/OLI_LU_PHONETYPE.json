@@ -1,0 +1,184 @@
+[
+ {
+   "Description": "\"General\" voice number unspecified as to location",
+   "Name": "OLI_PHONETYPE_VOICE",
+   "Value": 16,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Agent customer service phone number",
+   "Name": "OLI_PHONETYPE_AGENTCSA",
+   "Value": 20,
+   "Definition": "Carrier's phone number agent will use for customer service.",
+   "Notes": ""
+ },
+ {
+   "Description": "Business",
+   "Name": "OLI_PHONETYPE_BUS",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Fax",
+   "Name": "OLI_PHONETYPE_BUSFAX",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Toll-Free",
+   "Name": "OLI_PHONETYPE_BUSTOLLFREE",
+   "Value": 17,
+   "Definition": "This is a business toll free number for a Corporation. i.e. 1-800..",
+   "Notes": ""
+ },
+ {
+   "Description": "Claim Center",
+   "Name": "OLI_PHONETYPE_CLAIMCENTER",
+   "Value": 18,
+   "Definition": "Indicates that the phone number is the phone number for claim inquiries or claim processing information.",
+   "Notes": ""
+ },
+ {
+   "Description": "Client customer service phone number",
+   "Name": "OLI_PHONETYPE_CLIENTCSA",
+   "Value": 21,
+   "Definition": "Carrier's phone number the client will use for customer service.",
+   "Notes": ""
+ },
+ {
+   "Description": "Corporate Office",
+   "Name": "OLI_PHONETYPE_CORPOFFICE",
+   "Value": 7,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Emergency",
+   "Name": "OLI_PHONETYPE_EMERG",
+   "Value": 10,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fax",
+   "Name": "OLI_PHONETYPE_FAX",
+   "Value": 19,
+   "Definition": "This value is used when a fax number is given and the party does not indicate whether or not it is their business or personal fax number.If a more specific fax type code is available, it should be used instead of this code. This code should only be used when a fax number is provided and there is no indication as to whether it is a home or business fax.",
+   "Notes": ""
+ },
+ {
+   "Description": "Headquarters Main Phone Number",
+   "Name": "OLI_PHONETYPE_HDQRTRS",
+   "Value": 22,
+   "Definition": "The main phone number for a company or organization's headquarters location.",
+   "Notes": ""
+ },
+ {
+   "Description": "Home",
+   "Name": "OLI_PHONETYPE_HOME",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Home Fax",
+   "Name": "OLI_PHONETYPE_HOMEFAX",
+   "Value": 15,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Marine",
+   "Name": "OLI_PHONETYPE_YACHT",
+   "Value": 6,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mobile",
+   "Name": "OLI_PHONETYPE_MOBILE",
+   "Value": 12,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Modem/data line",
+   "Name": "OLI_PHONETYPE_MODEM",
+   "Value": 14,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pager (beeper)",
+   "Name": "OLI_PHONETYPE_PAGER",
+   "Value": 13,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Previous",
+   "Name": "OLI_PHONETYPE_PREVIOUS",
+   "Value": 28,
+   "Definition": "\"Previous\" where type (Home, Business, etc.) is unknown or not applicable.",
+   "Notes": ""
+ },
+ {
+   "Description": "Primary Phone",
+   "Name": "OLI_PHONETYPE_PRIMARY",
+   "Value": 26,
+   "Definition": "A phone number that has been designated as the primary number for contact by phone.",
+   "Notes": ""
+ },
+ {
+   "Description": "Regional Office",
+   "Name": "OLI_PHONETYPE_REGOFFICE",
+   "Value": 9,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Secondary or Alternate Phone",
+   "Name": "OLI_PHONETYPE_ALTERNATE",
+   "Value": 27,
+   "Definition": "A phone number that has been designated as the secondary or alternate number for contact by phone.",
+   "Notes": ""
+ },
+ {
+   "Description": "Short Message Service (SMS) Text Message",
+   "Name": "OLI_PHONETYPE_SMSTEXT",
+   "Value": 29,
+   "Definition": "Used to designate a phone number that is able to receive SMS text messages.",
+   "Notes": ""
+ },
+ {
+   "Description": "Temporary",
+   "Name": "OLI_PHONETYPE_TEMP",
+   "Value": 11,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Vacation",
+   "Name": "OLI_PHONETYPE_VAC",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ }
+]

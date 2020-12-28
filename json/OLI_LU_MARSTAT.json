@@ -1,0 +1,93 @@
+[
+ {
+   "Description": "Civil Union",
+   "Name": "OLI_MARITAL_CIVILUNION",
+   "Value": 11,
+   "Definition": "A relationship status of an individual who is living with and sharing a common domestic life with a partner in a same sex union that is not a legal marriage or a domestic partnership.",
+   "Notes": ""
+ },
+ {
+   "Description": "Common Law (De facto)",
+   "Name": "OLI_MARITAL_COMMONLAW",
+   "Value": 6,
+   "Definition": "An informal marriage or marriage by habit and repute that is legally recognized in limited jurisdictions to be a legal marriage. It exists as a result of state/local laws governing the establishment of spousal rights by virtue of the amount of time a couple has been living together.",
+   "Notes": ""
+ },
+ {
+   "Description": "Divorced",
+   "Name": "OLI_MARITAL_DIVORCED",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Domestic Partner",
+   "Name": "OLI_MARITAL_DOMESTICPARTNER",
+   "Value": 10,
+   "Definition": "A relationship status of an individual who is living with and sharing a common domestic life with a partner that is not a legal marriage or a civil union.",
+   "Notes": ""
+ },
+ {
+   "Description": "Estranged",
+   "Name": "OLI_MARITAL_ESTRANGED",
+   "Value": 7,
+   "Definition": "When a married couple is not legally separated but is living apart.",
+   "Notes": ""
+ },
+ {
+   "Description": "Head of Household",
+   "Name": "OLI_MARITAL_HEADOFHOUSEHOLD",
+   "Value": 8,
+   "Definition": "Head of Household for tax withholding purposes",
+   "Notes": ""
+ },
+ {
+   "Description": "Legally Separated",
+   "Name": "OLI_MARITAL_SEPARATED",
+   "Value": 5,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Married",
+   "Name": "OLI_MARITAL_MARRIED",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Married, withholding single.",
+   "Name": "OLI_MARITAL_MARRIEDSINGLEWTHHLD",
+   "Value": 9,
+   "Definition": "Married, but withholding at a higher single rate",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Single",
+   "Name": "OLI_MARITAL_SINGLE",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Widowed",
+   "Name": "OLI_MARITAL_WIDOWED",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ }
+]

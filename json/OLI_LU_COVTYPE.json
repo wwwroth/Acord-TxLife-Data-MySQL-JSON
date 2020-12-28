@@ -1,0 +1,884 @@
+[
+ {
+   "Description": "Accelerated Benefit",
+   "Name": "OLI_COVTYPE_ABE",
+   "Value": 147,
+   "Definition": "Benefits available in some life insurance policies before death. Usually triggered by long-term, catastrophic or terminal illness. Also known as living benefits.",
+   "Notes": ""
+ },
+ {
+   "Description": "Accelerated Payment Rider",
+   "Name": "OLI_COVTYPE_ACCPAY",
+   "Value": 153,
+   "Definition": "Permanent insurance that allows the policy to be paid-up rapidly through guaranteed accelerated payments",
+   "Notes": ""
+ },
+ {
+   "Description": "Accidental Death and/or Disability",
+   "Name": "OLI_COVTYPE_ADIB",
+   "Value": 127,
+   "Definition": "Accidental Death and/or Disability Benefit pays out in the event of either one or more events.",
+   "Notes": ""
+ },
+ {
+   "Description": "Accidental Death and Dismemberment",
+   "Name": "OLI_COVTYPE_ADD",
+   "Value": 133,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Accidental Death Benefit",
+   "Name": "OLI_COVTYPE_ACCDTHBENE",
+   "Value": 23,
+   "Definition": "The face amount of a life insurance policy is payable only if the insured dies as the result of an accident. OR It can be sold as a supplementary death benefit rider that provides for an amount of money in addition to the face amount of a life insurance policy. This additional amount is also payable only if the insured dies as the result of an accident.",
+   "Notes": ""
+ },
+ {
+   "Description": "Accidental Disability Benefit",
+   "Name": "OLI_COVTYPE_ACCDISBENE",
+   "Value": 31,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Accidental Fracture",
+   "Name": "OLI_COVTYPE_ACCFRAC",
+   "Value": 154,
+   "Definition": "Covers accidental bone fractures",
+   "Notes": ""
+ },
+ {
+   "Description": "Accumulated Dividend",
+   "Name": "OLI_COVTYPE_ACCUMDIV",
+   "Value": 22,
+   "Definition": "Dividend option under which a policy's dividends are left on deposit with the company to earn interest. Both the interest and accumulated dividends are available to the policyholder for withdrawal at any time.",
+   "Notes": ""
+ },
+ {
+   "Description": "Activities of Daily Living Income Benefit Rider",
+   "Name": "OLI_COVTYPE_INDLIVING",
+   "Value": 159,
+   "Definition": "Rider that provides additional benefits when the insured is ADL disabled.",
+   "Notes": ""
+ },
+ {
+   "Description": "Adjustable Premium Whole Life",
+   "Name": "OLI_COVTYPE_WLADJ",
+   "Value": 152,
+   "Definition": "Adjustable whole life policies are permanent policies that provide lifetime protection but do not offer guaranteed premiums. Adjustable whole life policies ties premium to interest rates.  If interest rates decrease, premiums may adjust upwards. However, if interest rates increase, premiums will do the logical opposite and shift downward.",
+   "Notes": ""
+ },
+ {
+   "Description": "Aids",
+   "Name": "OLI_COVTYPE_AIDS",
+   "Value": 52,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Annuity",
+   "Name": "OLI_COVTYPE_ANNUITY",
+   "Value": 20,
+   "Definition": "a) A series of payments made or received at regular intervals. b) A contract that provides for a series of payments to be made or received at regular intervals. Annuity is valued at fixed rate.",
+   "Notes": ""
+ },
+ {
+   "Description": "Auto Adjust of death benefit for tax exempt status",
+   "Name": "OLI_COVTYPE_AUTOADJUST",
+   "Value": 155,
+   "Definition": "Automatic Adjustment of death benefit for tax exempt status.This option allows for the automatic adjustment of the policy value to the minimum amount necessary to maintain the policy tax exempt status.",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Value Increase",
+   "Name": "OLI_COVTYPE_BUSVALINC",
+   "Value": 146,
+   "Definition": "Automatic increase option that is tied to valuation of the business. As the business value goes up, the face amount of policy increases.",
+   "Notes": ""
+ },
+ {
+   "Description": "Cancer - Stage 0",
+   "Name": "OLI_COVTYPE_PRECANCER",
+   "Value": 144,
+   "Definition": "Benefits payable from Stage 0 cancer.  This form of cancer is characterized as a defined malignant tumour without the invasion of surrounding tissue and may be known as precancer or early cancer.",
+   "Notes": ""
+ },
+ {
+   "Description": "Cancer - Stage 1",
+   "Name": "OLI_COVTYPE_CANCER",
+   "Value": 62,
+   "Definition": "Benefits payable from Stages 1 - 4 cancer, and includes bone marrow disease.",
+   "Notes": ""
+ },
+ {
+   "Description": "Child birth benefit",
+   "Name": "OLI_COVTYPE_CHILDBRTH",
+   "Value": 71,
+   "Definition": "Covers birth defects for future children.",
+   "Notes": ""
+ },
+ {
+   "Description": "Child critical illness",
+   "Name": "OLI_COVTYPE_CHILDCRIT",
+   "Value": 60,
+   "Definition": "Covers a range of critical illnesses, such as cancer, organ transplantation, some severe infections, heart abnormalities",
+   "Notes": ""
+ },
+ {
+   "Description": "Child Term Rider",
+   "Name": "OLI_COVTYPE_CHILDTERM",
+   "Value": 116,
+   "Definition": "Insurance protection that offers level term premiums, level death benefit, and an option to convert at specified times for eligible children.",
+   "Notes": ""
+ },
+ {
+   "Description": "Combined Risk Benefit",
+   "Name": "OLI_COVTYPE_COMBI",
+   "Value": 134,
+   "Definition": "A single benefit that covers multiple risks. This may also be known as a \"combined benefit.\" Typically, this will be used to represent different permutations of combined benefits, eg disability and/or dread disease covered in a single benefit.",
+   "Notes": ""
+ },
+ {
+   "Description": "Compassionate Leave Benefit",
+   "Name": "OLI_COVTYPE_COMPLVBENE",
+   "Value": 157,
+   "Definition": "Covers income loss of the care provider in the event of illness or disability of the insured.",
+   "Notes": ""
+ },
+ {
+   "Description": "Conditional Receipt",
+   "Name": "OLI_COVTYPE_CONDRECEIPT",
+   "Value": 142,
+   "Definition": "In life insurance, a receipt for premiums received from the applicant, typically at the time of sale, which provides conditional insurance coverage as defined in the receipt. The conditional insurance coverage continues until the insurance company either refunds the premium or accepts the risk and issues the policy. Coverage under a Conditional Receipt (as opposed to Temporary Insurance Agreement) is conditional on the person being insured having completed all medical requirements and being insurable on the premium basis applied for. Often, insurance companies only issue conditional receipts up to certain death benefit limits, for example below $250,000.",
+   "Notes": ""
+ },
+ {
+   "Description": "Connective tissue diseases",
+   "Name": "OLI_COVTYPE_CTD",
+   "Value": 63,
+   "Definition": "Covers autoimmune illnesses that cause the body to attack its own joints, vessels or tissues.",
+   "Notes": ""
+ },
+ {
+   "Description": "Cost of Living Adjustment / Inflation Guard",
+   "Name": "OLI_COVTYPE_COLI",
+   "Value": 145,
+   "Definition": "Tied to government index, usually CPI.",
+   "Notes": ""
+ },
+ {
+   "Description": "Credit Mortgage",
+   "Name": "OLI_COVTYPE_CREDITMORT",
+   "Value": 35,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Critical Illness",
+   "Name": "OLI_COVTYPE_CRITILLNESS",
+   "Value": 33,
+   "Definition": "Critical Illness is designed to assist individuals by cover excess expenses (usually beyond what health care or disability insurance would cover) in the event that an individual contracts one of the diseases (usually 5-7 diseases) named in the policy. It usually pay a lump sum upon proof of claim.",
+   "Notes": ""
+ },
+ {
+   "Description": "Critical illness premium waiver",
+   "Name": "OLI_COVTYPE_WPCRIT",
+   "Value": 42,
+   "Definition": "Covers cost of the policy contributions in the event of the principal insured becoming severely ill.",
+   "Notes": ""
+ },
+ {
+   "Description": "Danish Annuity Certain Savings Coverage 175",
+   "Name": "OLI_COVTYPE_DENSAVINGS175",
+   "Value": 104,
+   "Definition": "175 is a Danish Annuity Certain Savings Coverage",
+   "Notes": ""
+ },
+ {
+   "Description": "Danish Death Annuity Certain Coverage 165",
+   "Name": "OLI_COVTYPE_DENDTHANNUITY165",
+   "Value": 108,
+   "Definition": "165 is a death annuity coverage",
+   "Notes": ""
+ },
+ {
+   "Description": "Danish Death Lump Sum Coverage 115",
+   "Name": "OLI_COVTYPE_DENDTHLUMPSUM115",
+   "Value": 109,
+   "Definition": "115 is death Lump sum coverage",
+   "Notes": ""
+ },
+ {
+   "Description": "Danish Deferred Annuity Savings Coverage 216",
+   "Name": "OLI_COVTYPE_DENDEFANNUITY216",
+   "Value": 106,
+   "Definition": "216 is a Danish Deferred Annuity Savings Coverage",
+   "Notes": ""
+ },
+ {
+   "Description": "Danish Deferred Life Annuity Savings Coverage 211",
+   "Name": "OLI_COVTYPE_DENDEFLIFE211",
+   "Value": 105,
+   "Definition": "211 is a Danish Deferred Life Annuity Savings Coverage",
+   "Notes": ""
+ },
+ {
+   "Description": "Danish Guaranteed Life Annuity Coverage 265",
+   "Name": "OLI_COVTYPE_DENGUARLIFEANN265",
+   "Value": 107,
+   "Definition": "265 is a deferred annuity payable on death",
+   "Notes": ""
+ },
+ {
+   "Description": "Danish Lump Sum Savings Coverage 125",
+   "Name": "OLI_COVTYPE_DENSAVINGS125",
+   "Value": 103,
+   "Definition": "125 is a Danish Lump Sum Savings Coverage",
+   "Notes": ""
+ },
+ {
+   "Description": "Disability (Income Protection) - Generic",
+   "Name": "OLI_COVTYPE_DISABILITY",
+   "Value": 14,
+   "Definition": "Health insurance under which benefits are payable in regular installments designed to replace some of the insured's income if he or she becomes unable to work because of an illness or injury where the nature of the disability is unknown or not specified.",
+   "Notes": ""
+ },
+ {
+   "Description": "Disability (Income Protection) - Permanent",
+   "Name": "OLI_COVTYPE_PERMDISABILITY",
+   "Value": 162,
+   "Definition": "Health insurance under which benefits are payable in regular installments designed to replace some of the insured's income if he or she becomes unable to work because of an illness or injury of a permanent nature. Benefits may be payable for a term less than the insured's lifetime. Refer to OLI_COVTYPE_LIFTOTDIS for Lifetime Benefits.",
+   "Notes": ""
+ },
+ {
+   "Description": "Disability (Income Protection) - Temporary",
+   "Name": "OLI_COVTYPE_TEMPDISABILITY",
+   "Value": 161,
+   "Definition": "Health insurance under which benefits are payable in regular installments designed to replace some of the insured's income if he or she becomes unable to work because of an illness or injury of a temporary nature.",
+   "Notes": ""
+ },
+ {
+   "Description": "Disability - Loan Protection",
+   "Name": "OLI_COVTYPE_DIMORTGAGE",
+   "Value": 156,
+   "Definition": "Makes payments towards your mortgage or other long term loan, in the event you are disabled.",
+   "Notes": ""
+ },
+ {
+   "Description": "Dread Disease",
+   "Name": "OLI_COVTYPE_DREADDISEASE",
+   "Value": 17,
+   "Definition": "A type of medical expense policy that is designed to cover only those medical expenses incurred by an insured who has contracted a specified disease, such as cancer, which is named in the policy. Also known as limited coverage policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Dread Disease and Impairment",
+   "Name": "OLI_COVTYPE_DREADIMPAIR",
+   "Value": 122,
+   "Definition": "Cover in the event of either the life assured contracting a dreaded disease or becoming impaired.",
+   "Notes": ""
+ },
+ {
+   "Description": "Education cover",
+   "Name": "OLI_COVTYPE_EDUCATION",
+   "Value": 70,
+   "Definition": "Covers cost of education in the event of the principal insured becoming severely ill, disabled or dies.",
+   "Notes": ""
+ },
+ {
+   "Description": "Endowment",
+   "Name": "OLI_COVTYPE_ENDOWMENT",
+   "Value": 100,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Enhanced cash value option",
+   "Name": "OLI_COVTYPE_ENHANCEDCV",
+   "Value": 151,
+   "Definition": "Provides an enhanced first year cash surrender value if certain premium requirements are met.",
+   "Notes": ""
+ },
+ {
+   "Description": "Enhanced Disability Benefit",
+   "Name": "OLI_COVTYPE_ENHANCEDISABILITY",
+   "Value": 115,
+   "Definition": "Pays the greater of a percentage of the annual target premium OR the monthly charges during the insured's total disability",
+   "Notes": ""
+ },
+ {
+   "Description": "Estate Protector Rider",
+   "Name": "OLI_COVTYPE_ESTATEPROT",
+   "Value": 26,
+   "Definition": "A plan developed with the help of qualified professionals to designate who will inherit your assets and in what amounts. Also, who will care for your children, who will manage the distribution of your assets, and to some extent, taking into consideration federal estate taxes.",
+   "Notes": ""
+ },
+ {
+   "Description": "Excess Interest Life",
+   "Name": "OLI_COVTYPE_EXINTLIFE",
+   "Value": 12,
+   "Definition": "Amount credited to the cash value of an insured's life insurance policy above the minimum interest rate it guarantees. This payment is of extreme importance to a  policy owner since it will directly affect the size of the cash value.",
+   "Notes": ""
+ },
+ {
+   "Description": "Family Income",
+   "Name": "OLI_COVTYPE_FAMILYINC",
+   "Value": 25,
+   "Definition": "A specialized individual policy, which combines whole life insurance with decreasing term insurance. The decreasing term portion of the policy provides an income for a predetermined period to help support the insured's' family.",
+   "Notes": ""
+ },
+ {
+   "Description": "Family Rider",
+   "Name": "OLI_COVTYPE_FAMILY",
+   "Value": 138,
+   "Definition": "This type of coverage provides life insurance coverage on the insured's family, including spouse and children. The coverage provided through such a rider is term insurance and is often sold on the basis of coverage units and does not vary by actual number of individuals covered. Coverage on the child expires when the child reaches a specified age. Future children are automatically insured after birth, legal adoption, legal guardianship, etc. depending on policy provisions.Family riders include the privilege to convert the term part of the contract to permanent insurance, this insurance on dependents will become paid up when the primary insured dies, and there is a decrease in the premium and/or automatic increase in the amount of insurance on the primary insured if his or her spouse dies first.",
+   "Notes": ""
+ },
+ {
+   "Description": "Family Trauma Benefit",
+   "Name": "OLI_COVTYPE_FAMILYTRAUMA",
+   "Value": 132,
+   "Definition": "Accidental, non self-inflicted injury to any area of the body. Family is defined as the principal life, spouse or companion, and children as defined by carrier rule.",
+   "Notes": ""
+ },
+ {
+   "Description": "Female benefit",
+   "Name": "OLI_COVTYPE_FEMCRIT",
+   "Value": 61,
+   "Definition": "Covers female specific critical illness, such as pregnancy complications, female cancers and osteoporosis.",
+   "Notes": ""
+ },
+ {
+   "Description": "Flexible Additional Insurance",
+   "Name": "OLI_COVTYPE_FLEXADDON",
+   "Value": 24,
+   "Definition": "This is actually level term insurance with an option to purchase additional insurance.",
+   "Notes": ""
+ },
+ {
+   "Description": "Funeral Expense",
+   "Name": "OLI_COVTYPE_FUNEXP",
+   "Value": 28,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Future Premium Waiver",
+   "Name": "OLI_COVTYPE_PAIDUP",
+   "Value": 135,
+   "Definition": "This benefit provides for the premiums to cease at a future date (usually at age 65), while all benefits remain active and in force for the balance of the policy term. It is effectively a way to insure future benefits after retirement.",
+   "Notes": ""
+ },
+ {
+   "Description": "Gastrointestinal disease",
+   "Name": "OLI_COVTYPE_GAST",
+   "Value": 66,
+   "Definition": "Covers diseases of the gastrointestinal tract that results in continuous hospitalization, and terminal changes to these organs.",
+   "Notes": ""
+ },
+ {
+   "Description": "Global health care cover",
+   "Name": "OLI_COVTYPE_GLOBHLTH",
+   "Value": 68,
+   "Definition": "Covers the cost of procedures in another country, where the prognosis of recovery is recognized to be better than that in the insured's domicile country.",
+   "Notes": ""
+ },
+ {
+   "Description": "Global Linkage Benefit Guarantee",
+   "Name": "OLI_COVTYPE_GLOBALLINKAGEBENEFIT",
+   "Value": 137,
+   "Definition": "The Global Linkage Benefit Guarantee links the amount of risk coverage provided by other coverages on the contract to the performance of the global market. This is a type of benefit guarantee (or Death Benefit Guarantee) where the guaranteed amount is determined by the global market's growth. At the time of a claim, the amount of risk coverage will be determined by the GREATER of the Global Linkage Benefit Guarantee\" amount (i.e. the CurrentAmt of the Coverage with the LifeCovTypeCode of \"Global Linkage Benefit Guarantee\") OR the benefit amount of the individual Coverage (i.e. the CurrentAmt of the Coverage paying the claim). The coverages that receive this benefit guarantee are not selectable. Rather, the benefit guarantee applies to other coverages on the Policy as defined by the product (i.e. it typically applies to all other coverages on the contract.",
+   "Notes": ""
+ },
+ {
+   "Description": "Group Pension",
+   "Name": "OLI_COVTYPE_PENSION",
+   "Value": 130,
+   "Definition": "It is a grouped retirement fund opposed to a Retirement Annuity which is an individual retirement fund.",
+   "Notes": ""
+ },
+ {
+   "Description": "Guaranteed Insurability",
+   "Name": "OLI_COVTYPE_GIB",
+   "Value": 102,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Guaranteed Survivor Purchase Option",
+   "Name": "OLI_COVTYPE_GUARSURVPURCH",
+   "Value": 15,
+   "Definition": "Gives surviving joint insured on a first to die policy the right to buy insurance after the insured dies, without requiring evidence in insurance.",
+   "Notes": ""
+ },
+ {
+   "Description": "Heart and artery",
+   "Name": "OLI_COVTYPE_HEART",
+   "Value": 58,
+   "Definition": "Covers diseases of the cardiovascular system",
+   "Notes": ""
+ },
+ {
+   "Description": "Hospital and surgical",
+   "Name": "OLI_COVTYPE_HOSPSURG",
+   "Value": 64,
+   "Definition": "Covers disease or damage to the brain, nerves, spinal cord arteries that supply nerves and brain, and neuromuscular junctions.",
+   "Notes": ""
+ },
+ {
+   "Description": "Hospital Expense",
+   "Name": "OLI_COVTYPE_HOSPEXP",
+   "Value": 29,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Indexed Universal Life",
+   "Name": "OLI_COVTYPE_INDXUNIVLIFE",
+   "Value": 10,
+   "Definition": "Policy with a face value or cash value that varies according to a prescribed index of prices; otherwise benefits provided are similar to universal life. The death benefit is based on the particular index used, such as the Consumer Price Index (CPI).",
+   "Notes": ""
+ },
+ {
+   "Description": "Interest Sensitive Whole Life",
+   "Name": "OLI_COVTYPE_INTSENSITIVEWL",
+   "Value": 5,
+   "Definition": "Whole life policies, which vary the premium rate to reflect changing assumptions   regarding mortality, investment, and expense factors: these policies also specify  that the cash value can be greater than that guaranteed if changing assumptions warrant such  an increase. Also known as \"Current Assumption Whole Life\".",
+   "Notes": ""
+ },
+ {
+   "Description": "Joint Last to Die Conversion Option",
+   "Name": "OLI_COVTYPE_JNTLASTCOVOPTION",
+   "Value": 164,
+   "Definition": "This allows for the policy to be converted from 'First to Die' to 'Last to Die' after policy issue.",
+   "Notes": ""
+ },
+ {
+   "Description": "Joint Partial Payout Death Benefit",
+   "Name": "OLI_COVTYPE_JNTPARTDEATHBENE",
+   "Value": 163,
+   "Definition": "This coverage provides a partial payout of policy value when the first insured dies on a 'Joint Last To Die' policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Life Linked Investment",
+   "Name": "OLI_COVTYPE_LISP",
+   "Value": 131,
+   "Definition": "This is a plan of which the savings element is invested under a LISP (Linked Investment Service Provider) licence in Unit Trusts and Shares that is also subject to Capital Gains Tax in the hands of the investor. However there could also be risk benefits included in this plan that is then sold under the LIFE licence. It is therefore a combination of LISP savings with LIFE risk benefits that is sold as one product.",
+   "Notes": ""
+ },
+ {
+   "Description": "Lifetime Total Disability",
+   "Name": "OLI_COVTYPE_LIFTOTDIS",
+   "Value": 32,
+   "Definition": "Provision in some disability income policies that provides a monthly benefit to a total disabled insured for the lifetime according to the definition of disability in the policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Long Term Care",
+   "Name": "OLI_COVTYPE_LTC",
+   "Value": 16,
+   "Definition": "This is a day-to-day care that the patient (generally older than 65) receives in a nursing facility or in his or her residence following an illness or injury, or in old age, such that the patient can no longer perform at least two of the five basic activities of daily living: walking, eating, dressing, using the bathroom, and mobility from one place to another.",
+   "Notes": ""
+ },
+ {
+   "Description": "Long Term Care Accelerated Benefit Option",
+   "Name": "OLI_COVTYPE_LTCABO",
+   "Value": 150,
+   "Definition": "Defined as an accelerated cash value benefit for long term care expenses.",
+   "Notes": ""
+ },
+ {
+   "Description": "Maternity Leave Income",
+   "Name": "OLI_COVTYPE_MATERNITY",
+   "Value": 140,
+   "Definition": "Provides benefits for the life assured if they are on maternity leave (irrespective of the outcome of the pregnancy).",
+   "Notes": ""
+ },
+ {
+   "Description": "Medical (health coverage) expense",
+   "Name": "OLI_COVTYPE_MEDEXP",
+   "Value": 30,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Medical aid premium waiver",
+   "Name": "OLI_COVTYPE_WPMED",
+   "Value": 43,
+   "Definition": "Covers cost of medical aid contributions in the event of the principal insured becoming severely ill, disabled or dies",
+   "Notes": ""
+ },
+ {
+   "Description": "Nervous system disease",
+   "Name": "OLI_COVTYPE_NERV",
+   "Value": 65,
+   "Definition": "Covers disease or damage to the brain, nerves, spinal cord arteries that supply nerves and brain, and neuromuscular junctions.",
+   "Notes": ""
+ },
+ {
+   "Description": "Open Investment for Retirement",
+   "Name": "OLI_COVTYPE_OPENINVESTMENTRETIRE",
+   "Value": 51,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Open Investment Option",
+   "Name": "OLI_COVTYPE_OPENINVESTMENT",
+   "Value": 50,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Overhead Expense",
+   "Name": "OLI_COVTYPE_OVREXP",
+   "Value": 27,
+   "Definition": "Insurance for business owners to help offset continuing business expenses if the owner is   disabled. OR Type of disability income policy used to provide funds for the ongoing monthly   business expenses (such as employee salaries, utility charges, rent, and  equipment payment due) necessary to maintain continuing operations in the event an  owner/key person becomes disabled. Generally, there is a 60-day elimination period after  which monthly income payments commence until a stipulated aggregate limit has been  reached.",
+   "Notes": ""
+ },
+ {
+   "Description": "Pays in event of Comprehensive Dread Diseases during Term",
+   "Name": "OLI_COVTYPE_TERMDREADCOMP",
+   "Value": 57,
+   "Definition": "This cover applies to Disability payments in event of Comprehensive Dread Disease - as a Stand-alone benefit for a specific term.tc=17 Dread disease is used for Core Dread disease",
+   "Notes": ""
+ },
+ {
+   "Description": "Pays in event of functional impairment",
+   "Name": "OLI_COVTYPE_FUNCIMP",
+   "Value": 56,
+   "Definition": "This applies to Disability payments in event of Functional impairment - as a Stand-alone benefit",
+   "Notes": ""
+ },
+ {
+   "Description": "Pays in event of Own and/or Similar Occupation Disability",
+   "Name": "OLI_COVTYPE_DISSIMOCC",
+   "Value": 55,
+   "Definition": "This applies to disability payments in event of Disability to exercise Regular and/ or Similar Occupation as a Stand-alone benefit",
+   "Notes": ""
+ },
+ {
+   "Description": "Pays in event of Own Occupation Disability",
+   "Name": "OLI_COVTYPE_DISREGOCC",
+   "Value": 54,
+   "Definition": "This applies to disability payments in event of Disability to exercise his/her Regular (Own) Occupation as a Stand-alone benefit",
+   "Notes": ""
+ },
+ {
+   "Description": "Permanent or Partial Incapacity",
+   "Name": "OLI_COVTYPE_PPINC",
+   "Value": 123,
+   "Definition": "Permanent or Partial Combination benefit that covers permanent incapacity and or partial incapacitation. Payments made in respect of this policy can be temporary and/or permanent duration of the incapacity. This benefit can be freestanding (base benefit) or a rider.",
+   "Notes": ""
+ },
+ {
+   "Description": "Premium Lock In Benefit",
+   "Name": "OLI_COVTYPE_LOCK",
+   "Value": 136,
+   "Definition": "This benefit allows for all premium increases and benefit increases to cease at a future date (usually at age 65). It locks the premium and Benefits at that future date.",
+   "Notes": ""
+ },
+ {
+   "Description": "Preservation Pension Fund",
+   "Name": "OLI_COVTYPE_PRES_PENFND",
+   "Value": 124,
+   "Definition": "At retirement, a member may take up to one third of the capital as a lump sum. The remaining two thirds must be used to provide a pension for life. Tax is deducted at retirement. A member can make one taxable ad hoc withdrawal from the fund before retirement.",
+   "Notes": ""
+ },
+ {
+   "Description": "Preservation Provident Fund",
+   "Name": "OLI_COVTYPE_PRES_PROVFND",
+   "Value": 125,
+   "Definition": "At retirement, a member may take the full proceeds as a lump sum. Member may purchase a Life Annuity with the proceeds or after tax has been deducted, one may also invest the lump sum. A member can make one taxable ad hoc withdrawal from the fund before retirement.",
+   "Notes": ""
+ },
+ {
+   "Description": "Provident Fund",
+   "Name": "OLI_COVTYPE_PROVIDENT",
+   "Value": 129,
+   "Definition": "It is a grouped retirement fund opposed to an individual endowment policy. The tax implication for the proceeds of provident fund and a provident owned endowment policy differs from that of an individual endowment policy",
+   "Notes": ""
+ },
+ {
+   "Description": "PUA Dividends",
+   "Name": "OLI_COVTYPE_PUADIV",
+   "Value": 19,
+   "Definition": "An option under a participating life insurance policy by which the policy owner can elect to have the dividends purchase paid-up increments of permanent insurance.",
+   "Notes": ""
+ },
+ {
+   "Description": "PUA Rider",
+   "Name": "OLI_COVTYPE_PUARIDER",
+   "Value": 18,
+   "Definition": "A life insurance option plan under which all premiums have already been paid, with no further premium payment due.",
+   "Notes": ""
+ },
+ {
+   "Description": "PVT WS Loss of Sight or Limb",
+   "Name": "OLI_COVTYPE_SIGHTLIMB",
+   "Value": 37,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Renewal Protection Rider",
+   "Name": "OLI_COVTYPE_RENPROT",
+   "Value": 166,
+   "Definition": "Allows the client to pay an additional premium today in exchange for lower renewal premiums without the benefit",
+   "Notes": ""
+ },
+ {
+   "Description": "Respiratory disease",
+   "Name": "OLI_COVTYPE_RESP",
+   "Value": 67,
+   "Definition": "Covers impairment of lung function, excluding pulmonary embolus.",
+   "Notes": ""
+ },
+ {
+   "Description": "Retirement Annuity",
+   "Name": "OLI_COVTYPE_RETANNUITY",
+   "Value": 101,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Retrenchment Benefit",
+   "Name": "OLI_COVTYPE_RETRENCH",
+   "Value": 126,
+   "Definition": "An income replacement type benefit should the client become retrenched from his job (unemployed).This benefit is sold as a standalone OR it can be sold as a supplementary benefit.",
+   "Notes": ""
+ },
+ {
+   "Description": "Return of Premium - End of Specified Term",
+   "Name": "OLI_COVTYPE_ROPT",
+   "Value": 139,
+   "Definition": "As defined by the contract, Return of Premium provides for the return of eligible premiums at the end of a defined period, if the insured is still living and the policy is in force.",
+   "Notes": ""
+ },
+ {
+   "Description": "Return of Premium on Death",
+   "Name": "OLI_COVTYPE_COSTREC",
+   "Value": 148,
+   "Definition": "Term insurance rider whose death benefit is equal to the eligible cumulative premiums paid to the policy purpose being if a person dies in any given year, you get back all the premiums. Also known as Cost Recovery.",
+   "Notes": ""
+ },
+ {
+   "Description": "Return of Premium on First Death",
+   "Name": "OLI_COVTYPE_COSTREC1ST",
+   "Value": 167,
+   "Definition": "For joint life policies, the eligible cumulative premium is returned upon the death of the first person. Also known as Cost Recovery.",
+   "Notes": ""
+ },
+ {
+   "Description": "Return of Premium on Second Death",
+   "Name": "OLI_COVTYPE_COSTREC2ND",
+   "Value": 168,
+   "Definition": "For joint life policies, the eligible cumulative premium is returned upon the death of the second person. Also known as Cost Recovery.",
+   "Notes": ""
+ },
+ {
+   "Description": "Return of Premium on Surrender",
+   "Name": "OLI_COVTYPE_MBGUAR",
+   "Value": 149,
+   "Definition": "On a full surrender, the return of eligible premiums (initial, unplanned, and any Benefit Increase premiums). Also known as Money Back Guarantee.",
+   "Notes": ""
+ },
+ {
+   "Description": "Sale of Business Facilitation",
+   "Name": "OLI_COVTYPE_SALEBUS",
+   "Value": 160,
+   "Definition": "Provides a lump sum payment to pay the expenses of the sale of the client's business in the event of long term disability.",
+   "Notes": ""
+ },
+ {
+   "Description": "Second Event Rider",
+   "Name": "OLI_COVTYPE_SECEVT",
+   "Value": 158,
+   "Definition": "Allows for the claim and payment of one additional Critical Illness claim (for example, Life-Threatening Cancer or Heart Attack) on the policy when Life-Threatening Cancer or Heart Attack was the reason for the initial claim payment.",
+   "Notes": ""
+ },
+ {
+   "Description": "Sickness Benefit",
+   "Name": "OLI_COVTYPE_SICKBEN",
+   "Value": 121,
+   "Definition": "This benefit covers any sickness which prevents the client from working for any given period. The sickness does not have to be critical or permanent in nature.",
+   "Notes": ""
+ },
+ {
+   "Description": "Spouse or Child Critical Illness",
+   "Name": "OLI_COVTYPE_SPOUSECHILD",
+   "Value": 143,
+   "Definition": "Pays a benefit amount, for example by some carriers up to six times the benefit amount specified on the qualifying coverage, if the life assureds' spouse or child meets specified critical illness claims criteria.",
+   "Notes": ""
+ },
+ {
+   "Description": "Supplemental Protection Rider",
+   "Name": "OLI_COVTYPE_SPR",
+   "Value": 165,
+   "Definition": "Rider that allows insured to add an additional layer of (non-commissionable) face amount with lower charges. This is similar to a term rider but not considered term insurance. It provides coverage for the life of the contract; when a death claim is made, this rider pays an additional amount.",
+   "Notes": ""
+ },
+ {
+   "Description": "Temporary Insurance Agreement",
+   "Name": "OLI_COVTYPE_TIA",
+   "Value": 141,
+   "Definition": "This is a receipt for premiums received with a term or permanent life insurance application, which provides temporary insurance coverage as defined in the receipt. Coverage usually continues until the insurance company either refunds the premium or accepts the risk and issues the policy. Coverage is not usually conditional on completing the medical requirements or being insurable on the premium basis applied for. Often insurance companies only issue Temporary Insurance agreements up to certain death benefit limits (such as below $250,000).",
+   "Notes": ""
+ },
+ {
+   "Description": "Term Decreasing Death Benefit",
+   "Name": "OLI_COVTYPE_TERMDECREASE",
+   "Value": 7,
+   "Definition": "Amount payable, as stated in a term decreasing policy, upon the death of the insured. This is the value of the policy that declines by a stipulated amount over the term of the policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Term Increasing Death Benefit",
+   "Name": "OLI_COVTYPE_TERMINCREASE",
+   "Value": 8,
+   "Definition": "Amount payable, as stated in a term increasing policy, upon the death of the insured. This is the value of the policy that increases by a stipulated amount over the term of the policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Term Level Death Benefit",
+   "Name": "OLI_COVTYPE_TERMLEVEL",
+   "Value": 6,
+   "Definition": "Amount payable, as stated in a term policy, upon the death of the insured. This is the face value of the   policy, less any outstanding loans and the interest accrued there on.",
+   "Notes": ""
+ },
+ {
+   "Description": "Universal Life",
+   "Name": "OLI_COVTYPE_UNIVLIFE",
+   "Value": 9,
+   "Definition": "Adjustable life insurance under which(1) premiums are flexible, not fixed; (2) protection is adjustable, not fixed;(3) insurance company expenses and other charges are specifically disclosed to a purchaser.",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Urogenital tract and kidney",
+   "Name": "OLI_COVTYPE_KIDNEY",
+   "Value": 59,
+   "Definition": "Covers disorders of the urogenital tract or kidney, requiring ongoing therapy or major surgery",
+   "Notes": ""
+ },
+ {
+   "Description": "Variable Annuity",
+   "Name": "OLI_COVTYPE_VARANNUITY",
+   "Value": 53,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Variable Universal Life",
+   "Name": "OLI_COVTYPE_VARUNIVLIFE",
+   "Value": 11,
+   "Definition": "A form of whole life that combines the premium and face amount flexibility of universal life with the investment flexibility and risk of variable life insurance. Also known as \"universal life II\" or \"flexible-premium variable life policies.\"",
+   "Notes": ""
+ },
+ {
+   "Description": "Variable Whole Life",
+   "Name": "OLI_COVTYPE_VARWLIFE",
+   "Value": 13,
+   "Definition": "The face value and the cash value of the policy fluctuate according to the investment performance of a separate account fund.",
+   "Notes": ""
+ },
+ {
+   "Description": "Vitality health",
+   "Name": "OLI_COVTYPE_VITALITY",
+   "Value": 69,
+   "Definition": "Additional benefit that allows for intermittent reduction in risk rates for proof that the insured pro-actively maintains good health / improves their health.",
+   "Notes": ""
+ },
+ {
+   "Description": "Waiver of Monthly Deductions (WMD)",
+   "Name": "OLI_COVTYPE_WAIVMONTHDEDUCT",
+   "Value": 114,
+   "Definition": "In flexible premium policies, the WMD rider causes the monthly deductions of the policy to be waived upon the disability of the primary insured.The WMD rider also keeps no lapse guarantee provisions in effect.",
+   "Notes": ""
+ },
+ {
+   "Description": "Waiver of scheduled (planned) premiums",
+   "Name": "OLI_COVTYPE_WAIVSCHED",
+   "Value": 21,
+   "Definition": "\"Waiver of scheduled (planned) premiums\" (WSP or WPP) is not really a waiver rider at all, but rather a disability income coverage whose benefit is assigned back to the insurance company for the purpose of paying the policy's premium (including the \"planned\" investment component, or \"excess premium\"). The purpose of this rider is not only to keep the insurance in force, but also to keep the insured's investment objectives on track.         This type of rider is typically used for products that have a flexible premium structure, such as Universal Life and Variable Universal Life.",
+   "Notes": ""
+ },
+ {
+   "Description": "Waiver on 50% Disability",
+   "Name": "OLI_COVTYPE_DENWVRDISAB50",
+   "Value": 110,
+   "Definition": "Full waiver of premium with minimum 50% disability.",
+   "Notes": ""
+ },
+ {
+   "Description": "Waiver on 66% Disability",
+   "Name": "OLI_COVTYPE_DENWVRDISAB66",
+   "Value": 111,
+   "Definition": "Half waiver of premium with between 50-66% disability and whole waiver of premium with disability over 66%.",
+   "Notes": ""
+ },
+ {
+   "Description": "Waiver on Death",
+   "Name": "OLI_COVTYPE_WAIVERDEATH",
+   "Value": 40,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Waiver on Disability",
+   "Name": "OLI_COVTYPE_WAIVERDISABILITY",
+   "Value": 41,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Waiver on Retrench",
+   "Name": "OLI_COVTYPE_WAIVERRETRENCH",
+   "Value": 128,
+   "Definition": "Premium waiver in the event of someone being Retrenched (losing their job). Covers cost of the policy contributions in the event of the policy payer losing his/her job (unemployed).",
+   "Notes": ""
+ },
+ {
+   "Description": "Whole Life Graded Premium",
+   "Name": "OLI_COVTYPE_WLGRADPREM",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Whole Life Limited Pay",
+   "Name": "OLI_COVTYPE_WLLIMITEDPAY",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Whole Life Modified",
+   "Name": "OLI_COVTYPE_WLMODIFIED",
+   "Value": 2,
+   "Definition": "Two methods of modifying whole life policies are: a) Modified premiums: A modified-premium whole life policy functions in the same manner as a traditional whole life policy except that the policy-owner pays a lower premium for a specified initial period (such as five years) than the policy owner would normally pay for a similar whole life policy that was not issued on a modified-premium plan. After the specified period, the premium increases to a stated amount that is somewhat higher than the usual  (nonmodified) premium would have been. The face amount of the policy remains level  during the entire period. This specified period is represented in the 'duration design' property in the OLifE model. b) Modified amount of coverage: It is based on the assumption that the need for large amounts of life insurance is likely to diminish, as the insured person grows older.",
+   "Notes": ""
+ },
+ {
+   "Description": "Whole Life Ordinary",
+   "Name": "OLI_COVTYPE_WLORDINARY",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ }
+]

@@ -1,0 +1,1066 @@
+[
+ {
+   "Description": "Accountant",
+   "Name": "OLI_RELDESC_ACCOUNTANT",
+   "Value": 77,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Account Specialist",
+   "Name": "OLI_RELDESC_ACCTSPEC",
+   "Value": 98,
+   "Definition": "Account Specialist is the carrier employee responsible for administering the group insurance customer's case information. The group insurance customer is the employer organization or company, and their case information includes such items as contacts, situs information, and Experience Groupings.",
+   "Notes": ""
+ },
+ {
+   "Description": "Administrative Unit",
+   "Name": "OLI_RELDESC_ADMINUNIT",
+   "Value": 99,
+   "Definition": "An organization responsible for the administration of a particular product or some other aspect of a customer relationship.",
+   "Notes": ""
+ },
+ {
+   "Description": "Adopted Daughter",
+   "Name": "OLI_RELDESC_ADOPTDAUGHTER",
+   "Value": 102,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Adopted Son",
+   "Name": "OLI_RELDESC_ADOPTSON",
+   "Value": 103,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Adoptive Brother",
+   "Name": "OLI_RELDESC_ADOPTIVEBROTHER",
+   "Value": 114,
+   "Definition": "Brother in an adoptive family. This is typically a natural male child or another adopted male child of a set of adoptive parents that becomes the brother of an adopted child once the adoption is complete.",
+   "Notes": ""
+ },
+ {
+   "Description": "Adoptive Father",
+   "Name": "OLI_RELDESC_ADOPTFATHER",
+   "Value": 105,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Adoptive Mother",
+   "Name": "OLI_RELDESC_ADOPTMOTHER",
+   "Value": 104,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Adoptive Sister",
+   "Name": "OLI_RELDESC_ADOPTIVESISTER",
+   "Value": 115,
+   "Definition": "Sister in an adoptive family. This is typically a natural female child or another adopted female child of a set of adoptive parents that becomes the sister of an adopted child once the adoption is complete.",
+   "Notes": ""
+ },
+ {
+   "Description": "Attorney",
+   "Name": "OLI_RELDESC_ATTORNEY",
+   "Value": 42,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Auditor",
+   "Name": "OLI_RELDESC_AUDITOR",
+   "Value": 43,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Aunt",
+   "Name": "OLI_RELDESC_AUNT",
+   "Value": 31,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Aunt-in-law",
+   "Name": "OLI_RELDESC_AUNTINLAW",
+   "Value": 135,
+   "Definition": "Aunt-in-law.",
+   "Notes": ""
+ },
+ {
+   "Description": "Benefits Administrator",
+   "Name": "OLI_RELDESC_BENADMIN",
+   "Value": 97,
+   "Definition": "Benefits Administrator is the group insurance customer's representative designated as the individual or organization who administers the benefit plan being purchased from the carrier and offered to the employee population.",
+   "Notes": ""
+ },
+ {
+   "Description": "Bookkeeper",
+   "Name": "OLI_RELDESC_BOOKKEEPER",
+   "Value": 44,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Boy Friend",
+   "Name": "OLI_RELDESC_BOYFRIEND",
+   "Value": 88,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Brother",
+   "Name": "OLI_RELDESC_BROTHER",
+   "Value": 7,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Brother-in-law",
+   "Name": "OLI_RELDESC_BROTHINLW",
+   "Value": 25,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Accountant",
+   "Name": "OLI_RELDESC_BUSACCOUNTANT",
+   "Value": 84,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Attorney",
+   "Name": "OLI_RELDESC_BUSATTORNEY",
+   "Value": 86,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business CPA",
+   "Name": "OLI_RELDESC_BUSCPA",
+   "Value": 85,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Insurance Advisor",
+   "Name": "OLI_RELDESC_BUSINSADVISOR",
+   "Value": 83,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chairman of the Board",
+   "Name": "OLI_RELDESC_COB",
+   "Value": 46,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Charitable Advisor",
+   "Name": "OLI_RELDESC_CHARITABLEADVISOR",
+   "Value": 82,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chief Executive Officer",
+   "Name": "OLI_RELDESC_CEO",
+   "Value": 47,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chief Financial Officer",
+   "Name": "OLI_RELDESC_CFO",
+   "Value": 48,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chief Information Officer",
+   "Name": "OLI_RELDESC_CIO",
+   "Value": 50,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chief Operating Officer",
+   "Name": "OLI_RELDESC_COO",
+   "Value": 49,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Common Law Husband",
+   "Name": "OLI_RELDESC_COMMLAWHUSB",
+   "Value": 62,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Common Law Wife",
+   "Name": "OLI_RELDESC_COMMLAWWIFE",
+   "Value": 61,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Companion",
+   "Name": "OLI_RELDESC_COMPANION",
+   "Value": 119,
+   "Definition": "Relates the companion holding to the associated holding",
+   "Notes": ""
+ },
+ {
+   "Description": "Consultant",
+   "Name": "OLI_RELDESC_CONSULTANT",
+   "Value": 45,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cousin (Female cousin - non English)",
+   "Name": "OLI_RELDESC_FEMCOUSIN",
+   "Value": 95,
+   "Definition": "When used in non-English language context, this implies a female cousin. In English speaking context, no gender is implied.",
+   "Notes": ""
+ },
+ {
+   "Description": "Cousin (Male cousin - non English)",
+   "Name": "OLI_RELDESC_COUSIN",
+   "Value": 29,
+   "Definition": "When used in non-English language context, this implies a male cousin. In English speaking context, no gender is implied.",
+   "Notes": ""
+ },
+ {
+   "Description": "CPA",
+   "Name": "OLI_RELDESC_CPA",
+   "Value": 78,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Custodian",
+   "Name": "OLI_RELDESC_CUSTODIAN",
+   "Value": 92,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Daughter",
+   "Name": "OLI_RELDESC_DAUGHTER",
+   "Value": 6,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Daughter-in-law",
+   "Name": "OLI_RELDESC_DAUGHINLW",
+   "Value": 24,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Day-to-day Contact",
+   "Name": "OLI_RELDESC_DAYCONTACT",
+   "Value": 96,
+   "Definition": "Day-to-day Contact is the group insurance customer's representative designated as the individual to be contacted for any questions or normal activity requirements around the management of the relationship between the carrier and the customer. The group insurance customer is the employer organization or company, and the Day-to-day contact is generally an individual rather than an organization, but exceptions to that do exist.",
+   "Notes": ""
+ },
+ {
+   "Description": "Estate Agent",
+   "Name": "OLI_RELDESC_ESTATEAGENT",
+   "Value": 53,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Estate Planner",
+   "Name": "OLI_RELDESC_ESTATEPLANNER",
+   "Value": 81,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Executive",
+   "Name": "OLI_RELDESC_EXECUTIVE",
+   "Value": 41,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ex-husband",
+   "Name": "OLI_RELDESC_EXHUSBAND",
+   "Value": 9,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "External Replacement",
+   "Name": "OLI_RELDESC_EXTERNAL",
+   "Value": 107,
+   "Definition": "This is the general term for an External Replacement.",
+   "Notes": ""
+ },
+ {
+   "Description": "Ex-wife",
+   "Name": "OLI_RELDESC_EXWIFE",
+   "Value": 10,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Father",
+   "Name": "OLI_RELDESC_FATHER",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Father-in-law",
+   "Name": "OLI_RELDESC_FATHINLW",
+   "Value": 21,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fiancée (engaged female)",
+   "Name": "OLI_RELDESC_FIANCEE",
+   "Value": 90,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fianc‚ (engaged male)",
+   "Name": "OLI_RELDESC_FIANCE",
+   "Value": 60,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Finance Purchase",
+   "Name": "OLI_RELDESC_FINPURCH",
+   "Value": 108,
+   "Definition": "The policy is being replaced as a result of a Finance Purchase.",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial Advisor",
+   "Name": "OLI_RELDESC_FINANADVISOR",
+   "Value": 79,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Formal",
+   "Name": "OLI_RELDESC_FORMAL",
+   "Value": 118,
+   "Definition": "Relates the formal holding to the associated holding.",
+   "Notes": ""
+ },
+ {
+   "Description": "Former Brother-in-law",
+   "Name": "OLI_RELDESC_FORMERBROTHERINLAW",
+   "Value": 134,
+   "Definition": "A previous brother-in-law during one's lifetime, typically following the divorce or death of a sibling.",
+   "Notes": ""
+ },
+ {
+   "Description": "Former Daughter-in-law",
+   "Name": "OLI_RELDESC_FORMERDAUGHTRINLAW",
+   "Value": 131,
+   "Definition": "A previous daughter-in-law during one's lifetime, typically following the divorce or death of a son.",
+   "Notes": ""
+ },
+ {
+   "Description": "Former Father-in-law",
+   "Name": "OLI_RELDESC_FORMERFATHERINLAW",
+   "Value": 130,
+   "Definition": "A previous father-in-law during one's lifetime, typically following the divorce or death of a spouse.",
+   "Notes": ""
+ },
+ {
+   "Description": "Former Mother-in-law",
+   "Name": "OLI_RELDESC_FORMERMOTHERINLAW",
+   "Value": 120,
+   "Definition": "A previous mother-in-law during one's lifetime, typically following the divorce or death of a spouse.",
+   "Notes": ""
+ },
+ {
+   "Description": "Former Sister-in-law",
+   "Name": "OLI_RELDESC_FORMERSISTERINLAW",
+   "Value": 133,
+   "Definition": "A previous sister-in-law during one's lifetime, typically following the divorce or death of a sibling.",
+   "Notes": ""
+ },
+ {
+   "Description": "Former Son-in-law",
+   "Name": "OLI_RELDESC_FORMERSONINLAW",
+   "Value": 132,
+   "Definition": "A previous son-in-law during one's lifetime, typically following the divorce or death of a daughter.",
+   "Notes": ""
+ },
+ {
+   "Description": "Former Step Brother",
+   "Name": "OLI_RELDESC_FORMERSTEPBROTHER",
+   "Value": 128,
+   "Definition": "A previous step brother during one's lifetime, typically following the divorce or death of a parent.",
+   "Notes": ""
+ },
+ {
+   "Description": "Former Step Daughter",
+   "Name": "OLI_RELDESC_FORMERSTEPDAUGHTER",
+   "Value": 125,
+   "Definition": "A previous step daughter during one's lifetime, typically following the divorce or death of a spouse.",
+   "Notes": ""
+ },
+ {
+   "Description": "Former Step Father",
+   "Name": "OLI_RELDESC_FORMERSTEPFATHER",
+   "Value": 124,
+   "Definition": "A previous husband of one's mother during one's lifetime, other than one's father, typically following the divorce or death of the father.",
+   "Notes": ""
+ },
+ {
+   "Description": "Former Step Mother",
+   "Name": "OLI_RELDESC_FORMERSTEPMOTHER",
+   "Value": 123,
+   "Definition": "A previous wife of one's father during one's lifetime, other than one's mother, typically following the divorce or death of the mother.",
+   "Notes": ""
+ },
+ {
+   "Description": "Former Step Sister",
+   "Name": "OLI_RELDESC_FORMERSTEPSISTER",
+   "Value": 136,
+   "Definition": "A previous step sister during one's lifetime, typically following the divorce or death of a parent.",
+   "Notes": ""
+ },
+ {
+   "Description": "Former Step Son",
+   "Name": "OLI_RELDESC_FORMERSTEPSON",
+   "Value": 126,
+   "Definition": "A previous step son during one's lifetime, typically following the divorce or death of a spouse.",
+   "Notes": ""
+ },
+ {
+   "Description": "Foster Brother",
+   "Name": "OLI_RELDESC_FOSTERBROTHER",
+   "Value": 75,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Foster Daughter",
+   "Name": "OLI_RELDESC_FOSTERDAUGH",
+   "Value": 72,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Foster Father",
+   "Name": "OLI_RELDESC_FOSTERFATHER",
+   "Value": 73,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Foster Mother",
+   "Name": "OLI_RELDESC_FOSTERMOTHER",
+   "Value": 74,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Foster Sister",
+   "Name": "OLI_RELDESC_FOSTERSISTER",
+   "Value": 76,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Foster Son",
+   "Name": "OLI_RELDESC_FOSTERSON",
+   "Value": 71,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "General Manager",
+   "Name": "OLI_RELDESC_GENMANAGER",
+   "Value": 38,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Girl Friend",
+   "Name": "OLI_RELDESC_GIRLFRIEND",
+   "Value": 89,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "God Daughter",
+   "Name": "OLI_RELDESC_GODDAUGHTER",
+   "Value": 56,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "God Father",
+   "Name": "OLI_RELDESC_GODFATHER",
+   "Value": 34,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "God Mother",
+   "Name": "OLI_RELDESC_GODMOTHER",
+   "Value": 35,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "God Son",
+   "Name": "OLI_RELDESC_GODSON",
+   "Value": 55,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Granddaughter",
+   "Name": "OLI_RELDESC_GRANDDAUGH",
+   "Value": 20,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Granddaughter-in-law",
+   "Name": "OLI_RELDESC_GRANDDAUGHTERINLAW",
+   "Value": 144,
+   "Definition": "The wife of one's grandson.",
+   "Notes": ""
+ },
+ {
+   "Description": "Grandfather",
+   "Name": "OLI_RELDESC_GRANDFATH",
+   "Value": 17,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Grandmother",
+   "Name": "OLI_RELDESC_GRANDMOTH",
+   "Value": 18,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Grand Nephew",
+   "Name": "OLI_RELDESC_GRANDNEPH",
+   "Value": 65,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Grandnephew-in-law",
+   "Name": "OLI_RELDESC_GRANDNEPHEWINLAW",
+   "Value": 127,
+   "Definition": "The son of one's nephew or niece, grandson of one's sister or brother.",
+   "Notes": ""
+ },
+ {
+   "Description": "Grand Niece",
+   "Name": "OLI_RELDESC_GRANDNIECE",
+   "Value": 66,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Grandniece-in-law",
+   "Name": "OLI_RELDESC_GRANDNIECEINLAW",
+   "Value": 129,
+   "Definition": "The daughter of one's nephew/niece, granddaughter of one's sister or brother.",
+   "Notes": ""
+ },
+ {
+   "Description": "Grandson",
+   "Name": "OLI_RELDESC_GRANDSON",
+   "Value": 19,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Grandson-in-law",
+   "Name": "OLI_RELDESC_GRANDSONINLAW",
+   "Value": 122,
+   "Definition": "The husband of one's granddaughter.",
+   "Notes": ""
+ },
+ {
+   "Description": "Great Aunt (Grandaunt)",
+   "Name": "OLI_RELDESC_GREATAUNT",
+   "Value": 63,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Great Granddaughter",
+   "Name": "OLI_RELDESC_GREATGRANDDAUGH",
+   "Value": 68,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Great Grandfather",
+   "Name": "OLI_RELDESC_GREATGRANDFATH",
+   "Value": 69,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Great Grandmother",
+   "Name": "OLI_RELDESC_GREATGRANDMOTH",
+   "Value": 70,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Great Grandson",
+   "Name": "OLI_RELDESC_GREATGRANDSON",
+   "Value": 67,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Great Uncle (Granduncle)",
+   "Name": "OLI_RELDESC_GREATUNCLE",
+   "Value": 64,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Group Conversion",
+   "Name": "OLI_RELDESC_GROUPCONV",
+   "Value": 111,
+   "Definition": "The replaced policy is from a group conversion.",
+   "Notes": ""
+ },
+ {
+   "Description": "Guaranteed Purchase Option",
+   "Name": "OLI_RELDESC_GPO",
+   "Value": 110,
+   "Definition": "The policy is being replaced as a result of a Guaranteed Purchase Option.",
+   "Notes": ""
+ },
+ {
+   "Description": "Half Brother",
+   "Name": "OLI_RELDESC_HALF_BROTHER",
+   "Value": 27,
+   "Definition": "Have one parent in common. For example, same mother, different fathers.",
+   "Notes": ""
+ },
+ {
+   "Description": "Half Sister",
+   "Name": "OLI_RELDESC_HALF_SISTER",
+   "Value": 28,
+   "Definition": "Have one parent in common. For example, same mother, different fathers.",
+   "Notes": ""
+ },
+ {
+   "Description": "Housekeeper",
+   "Name": "OLI_RELDESC_HOUSEKEEPER",
+   "Value": 116,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Husband",
+   "Name": "OLI_RELDESC_HUSBAND",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Informal",
+   "Name": "OLI_RELDESC_INFORMAL",
+   "Value": 117,
+   "Definition": "Relates the informal holding to the associated holding.",
+   "Notes": ""
+ },
+ {
+   "Description": "Internal Replacement",
+   "Name": "OLI_RELDESC_INTERNAL",
+   "Value": 106,
+   "Definition": "This is the general term for an Internal Replacement.",
+   "Notes": ""
+ },
+ {
+   "Description": "Legal Agent",
+   "Name": "OLI_RELDESC_LEGALAGENT",
+   "Value": 54,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mother",
+   "Name": "OLI_RELDESC_MOTHER",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mother-in-law",
+   "Name": "OLI_RELDESC_MOTHINLW",
+   "Value": 22,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nephew",
+   "Name": "OLI_RELDESC_NEPHEW",
+   "Value": 32,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nephew-in-law",
+   "Name": "OLI_RELDESC_NEPHEWINLAW",
+   "Value": 152,
+   "Definition": "The son of one's sister-in-law or brother-in-law; husband of one's niece.",
+   "Notes": ""
+ },
+ {
+   "Description": "Niece",
+   "Name": "OLI_RELDESC_NIECE",
+   "Value": 33,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Niece-in-law",
+   "Name": "OLI_RELDESC_NIECEINLAW",
+   "Value": 151,
+   "Definition": "The daughter of one's sister-in-law/brother-in-law; wife of one's nephew.",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Owner of Cash Value",
+   "Name": "OLI_RELDESC_OWNERCV",
+   "Value": 57,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Owner of Cash Value and Death Benefit",
+   "Name": "OLI_RELDESC_OWNERCVDB",
+   "Value": 59,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Owner of Death Benefit",
+   "Name": "OLI_RELDESC_OWNERDB",
+   "Value": 58,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "President",
+   "Name": "OLI_RELDESC_PRESIDENT",
+   "Value": 39,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Replaced Between Statutory Companies",
+   "Name": "OLI_RELDESC_DIFFCO",
+   "Value": 113,
+   "Definition": "The policy is being replaced between statutory companies.",
+   "Notes": ""
+ },
+ {
+   "Description": "Replaced in Same Statutory Company",
+   "Name": "OLI_RELDESC_SAMECO",
+   "Value": 112,
+   "Definition": "The policy being replaced was issued by the same statutory company.",
+   "Notes": ""
+ },
+ {
+   "Description": "Secretary",
+   "Name": "OLI_RELDESC_SECRETARY",
+   "Value": 37,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Self",
+   "Name": "OLI_RELDESC_SELF",
+   "Value": 91,
+   "Definition": "Identifies that information relates back to Party. An example is gathering household insurance information for RISK for the proposed insured, since RISK links back to PARTY.",
+   "Notes": ""
+ },
+ {
+   "Description": "Sister",
+   "Name": "OLI_RELDESC_SISTER",
+   "Value": 8,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sister-in-law",
+   "Name": "OLI_RELDESC_SISTINLW",
+   "Value": 26,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Son",
+   "Name": "OLI_RELDESC_SON",
+   "Value": 5,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Son-in-law",
+   "Name": "OLI_RELDESC_SONINLW",
+   "Value": 23,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Special Care Agency",
+   "Name": "OLI_RELDESC_SPECCAREAGENCY",
+   "Value": 100,
+   "Definition": "Agency assigned to work with the contact(s) of the deceased client and provide an additional level of service or care.",
+   "Notes": ""
+ },
+ {
+   "Description": "Special Care Agent",
+   "Name": "OLI_RELDESC_SPECCAREAGENT",
+   "Value": 101,
+   "Definition": "Agent assigned to work with the contact(s) of the deceased client and provide an additional level of service or care.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Aunt",
+   "Name": "OLI_RELDESC_STEPAUNT",
+   "Value": 149,
+   "Definition": "The sister of one's stepmother or stepfather or the stepsister of one's mother or father.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Brother",
+   "Name": "OLI_RELDESC_STEPBROTH",
+   "Value": 15,
+   "Definition": "Have no blood relations, different parents, however parents are married to each other.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Brother-in-law",
+   "Name": "OLI_RELDESC_STEPBROTHERINLAW",
+   "Value": 148,
+   "Definition": "The step brother of one's spouse or the husband of one's step sister.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Daughter",
+   "Name": "OLI_RELDESC_STEPDAUGH",
+   "Value": 14,
+   "Definition": "A daughter of one's husband or wife by a former partner.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Daughter-in-law",
+   "Name": "OLI_RELDESC_STEPDAUGHTERINLAW",
+   "Value": 145,
+   "Definition": "The daughter of one's wife by a former husband, or of one's husband by a former wife.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Father",
+   "Name": "OLI_RELDESC_STEPFATHER",
+   "Value": 12,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Father-in-law",
+   "Name": "OLI_RELDESC_STEPFATHERINLAW",
+   "Value": 153,
+   "Definition": "The stepfather of one's spouse.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Granddaughter",
+   "Name": "OLI_RELDESC_STEPGRANDDAUGHTER",
+   "Value": 141,
+   "Definition": "The daughter of one's stepchild, or the stepdaughter of one's child.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Grandfather",
+   "Name": "OLI_RELDESC_STEPGRANDFATHER",
+   "Value": 140,
+   "Definition": "The stepfather of one's mother or father.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Grandmother",
+   "Name": "OLI_RELDESC_STEPGRANDMOTHER",
+   "Value": 139,
+   "Definition": "The stepmother of one's mother or father.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Grandson",
+   "Name": "OLI_RELDESC_STEPGRANDSON",
+   "Value": 142,
+   "Definition": "The son of one's stepchild, or the stepson of one's child.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Mother",
+   "Name": "OLI_RELDESC_STEPMOTHER",
+   "Value": 11,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Mother-in-law",
+   "Name": "OLI_RELDESC_STEPMOTHERINLAW",
+   "Value": 143,
+   "Definition": "The stepmother of one's spouse.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Nephew",
+   "Name": "OLI_RELDESC_STEPNEPHEW",
+   "Value": 138,
+   "Definition": "The son of one's stepbrother/sister, or stepson of one's brother/sister.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Niece",
+   "Name": "OLI_RELDESC_STEPNIECE",
+   "Value": 146,
+   "Definition": "The daughter of one's stepbrother/sister, or stepdaughter of one's brother/sister.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Sister",
+   "Name": "OLI_RELDESC_STEPSIST",
+   "Value": 16,
+   "Definition": "Have no blood relations, different parents, however parents are married to each other.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Sister-in-law",
+   "Name": "OLI_RELDESC_STEPSISTERINLAW",
+   "Value": 147,
+   "Definition": "The step sister of one's spouse or the wife of one's step brother.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Son",
+   "Name": "OLI_RELDESC_STEPSON",
+   "Value": 13,
+   "Definition": "A son of one's husband or wife by a former partner.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Son-in-law",
+   "Name": "OLI_RELDESC_STEPSONINLAW",
+   "Value": 137,
+   "Definition": "The son of one's wife by a former husband, or of one's husband by a former wife.",
+   "Notes": ""
+ },
+ {
+   "Description": "Step Uncle",
+   "Name": "OLI_RELDESC_STEPUNCLE",
+   "Value": 150,
+   "Definition": "The brother of one's stepmother or stepfather. The stepbrother of one's mother or father.",
+   "Notes": ""
+ },
+ {
+   "Description": "Stockbroker",
+   "Name": "OLI_RELDESC_STOCKBRKR",
+   "Value": 80,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Superseded Policy",
+   "Name": "OLI_RELDESC_SUPERSEDED",
+   "Value": 154,
+   "Definition": "The applied for holding has been superseded by a subsequent holding.",
+   "Notes": ""
+ },
+ {
+   "Description": "Tax Agent",
+   "Name": "OLI_RELDESC_TAXAGENT",
+   "Value": 52,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Term Conversion",
+   "Name": "OLI_RELDESC_TERMCONV",
+   "Value": 109,
+   "Definition": "The policy is being replaced as a result of a Term Conversion.",
+   "Notes": ""
+ },
+ {
+   "Description": "Uncle",
+   "Name": "OLI_RELDESC_UNCLE",
+   "Value": 30,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Uncle-in-law",
+   "Name": "OLI_RELDESC_UNCLEINLAW",
+   "Value": 121,
+   "Definition": "Uncle-in-law.",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Valuation Analyst",
+   "Name": "OLI_RELDESC_VALUATIONANALYST",
+   "Value": 87,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Vice President",
+   "Name": "OLI_RELDESC_VICEPRES",
+   "Value": 40,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wife",
+   "Name": "OLI_RELDESC_WIFE",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ }
+]

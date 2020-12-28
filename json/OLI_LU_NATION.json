@@ -1,0 +1,1871 @@
+[
+ {
+   "Description": "Afghanistan",
+   "Name": "OLI_NATION_AFGHANISTAN",
+   "Value": 93,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Aland Islands",
+   "Name": "OLI_NATION_ALANDISLANDS",
+   "Value": 248,
+   "Definition": "Since 1921, an autonomous region of Finland.",
+   "Notes": ""
+ },
+ {
+   "Description": "Albania",
+   "Name": "OLI_NATION_ALBANIA",
+   "Value": 355,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Algeria",
+   "Name": "OLI_NATION_ALGERIA",
+   "Value": 213,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "American Samoa",
+   "Name": "OLI_NATION_AMERICANSAMOA",
+   "Value": 684,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Andorra",
+   "Name": "OLI_NATION_ANDORRA",
+   "Value": 376,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Angola",
+   "Name": "OLI_NATION_ANGOLA",
+   "Value": 244,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Anguilla",
+   "Name": "OLI_NATION_ANGUILLA",
+   "Value": 1001,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Antarctica",
+   "Name": "OLI_NATION_ANTARCTICA",
+   "Value": 672,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Antigua and Barbuda",
+   "Name": "OLI_NATION_ANTIGUABARBUDA",
+   "Value": 268,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Argentina",
+   "Name": "OLI_NATION_ARGENTINA",
+   "Value": 54,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Armenia",
+   "Name": "OLI_NATION_ARMENIA",
+   "Value": 374,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Aruba",
+   "Name": "OLI_NATION_ARUBA",
+   "Value": 297,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ascension Islands",
+   "Name": "OLI_NATION_ASCENSIONISLANDS",
+   "Value": 247,
+   "Definition": "Use Saint Helena, Ascension and Tristan da Cunha.  Saint Helena, Ascension and Tristan da Cunha are a British overseas territory consisting of the islands of Saint Helena, Ascension Island and the Tristan da Cunha group. Previously known as Saint Helena and Dependencies until 1 September 2009, when a new constitution came into force giving the three islands equal status within the territory.",
+   "Notes": ""
+ },
+ {
+   "Description": "Australia",
+   "Name": "OLI_NATION_AUSTRALIA",
+   "Value": 61,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Austria",
+   "Name": "OLI_NATION_AUSTRIA",
+   "Value": 43,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Azerbaijan",
+   "Name": "OLI_NATION_AZERBAIJAN",
+   "Value": 994,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bahamas",
+   "Name": "OLI_NATION_BAHAMAS",
+   "Value": 242,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bahrain",
+   "Name": "OLI_NATION_BAHRAIN",
+   "Value": 973,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bangladesh",
+   "Name": "OLI_NATION_BANGLADESH",
+   "Value": 880,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Barbados",
+   "Name": "OLI_NATION_BARBADOS",
+   "Value": 246,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Belarus",
+   "Name": "OLI_NATION_BELARUS",
+   "Value": 375,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Belgium",
+   "Name": "OLI_NATION_BELGIUM",
+   "Value": 32,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Belize",
+   "Name": "OLI_NATION_BELIZE",
+   "Value": 501,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Benin",
+   "Name": "OLI_NATION_BENIN",
+   "Value": 229,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bermuda",
+   "Name": "OLI_NATION_BERMUDA",
+   "Value": 441,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bhutan",
+   "Name": "OLI_NATION_BHUTAN",
+   "Value": 975,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bolivia",
+   "Name": "OLI_NATION_BOLIVIA",
+   "Value": 591,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bonaire, Sint Eustatius and Saba",
+   "Name": "OLI_NATION_BONAIRESINTEUSTAS",
+   "Value": 535,
+   "Definition": "Located in the Caribbean, they are semi-autonomous entities within the Kingdom of the Netherlands. Also known as the BES Islands.",
+   "Notes": ""
+ },
+ {
+   "Description": "Bosnia and Herzegovina",
+   "Name": "OLI_NATION_BOSNIAHERZEGOVINA",
+   "Value": 387,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Botswana",
+   "Name": "OLI_NATION_BOTSWANA",
+   "Value": 267,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bouvet Island",
+   "Name": "OLI_NATION_BOUVETISLAND",
+   "Value": 1009,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Brazil",
+   "Name": "OLI_NATION_BRAZIL",
+   "Value": 55,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "British Indian Ocean Territory",
+   "Name": "OLI_NATION_BRITISHINDIANOCNTERR",
+   "Value": 1011,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Brunei Darussalam",
+   "Name": "OLI_NATION_BRUNEI",
+   "Value": 673,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bulgaria",
+   "Name": "OLI_NATION_BULGARIA",
+   "Value": 359,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Burkina Faso",
+   "Name": "OLI_NATION_BURKINAFASO",
+   "Value": 226,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Burma (Union Of Myanmar)",
+   "Name": "OLI_NATION_BURMA",
+   "Value": 95,
+   "Definition": "Use 950 - Myanmar instead",
+   "Notes": ""
+ },
+ {
+   "Description": "Burundi",
+   "Name": "OLI_NATION_BURUNDI",
+   "Value": 257,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cambodia",
+   "Name": "OLI_NATION_CAMBODIA",
+   "Value": 855,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cameroon",
+   "Name": "OLI_NATION_CAMEROON",
+   "Value": 237,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Canada",
+   "Name": "OLI_NATION_CANADA",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cape Verde",
+   "Name": "OLI_NATION_CAPEVERDEISLAND",
+   "Value": 238,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cayman Islands",
+   "Name": "OLI_NATION_CAYMANIS",
+   "Value": 345,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Central African Republic",
+   "Name": "OLI_NATION_CENTRALAFRICANREP",
+   "Value": 236,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chad",
+   "Name": "OLI_NATION_CHAD",
+   "Value": 235,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chile",
+   "Name": "OLI_NATION_CHILE",
+   "Value": 56,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "China",
+   "Name": "OLI_NATION_CHINA",
+   "Value": 86,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Christmas Island",
+   "Name": "OLI_NATION_CHRISTMASISLANDS",
+   "Value": 1024,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cocoa Islands",
+   "Name": "OLI_NATION_COCOAISLANDS",
+   "Value": 1012,
+   "Definition": "Use 1007 - Cocos (Keeling) Islands",
+   "Notes": ""
+ },
+ {
+   "Description": "Cocos (Keeling) Islands",
+   "Name": "OLI_NATION_COCOS",
+   "Value": 1007,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Colombia",
+   "Name": "OLI_NATION_COLUMBIA",
+   "Value": 57,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Comoros",
+   "Name": "OLI_NATION_COMOROS",
+   "Value": 269,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Congo",
+   "Name": "OLI_NATION_CONGO",
+   "Value": 1027,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Congo, the Democratic Republic of the",
+   "Name": "OLI_NATION_CONGODEMREP",
+   "Value": 271,
+   "Definition": "Formerly Zaire",
+   "Notes": ""
+ },
+ {
+   "Description": "Cook Islands",
+   "Name": "OLI_NATION_COOKISLANDS",
+   "Value": 682,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Costa Rica",
+   "Name": "OLI_NATION_COSTARICA",
+   "Value": 506,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cote d'Ivoire",
+   "Name": "OLI_NATION_COTEDIVORIE",
+   "Value": 1003,
+   "Definition": "Formerly Ivory Coast",
+   "Notes": ""
+ },
+ {
+   "Description": "Croatia",
+   "Name": "OLI_NATION_CROATIA",
+   "Value": 385,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cuba",
+   "Name": "OLI_NATION_CUBA",
+   "Value": 53,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Curacao",
+   "Name": "OLI_NATION_CURACAO",
+   "Value": 1026,
+   "Definition": "A self governing country within the kingdom of the Netherlands since October, 2010 with the dissolution of the Netherland Antilles.",
+   "Notes": ""
+ },
+ {
+   "Description": "Cyprus",
+   "Name": "OLI_NATION_CYPRUS",
+   "Value": 357,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Czechoslovakia",
+   "Name": "OLI_NATION_CZECHLOSLOVAKIA",
+   "Value": 42,
+   "Definition": "Use 420 - Czech Republic or 421 - Slovakia",
+   "Notes": ""
+ },
+ {
+   "Description": "Czech Republic",
+   "Name": "OLI_NATION_CZECHREPUBLIC",
+   "Value": 420,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Denmark",
+   "Name": "OLI_NATION_DENMARK",
+   "Value": 45,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Diego Garcia",
+   "Name": "OLI_NATION_DIEGOGARCIA",
+   "Value": 1030,
+   "Definition": "Use 1011 - British Indian Ocean Territory.",
+   "Notes": ""
+ },
+ {
+   "Description": "Djibouti",
+   "Name": "OLI_NATION_DJIBOUTI",
+   "Value": 253,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dominica",
+   "Name": "OLI_NATION_DOMINICA",
+   "Value": 767,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dominican Republic",
+   "Name": "OLI_NATION_DOMINICANREPUBLIC",
+   "Value": 809,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ecuador",
+   "Name": "OLI_NATION_ECUADOR",
+   "Value": 593,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Egypt",
+   "Name": "OLI_NATION_EGYPT",
+   "Value": 20,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "El Salvador",
+   "Name": "OLI_NATION_ELSALVADOR",
+   "Value": 503,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Equatorial Guinea",
+   "Name": "OLI_NATION_EQUATORIALGUINEA",
+   "Value": 240,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Eritrea",
+   "Name": "OLI_NATION_ERITREA",
+   "Value": 1004,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Estonia",
+   "Name": "OLI_NATION_ESTONIA",
+   "Value": 372,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ethiopia",
+   "Name": "OLI_NATION_ETHIOPIA",
+   "Value": 251,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Falkland Islands (Malvinas)",
+   "Name": "OLI_NATION_FALKLANDISLANDS",
+   "Value": 500,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Faroe Islands",
+   "Name": "OLI_NATION_FAEROEISLANDS",
+   "Value": 298,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fiji",
+   "Name": "OLI_NATION_FIJI",
+   "Value": 679,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Finland",
+   "Name": "OLI_NATION_FINLAND",
+   "Value": 358,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "France",
+   "Name": "OLI_NATION_FRANCE",
+   "Value": 33,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "French Guiana",
+   "Name": "OLI_NATION_FRENCHGUIANA",
+   "Value": 594,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "French Polynesia",
+   "Name": "OLI_NATION_FRENCHPOLYNESIA",
+   "Value": 689,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "French Southern Territories",
+   "Name": "OLI_NATION_FRENCHSOUTHERNTERRITIOIES",
+   "Value": 1015,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gabon",
+   "Name": "OLI_NATION_GABON",
+   "Value": 241,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gambia",
+   "Name": "OLI_NATION_GAMBIA",
+   "Value": 220,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Georgia",
+   "Name": "OLI_NATION_GEORGIA",
+   "Value": 995,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Germany",
+   "Name": "OLI_NATION_GERMANY",
+   "Value": 49,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ghana",
+   "Name": "OLI_NATION_GHANA",
+   "Value": 233,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gibraltar",
+   "Name": "OLI_NATION_GIBRALTAR",
+   "Value": 350,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Greece",
+   "Name": "OLI_NATION_GREECE",
+   "Value": 30,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Greenland",
+   "Name": "OLI_NATION_GREENLAND",
+   "Value": 299,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Grenada",
+   "Name": "OLI_NATION_CRENADA",
+   "Value": 473,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Guadeloupe",
+   "Name": "OLI_NATION_GUADALOUPE",
+   "Value": 590,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Guam",
+   "Name": "OLI_NATION_GUAM",
+   "Value": 671,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Guatemala",
+   "Name": "OLI_NATION_GUATEMALA",
+   "Value": 502,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Guernsey",
+   "Name": "OLI_NATION_GUERNSEY",
+   "Value": 360,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Guinea",
+   "Name": "OLI_NATION_GUINEA",
+   "Value": 224,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Guinea-Bissau",
+   "Name": "OLI_NATION_GUINEABISSAU",
+   "Value": 270,
+   "Definition": "Former Portuguese Guinea",
+   "Notes": ""
+ },
+ {
+   "Description": "Guyana",
+   "Name": "OLI_NATION_GUYANA",
+   "Value": 592,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Haiti",
+   "Name": "OLI_NATION_HAITI",
+   "Value": 509,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Heard Island and McDonald Islands",
+   "Name": "OLI_NATION_HEARDISLISLAND",
+   "Value": 1016,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Holy See (Vatican City State)",
+   "Name": "OLI_NATION_HOLYSEE",
+   "Value": 1029,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Honduras",
+   "Name": "OLI_NATION_HONDURAS",
+   "Value": 504,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hong Kong",
+   "Name": "OLI_NATION_HONGKONG",
+   "Value": 852,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hungary",
+   "Name": "OLI_NATION_HUNGARY",
+   "Value": 36,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Iceland",
+   "Name": "OLI_NATION_ICELAND",
+   "Value": 354,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "India",
+   "Name": "OLI_NATION_INDIA",
+   "Value": 91,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Indonesia",
+   "Name": "OLI_NATION_INDONESIA",
+   "Value": 62,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Iran, Islamic Republic of",
+   "Name": "OLI_NATION_IRAN",
+   "Value": 98,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Iraq",
+   "Name": "OLI_NATION_IRAQ",
+   "Value": 964,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ireland",
+   "Name": "OLI_NATION_IRELAND",
+   "Value": 353,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Isle of Man",
+   "Name": "OLI_NATION_ISLEOFMAN",
+   "Value": 1035,
+   "Definition": "Isle of Man is a British crown dependency which functions in some respects as an independent country. Do not use this code to indicate Nationality. Use \"44\" (United Kingdom) instead",
+   "Notes": ""
+ },
+ {
+   "Description": "Israel",
+   "Name": "OLI_NATION_ISRAEL",
+   "Value": 972,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Italy",
+   "Name": "OLI_NATION_ITALY",
+   "Value": 39,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ivory Coast, Republic Of",
+   "Name": "OLI_NATION_IVORYCOAST",
+   "Value": 225,
+   "Definition": "Use 1003 - Cote d'Ivorie",
+   "Notes": ""
+ },
+ {
+   "Description": "Jamaica",
+   "Name": "OLI_NATION_JAMAICA",
+   "Value": 876,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Japan",
+   "Name": "OLI_NATION_JAPAN",
+   "Value": 81,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Jersey",
+   "Name": "OLI_NATION_JERSEY",
+   "Value": 1034,
+   "Definition": "Jersey is a British crown dependency which functions in some respects as an independent country.  Do not use this code to indicate Nationality. Use \"44\" (United Kingdom) instead",
+   "Notes": ""
+ },
+ {
+   "Description": "Jordan",
+   "Name": "OLI_NATION_JORDAN",
+   "Value": 962,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kazakhstan",
+   "Name": "OLI_NATION_KAZAKHSTAN",
+   "Value": 1005,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kenya",
+   "Name": "OLI_NATION_KENYA",
+   "Value": 254,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kiribati",
+   "Name": "OLI_NATION_KIRIBATI",
+   "Value": 686,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Korea",
+   "Name": "OLI_NATION_KOREA",
+   "Value": 82,
+   "Definition": "Use Democratic Peoples' Republic of OR Korea, Republic of",
+   "Notes": ""
+ },
+ {
+   "Description": "Korea, Democratic People's Republic of",
+   "Name": "OLI_NATION_KOREADEMPEOPLEREP",
+   "Value": 952,
+   "Definition": "North Korea",
+   "Notes": ""
+ },
+ {
+   "Description": "Korea, Republic of",
+   "Name": "OLI_NATION_KOREAREPUBLIC",
+   "Value": 951,
+   "Definition": "South Korea",
+   "Notes": ""
+ },
+ {
+   "Description": "Kosovo",
+   "Name": "OLI_NATION_KOSOVO",
+   "Value": 390,
+   "Definition": "A former province of Serbia which declared independence in 2008. Formally known as the Republic of Kosovo.",
+   "Notes": ""
+ },
+ {
+   "Description": "Kuwait",
+   "Name": "OLI_NATION_KUWAIT",
+   "Value": 965,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kyrgyzstan",
+   "Name": "OLI_NATION_KYRGYZSTAN",
+   "Value": 1006,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lao People's Democratic Republic",
+   "Name": "OLI_NATION_LAOS",
+   "Value": 856,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Latvia",
+   "Name": "OLI_NATION_LATVIA",
+   "Value": 371,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lebanon",
+   "Name": "OLI_NATION_LEBANON",
+   "Value": 961,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lesotho",
+   "Name": "OLI_NATION_LESOTHO",
+   "Value": 266,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Liberia",
+   "Name": "OLI_NATION_LIBERIA",
+   "Value": 231,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Libya",
+   "Name": "OLI_NATION_LIBYA",
+   "Value": 218,
+   "Definition": "Formerly Libyan Arab Jamahiriya",
+   "Notes": ""
+ },
+ {
+   "Description": "Liechtenstein",
+   "Name": "OLI_NATION_LIECHTENSTEIN",
+   "Value": 423,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lithuania",
+   "Name": "OLI_NATION_LITHUANIA",
+   "Value": 370,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Luxembourg",
+   "Name": "OLI_NATION_LUXEMBOURG",
+   "Value": 352,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Macao",
+   "Name": "OLI_NATION_MACAO",
+   "Value": 853,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Macedonia, The Former Yugoslav Republic of",
+   "Name": "OLI_NATION_MACEDONIA",
+   "Value": 389,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Madagascar",
+   "Name": "OLI_NATION_MADAGASCAR",
+   "Value": 261,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Malawi",
+   "Name": "OLI_NATION_MALAWI",
+   "Value": 265,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Malaysia",
+   "Name": "OLI_NATION_MALAYSIA",
+   "Value": 60,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Maldives",
+   "Name": "OLI_NATION_MALDIVES",
+   "Value": 1023,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mali",
+   "Name": "OLI_NATION_MALI",
+   "Value": 223,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Malta",
+   "Name": "OLI_NATION_MALTA",
+   "Value": 356,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Marshall Islands",
+   "Name": "OLI_NATION_MARSHALLISLANDS",
+   "Value": 694,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Martinique",
+   "Name": "OLI_NATION_MARTINIQUE",
+   "Value": 596,
+   "Definition": "Formerly French Antilles.",
+   "Notes": ""
+ },
+ {
+   "Description": "Mauritania",
+   "Name": "OLI_NATION_MAURITANIA",
+   "Value": 222,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mauritius",
+   "Name": "OLI_NATION_MAURITIUS",
+   "Value": 230,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mayotte",
+   "Name": "OLI_NATION_MAYOTTEISLAND",
+   "Value": 1017,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mexico",
+   "Name": "OLI_NATION_MEXICO",
+   "Value": 52,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Micronesia, Federated States of",
+   "Name": "OLI_NATION_MICRONESIA",
+   "Value": 695,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Moldova, Republic of",
+   "Name": "OLI_NATION_MOLDOVA",
+   "Value": 373,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Monaco",
+   "Name": "OLI_NATION_MONACO",
+   "Value": 1028,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mongolia",
+   "Name": "OLI_NATION_MONGOLIA",
+   "Value": 1008,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Montenegro",
+   "Name": "OLI_NATION_MONTENEGRO",
+   "Value": 1037,
+   "Definition": "Montenegro has been an independent country since June 3 2006. It was formerly part of Serbia and Montenegro and before that, a part of Yugoslavia.",
+   "Notes": ""
+ },
+ {
+   "Description": "Montserrat",
+   "Name": "OLI_NATION_MONTSERRAT",
+   "Value": 664,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Morocco",
+   "Name": "OLI_NATION_MOROCCO",
+   "Value": 212,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mozambique",
+   "Name": "OLI_NATION_MOZAMBIQUE",
+   "Value": 258,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Myanmar",
+   "Name": "OLI_NATION_MYANMAR",
+   "Value": 950,
+   "Definition": "Formerly Burma",
+   "Notes": ""
+ },
+ {
+   "Description": "Namibia",
+   "Name": "OLI_NATION_NAMIBIA",
+   "Value": 264,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nauru",
+   "Name": "OLI_NATION_NAURU",
+   "Value": 674,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nepal",
+   "Name": "OLI_NATION_NEPAL",
+   "Value": 977,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Netherlands",
+   "Name": "OLI_NATION_NETHERLANDS",
+   "Value": 31,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Netherlands Antilles",
+   "Name": "OLI_NATION_NETHERLANDSANTILLES",
+   "Value": 599,
+   "Definition": "Dissolved in October, 2010 when Curacao, Sint Maarten (Dutch Part) and Bonaire, Sint Eustatius and Saba became autonomous territories of the Kingdom of the Netherlands.",
+   "Notes": ""
+ },
+ {
+   "Description": "New Caledonia",
+   "Name": "OLI_NATION_NEWCALEDONIA",
+   "Value": 687,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "New Zealand",
+   "Name": "OLI_NATION_NEWZEALAND",
+   "Value": 64,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nicaragua",
+   "Name": "OLI_NATION_NICARAGUA",
+   "Value": 505,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Niger",
+   "Name": "OLI_NATION_NIGER",
+   "Value": 227,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nigeria",
+   "Name": "OLI_NATION_NIGERIA",
+   "Value": 234,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Niue",
+   "Name": "OLI_NATION_NIUE",
+   "Value": 683,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Norfolk Island",
+   "Name": "OLI_NATION_NORFOLKISLAND",
+   "Value": 1025,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Northern Mariana Islands",
+   "Name": "OLI_NATION_NORTHMARIANAISLANDS",
+   "Value": 691,
+   "Definition": "A commonwealth in political union with the US, located in N Pacific.  Depending on usage, this entity may be treated as a Nation or a State",
+   "Notes": ""
+ },
+ {
+   "Description": "North Yemen",
+   "Name": "OLI_NATION_NORTHYEMEN",
+   "Value": 1038,
+   "Definition": "Present-day northern and western provinces of Yemen.  This nation code represents a country that no longer exists and is used in situations where it is necessary to specify a historical country at a specific point in time.",
+   "Notes": ""
+ },
+ {
+   "Description": "Norway",
+   "Name": "OLI_NATION_NORWAY",
+   "Value": 47,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oman",
+   "Name": "OLI_NATION_OMAN",
+   "Value": 968,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pakistan",
+   "Name": "OLI_NATION_PAKISTAN",
+   "Value": 92,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Palau",
+   "Name": "OLI_NATION_PALAU",
+   "Value": 693,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Palestine, State of",
+   "Name": "OLI_NATION_PALESTINE",
+   "Value": 1032,
+   "Definition": "Formerly Palestinian Territory, Occupied.",
+   "Notes": ""
+ },
+ {
+   "Description": "Panama (also known as Canal Zone)",
+   "Name": "OLI_NATION_PANAMA",
+   "Value": 1002,
+   "Definition": "Freestate has the same code as Panama = 507. Thus, a new code had to be selected.",
+   "Notes": ""
+ },
+ {
+   "Description": "Papua New Guinea",
+   "Name": "OLI_NATION_PAPUANEWGUINEA",
+   "Value": 675,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paraguay",
+   "Name": "OLI_NATION_PARAGUAY",
+   "Value": 595,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Peru",
+   "Name": "OLI_NATION_PERU",
+   "Value": 51,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Philippines",
+   "Name": "OLI_NATION_PHILIPPINES",
+   "Value": 63,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pitcairn",
+   "Name": "OLI_NATION_PITCARINISLANDS",
+   "Value": 1018,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Poland",
+   "Name": "OLI_NATION_POLAND",
+   "Value": 48,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Portugal",
+   "Name": "OLI_NATION_PORTUGAL",
+   "Value": 351,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Puerto Rico",
+   "Name": "OLI_NATION_PUERTORICO",
+   "Value": 510,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Qatar",
+   "Name": "OLI_NATION_QATAR",
+   "Value": 974,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Reunion",
+   "Name": "OLI_NATION_REUNIONISLAND",
+   "Value": 262,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Romania",
+   "Name": "OLI_NATION_ROMANIA",
+   "Value": 40,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Russian Federation",
+   "Name": "OLI_NATION_RUSSIA",
+   "Value": 7,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Rwanda",
+   "Name": "OLI_NATION_RWANDA",
+   "Value": 250,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Saint Barthelemy",
+   "Name": "OLI_NATION_SAINTBARTHELEMY",
+   "Value": 652,
+   "Definition": "Since 2007, a French overseas collectivity. Also known as Saint Barts.",
+   "Notes": ""
+ },
+ {
+   "Description": "Saint Helena, Ascension and Tristan da Cunha",
+   "Name": "OLI_NATION_STHELENA",
+   "Value": 290,
+   "Definition": "Saint Helena, Ascension and Tristan da Cunha are a British overseas territory consisting of the islands of Saint Helena, Ascension Island and the Tristan da Cunha group. Previously known as Saint Helena and Dependencies until 1 September 2009, when a new constitution came into force giving the three islands equal status within the territory.",
+   "Notes": ""
+ },
+ {
+   "Description": "Saint Kitts and Nevis",
+   "Name": "OLI_NATION_STKITTSNEVIS",
+   "Value": 869,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Saint Lucia",
+   "Name": "OLI_NATION_STLUCIA",
+   "Value": 758,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Saint Martin (French Part)",
+   "Name": "OLI_NATION_SAINTMARTINFRENCH",
+   "Value": 663,
+   "Definition": "Since 2007, a French overseas collectivity.",
+   "Notes": ""
+ },
+ {
+   "Description": "Saint Pierre and Miquelon",
+   "Name": "OLI_NATION_STPIERRE",
+   "Value": 508,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Saint Vincent and the Grenadines",
+   "Name": "OLI_NATION_STVINCENT",
+   "Value": 784,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Saipan",
+   "Name": "OLI_NATION_SAIPAN",
+   "Value": 670,
+   "Definition": "Use 691 - Northern Mariana Islands.",
+   "Notes": ""
+ },
+ {
+   "Description": "Samoa",
+   "Name": "OLI_NATION_SAMOA",
+   "Value": 1013,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "San Marino",
+   "Name": "OLI_NATION_SANMARINO",
+   "Value": 378,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sao Tome and Principe",
+   "Name": "OLI_NATION_SAOTOME",
+   "Value": 239,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Saudi Arabia",
+   "Name": "OLI_NATION_SAUDIARABIA",
+   "Value": 966,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Senegal",
+   "Name": "OLI_NATION_SENEGAL",
+   "Value": 221,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Serbia",
+   "Name": "OLI_NATION_SERBIA",
+   "Value": 1036,
+   "Definition": "Serbia is an independent country derived from the old Socialist Republic of Yugoslavia.",
+   "Notes": ""
+ },
+ {
+   "Description": "Seychelles",
+   "Name": "OLI_NATION_SEYCHELLES",
+   "Value": 1010,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sierra Leone",
+   "Name": "OLI_NATION_SIERRALEONE",
+   "Value": 232,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Singapore",
+   "Name": "OLI_NATION_SINGAPORE",
+   "Value": 65,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sint Maarten (Dutch Part)",
+   "Name": "OLI_NATION_SINTMAARTEN",
+   "Value": 534,
+   "Definition": "A self governing country within the kingdom of the Netherlands since October, 2010 with the dissolution of the Netherland Antilles.",
+   "Notes": ""
+ },
+ {
+   "Description": "Slovakia",
+   "Name": "OLI_NATION_SLOVAKIA",
+   "Value": 421,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Slovenia",
+   "Name": "OLI_NATION_SLOVENIA",
+   "Value": 386,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Solomon Islands",
+   "Name": "OLI_NATION_SOLOMONISLANDS",
+   "Value": 677,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Somalia",
+   "Name": "OLI_NATION_SOMALIA",
+   "Value": 252,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "South Africa",
+   "Name": "OLI_NATION_SOUTHAFRICA",
+   "Value": 27,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "South Georgia and the South Sandwich Islands",
+   "Name": "OLI_NATION_SOUTHGEORGIASANDWICH",
+   "Value": 512,
+   "Definition": "Collection of Islands in South Atlantic.",
+   "Notes": ""
+ },
+ {
+   "Description": "South Sudan",
+   "Name": "OLI_NATION_SOUTH_SUDAN",
+   "Value": 728,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "South Yemen",
+   "Name": "OLI_NATION_SOUTHYEMEN",
+   "Value": 1039,
+   "Definition": "Present-day southern and eastern provinces of Yemen.  This nation code represents a country that no longer exists and is used in situations where it is necessary to specify a historical country at a specific point in time.",
+   "Notes": ""
+ },
+ {
+   "Description": "Spain",
+   "Name": "OLI_NATION_SPAIN",
+   "Value": 34,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sri Lanka",
+   "Name": "OLI_NATION_SRILANKA",
+   "Value": 94,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sudan",
+   "Name": "OLI_NATION_SUDAN",
+   "Value": 249,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Suriname",
+   "Name": "OLI_NATION_SURINAME",
+   "Value": 597,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Svalbard and Jan Mayen",
+   "Name": "OLI_NATION_SVALBARDISLAND",
+   "Value": 1019,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Swaziland",
+   "Name": "OLI_NATION_SWAZILAND",
+   "Value": 1031,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sweden",
+   "Name": "OLI_NATION_SWEDEN",
+   "Value": 46,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Switzerland",
+   "Name": "OLI_NATION_SWITZERLAND",
+   "Value": 41,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Syrian Arab Republic",
+   "Name": "OLI_NATION_SYRIA",
+   "Value": 963,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Taiwan, Province of China",
+   "Name": "OLI_NATION_TAIWAN",
+   "Value": 886,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tajikistan",
+   "Name": "OLI_NATION_TAJIKISTAN",
+   "Value": 992,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tanzania, United Republic of",
+   "Name": "OLI_NATION_TANZANIA",
+   "Value": 255,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Thailand",
+   "Name": "OLI_NATION_THAILAND",
+   "Value": 66,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Timor-Leste",
+   "Name": "OLI_NATION_EASTTIMOR",
+   "Value": 1014,
+   "Definition": "Formerly East Timor",
+   "Notes": ""
+ },
+ {
+   "Description": "Togo",
+   "Name": "OLI_NATION_TOGO",
+   "Value": 228,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tokelau",
+   "Name": "OLI_NATION_TOKELAU",
+   "Value": 1020,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tonga",
+   "Name": "OLI_NATION_TONGAISLANDS",
+   "Value": 676,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Trinidad and Tobago",
+   "Name": "OLI_NATION_TRINIDADTOBAGO",
+   "Value": 868,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tunisia",
+   "Name": "OLI_NATION_TUNISIA",
+   "Value": 216,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Turkey",
+   "Name": "OLI_NATION_TURKEY",
+   "Value": 90,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Turkmenistan",
+   "Name": "OLI_NATION_TURKMENISTAN",
+   "Value": 993,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Turks and Caicos Islands",
+   "Name": "OLI_NATION_TURKSCAICOSIS",
+   "Value": 649,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tuvalu",
+   "Name": "OLI_NATION_TUVALU",
+   "Value": 688,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Uganda",
+   "Name": "OLI_NATION_UGANDA",
+   "Value": 256,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ukraine",
+   "Name": "OLI_NATION_UKRAINE",
+   "Value": 380,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Union of Soviet Socialist Republics",
+   "Name": "OLI_NATION_USSR",
+   "Value": 1040,
+   "Definition": "More commonly known as USSR, or Soviet Union.  This nation code represents a country that no longer exists and is used in situations where it is necessary to specify a historical country at a specific point in time.",
+   "Notes": ""
+ },
+ {
+   "Description": "United Arab Emirates",
+   "Name": "OLI_NATION_UNITEDARABEMIRATES",
+   "Value": 971,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "United Kingdom",
+   "Name": "OLI_NATION_UK",
+   "Value": 44,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "United States Minor Outlying Islands",
+   "Name": "OLI_NATION_USMINOROUTLYINGISLANDS",
+   "Value": 1021,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "United States of America",
+   "Name": "OLI_NATION_USA",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Uruguay",
+   "Name": "OLI_NATION_URUGUAY",
+   "Value": 598,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Uzbekistan",
+   "Name": "OLI_NATION_UZBEKISTAN",
+   "Value": 998,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Vanuatu",
+   "Name": "OLI_NATION_VANUATU",
+   "Value": 678,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Venezuela",
+   "Name": "OLI_NATION_VENEZUELA",
+   "Value": 58,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Viet Nam",
+   "Name": "OLI_NATION_VIETNAM",
+   "Value": 84,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Virgin Islands, British",
+   "Name": "OLI_NATION_BRITISHVIRGINIS",
+   "Value": 284,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Virgin Islands, US",
+   "Name": "OLI_NATION_VIRGINISLANDSUS",
+   "Value": 511,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wallis and Futuna",
+   "Name": "OLI_NATION_WALLISISLANDS",
+   "Value": 681,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Western Sahara",
+   "Name": "OLI_NATION_WESTERNSARAHA",
+   "Value": 1022,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Western Samoa",
+   "Name": "OLI_NATION_WESTERNSAMOA",
+   "Value": 685,
+   "Definition": "Use 1013 - Samoa - Name changed in 1998.",
+   "Notes": ""
+ },
+ {
+   "Description": "Yemen",
+   "Name": "OLI_NATION_YEMEN",
+   "Value": 967,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Yugoslavia",
+   "Name": "OLI_NATION_YUGOSLAVIA",
+   "Value": 38,
+   "Definition": "Yugoslavia devolved in 1992 into independent constituents: Slovenia, Croatia, Bosnia and Herzegovina, Serbia and Montenegro, and The Former Yugoslav Republic of Macedonia.",
+   "Notes": ""
+ },
+ {
+   "Description": "Zaire",
+   "Name": "OLI_NATION_ZAIRE",
+   "Value": 243,
+   "Definition": "Use 271 - Congo, the Democratic Republic of the.",
+   "Notes": ""
+ },
+ {
+   "Description": "Zambia",
+   "Name": "OLI_NATION_ZAMBIA",
+   "Value": 260,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Zimbabwe",
+   "Name": "OLI_NATION_ZIMBABWE",
+   "Value": 263,
+   "Definition": "",
+   "Notes": ""
+ }
+]

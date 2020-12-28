@@ -1,0 +1,219 @@
+[
+ {
+   "Description": "\"C\" Corporation",
+   "Name": "OLI_ORG_CTP",
+   "Value": 13,
+   "Definition": "A business which is a completely separate entity from its owners, unlike a partnership.",
+   "Notes": ""
+ },
+ {
+   "Description": "\"S\" Corporation",
+   "Name": "OLI_ORG_STP",
+   "Value": 6,
+   "Definition": "A form of corporation, allowed by the IRS for most companies with 75 or fewer shareholders, which enables the company to enjoy the benefits of incorporation but be taxed as if it were a partnership. also called Subchapter S Corporation.",
+   "Notes": ""
+ },
+ {
+   "Description": "Association",
+   "Name": "OLI_ORG_ASSOC",
+   "Value": 10,
+   "Definition": "A group of individuals who meet for a common purpose.",
+   "Notes": ""
+ },
+ {
+   "Description": "Charitable Organization",
+   "Name": "OLI_ORG_CHARIT",
+   "Value": 11,
+   "Definition": "A tax-exempt organization recognized by the IRS as a charity.",
+   "Notes": ""
+ },
+ {
+   "Description": "Closed Corporation",
+   "Name": "OLI_ORG_CLOSECORP",
+   "Value": 19,
+   "Definition": "A corporation in which all of the voting stock is held by a few shareholders, such as management or family members. also called private company.",
+   "Notes": ""
+ },
+ {
+   "Description": "Corporation (general)",
+   "Name": "OLI_ORG_CORPORATION",
+   "Value": 23,
+   "Definition": "This is used when nothing is known about the form of corporation, otherwise the correct type should be used",
+   "Notes": ""
+ },
+ {
+   "Description": "Credit Union",
+   "Name": "OLI_ORG_CREDITUNION",
+   "Value": 27,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Estate",
+   "Name": "OLI_ORG_ESTATE",
+   "Value": 24,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Franchise",
+   "Name": "OLI_ORG_FRANCHISE",
+   "Value": 15,
+   "Definition": "A form of business organization in which a firm which already has a successful product or service (the franchisor) enters into a continuing contractual relationship with other businesses (franchisees) operating under the franchisor's trade name and usually with the franchisor's guidance, in exchange for a fee.",
+   "Notes": ""
+ },
+ {
+   "Description": "Government Agency",
+   "Name": "OLI_ORG_GOVERN",
+   "Value": 9,
+   "Definition": "An administrative unit of government. Examples include \"the Central Intelligence Agency\"; \"the Census Bureau\"; \"Office of Management and Budget\";\"Tennessee Valley Authority\".",
+   "Notes": ""
+ },
+ {
+   "Description": "Internal",
+   "Name": "OLI_ORG_INTERNAL",
+   "Value": 22,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Limited Liability Company (LLC)",
+   "Name": "OLI_ORG_LTDLIAB",
+   "Value": 14,
+   "Definition": "LLC (Limited Liability Company). A type of company whose owners and managers receive the limited liability and (usually) tax benefits of an S Corporation without having to conform to the S corporation restrictions.",
+   "Notes": ""
+ },
+ {
+   "Description": "Limited Liability Limited Partnership (LLLP)",
+   "Name": "OLI_ORG_LTDLIABLTDPARTNER",
+   "Value": 30,
+   "Definition": "Limited Liability Limited Partnership (LLLP) is a type of Limited Partnership in which both general and limited partners are protected from liabilities of the partnership such as occurs when the partnership is exposed to a lawsuit. It also provides asset protection for the partnership's assets when the partners are sued personally.",
+   "Notes": ""
+ },
+ {
+   "Description": "Limited Liability Partnership (LLP)",
+   "Name": "OLI_ORG_LTDLIABPARTNER",
+   "Value": 29,
+   "Definition": "Limited Liability Partnership (LLP) is a type of General Partnership in which each of the partners shares in the profits, losses, and debts of the LLP. In an LLP, a partner is not responsible or liable for another partner's misconduct or negligence. It therefore exhibits elements of both partnerships and corporations.",
+   "Notes": ""
+ },
+ {
+   "Description": "Limited Partnership (LP)",
+   "Name": "OLI_ORG_LTDPART",
+   "Value": 3,
+   "Definition": "Limited Partnership (LP) is a business organization with one or more general partners, who manage the business and assume legal debts and obligations, and one or more limited partners, who are liable only to the extent of their investments. Limited partners also enjoy rights to the partnership's cash flow, but are not liable for company obligations.",
+   "Notes": ""
+ },
+ {
+   "Description": "Mutual Company",
+   "Name": "OLI_ORG_MUTCO",
+   "Value": 18,
+   "Definition": "A company whose profits are distributed in proportion to the amount of business each participant does with the company. Examples include federal savings and loan associations, state-chartered mutual savings banks, and mutual insurance companies.",
+   "Notes": ""
+ },
+ {
+   "Description": "Nonprofit Organization",
+   "Name": "OLI_ORG_NONPROF",
+   "Value": 12,
+   "Definition": "An incorporated organization which exists for educational or charitable reasons, and from which its shareholders or trustees do not benefit financially. also called not-for-profit organization.",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Partnership",
+   "Name": "OLI_ORG_PARTNER",
+   "Value": 2,
+   "Definition": "A partnership is the relationship existing between two or more persons who join to carry on a trade or business. Each person contributes money, property, labor, or skill, and expects to share equally in the profits and losses or liabilities of the business. The partnership itself does not pay income taxes, but each partner has to report their share of business profits or losses on their individual tax return.",
+   "Notes": ""
+ },
+ {
+   "Description": "Personal Services Corp.",
+   "Name": "OLI_ORG_PERSERV",
+   "Value": 8,
+   "Definition": "A business whose principal activity is the performance of personal services. The fields of health, law, engineering, architecture, accounting, actuarial sciences, performing arts, and consulting are examples of personal service activities.",
+   "Notes": ""
+ },
+ {
+   "Description": "Plan",
+   "Name": "OLI_LU_ORGPLAN",
+   "Value": 17,
+   "Definition": "A Plan is a unique type of legal organization which is similar to (but *is not* the same as) a Trust. A Plan has specific requirements with regard to the charter and provisions, based on the reason for incorporation (the type of pension plan for which the Plan entity is being established).",
+   "Notes": ""
+ },
+ {
+   "Description": "Plan Administrator",
+   "Name": "OLI_LU_ORGPLANADM",
+   "Value": 25,
+   "Definition": "A plan administrator is the entity or group of entities specified as the administrator by the instrument under which the plan is operated.",
+   "Notes": ""
+ },
+ {
+   "Description": "Private Corporation",
+   "Name": "OLI_ORG_PRVCORP",
+   "Value": 4,
+   "Definition": "A company whose shares are not traded on the open market. opposite of public company. Often referred to as Privately Held.",
+   "Notes": ""
+ },
+ {
+   "Description": "Professional Corporation",
+   "Name": "OLI_ORG_PROCORP",
+   "Value": 7,
+   "Definition": "Corporation which is organized for the purpose of engaging in a learned profession such as law, medicine or architecture. Professional Corporations must file articles of incorporation with the state which meet the state's requirements for professional corporations.",
+   "Notes": ""
+ },
+ {
+   "Description": "Pty. Ltd.",
+   "Name": "OLI_ORG_PTYLTD",
+   "Value": 20,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Public Corporation",
+   "Name": "OLI_ORG_PUBCORP",
+   "Value": 5,
+   "Definition": "A company which has issued securities through an offering, and which are now traded on the open market. also called publicly held or publicly traded. Opposite of private company.",
+   "Notes": ""
+ },
+ {
+   "Description": "Religious Organization",
+   "Name": "OLI_ORG_RELIGIOUSORG",
+   "Value": 26,
+   "Definition": "IRC 501(d) As defined by the Internal Revenue Service, an organization which was organized for the purpose of operating a communal religious community.",
+   "Notes": ""
+ },
+ {
+   "Description": "Sole Proprietorship",
+   "Name": "OLI_ORG_SOLEP",
+   "Value": 1,
+   "Definition": "A sole proprietorship is an unincorporated business that is owned by one individual. It is the simplest form of business organization to start and maintain. The business has no existence apart from the owner. Its liabilities are the owner's personal liabilities. He undertakes the risks of the business for all assets owned, whether used in the business or personally owned, and includes the income and expenses of the business on his tax return.",
+   "Notes": ""
+ },
+ {
+   "Description": "Superannuation Fund",
+   "Name": "OLI_ORG_SUPERANN",
+   "Value": 21,
+   "Definition": "A concessionally taxed investment fund for superannuation monies. These funds can accept both ETPs and other contributions. Generally balances cannot be withdrawn until age 55 and fully retired. These can be run by an employer as a company fund, a fund manager as a personal fund or can be self managed by an individual.",
+   "Notes": ""
+ },
+ {
+   "Description": "Trust",
+   "Name": "OLI_ORG_TRUST",
+   "Value": 16,
+   "Definition": "Organization which acts as a fiduciary, trustee or agent for individuals and businesses in the administration of trust funds, estates and custodial arrangements.",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ }
+]

@@ -1,0 +1,65 @@
+[
+ {
+   "Description": "Female",
+   "Name": "OLI_GENDER_FEMALE",
+   "Value": 2,
+   "Definition": "A person with a specific set of physical anatomy (e.g. XX phenotype, vagina, ovaries, uterus, breasts, higher levels of estrogen, fine body hair) pursuant to this label.",
+   "Notes": ""
+ },
+ {
+   "Description": "Female to Male Transgender",
+   "Name": "OLI_GENDER_FTMTRANS",
+   "Value": 6,
+   "Definition": "A person who has undergone medical treatments to change their biological sex from Female To Male, often times to align it with their gender identity.Also referred to as FTM. After he has completed his transition, he may identify simply as male.",
+   "Notes": ""
+ },
+ {
+   "Description": "Intersex",
+   "Name": "OLI_GENDER_INTERSEX",
+   "Value": 5,
+   "Definition": "A person with a set of sexual anatomy that doesn't fit within the definition of female or male.",
+   "Notes": ""
+ },
+ {
+   "Description": "Issued on a combined rate blended from male and female",
+   "Name": "OLI_GENDER_COMBINED",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Male",
+   "Name": "OLI_GENDER_MALE",
+   "Value": 1,
+   "Definition": "A person with a specific set of anatomy (e.g. XY phenotype, penis, testis, higher levels of testosterone, coarse body hair, facial hair) pursuant to this label.",
+   "Notes": ""
+ },
+ {
+   "Description": "Male to Female Transgender",
+   "Name": "OLI_GENDER_MTFTRANS",
+   "Value": 7,
+   "Definition": "A person who has undergone medical treatments to change their biological sex from Male To Female, often times to align it with their gender identity.Also referred to as MTF. After she has completed her transition, she may identify simply as female.",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unisex",
+   "Name": "OLI_GENDER_UNISEX",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ }
+]

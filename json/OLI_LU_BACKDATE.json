@@ -1,0 +1,30 @@
+[
+ {
+   "Description": "Back Date to Save Age",
+   "Name": "OLI_BACKDATE_SAVEAGE",
+   "Value": 1,
+   "Definition": "The policy is backdated to allow it to be issued at a younger age.",
+   "Notes": ""
+ },
+ {
+   "Description": "No backdating",
+   "Name": "OLI_BACKDATE_NONE",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ }
+]

@@ -1,0 +1,142 @@
+[
+ {
+   "Description": "Aerobic (super Preferred)",
+   "Name": "OLI_UNWRITE_AEROBIC",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Declined",
+   "Name": "OLI_UNWRITE_DECLINED",
+   "Value": 5,
+   "Definition": "Rejection by an insurance company of an application for a policy.",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Preferred Plus",
+   "Name": "OLI_UNWRITE_PREFPLUS",
+   "Value": 19,
+   "Definition": "An Underwriting class code that places an individual between \"Preferred\" and\"Aerobic/super preferred\".",
+   "Notes": ""
+ },
+ {
+   "Description": "Preferred risk",
+   "Name": "OLI_UNWRITE_PREFERRED",
+   "Value": 2,
+   "Definition": "Possessing a lower than average likelihood of loss. The persons physical condition, health history, occupation, and/or lifestyle indicate the probability of a lower-than-usual mortality rate. Also known as Superstandard Risk.",
+   "Notes": ""
+ },
+ {
+   "Description": "PVT ING",
+   "Name": "OLI_UNWRITE_ING08",
+   "Value": 8,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "PVT ING",
+   "Name": "OLI_UNWRITE_ING09",
+   "Value": 9,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "PVT ING",
+   "Name": "OLI_UNWRITE_ING10",
+   "Value": 10,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "PVT ING",
+   "Name": "OLI_UNWRITE_ING11",
+   "Value": 11,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "PVT ING",
+   "Name": "OLI_UNWRITE_ING12",
+   "Value": 12,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "PVT ING",
+   "Name": "OLI_UNWRITE_ING13",
+   "Value": 13,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "PVT ING",
+   "Name": "OLI_UNWRITE_ING14",
+   "Value": 14,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "PVT ING",
+   "Name": "OLI_UNWRITE_ING15",
+   "Value": 15,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "PVT ING",
+   "Name": "OLI_UNWRITE_ING16",
+   "Value": 16,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "PVT ING",
+   "Name": "OLI_UNWRITE_ING17",
+   "Value": 17,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Rated/Substandard Risk",
+   "Name": "OLI_UNWRITE_RATED",
+   "Value": 3,
+   "Definition": "Possessing a greater-than-average likelihood of loss.",
+   "Notes": ""
+ },
+ {
+   "Description": "Standard Plus",
+   "Name": "OLI_UNWRITE_STANDARDPLUS",
+   "Value": 6,
+   "Definition": "Possessing a likelihood of loss in between preferred and standard risk.",
+   "Notes": ""
+ },
+ {
+   "Description": "Standard Risk",
+   "Name": "OLI_UNWRITE_STANDARD",
+   "Value": 1,
+   "Definition": "Possessing an average or less-than-average likelihood of loss.",
+   "Notes": ""
+ },
+ {
+   "Description": "Uninsurable",
+   "Name": "OLI_UNWRITE_UNINSURABLE",
+   "Value": 7,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ }
+]

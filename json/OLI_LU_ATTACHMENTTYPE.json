@@ -1,0 +1,3901 @@
+[
+ {
+   "Description": "1035 Cost Basis",
+   "Name": "OLI_ATTACH_COSTBASIS",
+   "Value": 152,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "1035 Exchange Memorandums",
+   "Name": "OLI_ATTACH_1035EXCHMEMO",
+   "Value": 153,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "1035 Letter/Check",
+   "Name": "OLI_ATTACH_1035LETTERCHK",
+   "Value": 156,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "1035 Loan Transfer",
+   "Name": "OLI_ATTACH_1035RESQ",
+   "Value": 154,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "1035 Minimum Deposit ResQ Worksheet",
+   "Name": "OLI_ATTACH_1035LOANTRAN",
+   "Value": 155,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "1035 Paperwork",
+   "Name": "OLI_ATTACH_1035PAPERWK",
+   "Value": 151,
+   "Definition": "1035 Exchange Form, providing details of a replacement involving a transfer of funds between carriers.",
+   "Notes": ""
+ },
+ {
+   "Description": "1035 Surrender",
+   "Name": "OLI_ATTACH_DISB1035SURR",
+   "Value": 211,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "1035 Tax Advantage",
+   "Name": "OLI_ATTACH_1035TAXADV",
+   "Value": 157,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "1099R",
+   "Name": "OLI_ATTACH_TAX1099R",
+   "Value": 158,
+   "Definition": "Tax Form",
+   "Notes": ""
+ },
+ {
+   "Description": "5498",
+   "Name": "OLI_ATTACH_TAX5498",
+   "Value": 159,
+   "Definition": "Tax Form",
+   "Notes": ""
+ },
+ {
+   "Description": "Account Opening Form",
+   "Name": "OLI_ATTACH_ACCTOPEN",
+   "Value": 2550010,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Acknowledgement of Arbitration Agreement",
+   "Name": "OLI_ATTACH_ACK_ARB_AGRMNT",
+   "Value": 508,
+   "Definition": "The acknowledgement of arbitration agreement is used in certain states. It is used to get the client's agreement to attempt arbitration.",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 701 - Life Application Part 1 Form",
+   "Name": "OLI_ATTACH_ACORD701",
+   "Value": 54,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 702 - Life Application Part 2 Form",
+   "Name": "OLI_ATTACH_ACORD702",
+   "Value": 55,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 703 - Medical Examiner's Report Form",
+   "Name": "OLI_ATTACH_ACORD703",
+   "Value": 56,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 731 - Additional Unions Schedule",
+   "Name": "OLI_ATTACH_ACORD731",
+   "Value": 492,
+   "Definition": "Used to identify additional unions that do not fit on the standard 785 basic RFP form.",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 732 - Additional Locations Schedule",
+   "Name": "OLI_ATTACH_ACORD732",
+   "Value": 493,
+   "Definition": "Used to identify additional locations that do not fit on the standard 785 basic RFP form.",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 733 - Covered Affiliates Schedule",
+   "Name": "OLI_ATTACH_ACORD733",
+   "Value": 494,
+   "Definition": "Used to identify additional covered affiliates that do not fit on the standard 785 basic RFP form.",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 751 - Authorization to Obtain and Disclose Information Form",
+   "Name": "OLI_ATTACH_ACORD751",
+   "Value": 57,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 752 - Certificate of Non-Illustration Form",
+   "Name": "OLI_ATTACH_ACORD752",
+   "Value": 58,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 753 - Pre-Notice Form",
+   "Name": "OLI_ATTACH_ACORD753",
+   "Value": 59,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 754 - Additional Other Proposed Insured Form",
+   "Name": "OLI_ATTACH_ACORD754",
+   "Value": 60,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 755 - Additional Owners Form",
+   "Name": "OLI_ATTACH_ACORD755",
+   "Value": 61,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 756 - Additional Beneficiaries Form",
+   "Name": "OLI_ATTACH_ACORD756",
+   "Value": 62,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 757 - HIV Antibody / Antigen Consent and Testing Form",
+   "Name": "OLI_ATTACH_ACORD757",
+   "Value": 63,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 758 - Producer Appointment Sheet Form",
+   "Name": "OLI_ATTACH_ACORD758",
+   "Value": 64,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 759 - Important Notice Regarding Replacement Form",
+   "Name": "OLI_ATTACH_ACORD759",
+   "Value": 65,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 761 - Policy Effective Date Supplement - Date of Policy Application Form",
+   "Name": "OLI_ATTACH_ACORD761",
+   "Value": 66,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 762 - Policy Effective Date Supplement - Date of Policy Delivery Form",
+   "Name": "OLI_ATTACH_ACORD762",
+   "Value": 67,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 763 - Policy Effective Date Supplement - Date Policy Issued Form",
+   "Name": "OLI_ATTACH_ACORD763",
+   "Value": 68,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 764 - Fair Credit Reporting Act Disclosure Form",
+   "Name": "OLI_ATTACH_ACORD764",
+   "Value": 69,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 765 - Agent's Report Form",
+   "Name": "OLI_ATTACH_ACORD765",
+   "Value": 70,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 766 - Product Comparison Form",
+   "Name": "OLI_ATTACH_ACORD766",
+   "Value": 71,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 767 - Temporary Insurance Agreement Form",
+   "Name": "OLI_ATTACH_ACORD767",
+   "Value": 72,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 785 - Request for Proposal",
+   "Name": "OLI_ATTACH_ACORD785",
+   "Value": 495,
+   "Definition": "The basic non line of business specific form used to submit request for proposals.",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 786 - Request For Proposal Life Supplement",
+   "Name": "OLI_ATTACH_ACORD786",
+   "Value": 496,
+   "Definition": "Used to collect information necessary to submit a request for proposal for Life insurance.",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 787 - Request For Proposal Short Term Disability Supplement",
+   "Name": "OLI_ATTACH_ACORD787",
+   "Value": 497,
+   "Definition": "Used to collect information necessary to submit a request for proposal for Short Term Disability insurance.",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 788 - Request For Proposal Long Term Disability Supplement",
+   "Name": "OLI_ATTACH_ACORD788",
+   "Value": 498,
+   "Definition": "Used to collect information necessary to submit a request for proposal for Long Term Disability insurance.",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 789 - Age Banded Rate Supplement",
+   "Name": "OLI_ATTACH_ACORD789",
+   "Value": 499,
+   "Definition": "Used to provide additional details about the rates for the request for proposal.",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 790 - Reducing Benefit Duration Schedule",
+   "Name": "OLI_ATTACH_ACORD790",
+   "Value": 500,
+   "Definition": "Used to provide additional details about the scheduling method as it applies to Long Term Disability for the request for proposal.",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 791 - Administrative Services & Fee Schedule - LTD",
+   "Name": "OLI_ATTACH_ACORD791",
+   "Value": 501,
+   "Definition": "Used to provide additional details about the administrative services and fees as it applies to Long Term Disability for the request for proposal.",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 792 - Administrative Services & Fee Schedule - STD",
+   "Name": "OLI_ATTACH_ACORD792",
+   "Value": 502,
+   "Definition": "Used to provide additional details about the administrative services and fees as it applies to Short Term Disability for the request for proposal.",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 821 - Producer Information Form",
+   "Name": "OLI_ATTACH_ACORD821",
+   "Value": 525,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD 951 - 1035 Exchange / Rollover / Transfer Form",
+   "Name": "OLI_ATTACH_ACORD951",
+   "Value": 73,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "ACORD - Census Supplement",
+   "Name": "OLI_ATTACH_CENSUS",
+   "Value": 273,
+   "Definition": "Used to provide high level employee specific data for accessing risk when submitting a request for proposal to the insurance carrier. Can also be used to communicate detailed plan subscriber and dependant data to the carrier who has agreed to provide coverage.",
+   "Notes": ""
+ },
+ {
+   "Description": "Agency/Agent Contract Maintenance",
+   "Name": "OLI_ATTACH_AGCONTMAINT",
+   "Value": 236,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Agency/Agent Termination",
+   "Name": "OLI_ATTACH_AGTERM",
+   "Value": 237,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "AgencyAgent License Maintenance",
+   "Name": "OLI_ATTACH_AGLICMAINT",
+   "Value": 238,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Agent Reimbursement for APS",
+   "Name": "OLI_ATTACH_APSAGTREIM",
+   "Value": 166,
+   "Definition": "Documents related to reimbursing an agent who has paid for an Attending Physician Statement",
+   "Notes": ""
+ },
+ {
+   "Description": "Alcohol Abuse Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QALCOHOL",
+   "Value": 135,
+   "Definition": "Document used to gather more detailed information about applicant's use of alcohol reported in the application",
+   "Notes": ""
+ },
+ {
+   "Description": "Amendment",
+   "Name": "OLI_ATTACH_AMEND",
+   "Value": 130,
+   "Definition": "Document which amends the original terms of the application.",
+   "Notes": ""
+ },
+ {
+   "Description": "Annuitization Authorization Form",
+   "Name": "OLI_ATTACH_ANNUITIZE",
+   "Value": 2550290,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Annuity Application - IRI Compliant",
+   "Name": "OLI_ATTACH_ANNUITY_APPNAVACOMP",
+   "Value": 2550190,
+   "Definition": "Formerly named \"Annuity Application - NAVA Compliant\"",
+   "Notes": ""
+ },
+ {
+   "Description": "Annuity Application - Non IRI Compliant",
+   "Name": "OLI_ATTACH_ANNUITY_APP_NONNAVACOMP",
+   "Value": 2550200,
+   "Definition": "Formerly named \"Annuity Application - Non NAVA Compliant\"",
+   "Notes": ""
+ },
+ {
+   "Description": "Annuity Policy Contract",
+   "Name": "OLI_ATTACH_ANNUITYCONTRACT",
+   "Value": 2550400,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Applicant Chest Pain Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QCHESTPAIN",
+   "Value": 132,
+   "Definition": "Document used to gather more detailed information about applicant's chest pain reported in the application",
+   "Notes": ""
+ },
+ {
+   "Description": "Applicant Diabetic Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QDIABETIC",
+   "Value": 134,
+   "Definition": "Document used to gather more detailed information about applicant's diabetes reported in the application",
+   "Notes": ""
+ },
+ {
+   "Description": "Application - Alternate Life Insurance Plan",
+   "Name": "OLI_ATTACH_ALTLIFEAPP",
+   "Value": 334,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Application - Credit / Loan",
+   "Name": "OLI_ATTACH_CREDITAPP",
+   "Value": 335,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Application - Group",
+   "Name": "OLI_ATTACH_GROUPAPP",
+   "Value": 336,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Application - Health Coverage",
+   "Name": "OLI_ATTACH_HEALTHAPP",
+   "Value": 337,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Application - Nominee Account",
+   "Name": "OLI_ATTACH_NAAPP",
+   "Value": 338,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Application Overflow Form",
+   "Name": "OLI_ATTACH_APP_OVERFLOW",
+   "Value": 509,
+   "Definition": "The Application Overflow Form is used to gather more detailed information about an applicant that doesn't fit on the standard application documents.",
+   "Notes": ""
+ },
+ {
+   "Description": "Application - Payout Annuity",
+   "Name": "OLI_ATTACH_PAYANNUAPP",
+   "Value": 339,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Application - Policy Change",
+   "Name": "OLI_ATTACH_POLCHGAPP",
+   "Value": 340,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Applications/Enrollment Form - Employees",
+   "Name": "OLI_ATTACH_APPENROLL",
+   "Value": 320,
+   "Definition": "Applications and enrollment forms for employees. This is typically included in a request for proposal to the insurance carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Applications/Enrollment Form - Employer",
+   "Name": "OLI_ATTACH_APPENROLLEMPL",
+   "Value": 491,
+   "Definition": "Applications and enrollment forms for the employer. This is typically included in a request for proposal to the insurance carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Application - Signature Page",
+   "Name": "OLI_ATTACH_SIGNATUREAPP",
+   "Value": 341,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Application - Social Insurance Number (SIN)",
+   "Name": "OLI_ATTACH_SINAPP",
+   "Value": 342,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Appointment - Authorization to Disclose",
+   "Name": "OLI_ATTACH_APPTDISCLOSE",
+   "Value": 215,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Appointment - Broker Authorization",
+   "Name": "OLI_ATTACH_APPTBROKER",
+   "Value": 214,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Appointment Copy in non pre-appointment states",
+   "Name": "OLI_ATTACH_APPTLICENSE",
+   "Value": 213,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Appointment Documents for pre-appointment states",
+   "Name": "OLI_ATTACH_APPTPREAPPT",
+   "Value": 218,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Appointment E & O",
+   "Name": "OLI_ATTACH_APPTEO",
+   "Value": 219,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Appointment - General Correspondence",
+   "Name": "OLI_ATTACH_APPTGENCORR",
+   "Value": 217,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Appointment - Producer Information Form",
+   "Name": "OLI_ATTACH_APPTPRODUCER",
+   "Value": 216,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Arkansas Rule 82 Certificate",
+   "Name": "OLI_ATTACH_AKRULE82CERT",
+   "Value": 2550510,
+   "Definition": "Certificate of satisfaction of Arkansas Rule 82 Annuity Training requirement prior to sale of annuities.",
+   "Notes": ""
+ },
+ {
+   "Description": "Articles of Incorporation",
+   "Name": "OLI_ATTACH_ARTOFINCORP",
+   "Value": 537,
+   "Definition": "These are the documents that were filed when the corporation was incorporated.",
+   "Notes": ""
+ },
+ {
+   "Description": "As Originally Sold Illustration",
+   "Name": "OLI_ATTACH_ASORIGSOLDILLUS",
+   "Value": 7,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Asset Rebalancing Form",
+   "Name": "OLI_ATTACH_ASSETREBAL",
+   "Value": 2550310,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Assignment - absolute",
+   "Name": "OLI_ATTACH_ASSIGNABS",
+   "Value": 226,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Assignment - Collateral",
+   "Name": "OLI_ATTACH_ASSIGNCOLL",
+   "Value": 228,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Assignment of Commissions",
+   "Name": "OLI_ATTACH_COMMASSIGN",
+   "Value": 229,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Assignment - Release",
+   "Name": "OLI_ATTACH_ASSIGNREL",
+   "Value": 227,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Assumptions",
+   "Name": "OLI_ATTACH_ASSUMPTIONS",
+   "Value": 265,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Attending Physician Statement",
+   "Name": "OLI_ATTACH_APSMD",
+   "Value": 163,
+   "Definition": "Details of an applicant's medical history, provided by a physician",
+   "Notes": ""
+ },
+ {
+   "Description": "Authorization",
+   "Name": "OLI_ATTACH_AUTH",
+   "Value": 239,
+   "Definition": "When electronically ordering certain types of reports, a signed authorization form is required (in order to allow the service provider to obtain the requested information from the health care provider or similar source). There is a need to be able to attach an image of a signed authorization form to a 121 General Requirement Order transaction when ordering services that require such an authorization.",
+   "Notes": ""
+ },
+ {
+   "Description": "Authorization - Credit Card",
+   "Name": "OLI_ATTACH_CREDCARDAUTH",
+   "Value": 343,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Authorization for Non-Resident Tax Exemption",
+   "Name": "OLI_ATTACH_NRTAXA",
+   "Value": 346,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Authorization - Motor Vehicle Report",
+   "Name": "OLI_ATTACH_MOTORVEHREP",
+   "Value": 344,
+   "Definition": "Authorization from the policy owner/insured to enable the carrier to request a Motor Vehicle Report from the appropriate transportation authority within the province issuing the current driver's license.",
+   "Notes": ""
+ },
+ {
+   "Description": "Authorization - Obtain / Release Information",
+   "Name": "OLI_ATTACH_RELINFO",
+   "Value": 345,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Autopsy Report",
+   "Name": "OLI_ATTACH_AUTOPSY",
+   "Value": 243,
+   "Definition": "A report which includes the details of the post-mortem examination. This report includes cause of death and factors related to the cause of death. It is used in claim processing when there are unusual circumstances surrounding the insured's death; additional death benefits such as accidental death benefits may be payable; \\or when the death of the insured occurs during the policy contestable period.",
+   "Notes": ""
+ },
+ {
+   "Description": "Aviation Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QAVIATION",
+   "Value": 136,
+   "Definition": "Document used to gather more detailed information about applicant's participation in aviation reported in the application",
+   "Notes": ""
+ },
+ {
+   "Description": "Backdate Notice",
+   "Name": "OLI_ATTACH_BACKDATE",
+   "Value": 127,
+   "Definition": "Request that policy effective date be changed to an earlier date. Primarily used to Save Age",
+   "Notes": ""
+ },
+ {
+   "Description": "Bank Correspondence",
+   "Name": "OLI_ATTACH_MONEYBANK",
+   "Value": 184,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Benchmarking/Survey Results",
+   "Name": "OLI_ATTACH_BENCHMARK",
+   "Value": 266,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Benefit Summary",
+   "Name": "OLI_ATTACH_BENESUMM",
+   "Value": 267,
+   "Definition": "A summary of benefit information. This is usually a one page description of the plan highlights, but may be longer.",
+   "Notes": ""
+ },
+ {
+   "Description": "Billing Statement",
+   "Name": "OLI_ATTACH_CARRIERINV",
+   "Value": 272,
+   "Definition": "A monthly, quarterly or annual statement from the incumbent carrier or insurer that gives detailed enrollment and premium information.",
+   "Notes": ""
+ },
+ {
+   "Description": "Blood & Urine Test Results, Electronic",
+   "Name": "OLI_ATTACH_LABSBLDURINE",
+   "Value": 168,
+   "Definition": "Electronic results of tests performed on blood and urine specimens to ascertain the applicant's health.",
+   "Notes": ""
+ },
+ {
+   "Description": "Blood Pressure Recheck",
+   "Name": "OLI_ATTACH_APSBLDPRESS",
+   "Value": 165,
+   "Definition": "Additional blood pressure readings used to determine if abnormal results reflect a pattern or were an aberration",
+   "Notes": ""
+ },
+ {
+   "Description": "Blood Test Results - Paper",
+   "Name": "OLI_ATTACH_LABSBLD",
+   "Value": 169,
+   "Definition": "Results of tests performed on a blood specimen to ascertain the applicant's health.",
+   "Notes": ""
+ },
+ {
+   "Description": "Broker Authorization",
+   "Name": "OLI_ATTACH_LICBRKERAUTH",
+   "Value": 221,
+   "Definition": "Broker's authorization to the carrier, indicating their approval to proceed with the Licensing & Appointing process",
+   "Notes": ""
+ },
+ {
+   "Description": "Broker of Record Letter",
+   "Name": "OLI_ATTACH_BROKER",
+   "Value": 268,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Budget Information",
+   "Name": "OLI_ATTACH_BUDGET",
+   "Value": 269,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Insurance Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QBUSINS",
+   "Value": 140,
+   "Definition": "Document used to gather more detailed information when the insurance being applied for  will be used for business purposes.",
+   "Notes": ""
+ },
+ {
+   "Description": "Buyers Guide (Non-NAIC)",
+   "Name": "OLI_ATTACH_BUYERS_GUIDE",
+   "Value": 2550450,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "California Pre-Sale Notice",
+   "Name": "OLI_ATTACH_CAPRESALE",
+   "Value": 2550185,
+   "Definition": "Notice Prior to Senior Home Visit (per CA reg 789.10)",
+   "Notes": ""
+ },
+ {
+   "Description": "Cancellation",
+   "Name": "OLI_ATTACH_DISBCANCEL",
+   "Value": 210,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Carrier Contact Information",
+   "Name": "OLI_ATTACH_CARRIERCONT",
+   "Value": 270,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Carrier Form",
+   "Name": "OLI_ATTACH_CARRIERFORM",
+   "Value": 271,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Carrier Specific Application",
+   "Name": "OLI_ATTACH_CARRIERAPP",
+   "Value": 253,
+   "Definition": "Application that is specific to a carrier who is not using the ACORD generic application.  This code also represents a carrier's standard application as opposed to one with a shortened format and fewer questions. This may also be called a long application or a full application.",
+   "Notes": ""
+ },
+ {
+   "Description": "Carrier Specific Express Application",
+   "Name": "OLI_ATTACH_EXPAPP",
+   "Value": 523,
+   "Definition": "A carrier specific application having a shortened format with a reduced number of medical questions and fewer possible additional insureds. May also be called a short application.",
+   "Notes": ""
+ },
+ {
+   "Description": "Cash on Delivery Check",
+   "Name": "OLI_ATTACH_MONEYCOD",
+   "Value": 181,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cash with App",
+   "Name": "OLI_ATTACH_MONEYCWA",
+   "Value": 180,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Census - Ancillary",
+   "Name": "OLI_ATTACH_CENSUSANC",
+   "Value": 274,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Census - Medical",
+   "Name": "OLI_ATTACH_CENSUSMED",
+   "Value": 275,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Claim - Additional Claimants",
+   "Name": "OLI_ATTACH_ADDCLS",
+   "Value": 347,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Claim - Claimant Statement",
+   "Name": "OLI_ATTACH_CLAIMSTAT",
+   "Value": 348,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Claim - Critical Illness",
+   "Name": "OLI_ATTACH_CRITICALILLNESS",
+   "Value": 349,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Claim - Declaration / Proof of Death",
+   "Name": "OLI_ATTACH_DEATHDEC",
+   "Value": 350,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Claim - Drug Employee Reimbursement",
+   "Name": "OLI_ATTACH_DRUGEMPLCL",
+   "Value": 351,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Claim Financial Investigation",
+   "Name": "OLI_ATTACH_FINANCIALINVESTIG",
+   "Value": 242,
+   "Definition": "This contains additional financial details that were required for the case. This document is used to verify the financial loss (Income Loss) to a disabled insured.",
+   "Notes": ""
+ },
+ {
+   "Description": "Claim - Foreign",
+   "Name": "OLI_ATTACH_FORIEGNCL",
+   "Value": 352,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Claim - Healthcare Expenses",
+   "Name": "OLI_ATTACH_HEALTHCARE",
+   "Value": 353,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Claim - Requirements",
+   "Name": "OLI_ATTACH_REQUIREMENTS",
+   "Value": 354,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Claims - All",
+   "Name": "OLI_ATTACH_CLAIMS",
+   "Value": 276,
+   "Definition": "A report from the current carrier or TPA that gives data on claims incurred or paid by the plan. This is typically included in a request for proposal to the insurance carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Claims - Large / Shock",
+   "Name": "OLI_ATTACH_CLAIMSLRGSHCK",
+   "Value": 488,
+   "Definition": "A report containing claims data on claimants who have generated claims in excess of a stated dollar threshold. This is typically included in a request for proposal to the insurance carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Claims - Waiver",
+   "Name": "OLI_ATTACH_CLAIMSWVR",
+   "Value": 489,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Client Identification - Age of Majority",
+   "Name": "OLI_ATTACH_AGEOFMAJORITYID",
+   "Value": 516,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Client Identification - Birth Certificate",
+   "Name": "OLI_ATTACH_BIRTHCERT",
+   "Value": 355,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Client Identification - Citizenship",
+   "Name": "OLI_ATTACH_CITIZENSHIPID",
+   "Value": 521,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Client Identification - Driver's License",
+   "Name": "OLI_ATTACH_DRIVERSLIC",
+   "Value": 356,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Client Identification - Member of Armed Forces",
+   "Name": "OLI_ATTACH_ARMEDFORCESID",
+   "Value": 520,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Client Identification - Passport",
+   "Name": "OLI_ATTACH_PASSPORT",
+   "Value": 357,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Client Identification - Work Permit",
+   "Name": "OLI_ATTACH_WORKPERMIT",
+   "Value": 358,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Comment/Remark",
+   "Name": "OLI_ATTACH_COMMENT",
+   "Value": 2,
+   "Definition": "Use for Comments or Form Remarks sections",
+   "Notes": ""
+ },
+ {
+   "Description": "Commission, Single Case Agreement",
+   "Name": "OLI_ATTACH_COMMSCA",
+   "Value": 234,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Commission Agreement - ACORD 785",
+   "Name": "OLI_ATTACH_COMMAGREE",
+   "Value": 277,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Commission Agreement - NAILBA",
+   "Name": "OLI_ATTACH_COMMAGREEMNT",
+   "Value": 232,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Commission Schedule",
+   "Name": "OLI_ATTACH_COMMSCHED",
+   "Value": 233,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Commission Split",
+   "Name": "OLI_ATTACH_COMMSPLIT",
+   "Value": 231,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Commission Statement",
+   "Name": "OLI_ATTACH_COMMSTATEMNT",
+   "Value": 235,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Compensation Disclosure",
+   "Name": "OLI_ATTACH_COMDISCLOSURE",
+   "Value": 2550120,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Completed Census Data",
+   "Name": "OLI_ATTACH_CENSUSDATA",
+   "Value": 279,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Completed Proposal Form",
+   "Name": "OLI_ATTACH_PROPOSAL",
+   "Value": 280,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Compliance",
+   "Name": "OLI_ATTACH_COMPLIANCE",
+   "Value": 278,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Conditional Receipt",
+   "Name": "OLI_ATTACH_CONDRCPT",
+   "Value": 98,
+   "Definition": "A receipt given when a payment accompanies an application for insurance. It provides that the coverage will be in force from the date of application, provided the insurer would have issued the coverage on the basis of the facts revealed on the application, medical examination and other usual sources of underwriting.",
+   "Notes": ""
+ },
+ {
+   "Description": "Conditions",
+   "Name": "OLI_ATTACH_CONDITIONS",
+   "Value": 322,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Confirmation of Agreements",
+   "Name": "OLI_ATTACH_CONFAGREE",
+   "Value": 281,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Confirmation Statement",
+   "Name": "OLI_ATTACH_CONFSTATE",
+   "Value": 282,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Conflicts of Interest Disclosure",
+   "Name": "OLI_ATTACH_CONFLICTS",
+   "Value": 2550130,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Consulting Agreement",
+   "Name": "OLI_ATTACH_CONSULAGREE",
+   "Value": 283,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Contract - additional info unknown",
+   "Name": "OLI_ATTACH_CONTRACT",
+   "Value": 284,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Contracting - Application",
+   "Name": "OLI_ATTACH_CONTRAPP",
+   "Value": 359,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Contracting - Bonus",
+   "Name": "OLI_ATTACH_BONUS",
+   "Value": 360,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Contracting - Broker is a Business Entity",
+   "Name": "OLI_ATTACH_CORPENTITY",
+   "Value": 361,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Contracting - Cancellation / Termination",
+   "Name": "OLI_ATTACH_TERMINATION",
+   "Value": 362,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Contracting - Code of Conduct",
+   "Name": "OLI_ATTACH_CODEOFCOND",
+   "Value": 363,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Contracting - E&O Certificate",
+   "Name": "OLI_ATTACH_EOCERT",
+   "Value": 364,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Contributions/Pricing",
+   "Name": "OLI_ATTACH_CONTRIBUT",
+   "Value": 285,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Coronary Artery Disease Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QCORONARY",
+   "Value": 131,
+   "Definition": "Document used to gather more detailed information about applicant's coronary artery disease reported in the application",
+   "Notes": ""
+ },
+ {
+   "Description": "Correspondence",
+   "Name": "OLI_ATTACH_CORRESP",
+   "Value": 286,
+   "Definition": "This is a general attachment for generic correspondence where no further specificity is known.",
+   "Notes": ""
+ },
+ {
+   "Description": "Correspondence from Agent",
+   "Name": "OLI_ATTACH_CORRFRMAGT",
+   "Value": 111,
+   "Definition": "Document, other than a standardized form, used to communicate information from the Agent to the Carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Correspondence from General Agency",
+   "Name": "OLI_ATTACH_CORRFRMGA",
+   "Value": 110,
+   "Definition": "Document, other than a standardized form, used to communicate information from the General Agency to the Carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Correspondence from Proposed Insured",
+   "Name": "OLI_ATTACH_CORRFRMPI",
+   "Value": 115,
+   "Definition": "Document sent by the Proposed Insured to the Carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Correspondence from Provider",
+   "Name": "OLI_ATTACH_CORRFRMPROV",
+   "Value": 114,
+   "Definition": "Document sent by an insurance service provider to the Carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Correspondence to Agent",
+   "Name": "OLI_ATTACH_CORRTOAGT",
+   "Value": 113,
+   "Definition": "Document sent by the Carrier to the Agent. Could be a form, form letter, custom business letter or ad hoc communication.",
+   "Notes": ""
+ },
+ {
+   "Description": "Correspondence to General Agency",
+   "Name": "OLI_ATTACH_CORRTOGA",
+   "Value": 112,
+   "Definition": "Document sent by the Carrier to the General Agency. Could be a form, form letter, custom business letter or ad hoc communication.",
+   "Notes": ""
+ },
+ {
+   "Description": "Credential",
+   "Name": "OLI_ATTACH_CREDENTIAL",
+   "Value": 2550005,
+   "Definition": "Provides the value of a credential",
+   "Notes": ""
+ },
+ {
+   "Description": "Credit Enhancement Disclosure Form",
+   "Name": "OLI_ATTACH_CREDITENH",
+   "Value": 2550233,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Customer Confirmation Form",
+   "Name": "OLI_ATTACH_CUSTOMERCONFIRM",
+   "Value": 2550380,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Customer Information Supplement",
+   "Name": "OLI_ATTACH_CUSTSUPPLEMENT",
+   "Value": 542,
+   "Definition": "The customer information supplement is used to collect additional information such as income, liquidity needs, investment objectives and experience, and other suitability-related details used to assess product suitabilty.",
+   "Notes": ""
+ },
+ {
+   "Description": "Customer Profile",
+   "Name": "OLI_ATTACH_CUSTPROFILE",
+   "Value": 2550015,
+   "Definition": "Customer Profile Information",
+   "Notes": ""
+ },
+ {
+   "Description": "Death Certificate",
+   "Name": "OLI_ATTACH_DEATHCERTIFICATE",
+   "Value": 527,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Death Claim",
+   "Name": "OLI_ATTACH_DISBDEATHCLAIM",
+   "Value": 209,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Delivery Coversheet",
+   "Name": "OLI_ATTACH_DELVRYCOVER",
+   "Value": 125,
+   "Definition": "Coversheet used as a tool to communicate information from the producer to the carrier, that is attached to a delivery requirement.",
+   "Notes": ""
+ },
+ {
+   "Description": "Disbursement Forms",
+   "Name": "OLI_ATTACH_DISBDISB",
+   "Value": 205,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Disbursement - Loan",
+   "Name": "OLI_ATTACH_DISBLOAN",
+   "Value": 207,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Disbursement - PUA Surrender",
+   "Name": "OLI_ATTACH_DISBPUASURR",
+   "Value": 206,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Disbursement - Surrender",
+   "Name": "OLI_ATTACH_DISBSURR",
+   "Value": 203,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Disbursement - Withdrawal",
+   "Name": "OLI_ATTACH_DISBWITHDRAW",
+   "Value": 204,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Disclosure",
+   "Name": "OLI_ATTACH_DISCLOSURE",
+   "Value": 108,
+   "Definition": "State specific form, which provides the applicant with specific insurance information that is required by the state.",
+   "Notes": ""
+ },
+ {
+   "Description": "Disclosure Statement for Accelerated Benefits",
+   "Name": "OLI_ATTACH_DISCACCBENE",
+   "Value": 507,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Disruption Report for Current Carrier",
+   "Name": "OLI_ATTACH_DISRUPTRP",
+   "Value": 287,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dividend Forms",
+   "Name": "OLI_ATTACH_DISBDIV",
+   "Value": 208,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Document",
+   "Name": "OLI_ATTACH_DOC",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dollar Cost Averaging (DCA) Form",
+   "Name": "OLI_ATTACH_DCAREQ",
+   "Value": 2550320,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Driving Report",
+   "Name": "OLI_ATTACH_DRIVERPT",
+   "Value": 176,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Drug Use Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QDRUGUSE",
+   "Value": 144,
+   "Definition": "Document used to gather more detailed information about applicant's use of drugs reported in the application",
+   "Notes": ""
+ },
+ {
+   "Description": "Due Diligence",
+   "Name": "OLI_ATTACH_DUEDIL",
+   "Value": 288,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Early Withdrawals on Annuity Proceeds Disclosure",
+   "Name": "OLI_ATTACH_EARLYWITH",
+   "Value": 2550216,
+   "Definition": "Early Withdrawals on Annuity Proceeds Disclosure Statement",
+   "Notes": ""
+ },
+ {
+   "Description": "Education Savings - Grant (CESG)",
+   "Name": "OLI_ATTACH_CESG",
+   "Value": 365,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Education Savings - Investment Application",
+   "Name": "OLI_ATTACH_INVESTMENTAPP",
+   "Value": 366,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Education Savings - Tax",
+   "Name": "OLI_ATTACH_TAXEDUSAV",
+   "Value": 367,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "EKG Holter",
+   "Name": "OLI_ATTACH_EKGHOLTER",
+   "Value": 173,
+   "Definition": "Results of special portable electrocardiogram test performed to ascertain applicant's cardiac health",
+   "Notes": ""
+ },
+ {
+   "Description": "EKG Interpretation",
+   "Name": "OLI_ATTACH_EKGINTERP",
+   "Value": 172,
+   "Definition": "Analysis of the results of electrocardiogram test performed to ascertain applicant's cardiac health",
+   "Notes": ""
+ },
+ {
+   "Description": "EKG Tracing",
+   "Name": "OLI_ATTACH_EKGTRACE",
+   "Value": 171,
+   "Definition": "Graphic results of electrocardiogram test performed to ascertain applicant's cardiac health",
+   "Notes": ""
+ },
+ {
+   "Description": "Electronic Consent Form - Carrier",
+   "Name": "OLI_ATTACH_CARRCONSENT",
+   "Value": 2550020,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electronic Consent Form - Distributor",
+   "Name": "OLI_ATTACH_DISTCONSENT",
+   "Value": 2550030,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electronic Consent Form - Joint",
+   "Name": "OLI_ATTACH_JNTCONSENT",
+   "Value": 2550035,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electronic Funds Transfer (EFT) Form",
+   "Name": "OLI_ATTACH_EFTFORM",
+   "Value": 123,
+   "Definition": "Authorization to draft or deposit funds to an account electronically.",
+   "Notes": ""
+ },
+ {
+   "Description": "Electronic Health Record",
+   "Name": "OLI_ATTACH_EHR",
+   "Value": 533,
+   "Definition": "The attachment is a representation of an Electronic Health Record (EHR). This may also be known as Electronic Medical Record (EMR).",
+   "Notes": ""
+ },
+ {
+   "Description": "Electronic Signature Summary",
+   "Name": "OLI_ATTACH_ELECSIGSUMMARY",
+   "Value": 506,
+   "Definition": "The page or report used to summarize the data associated with electronic signatures (e-signatures) received as part of an application or authorization.",
+   "Notes": ""
+ },
+ {
+   "Description": "Eligibility",
+   "Name": "OLI_ATTACH_ELIGIBL",
+   "Value": 289,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "E-Mail",
+   "Name": "OLI_ATTACH_EMAIL",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Employee and/or Employer Contributions",
+   "Name": "OLI_ATTACH_EMPLCONTRIB",
+   "Value": 490,
+   "Definition": "Details pertaining to the premium contribution levels made by the employee and/or employer. This is typically included in a request for proposal to the insurance carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Employee Communication Materials",
+   "Name": "OLI_ATTACH_EMPLOCOM",
+   "Value": 290,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Employer-owned Life Ins Notice and Consent Form",
+   "Name": "OLI_ATTACH_NOTICECONSENT",
+   "Value": 505,
+   "Definition": "Usually used pursuant to US IRS Form 8925 Report of Employer-Owned Life Insurance Contracts the policyholder must have a valid consent form for each insured employee.",
+   "Notes": ""
+ },
+ {
+   "Description": "Examiner Note",
+   "Name": "OLI_ATTACH_EXAMINERNOTE",
+   "Value": 325,
+   "Definition": "Note with instructions or additional information for the medical examiner.",
+   "Notes": ""
+ },
+ {
+   "Description": "Exception Note",
+   "Name": "OLI_ATTACH_EXCEPTIONNOTE",
+   "Value": 15,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Exchange/Rollover Transfer Form",
+   "Name": "OLI_ATTACH_EXCHANGE",
+   "Value": 2550360,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Executive Report",
+   "Name": "OLI_ATTACH_EXECRP",
+   "Value": 291,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Experience/Plan Utilization",
+   "Name": "OLI_ATTACH_EXPPLAN",
+   "Value": 293,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Experience Information",
+   "Name": "OLI_ATTACH_EXPINFO",
+   "Value": 292,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Face to Face Assessment",
+   "Name": "OLI_ATTACH_FACETOFACE",
+   "Value": 328,
+   "Definition": "The Attachment is the result of a request for the results of the Face to Face Assessment",
+   "Notes": ""
+ },
+ {
+   "Description": "FASB Study",
+   "Name": "OLI_ATTACH_FASB",
+   "Value": 294,
+   "Definition": "Financial Accounting Standards Board (FASB)",
+   "Notes": ""
+ },
+ {
+   "Description": "FATCA Entity Classification Declaration",
+   "Name": "OLI_ATTACH_FATCATAXCLASSENT",
+   "Value": 529,
+   "Definition": "Document which captures the tax classification for an entity.FATCA is the U.S. Internal Revenue Service (IRS) Foreign Account Tax Compliance Act.",
+   "Notes": ""
+ },
+ {
+   "Description": "FATCA Self-Certification",
+   "Name": "OLI_ATTACH_FATCATAXCLASSIND",
+   "Value": 530,
+   "Definition": "Document which captures the tax classification for an individual.FATCA is the U.S. Internal Revenue Service (IRS) Foreign Account Tax Compliance Act.",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial - Bank Estate",
+   "Name": "OLI_ATTACH_BANKESTATE",
+   "Value": 368,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial - Business Coverage",
+   "Name": "OLI_ATTACH_BUSCOV",
+   "Value": 369,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial - Business Entity",
+   "Name": "OLI_ATTACH_BUSINESSENTITY",
+   "Value": 370,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial - Buy/Sell Agreement Request/Requirement",
+   "Name": "OLI_ATTACH_BSR",
+   "Value": 371,
+   "Definition": "Financial - Buy / Sell Agreement Request / Requirements",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial - Confidential Business Questionnaire",
+   "Name": "OLI_ATTACH_CONFIDENTIALQ",
+   "Value": 372,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial - Divorce / Separation Agreement",
+   "Name": "OLI_ATTACH_DIVORCEAGR",
+   "Value": 373,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial - Estate Planning",
+   "Name": "OLI_ATTACH_ESTATEPLANF",
+   "Value": 374,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial - Gifted Property",
+   "Name": "OLI_ATTACH_GIFTEDPROP",
+   "Value": 375,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial - Hardship",
+   "Name": "OLI_ATTACH_HARDSHIP",
+   "Value": 376,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial - Personal Statement",
+   "Name": "OLI_ATTACH_PERSONALSTAT",
+   "Value": 377,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial - Proposed Insured",
+   "Name": "OLI_ATTACH_PROPOSEDINS",
+   "Value": 378,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial Questionnaire",
+   "Name": "OLI_ATTACH_QFINANCIAL",
+   "Value": 146,
+   "Definition": "Document used to gather more information about the applicant's financial situation.",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial Report - Business",
+   "Name": "OLI_ATTACH_FINRPTBUS",
+   "Value": 150,
+   "Definition": "Personal or corporate income statement, used to determine relationship between applicant's financial situation and amount of insurance requested.",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial Report - Personal",
+   "Name": "OLI_ATTACH_FINRPTPERS",
+   "Value": 149,
+   "Definition": "Personal financial report, used to determine relationship between applicant's financial situation and amount of insurance requested.",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial - Trust for a Minor",
+   "Name": "OLI_ATTACH_TRUSTMINOR",
+   "Value": 379,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial - Will",
+   "Name": "OLI_ATTACH_WILL",
+   "Value": 380,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fixed Annuity Profile",
+   "Name": "OLI_ATTACH_FAP",
+   "Value": 2550070,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Footnote",
+   "Name": "OLI_ATTACH_FOOTNOTE",
+   "Value": 78,
+   "Definition": "Additional variable information applicable to correspondence. This is a specific part of a document.",
+   "Notes": ""
+ },
+ {
+   "Description": "Foreign Resident/Travel Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QFORTRAV",
+   "Value": 141,
+   "Definition": "Document used to gather more detailed information about the applicant's non-citizen status and/or their intent to travel outside the US",
+   "Notes": ""
+ },
+ {
+   "Description": "Form",
+   "Name": "OLI_ATTACH_FORM",
+   "Value": 5,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Form 5500",
+   "Name": "OLI_ATTACH_F5500",
+   "Value": 295,
+   "Definition": "Form 5500 Annual Return/Report of Employee Benefit Plan - jointly developed by the Department of Labor, Internal Revenue Service, and the Pension Benefit Guaranty Corporation.",
+   "Notes": ""
+ },
+ {
+   "Description": "Formula",
+   "Name": "OLI_ATTACH_FORMULA",
+   "Value": 534,
+   "Definition": "Used to specify a complex formula such as Market Value Adjustment (MVA) calculations or complex rider formulas.",
+   "Notes": ""
+ },
+ {
+   "Description": "Full Liquidation Form",
+   "Name": "OLI_ATTACH_FULLLIQUIDATION",
+   "Value": 513,
+   "Definition": "This is a form carriers use to process full liquidation requests.",
+   "Notes": ""
+ },
+ {
+   "Description": "Fund Prospectus",
+   "Name": "OLI_ATTACH_FUNDPROSP",
+   "Value": 2550050,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "General description",
+   "Name": "OLI_ATTACH_GENDESC",
+   "Value": 264,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "General Note",
+   "Name": "OLI_ATTACH_GENERALNOTE",
+   "Value": 14,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "General VA Disclosure (Rule 2821)",
+   "Name": "OLI_ATTACH_VADISCLOSURE",
+   "Value": 2550110,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Government Allotment",
+   "Name": "OLI_ATTACH_GOVTALLOT",
+   "Value": 124,
+   "Definition": "Document providing details for the use of funds taken from a government salary to pay premium",
+   "Notes": ""
+ },
+ {
+   "Description": "Group - Employee Data Listing",
+   "Name": "OLI_ATTACH_EMPDATLIST",
+   "Value": 381,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Group - Forfeiture of Benefits",
+   "Name": "OLI_ATTACH_FORFEITURE",
+   "Value": 382,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Guaranteed Insurability Election Admin Rules",
+   "Name": "OLI_ATTACH_ELETIONADRULES",
+   "Value": 383,
+   "Definition": "Guaranteed Insurability Election Administrative Rules",
+   "Notes": ""
+ },
+ {
+   "Description": "Guaranty Association Notices",
+   "Name": "OLI_ATTACH_GUARANTYNOTICE",
+   "Value": 2550420,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Health Statement",
+   "Name": "OLI_ATTACH_HLTHSTMNT",
+   "Value": 129,
+   "Definition": "Document attesting to the continuing good health of the applicant. Used either in lieu of a physical exam or when it has been a while since the original application was received. Time interval is carrier specific.",
+   "Notes": ""
+ },
+ {
+   "Description": "HIPAA Authorization",
+   "Name": "OLI_ATTACH_HIPAAAUTH",
+   "Value": 487,
+   "Definition": "A form required by the USA Health Insurance Portability and Accountability Act in which an individual provides his/her signed permission to allow a covered entity to use or disclose the individual's protected health information (PHI) that is described in the authorization for the purpose(s) and to the recipient(s) stated in the authorization.",
+   "Notes": ""
+ },
+ {
+   "Description": "Home Office Specimen",
+   "Name": "OLI_ATTACH_HOS",
+   "Value": 329,
+   "Definition": "The Attachment is the result of a request for the analytic results of the Home Office Specimen",
+   "Notes": ""
+ },
+ {
+   "Description": "IAI data",
+   "Name": "OLI_ATTACH_IAIDATA",
+   "Value": 21,
+   "Definition": "Data associated with this attachment contain the results of an IAI Search",
+   "Notes": ""
+ },
+ {
+   "Description": "Implementation Timeline",
+   "Name": "OLI_ATTACH_IMPLEM",
+   "Value": 296,
+   "Definition": "Details about the implementation timeline in regards to a request for proposal to the insurance carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Income Statement",
+   "Name": "OLI_ATTACH_INCSTMNT",
+   "Value": 148,
+   "Definition": "Personal or corporate income statement, used to determine relationship between applicant's financial situation and amount of insurance requested.",
+   "Notes": ""
+ },
+ {
+   "Description": "Independent Medical Examiner Report",
+   "Name": "OLI_ATTACH_INDEPDENTMEDEXAMNER",
+   "Value": 241,
+   "Definition": "A report that is completed by a Medical Examiner, by the request of the insurance carrier. The Medical Examiner has no prior relationship with the insured. The insurance company .Report requested by the insurance company of an independent medical examiner for a claim. This document that contains information regarding a specified disability or condition with regards to a claim. This is a common requested report for claims that are long term or life long disabilities.",
+   "Notes": ""
+ },
+ {
+   "Description": "Indexed Annuity profile",
+   "Name": "OLI_ATTACH_IAP",
+   "Value": 2550080,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Address Change",
+   "Name": "OLI_ATTACH_POSADDRCHNG",
+   "Value": 201,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Amendment",
+   "Name": "OLI_ATTACH_POSAMEND",
+   "Value": 198,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Audit Request",
+   "Name": "OLI_ATTACH_POSAUDREQ",
+   "Value": 192,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Beneficiary Change",
+   "Name": "OLI_ATTACH_POSBENECHNG",
+   "Value": 189,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Complex Transaction",
+   "Name": "OLI_ATTACH_POSCOMLPEXTRAN",
+   "Value": 193,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Conversion",
+   "Name": "OLI_ATTACH_POSCONVERT",
+   "Value": 196,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Duplicate Policy Request",
+   "Name": "OLI_ATTACH_POSDUPPOL",
+   "Value": 194,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Face Amount Change",
+   "Name": "OLI_ATTACH_POSFACECHNG",
+   "Value": 197,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Name Change",
+   "Name": "OLI_ATTACH_POSNAMECHNG",
+   "Value": 190,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Non-Financial Change",
+   "Name": "OLI_ATTACH_POSNONFINCHNG",
+   "Value": 186,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Non-Financial Transaction",
+   "Name": "OLI_ATTACH_POSNONFIN",
+   "Value": 185,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Owner Change",
+   "Name": "OLI_ATTACH_POSOWNCHNG",
+   "Value": 188,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Premium Change",
+   "Name": "OLI_ATTACH_POSPREMCHNG",
+   "Value": 191,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Rate Reduction",
+   "Name": "OLI_ATTACH_POSRATERED",
+   "Value": 199,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Reinstatement Request",
+   "Name": "OLI_ATTACH_POSREINSTATE",
+   "Value": 202,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Reissue",
+   "Name": "OLI_ATTACH_POSREISS",
+   "Value": 195,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Rider Change",
+   "Name": "OLI_ATTACH_POSRIDERCHNG",
+   "Value": 200,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "In-Force Servicing Agent Change",
+   "Name": "OLI_ATTACH_POSSERVAGTCHNG",
+   "Value": 187,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Information - Product Page",
+   "Name": "OLI_ATTACH_PRODUCTOPAGE",
+   "Value": 384,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Inspection",
+   "Name": "OLI_ATTACH_INSPECTION",
+   "Value": 24,
+   "Definition": "Data associated with this attachment contain the results of an Inspection",
+   "Notes": ""
+ },
+ {
+   "Description": "Inspection Reason",
+   "Name": "OLI_ATTACH_INSPREASON",
+   "Value": 260,
+   "Definition": "Attachment contains information derived from an inspection report that might be used as reasons for modifying or rejecting a policy. This information is typically used for Fair Credit letters.",
+   "Notes": ""
+ },
+ {
+   "Description": "Inspection Report - Business Beneficiary",
+   "Name": "OLI_ATTACH_INSPBUSBENE",
+   "Value": 179,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Inspection Report - Credit",
+   "Name": "OLI_ATTACH_INSPCREDIT",
+   "Value": 178,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Inspection Report - Personal",
+   "Name": "OLI_ATTACH_INSPPERS",
+   "Value": 177,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Instruction in Event of Deviation from RFP",
+   "Name": "OLI_ATTACH_DEVIATERFP",
+   "Value": 321,
+   "Definition": "Instruction in Event of Deviation from Request for Proposal",
+   "Notes": ""
+ },
+ {
+   "Description": "Instructions/Reminders",
+   "Name": "OLI_ATTACH_INSTREMIND",
+   "Value": 250,
+   "Definition": "Instructions such as those relating to a product or benefit. Example: \"Provide a cancelled check not a deposit slip.\" Typically the \"how\" information.",
+   "Notes": ""
+ },
+ {
+   "Description": "Instructions - Settlement Options",
+   "Name": "OLI_ATTACH_ISSINSTSETTL",
+   "Value": 331,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Instructions - Term Conversion",
+   "Name": "OLI_ATTACH_ISSINSTTERMCV",
+   "Value": 332,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Instructions - Underwriting",
+   "Name": "OLI_ATTACH_ISSINSTUND",
+   "Value": 330,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Insurance Verification Letter",
+   "Name": "OLI_ATTACH_INSVER",
+   "Value": 333,
+   "Definition": "This attachmentthat is a form sent by the carrier to a requesting entity which verifies that the party or parties who requested this letter are covered by an insurance policy issued by the carrier",
+   "Notes": ""
+ },
+ {
+   "Description": "Interest Rate Lock Notice and Disclosure",
+   "Name": "OLI_ATTACH_RATELOCK",
+   "Value": 2550184,
+   "Definition": "Interest rate lock information",
+   "Notes": ""
+ },
+ {
+   "Description": "Interest Rate Notice and Disclosure",
+   "Name": "OLI_ATTACH_RATEDISC",
+   "Value": 2550182,
+   "Definition": "Interest rate disclaimer and notice information which should be presented to an agent and/or consumer whenever interest rate information is provided",
+   "Notes": ""
+ },
+ {
+   "Description": "Interest Sweep Form",
+   "Name": "OLI_ATTACH_INTSWEEP",
+   "Value": 2550300,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Interim Conditional Receipt",
+   "Name": "OLI_ATTACH_CONDRECPTINT",
+   "Value": 99,
+   "Definition": "A receipt given when a payment accompanies an application for insurance. It provides that the coverage will be in force from the date of application, provided the insurer would have issued the coverage on the basis of the facts revealed on the application, medical examination and other usual sources of underwriting.",
+   "Notes": ""
+ },
+ {
+   "Description": "Internal Communication",
+   "Name": "OLI_ATTACH_INTERNAL",
+   "Value": 249,
+   "Definition": "Communications and information for use by carrier and distributor staff including agents, but not customers/clients.",
+   "Notes": ""
+ },
+ {
+   "Description": "Investigator Report",
+   "Name": "OLI_ATTACH_INVESTIGATOR",
+   "Value": 240,
+   "Definition": "Provides additional details about a claimant if the claimant is under investigation which can influence the outcome of a case.",
+   "Notes": ""
+ },
+ {
+   "Description": "Issue Log",
+   "Name": "OLI_ATTACH_ISSUELOG",
+   "Value": 297,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Itemized Bill",
+   "Name": "OLI_ATTACH_ITEMBILL",
+   "Value": 248,
+   "Definition": "The attachment contains an itemized bill.",
+   "Notes": ""
+ },
+ {
+   "Description": "Jumbo Case Review Form",
+   "Name": "OLI_ATTACH_JUMBOREVIEW",
+   "Value": 2550240,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lab data",
+   "Name": "OLI_ATTACH_LABREPORT",
+   "Value": 23,
+   "Definition": "Data associated with this attachment contain the results of Lab work",
+   "Notes": ""
+ },
+ {
+   "Description": "Lab Slip Document",
+   "Name": "OLI_ATTACH_LABSLIPDOC",
+   "Value": 515,
+   "Definition": "The attachment is an image of a Lab Slip document that accompanies a lab kit.",
+   "Notes": ""
+ },
+ {
+   "Description": "Legal",
+   "Name": "OLI_ATTACH_LEGAL",
+   "Value": 385,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Letter",
+   "Name": "OLI_ATTACH_LETTER",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Letter - Apology",
+   "Name": "OLI_ATTACH_APOLOGY",
+   "Value": 386,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Letter - Commitment",
+   "Name": "OLI_ATTACH_LETOFCOMMIT",
+   "Value": 387,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Letter - Decision",
+   "Name": "OLI_ATTACH_DECISION",
+   "Value": 388,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Letter of Authorization to Quote",
+   "Name": "OLI_ATTACH_LTRAUTH",
+   "Value": 298,
+   "Definition": "A letter specifying the broker is authorized by the employer to request a quote for insurance.",
+   "Notes": ""
+ },
+ {
+   "Description": "Letter - Receipt for Premiums Collected",
+   "Name": "OLI_ATTACH_RECEIPT",
+   "Value": 389,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Letter - To Physician",
+   "Name": "OLI_ATTACH_PHYSICIANLET",
+   "Value": 390,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "License Copy in non pre-appointment states",
+   "Name": "OLI_ATTACH_LICLICENSE",
+   "Value": 220,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Licensing Authorization to Disclose",
+   "Name": "OLI_ATTACH_LICPRODUCER",
+   "Value": 223,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Licensing Broker Authorization",
+   "Name": "OLI_ATTACH_LICDISCAUTH",
+   "Value": 222,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Licensing - Documents for pre-appointment states",
+   "Name": "OLI_ATTACH_LICPREAPPT",
+   "Value": 225,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Licensing - General Correspondence",
+   "Name": "OLI_ATTACH_LICGENCORR",
+   "Value": 224,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Life Policy Contract",
+   "Name": "OLI_ATTACH_LIFECONTRACT",
+   "Value": 538,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lifestyle Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QLIFESTYLE",
+   "Value": 145,
+   "Definition": "Document used to gather more detailed information about applicant's lifestyle",
+   "Notes": ""
+ },
+ {
+   "Description": "Limited Insurance Agreement",
+   "Name": "OLI_ATTACH_LIA",
+   "Value": 100,
+   "Definition": "An agreement providing that if all qualifications are met, coverage will be in force from the date of application, provided the insurer would have issued the coverage on the basis of the facts revealed on the application, medical examination and other usual sources of underwriting.",
+   "Notes": ""
+ },
+ {
+   "Description": "Lost Policy Affidavit",
+   "Name": "OLI_ATTACH_LOSTPOL",
+   "Value": 256,
+   "Definition": "An attestation that client has lost the original policy for the contract being surrendered for a replacement.",
+   "Notes": ""
+ },
+ {
+   "Description": "Mail Log",
+   "Name": "OLI_ATTACH_MAILLOG",
+   "Value": 391,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Marketing - Fund Code Chart",
+   "Name": "OLI_ATTACH_FUNDCODE",
+   "Value": 392,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Marketing Materials",
+   "Name": "OLI_ATTACH_MARKMAT",
+   "Value": 299,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Marketing Objective",
+   "Name": "OLI_ATTACH_MKTGOBJECTIVE",
+   "Value": 263,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Marketing - Quotation Request",
+   "Name": "OLI_ATTACH_QUOTEREQ",
+   "Value": 393,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Marketing Strategy Letter",
+   "Name": "OLI_ATTACH_MARKSTRAT",
+   "Value": 300,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Marketing - Underwriting Requirements Chart",
+   "Name": "OLI_ATTACH_UNDERWRITREQ",
+   "Value": 394,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Market Value Adjustment Disclosure",
+   "Name": "OLI_ATTACH_MVADISC",
+   "Value": 535,
+   "Definition": "Used to specify disclosure wording for Market Value Adjustments (MVAs).",
+   "Notes": ""
+ },
+ {
+   "Description": "Medical exam performed by personal physician",
+   "Name": "OLI_ATTACH_MEDICALEXAM",
+   "Value": 528,
+   "Definition": "Document which captures results of examination performed by a personal physician/doctor.",
+   "Notes": ""
+ },
+ {
+   "Description": "Meeting/Call Notes",
+   "Name": "OLI_ATTACH_CALLNOTES",
+   "Value": 301,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "MIB Notice",
+   "Name": "OLI_ATTACH_MIBNOTICE",
+   "Value": 541,
+   "Definition": "Notice indicating personal information will be shared with MIB",
+   "Notes": ""
+ },
+ {
+   "Description": "MIB Search data returned in the MIB Service Request format",
+   "Name": "OLI_ATTACH_MIB_SERVRESP",
+   "Value": 19,
+   "Definition": "Data associated with this attachment contain the results of an MIB Search",
+   "Notes": ""
+ },
+ {
+   "Description": "MIB Update Data",
+   "Name": "OLI_ATTACH_MIB402",
+   "Value": 244,
+   "Definition": "Data associated with this attachment contain the results of an MIB Update",
+   "Notes": ""
+ },
+ {
+   "Description": "Mini Mental State Exam Form",
+   "Name": "OLI_ATTACH_MMNTALSTEX",
+   "Value": 254,
+   "Definition": "A form that is completed by a trained clinician in evaluating a patient and providing such information as orientation, immediate recall, attention, delayed verbal recall, naming, stage command, reading, writing and sentence language.",
+   "Notes": ""
+ },
+ {
+   "Description": "Motor vehicle report information",
+   "Name": "OLI_ATTACH_MVR",
+   "Value": 20,
+   "Definition": "Data associated with this attachment contain the results of an MVR request",
+   "Notes": ""
+ },
+ {
+   "Description": "Mountain/Rock/Ice Climbing Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QCLIMB",
+   "Value": 142,
+   "Definition": "Document used to gather more detailed information about applicant's participation in mountain, rock, or ice climbing activities reported in the application",
+   "Notes": ""
+ },
+ {
+   "Description": "NAIC Buyers Guide - EIA",
+   "Name": "OLI_ATTACH_NAICBUYGUIDEEIA",
+   "Value": 2550170,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "NAIC Buyers Guide - Fixed",
+   "Name": "OLI_ATTACH_NAICBUYGUIDEFIXED",
+   "Value": 2550150,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "NAIC Buyers Guide - Variable",
+   "Name": "OLI_ATTACH_NAICBUYGUIDEVAR",
+   "Value": 2550160,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "NAIC Disclosure - Fixed and EIA",
+   "Name": "OLI_ATTACH_NAICDISCFIXEIA",
+   "Value": 2550180,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "NAIC Model Reg Replacement Form",
+   "Name": "OLI_ATTACH_NAICMODELREGDISC",
+   "Value": 2550330,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Needs Analysis / Screening - Critical Illness",
+   "Name": "OLI_ATTACH_CRITICALSCREEN",
+   "Value": 395,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Needs Analysis / Screening - Disability",
+   "Name": "OLI_ATTACH_DISABSCREEN",
+   "Value": 396,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Needs Analysis / Screening - Insurance",
+   "Name": "OLI_ATTACH_INSSCREEN",
+   "Value": 397,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Needs Analysis / Screening - Investment",
+   "Name": "OLI_ATTACH_INVESTSCREEN",
+   "Value": 398,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Needs Assessment Summary Letter",
+   "Name": "OLI_ATTACH_REASONWHY",
+   "Value": 536,
+   "Definition": "This letter is intended to be a brief summary of the results of needs assessment.  It is given to the client.  In addition to helping the client understand the recommendation, it is something he or she can keep as a convenient reminder of why the policy was purchased.",
+   "Notes": ""
+ },
+ {
+   "Description": "New York Reg 60 Form Appendix 10A",
+   "Name": "OLI_ATTACH_APPEN10A",
+   "Value": 257,
+   "Definition": "A replacement form necessary to comply with New York Reg 60",
+   "Notes": ""
+ },
+ {
+   "Description": "New York Reg 60 Form Appendix 10B",
+   "Name": "OLI_ATTACH_APPEN10B",
+   "Value": 258,
+   "Definition": "A replacement form necessary to comply with New York Reg 60",
+   "Notes": ""
+ },
+ {
+   "Description": "New York Reg 60 Form Appendix 10C",
+   "Name": "OLI_ATTACH_APPEN10C",
+   "Value": 259,
+   "Definition": "A replacement form necessary to comply with New York Reg 60",
+   "Notes": ""
+ },
+ {
+   "Description": "New York Regulation 60 Disclosure Form",
+   "Name": "OLI_ATTACH_REG60",
+   "Value": 2550350,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Non-Inspection Reason",
+   "Name": "OLI_ATTACH_NONINSPREASON",
+   "Value": 261,
+   "Definition": "Attachment contains information derived from sources other than an inspection report that might be used as reasons for modifying or rejecting a policy. This information is typically used for Fair Credit letters.",
+   "Notes": ""
+ },
+ {
+   "Description": "Non-Medical Declaration",
+   "Name": "OLI_ATTACH_NONMEDDEC",
+   "Value": 102,
+   "Definition": "Statement of personal health, used in lieu of physical examination",
+   "Notes": ""
+ },
+ {
+   "Description": "Non-Medical Exam",
+   "Name": "OLI_ATTACH_NONMED",
+   "Value": 101,
+   "Definition": "Document which captures results of examination performed by a paramedical examiner.",
+   "Notes": ""
+ },
+ {
+   "Description": "Non-NAIC Model Replacement Form",
+   "Name": "OLI_ATTACH_NONNAICREPLACEMENT",
+   "Value": 2550340,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Non- NAIC SPDA Disclosure Form",
+   "Name": "OLI_ATTACH_NONNAICSPDA",
+   "Value": 2550175,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Note from Buyer",
+   "Name": "OLI_ATTACH_BUYERNOTE",
+   "Value": 486,
+   "Definition": "Contains comments or notes from the buyer to the seller in an invoicing context.",
+   "Notes": ""
+ },
+ {
+   "Description": "Note from Seller",
+   "Name": "OLI_ATTACH_SELLERNOTE",
+   "Value": 485,
+   "Definition": "Contains comments or notes from the seller to the buyer in an invoicing context.",
+   "Notes": ""
+ },
+ {
+   "Description": "Notice Concerning Policyholder Rights",
+   "Name": "OLI_ATTACH_NOTICE_POLHLDR_RIGHTS",
+   "Value": 510,
+   "Definition": "The Notice Concerning Policyholder Rights is a document that explains the Company's information practices.",
+   "Notes": ""
+ },
+ {
+   "Description": "Not Taken Option",
+   "Name": "OLI_ATTACH_DISBNTO",
+   "Value": 212,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Obituary",
+   "Name": "OLI_ATTACH_OBITUARY",
+   "Value": 532,
+   "Definition": "A notice of a death, often published in a newspaper, that is typically accompanied by a brief biography of the decedent.",
+   "Notes": ""
+ },
+ {
+   "Description": "Occupation Specialty Schedule",
+   "Name": "OLI_ATTACH_OCCUSPSCHED",
+   "Value": 503,
+   "Definition": "Additional details pertaining to the occupations included in a request for proposal to the insurance carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "One Time Withdrawal Form",
+   "Name": "OLI_ATTACH_ONETIMEWITHDRAWAL",
+   "Value": 512,
+   "Definition": "This is a form carriers use to process one-time withdrawal requests. This form is usually used for both one-time withdrawal request as well as partial withdrawal requests.",
+   "Notes": ""
+ },
+ {
+   "Description": "Open Enrollment",
+   "Name": "OLI_ATTACH_OPENENROLL",
+   "Value": 302,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Original Application",
+   "Name": "OLI_ATTACH_ORIGINALAPP",
+   "Value": 10,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Other Exam Form",
+   "Name": "OLI_ATTACH_EXAMFORM",
+   "Value": 106,
+   "Definition": "Carrier specific form used to capture results of an examination.",
+   "Notes": ""
+ },
+ {
+   "Description": "Ownership Disclosure - Non-Natural or Corp Owned",
+   "Name": "OLI_ATTACH_OWNDISCNNCO",
+   "Value": 2550212,
+   "Definition": "Ownership Disclosure - Non-Natural or Corporate Owned Form",
+   "Notes": ""
+ },
+ {
+   "Description": "Ownership Disclosure - Notice for Active Duty USAF",
+   "Name": "OLI_ATTACH_OWNDISCMIL",
+   "Value": 2550214,
+   "Definition": "Ownership Disclosure - Important notice for Active Duty Members of the United States Armed Forces",
+   "Notes": ""
+ },
+ {
+   "Description": "Paramed Exam",
+   "Name": "OLI_ATTACH_PARAMED",
+   "Value": 103,
+   "Definition": "Document which captures results of examination performed by a paramedical examiner.",
+   "Notes": ""
+ },
+ {
+   "Description": "Partial Withdrawal Form",
+   "Name": "OLI_ATTACH_PARTIALWITHDRAWAL",
+   "Value": 514,
+   "Definition": "This is a form carriers use to process partial withdrawal requests.",
+   "Notes": ""
+ },
+ {
+   "Description": "Payment - Acceptable forms of Payment Notice",
+   "Name": "OLI_ATTACH_PAYFORM",
+   "Value": 2550234,
+   "Definition": "Payment - Acceptable forms of Payment Notice (Disclosure)",
+   "Notes": ""
+ },
+ {
+   "Description": "Payment Authorization Form",
+   "Name": "OLI_ATTACH_PAYMENTAUTHFORM",
+   "Value": 540,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Payment - Pre-Authorized Investment Form (PAC)",
+   "Name": "OLI_ATTACH_PAYPAC",
+   "Value": 2550232,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Performance Guarantee",
+   "Name": "OLI_ATTACH_PERFGUARAN",
+   "Value": 504,
+   "Definition": "A request for a performance guarantee that is typically included in a request for proposal to the insurance carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Personal History Interview",
+   "Name": "OLI_ATTACH_PERSHISTINTERVIEW",
+   "Value": 327,
+   "Definition": "The Attachment is the result of a request for the results of the Personal History Interview",
+   "Notes": ""
+ },
+ {
+   "Description": "Plan History",
+   "Name": "OLI_ATTACH_PLANHIST",
+   "Value": 303,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Policy Delivery - Evaluation Guide",
+   "Name": "OLI_ATTACH_EVALGUIDE",
+   "Value": 399,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Policy Delivery Receipt",
+   "Name": "OLI_ATTACH_POLDELVRCPT",
+   "Value": 126,
+   "Definition": "Document signed by policyowner indicating that they have received the policy contract. Can also be signed by the agent.",
+   "Notes": ""
+ },
+ {
+   "Description": "Policy Summary",
+   "Name": "OLI_ATTACH_POLSUMMARY",
+   "Value": 81,
+   "Definition": "The policy summary is a document, that contains certain legally required data regarding the specific policy being considered by the applicant. Such data includes premiums payable, benefits provided, cash values, and cost indexes.",
+   "Notes": ""
+ },
+ {
+   "Description": "Politically Exposed Person Form",
+   "Name": "OLI_ATTACH_PEFPFORM",
+   "Value": 519,
+   "Definition": "Disclosure of information for related persons and relationships of the owner(s) to politically exposed individuals.",
+   "Notes": ""
+ },
+ {
+   "Description": "Power Of Attorney Affidavit",
+   "Name": "OLI_ATTACH_POA",
+   "Value": 2550270,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pre-Authorized Check (PAC) Authorization",
+   "Name": "OLI_ATTACH_PACAUTH",
+   "Value": 120,
+   "Definition": "Authorization to withdraw funds from an account, which also provides the account detail.",
+   "Notes": ""
+ },
+ {
+   "Description": "Pre-Authorized Check (PAC) Authorization/Voided Check",
+   "Name": "OLI_ATTACH_PACAUTHVOID",
+   "Value": 121,
+   "Definition": "Authorization to withdraw funds from an account, which also provides the account detail. Voided check for the account is attached to the authorization.",
+   "Notes": ""
+ },
+ {
+   "Description": "Pre-Authorized Check (PAC) Correspondence",
+   "Name": "OLI_ATTACH_CORRPAC",
+   "Value": 116,
+   "Definition": "Document communicating information related to the authorization to withdraw funds.",
+   "Notes": ""
+ },
+ {
+   "Description": "Pre-Candidate Illustration",
+   "Name": "OLI_ATTACH_PRECAND",
+   "Value": 6,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Preliminary Application",
+   "Name": "OLI_ATTACH_PRELIMAPP",
+   "Value": 252,
+   "Definition": "A means of collecting basic information about the client and the policy being applied for, allowing the producer to initiate the new business process. The full application is completed after the new business process has begun. This type of application is also called a quick ticket.",
+   "Notes": ""
+ },
+ {
+   "Description": "Premium Allocation Form",
+   "Name": "OLI_ATTACH_PREMIUMALLOCATIONFORM",
+   "Value": 517,
+   "Definition": "Allocation of payments/deposits across investment product coverages.",
+   "Notes": ""
+ },
+ {
+   "Description": "Premium Check - Initial Premium (COD)",
+   "Name": "OLI_ATTACH_PREMCHK",
+   "Value": 122,
+   "Definition": "Check providing for payment of on-going premium",
+   "Notes": ""
+ },
+ {
+   "Description": "Premium Check - Ongoing Premiums",
+   "Name": "OLI_ATTACH_MONEYPREMCHK",
+   "Value": 182,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Premium Report",
+   "Name": "OLI_ATTACH_PREMIUM",
+   "Value": 304,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Prescription data",
+   "Name": "OLI_ATTACH_PRESCRIPTION_PROFILE",
+   "Value": 22,
+   "Definition": "Data associated with this attachment contain the results of a Prescription Profile",
+   "Notes": ""
+ },
+ {
+   "Description": "Presentation",
+   "Name": "OLI_ATTACH_PRESENT",
+   "Value": 305,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pre-Tax Section 125 / Other Tax Considerations",
+   "Name": "OLI_ATTACH_TAX125",
+   "Value": 324,
+   "Definition": "IRC - Section 125 plans your employees are able to pay for eligible fringe benefits with\"pre-tax\" income",
+   "Notes": ""
+ },
+ {
+   "Description": "Privacy Notice",
+   "Name": "OLI_ATTACH_PRIVACYNOTE",
+   "Value": 2550100,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Producer Card (a.k.a. Agent Card)",
+   "Name": "OLI_ATTACH_AGENTCARD",
+   "Value": 79,
+   "Definition": "Agent cards provide pertinent information about a policy for use in manual files.",
+   "Notes": ""
+ },
+ {
+   "Description": "Product Criteria Form",
+   "Name": "OLI_ATTACH_PRODUCT",
+   "Value": 306,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Proof of Delivery Statement",
+   "Name": "OLI_ATTACH_PROOFOFDEL",
+   "Value": 2550410,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Proposal Information",
+   "Name": "OLI_ATTACH_PROPOSAL_INFO",
+   "Value": 307,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Provider/Network Information",
+   "Name": "OLI_ATTACH_PROVIDER",
+   "Value": 308,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Publicly Disclosable Information",
+   "Name": "OLI_ATTACH_INFO",
+   "Value": 251,
+   "Definition": "Information such as that relating to product features, benefits, constraints and costs. Example: \"This spousal protection rider provides continued benefits after the death of the primary annuitant.\" Typically \"why and what\" information. This information may be printed/viewed/displayed to a customer.",
+   "Notes": ""
+ },
+ {
+   "Description": "Pulmonary Function Tests",
+   "Name": "OLI_ATTACH_APSPULMONARY",
+   "Value": 164,
+   "Definition": "Results of tests performed to ascertain applicant's respiratory health.",
+   "Notes": ""
+ },
+ {
+   "Description": "Qualifications",
+   "Name": "OLI_ATTACH_QUALIF",
+   "Value": 323,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Qualified Plan Disclosures",
+   "Name": "OLI_ATTACH_QUALPLANDISC",
+   "Value": 2550430,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Qualified Plan Disclosure - Simple IRA Employer Form",
+   "Name": "OLI_ATTACH_QUALSIMPLE",
+   "Value": 2550432,
+   "Definition": "Qualified Plan Disclosure - Simple IRA Employer Information Form",
+   "Notes": ""
+ },
+ {
+   "Description": "Qualified Plan Disclosure - Tax Sheltered Annuity",
+   "Name": "OLI_ATTACH_QUALTSA",
+   "Value": 2550434,
+   "Definition": "Qualified Plan Disclosure - Tax Sheltered Annuity Certification Form",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Activities of Daily Living",
+   "Name": "OLI_ATTACH_DAILYLIVQ",
+   "Value": 400,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Alcohol or Drug Use",
+   "Name": "OLI_ATTACH_ALCOHOLQ",
+   "Value": 401,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Arthritis",
+   "Name": "OLI_ATTACH_ARTHRITISQ",
+   "Value": 402,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Assessment",
+   "Name": "OLI_ATTACH_ASSESSQ",
+   "Value": 403,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Avocation",
+   "Name": "OLI_ATTACH_AVOCATIONQ",
+   "Value": 404,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Back Pain",
+   "Name": "OLI_ATTACH_BACKPAINQ",
+   "Value": 405,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Beneficial Ownership",
+   "Name": "OLI_ATTACH_BENEFICIALQ",
+   "Value": 406,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Blood Pressure",
+   "Name": "OLI_ATTACH_BLOODPRESQS",
+   "Value": 407,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Client Information",
+   "Name": "OLI_ATTACH_CLIENTIINFOQ",
+   "Value": 408,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Climbing",
+   "Name": "OLI_ATTACH_CLIMBQ",
+   "Value": 409,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Colitis",
+   "Name": "OLI_ATTACH_COLITISQ",
+   "Value": 410,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Coronary and Angina",
+   "Name": "OLI_ATTACH_CORONARYQ",
+   "Value": 411,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Digestive / Bowel Disorder",
+   "Name": "OLI_ATTACH_DIGESTIVEQ",
+   "Value": 412,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Driving History",
+   "Name": "OLI_ATTACH_DRIVHISTQ",
+   "Value": 413,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Emotional Health",
+   "Name": "OLI_ATTACH_EMOTHEALQ",
+   "Value": 414,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Fainting",
+   "Name": "OLI_ATTACH_FAINTINGQ",
+   "Value": 415,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Family History",
+   "Name": "OLI_ATTACH_FAMILYQ",
+   "Value": 416,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire for Carrier Completion",
+   "Name": "OLI_ATTACH_QUEST",
+   "Value": 309,
+   "Definition": "A list of questions provided to the carrier in a request for proposal to the insurance carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Gastro-Intestinal",
+   "Name": "OLI_ATTACH_GASTROIN",
+   "Value": 417,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Gynaecological",
+   "Name": "OLI_ATTACH_GYNQ",
+   "Value": 418,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Headache",
+   "Name": "OLI_ATTACH_HEADACHE",
+   "Value": 419,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Kidney",
+   "Name": "OLI_ATTACH_KIDNEYQ",
+   "Value": 420,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Liver",
+   "Name": "OLI_ATTACH_LIVERQ",
+   "Value": 421,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Mature Age",
+   "Name": "OLI_ATTACH_MATUREQ",
+   "Value": 422,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Military",
+   "Name": "OLI_ATTACH_MILITARYQ",
+   "Value": 423,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Motorcycle",
+   "Name": "OLI_ATTACH_MOTORCYCLE",
+   "Value": 425,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Motor Sport",
+   "Name": "OLI_ATTACH_MOTORSPORTSQ",
+   "Value": 424,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Neurological",
+   "Name": "OLI_ATTACH_NEUROLOQ",
+   "Value": 426,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Nicotine",
+   "Name": "OLI_ATTACH_NICOTINEQ",
+   "Value": 427,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Occupation",
+   "Name": "OLI_ATTACH_OCCUPATIONQ",
+   "Value": 428,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Part 2 (Paramedical / Medical)",
+   "Name": "OLI_ATTACH_MEDICALP2",
+   "Value": 429,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Physical Demands",
+   "Name": "OLI_ATTACH_PHYSICALDEMAQ",
+   "Value": 430,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Physiotherapy Report",
+   "Name": "OLI_ATTACH_PHYSIOTHERYQ",
+   "Value": 431,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Politically Exposed Person",
+   "Name": "OLI_ATTACH_QPEFP",
+   "Value": 518,
+   "Definition": "Initial questions used to determine if a Politically Exposed Person Form is required.",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Power Boat Racing",
+   "Name": "OLI_ATTACH_POWERBOATQ",
+   "Value": 432,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Psychiatric",
+   "Name": "OLI_ATTACH_PSYCHIATRICQ",
+   "Value": 433,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Respiratory",
+   "Name": "OLI_ATTACH_RESPIRATORYQ",
+   "Value": 434,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Scuba Diving",
+   "Name": "OLI_ATTACH_SCUBAQ",
+   "Value": 435,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Skydiving, Parachuting",
+   "Name": "OLI_ATTACH_SKYDIVINGQ",
+   "Value": 436,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Snowmobiling",
+   "Name": "OLI_ATTACH_SNOWMOBILEQ",
+   "Value": 437,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Temporary Insurance Agreement",
+   "Name": "OLI_ATTACH_TEMPAGREE",
+   "Value": 438,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Questionnaire - Tumour",
+   "Name": "OLI_ATTACH_TUMORQ",
+   "Value": 439,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Racing Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QRACING",
+   "Value": 139,
+   "Definition": "Document used to gather more detailed information about applicant's racing experience reported in the application",
+   "Notes": ""
+ },
+ {
+   "Description": "Rate/Financial Information",
+   "Name": "OLI_ATTACH_RATEINFO",
+   "Value": 311,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Rate History",
+   "Name": "OLI_ATTACH_RATEHIST",
+   "Value": 310,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Registered Fixed Annuity Prospectus (MVA and EIA)",
+   "Name": "OLI_ATTACH_FIXEDPROSP",
+   "Value": 2550042,
+   "Definition": "Registered Fixed Annuity Prospectus (including MVA and EIA)",
+   "Notes": ""
+ },
+ {
+   "Description": "Release of Commission Assignment",
+   "Name": "OLI_ATTACH_COMMREL",
+   "Value": 230,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Remittance Log",
+   "Name": "OLI_ATTACH_REMITLOG",
+   "Value": 118,
+   "Definition": "Document, which accompanies one or more checks/financial records, used to list and describe the individual items",
+   "Notes": ""
+ },
+ {
+   "Description": "Renewal Notification",
+   "Name": "OLI_ATTACH_RENEWAL",
+   "Value": 312,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Replacement Form",
+   "Name": "OLI_ATTACH_REPLF",
+   "Value": 107,
+   "Definition": "State specific replacement form, which informs the applicant about the implications of using the policy being applied for to replace existing insurance.",
+   "Notes": ""
+ },
+ {
+   "Description": "Reports, Office and Hospital Records",
+   "Name": "OLI_ATTACH_APSREPORT",
+   "Value": 167,
+   "Definition": "Details of an applicant's medical history, provided by a health care provider other than a physician",
+   "Notes": ""
+ },
+ {
+   "Description": "Reproposal",
+   "Name": "OLI_ATTACH_REPROPOSAL",
+   "Value": 8,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Request - Disclosure of Reasons for UW Decision",
+   "Name": "OLI_ATTACH_DISCLOSUREREA",
+   "Value": 440,
+   "Definition": "Request - Disclosure of Reasons for Underwriting Decision",
+   "Notes": ""
+ },
+ {
+   "Description": "Request - Duplicate Policy",
+   "Name": "OLI_ATTACH_DUPLICATERQ",
+   "Value": 441,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Request - Supplies (Group)",
+   "Name": "OLI_ATTACH_SUPPLIESGR",
+   "Value": 442,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Request - Supplies (Insurance)",
+   "Name": "OLI_ATTACH_SUPPLIESINS",
+   "Value": 443,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Request - Supplies (Investment)",
+   "Name": "OLI_ATTACH_SUPPLIESINV",
+   "Value": 444,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Requirement Result.",
+   "Name": "OLI_ATTACH_REQUIRERESULTS",
+   "Value": 246,
+   "Definition": "Data associated with this attachment contain the results of a Requirement Result.",
+   "Notes": ""
+ },
+ {
+   "Description": "Requirements Request",
+   "Name": "OLI_ATTACH_REQUIREREQUEST",
+   "Value": 245,
+   "Definition": "Data associated with this attachment contain the information of an Requirement request",
+   "Notes": ""
+ },
+ {
+   "Description": "Resident Alien Card",
+   "Name": "OLI_ATTACH_RESALIENCD",
+   "Value": 117,
+   "Definition": "Documentation that applicant is not a citizen but does have resident alien status",
+   "Notes": ""
+ },
+ {
+   "Description": "Resident Alien Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QRESALIEN",
+   "Value": 143,
+   "Definition": "Document used to gather more detailed information about applicant's resident alien status.",
+   "Notes": ""
+ },
+ {
+   "Description": "Restriction Note",
+   "Name": "OLI_ATTACH_RESTRICTNOTE",
+   "Value": 522,
+   "Definition": "Used to document restrictions, such as those documented with financial guidelines.",
+   "Notes": ""
+ },
+ {
+   "Description": "Returned Check",
+   "Name": "OLI_ATTACH_RETURNCHK",
+   "Value": 119,
+   "Definition": "Check that is being returned because it could not be accepted and/or processed",
+   "Notes": ""
+ },
+ {
+   "Description": "Returned Original Policy",
+   "Name": "OLI_ATTACH_RETORIGPOL",
+   "Value": 128,
+   "Definition": "Original policy contract that is being returned to the carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Revised Application",
+   "Name": "OLI_ATTACH_REVISEDAPP",
+   "Value": 11,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Revised Illustration",
+   "Name": "OLI_ATTACH_REVISEDILLUS",
+   "Value": 9,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "RFP Instructions",
+   "Name": "OLI_ATTACH_RFP",
+   "Value": 313,
+   "Definition": "Request for Proposal Instructions",
+   "Notes": ""
+ },
+ {
+   "Description": "Rider Reset Authorization Form",
+   "Name": "OLI_ATTACH_RIDERRESET",
+   "Value": 2550280,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Risk Tolerance Questionnaire",
+   "Name": "OLI_ATTACH_RISKTOL",
+   "Value": 2550090,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sales Summary Disclosure",
+   "Name": "OLI_ATTACH_SALESDISCOSURE",
+   "Value": 2550140,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "SEC N-4 Sec Registration Narrative Explanation",
+   "Name": "OLI_ATTACH_SECN_4",
+   "Value": 262,
+   "Definition": "Footnote or other explanatory narrative further describing an element's context, meaning or use.",
+   "Notes": ""
+ },
+ {
+   "Description": "Secondary Address Form",
+   "Name": "OLI_ATTACH_SECONDADDRESSFORM",
+   "Value": 539,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Segregated Funds - Reset",
+   "Name": "OLI_ATTACH_RESETSEGRFUNDS",
+   "Value": 445,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Seizure Disorder Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QSEIZURE",
+   "Value": 133,
+   "Definition": "Document used to gather more detailed information about applicant's seizure disorder reported in the application",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Banking / Premium Payment",
+   "Name": "OLI_ATTACH_BANKPREMPAY",
+   "Value": 446,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Bene, Owner, Trustee, Assignment, Name",
+   "Name": "OLI_ATTACH_BENENAMECORR",
+   "Value": 447,
+   "Definition": "Service - Beneficiary, Owner, Trustee, Assignment, Name",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Cancellation / Termination",
+   "Name": "OLI_ATTACH_CANCELLSERV",
+   "Value": 448,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Creditor Request",
+   "Name": "OLI_ATTACH_CREIDTORREQSERV",
+   "Value": 449,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Deposit Notice",
+   "Name": "OLI_ATTACH_DEPOSITNOTESERV",
+   "Value": 450,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service Forms",
+   "Name": "OLI_ATTACH_SERVICEFORM",
+   "Value": 2550440,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service Level Agreement",
+   "Name": "OLI_ATTACH_SERVICELVL",
+   "Value": 314,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Loan Repayment",
+   "Name": "OLI_ATTACH_LOANREPAYSERV",
+   "Value": 451,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Non-Financial Update",
+   "Name": "OLI_ATTACH_NONFINUPDATE",
+   "Value": 452,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Ownership or Beneficiary",
+   "Name": "OLI_ATTACH_OWNERSERV",
+   "Value": 453,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Payee",
+   "Name": "OLI_ATTACH_PAYEESERV",
+   "Value": 454,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Phone Restriction",
+   "Name": "OLI_ATTACH_PHONESERV",
+   "Value": 455,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Policy",
+   "Name": "OLI_ATTACH_POLICYSERV",
+   "Value": 456,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Registered Investment Transfer",
+   "Name": "OLI_ATTACH_TRANSFERSERV",
+   "Value": 457,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Release of Beneficiary's Interest",
+   "Name": "OLI_ATTACH_RELBENEINT",
+   "Value": 458,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Release of Collateral Assignment",
+   "Name": "OLI_ATTACH_RELCOLLASS",
+   "Value": 459,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Rider Election / Addition of Coverage",
+   "Name": "OLI_ATTACH_RIDERELEC",
+   "Value": 460,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Servicing Representative Change",
+   "Name": "OLI_ATTACH_SERVREPCHG",
+   "Value": 461,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Service - Status Change",
+   "Name": "OLI_ATTACH_STATUSCHG",
+   "Value": 462,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Short Portable Mental Status Questionnaire",
+   "Name": "OLI_ATTACH_SPMSQ",
+   "Value": 255,
+   "Definition": "A short portable mental status questionnaire for the assessment of organic brain deficit in elderly patients. This is commonly known as SPMSQ.",
+   "Notes": ""
+ },
+ {
+   "Description": "Signed Tele-med",
+   "Name": "OLI_ATTACH_TELMEDSGND",
+   "Value": 104,
+   "Definition": "Part B examination completed by tele-interviewer, signed",
+   "Notes": ""
+ },
+ {
+   "Description": "Specification Page",
+   "Name": "OLI_ATTACH_SPECIFICATIONPAGE",
+   "Value": 82,
+   "Definition": "The specification page is a document that contains which contains high level information regarding the policy such as the plan name, amount of insurance, name and address of the primary insured.",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Acceptance",
+   "Name": "OLI_ATTACH_ACCEPTANCE",
+   "Value": 463,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Amounts held in Federal plans",
+   "Name": "OLI_ATTACH_AMOUNTSTAT",
+   "Value": 464,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Certificate of Discharge",
+   "Name": "OLI_ATTACH_CERTOFDISCH",
+   "Value": 465,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Certificate of Existence",
+   "Name": "OLI_ATTACH_CERTOFEXIST",
+   "Value": 466,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Child Health",
+   "Name": "OLI_ATTACH_CLDHEALTH",
+   "Value": 467,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Client Disclosure",
+   "Name": "OLI_ATTACH_CLTDISCLO",
+   "Value": 468,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Compensation (Group)",
+   "Name": "OLI_ATTACH_COMPENSATIONGR",
+   "Value": 469,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Date of Birth",
+   "Name": "OLI_ATTACH_DOBSTATEMENT",
+   "Value": 470,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Insurability / Good Health",
+   "Name": "OLI_ATTACH_INSURABILITYSTAT",
+   "Value": 471,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Interest Rate Guarantee",
+   "Name": "OLI_ATTACH_INTRATEGUARSTAT",
+   "Value": 472,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Interpreter",
+   "Name": "OLI_ATTACH_INTERPRETER",
+   "Value": 473,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Letter of Direction",
+   "Name": "OLI_ATTACH_LETDIRECTION",
+   "Value": 474,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Locked-In Pension Funds",
+   "Name": "OLI_ATTACH_LOCKINPENSION",
+   "Value": 475,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Major Cash Deposit",
+   "Name": "OLI_ATTACH_MAJORCASHDEP",
+   "Value": 476,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Marital Status",
+   "Name": "OLI_ATTACH_MARITALSTATUS",
+   "Value": 477,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Notary Public Certificate",
+   "Name": "OLI_ATTACH_NOTARY",
+   "Value": 478,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Refusal of Coverage",
+   "Name": "OLI_ATTACH_REFUSAL",
+   "Value": 479,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Representative Declaration",
+   "Name": "OLI_ATTACH_REPDECLARATION",
+   "Value": 480,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Spousal Consent / Waiver",
+   "Name": "OLI_ATTACH_SPOUSALCONS",
+   "Value": 481,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statement - Third Party Declaration",
+   "Name": "OLI_ATTACH_THRIDPARTY",
+   "Value": 482,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Strategic Planning",
+   "Name": "OLI_ATTACH_STRATIGIC",
+   "Value": 315,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Suitability Determination Form",
+   "Name": "OLI_ATTACH_SUITABILITY",
+   "Value": 2550370,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Summary of Premium Provision",
+   "Name": "OLI_ATTACH_SUM_PREMIUM_PROVISION",
+   "Value": 511,
+   "Definition": "The Summary of Premium Provision is a document that defines the premium options.",
+   "Notes": ""
+ },
+ {
+   "Description": "Summary Plan Description",
+   "Name": "OLI_ATTACH_SUMMPLAN",
+   "Value": 316,
+   "Definition": "A document containing a comprehensive description of a plan, including the terms and conditions of participation. This is typically included in a request for proposal to the insurance carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Supplementary application - Child",
+   "Name": "OLI_ATTACH_SUPPAPPCHLD",
+   "Value": 161,
+   "Definition": "Document providing application detail for a child applying for coverage as an Other Insured",
+   "Notes": ""
+ },
+ {
+   "Description": "Supplementary Application - Spouse",
+   "Name": "OLI_ATTACH_SUPPAPPSPSE",
+   "Value": 162,
+   "Definition": "Document providing application detail for a spouse applying for coverage as an Other Insured",
+   "Notes": ""
+ },
+ {
+   "Description": "Systematic Withdrawal Form",
+   "Name": "OLI_ATTACH_SYSWITH",
+   "Value": 2550220,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tax - Canada Revenue Agency (CCRA)",
+   "Name": "OLI_ATTACH_CCRA",
+   "Value": 483,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tax Disclosure Form - W4P",
+   "Name": "OLI_ATTACH_TAXW4P",
+   "Value": 2550260,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tax Disclosure Form - W8",
+   "Name": "OLI_ATTACH_TAXW8",
+   "Value": 2550250,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tax - Request to Reduce Tax Deductions at Source",
+   "Name": "OLI_ATTACH_REDUCETAXDED",
+   "Value": 484,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Teleinterview Note",
+   "Name": "OLI_ATTACH_TELEINTERVIEWNOTE",
+   "Value": 326,
+   "Definition": "Note with instructions or additional information for the teleinterviewer.",
+   "Notes": ""
+ },
+ {
+   "Description": "Telephone/ Electronic Transaction Auth Form",
+   "Name": "OLI_ATTACH_TELE",
+   "Value": 2550230,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Testamentary Trust Wording",
+   "Name": "OLI_ATTACH_TRUSTWORDING",
+   "Value": 531,
+   "Definition": "Used to specify the wording of a trust arrangement. Examples include:A credit shelter trust under said will and testamentA trust under Article _____ of said will and testamentA trust under item _____ of said will and testamentThe _____ Trust under said will and testamentFor the Benefit Of _______",
+   "Notes": ""
+ },
+ {
+   "Description": "Tobacco Use Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QTOBACCOUSE",
+   "Value": 137,
+   "Definition": "Document used to gather more detailed information about applicant's use of tobacco reported in the application",
+   "Notes": ""
+ },
+ {
+   "Description": "Transmittal",
+   "Name": "OLI_ATTACH_TRANSMITTAL",
+   "Value": 109,
+   "Definition": "Coversheet attached to the insurance application, used as a tool to communicate information from the producer to the carrier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Transparency Disclosure Form",
+   "Name": "OLI_ATTACH_TRNASDISC",
+   "Value": 317,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Trust Agreement",
+   "Name": "OLI_ATTACH_TRUSTAGRMNT",
+   "Value": 147,
+   "Definition": "Document provided details about trust agreement.",
+   "Notes": ""
+ },
+ {
+   "Description": "Trust Document Certificate",
+   "Name": "OLI_ATTACH_TRUST",
+   "Value": 2550210,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "U.S. W4 Tax Form",
+   "Name": "OLI_ATTACH_TAXW4",
+   "Value": 524,
+   "Definition": "Employee's Withholding Allowance Certificate (U.S. W4 Tax Form)",
+   "Notes": ""
+ },
+ {
+   "Description": "Underwater/Sky Sports Questionnaire/Supplement",
+   "Name": "OLI_ATTACH_QDIVESKYSPORT",
+   "Value": 138,
+   "Definition": "Document used to gather more detailed information about applicant's participation in underwater or sky sports reported in the application",
+   "Notes": ""
+ },
+ {
+   "Description": "Underwriter Work Sheet",
+   "Name": "OLI_ATTACH_UNDRWRTWKSHT",
+   "Value": 80,
+   "Definition": "The worksheet, sometimes called a data sheet, is a printout of all available information about the proposed insured and, in some companies pertinent information about the agent who submitted the application.",
+   "Notes": ""
+ },
+ {
+   "Description": "Underwriting Note",
+   "Name": "OLI_ATTACH_UNDRWRTNOTE",
+   "Value": 12,
+   "Definition": "General underwriting note when the intended recipient is not specified.",
+   "Notes": ""
+ },
+ {
+   "Description": "Union Contract/Agreement",
+   "Name": "OLI_ATTACH_UNIONCON",
+   "Value": 318,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unsigned Tele-med",
+   "Name": "OLI_ATTACH_TELMEDUNSGND",
+   "Value": 105,
+   "Definition": "Part B examination completed by tele-interviewer, unsigned",
+   "Notes": ""
+ },
+ {
+   "Description": "Urine Test Results - Paper",
+   "Name": "OLI_ATTACH_LABSURINE",
+   "Value": 170,
+   "Definition": "Results of tests performed on a urine specimen to ascertain the applicant's health.",
+   "Notes": ""
+ },
+ {
+   "Description": "Values Page",
+   "Name": "OLI_ATTACH_VALUEPAGE",
+   "Value": 83,
+   "Definition": "The Values page is specific to the type of policy and contains information regarding coverages, benefits, extra ratings, cash value, etc.",
+   "Notes": ""
+ },
+ {
+   "Description": "Variable Annuity Contract Prospectus",
+   "Name": "OLI_ATTACH_CONTRACTPROSP",
+   "Value": 2550040,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Variable Annuity Profile",
+   "Name": "OLI_ATTACH_VAP",
+   "Value": 2550060,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Variable Annuity Summary Prospectus",
+   "Name": "OLI_ATTACH_VASUMPROSPECTUS",
+   "Value": 2550041,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Voice Signature Image/File",
+   "Name": "OLI_ATTACH_VOICESIGN",
+   "Value": 526,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Void Check",
+   "Name": "OLI_ATTACH_MONEYVOID",
+   "Value": 183,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "W9",
+   "Name": "OLI_ATTACH_TAXW9",
+   "Value": 160,
+   "Definition": "In the U.S., the IRS Tax Identification Verification Form is the W-9 form.",
+   "Notes": ""
+ },
+ {
+   "Description": "Welcome Letter",
+   "Name": "OLI_ATTACH_WELCOMELTR",
+   "Value": 2550390,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wet signature image",
+   "Name": "OLI_ATTACH_WETSIGN",
+   "Value": 13,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Workflow",
+   "Name": "OLI_ATTACH_WORKFLOW",
+   "Value": 319,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Worksheet",
+   "Name": "OLI_ATTACH_WRKSHT",
+   "Value": 97,
+   "Definition": "Document providing supporting details for another form, data element or calculation",
+   "Notes": ""
+ },
+ {
+   "Description": "X-ray Copy",
+   "Name": "OLI_ATTACH_XCOPY",
+   "Value": 174,
+   "Definition": "Copy of x-ray film",
+   "Notes": ""
+ },
+ {
+   "Description": "X-ray Interpretation",
+   "Name": "OLI_ATTACH_XREPORT",
+   "Value": 175,
+   "Definition": "Analysis of x-ray film",
+   "Notes": ""
+ }
+]

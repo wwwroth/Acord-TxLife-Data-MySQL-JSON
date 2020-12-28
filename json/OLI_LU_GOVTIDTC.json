@@ -1,0 +1,261 @@
+[
+ {
+   "Description": "ACN number Australia",
+   "Name": "OLI_GOVTID_ACN",
+   "Value": 5,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Age of Majority Card",
+   "Name": "OLI_GOVTID_AGEOFMAJ",
+   "Value": 30,
+   "Definition": "Proof-of-age identification for purchasing alcoholic beverages.",
+   "Notes": ""
+ },
+ {
+   "Description": "ARBN number Australia",
+   "Name": "OLI_GOVTID_ARBN",
+   "Value": 6,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Armed Forces ID",
+   "Name": "OLI_GOVTID_ARMEDFORID",
+   "Value": 31,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Birth Certificate",
+   "Name": "OLI_GOVTID_BIRTHCERT",
+   "Value": 28,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Canadian Business Number",
+   "Name": "OLI_GOVTID_CANBN",
+   "Value": 11,
+   "Definition": "This is the business number assigned to an corporation by the Canadian Government",
+   "Notes": ""
+ },
+ {
+   "Description": "Canadian Employer Identification Number",
+   "Name": "OLI_GOVTID_CANEIN",
+   "Value": 13,
+   "Definition": "The Employer ID Number assigned to an corporation by the Canadian Government",
+   "Notes": ""
+ },
+ {
+   "Description": "Canadian Quebec Enterprise Number",
+   "Name": "OLI_GOVTID_CANNEQ",
+   "Value": 12,
+   "Definition": "This is the enterprise number assigned to an corporation by the Canadian Quebec Government",
+   "Notes": ""
+ },
+ {
+   "Description": "Certificate of Indian Status",
+   "Name": "OLI_GOVTID_INDSTAT",
+   "Value": 37,
+   "Definition": "First issued in 1956, the Certificate of Indian Status, more commonly referred to as a Status card, is an identity document issued for administrative reasons by Aboriginal Affairs and Northern Development Canada (AANDC) to confirm that the cardholder is registered as a Status Indian under the Indian Act.",
+   "Notes": ""
+ },
+ {
+   "Description": "Chinese Military ID",
+   "Name": "OLI_GOVTID_CHINAMIL",
+   "Value": 21,
+   "Definition": "China began a residential identity card system in 1985 which ruled that servicemen and armed police had separate military or armed police cards instead of civilian identity cards. A Law on Resident Identity Cards which came into effect in 2004 for the first time enlarged the card issuance scope to servicemen and armed police. OLI_GOVTID_CHINAMIL represents this card.",
+   "Notes": ""
+ },
+ {
+   "Description": "Driver's License",
+   "Name": "OLI_GOVTID_DRIVLIC",
+   "Value": 29,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Generic Foreign ID",
+   "Name": "OLI_GOVTID_CITIZENSHIPID",
+   "Value": 10,
+   "Definition": "A generic ID from a foreign country. The country may or may not be known.",
+   "Notes": ""
+ },
+ {
+   "Description": "GIIN",
+   "Name": "OLI_GOVTID_GIIN",
+   "Value": 26,
+   "Definition": "Global Intermediary Identification Number",
+   "Notes": ""
+ },
+ {
+   "Description": "Green Card (US)",
+   "Name": "OLI_GOVTID_GREENCARD",
+   "Value": 18,
+   "Definition": "Indicates the GovtID is a US issued \"Green Card\" (INS Alien Registration Receipt Card) Number or Identifier which is issued as proof of permanent residency for a non-US citizen living in the US.",
+   "Notes": ""
+ },
+ {
+   "Description": "Health/Medical Card",
+   "Name": "OLI_GOVTID_HEALTHCARD",
+   "Value": 27,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Identification Number",
+   "Name": "OLI_GOVTID_IDNUM",
+   "Value": 25,
+   "Definition": "Identification Number used to uniquely identify a person in a country.",
+   "Notes": ""
+ },
+ {
+   "Description": "Medicaid Number",
+   "Name": "OLI_GOVTID_MEDICAIDNUM",
+   "Value": 20,
+   "Definition": "The number entered is a Medicaid Number in the United States.",
+   "Notes": ""
+ },
+ {
+   "Description": "Medicare Beneficiary Identifier (MBI)",
+   "Name": "OLI_GOVTID_MBI",
+   "Value": 38,
+   "Definition": "The Medicare Beneficiary Identifier (MBI) replaces the Social Security number (SSN) on Medicare cards for Medicare transactions such as billing, eligibility status, and claim status.",
+   "Notes": ""
+ },
+ {
+   "Description": "Medicare Number",
+   "Name": "OLI_GOVTID_MEDICARENUM",
+   "Value": 19,
+   "Definition": "The number entered is a Medicare Number in the United States.",
+   "Notes": ""
+ },
+ {
+   "Description": "National Provider Identifier (NPI)",
+   "Name": "OLI_GOVTID_NPI",
+   "Value": 22,
+   "Definition": "A National Provider Identifier or NPI is a unique 10-digit identification number issued to health care providers in the United States by the Centers for Medicare and Medicaid Services",
+   "Notes": ""
+ },
+ {
+   "Description": "Old Age Security Identification",
+   "Name": "OLI_GOVTID_OLDAGEID",
+   "Value": 36,
+   "Definition": "The Old Age Security (OAS) Identification Card used to be sent out to seniors, who reached age 65 and have lived in Canada for at least 10 years. While no longer issued, it is still valid if previously obtained; and it may be previously captured/stored as part of client's historical record on inforce policies.",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Passport Number",
+   "Name": "OLI_GOVTID_PASSPORTID",
+   "Value": 17,
+   "Definition": "Indicates the GovtID is a Passport Number or Identifier.",
+   "Notes": ""
+ },
+ {
+   "Description": "Permanent Resident Card",
+   "Name": "OLI_GOVTID_PERMRESCARD",
+   "Value": 32,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Photo ID Card",
+   "Name": "OLI_GOVTID_PHOTOID",
+   "Value": 34,
+   "Definition": "Photo ID Card issued by a provincial, state, or territorial government.",
+   "Notes": ""
+ },
+ {
+   "Description": "Proof of Citizenship or Naturalization",
+   "Name": "OLI_GOVTID_CITIZEN",
+   "Value": 35,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Railroad Retiree Medicare Number",
+   "Name": "OLI_GOVTID_RRMEDICARENBR",
+   "Value": 23,
+   "Definition": "The number, generally the employee's Social Security Number with a prefix which describes familial relationship, used by the Railroad Retirement Board to identify an individual who has retired from a Railroad and who is now receiving Medicare benefits.",
+   "Notes": ""
+ },
+ {
+   "Description": "Railroad Retiree Number",
+   "Name": "OLI_GOVTID_RAILROADRETIREENBR",
+   "Value": 24,
+   "Definition": "The number, generally the employee's Social Security Number, used by the Railroad Retirement Board to identify an individual who is or has worked for a Railroad.",
+   "Notes": ""
+ },
+ {
+   "Description": "Record of Landing",
+   "Name": "OLI_GOVTID_RECORDOFLAND",
+   "Value": 33,
+   "Definition": "Provided at time of entry representing legal entry into the country.",
+   "Notes": ""
+ },
+ {
+   "Description": "SIS number Australia",
+   "Name": "OLI_GOVTID_SIS",
+   "Value": 7,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Social Insurance Number in Canada",
+   "Name": "OLI_GOVTID_SIN",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Social Security Number US",
+   "Name": "OLI_GOVTID_SSN",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tax ID for US non-resident alien",
+   "Name": "OLI_GOVTID_USNONRESTID",
+   "Value": 9,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Taxpayer Identification Number",
+   "Name": "OLI_GOVTID_TID",
+   "Value": 2,
+   "Definition": "Taxpayer Identification Number (TIN) is a generic term that can be used to describe any form of tax id (e. g. Social Security Number for people, US Employer Identification Number for organizations).",
+   "Notes": ""
+ },
+ {
+   "Description": "Tax Reference Number South Africa",
+   "Name": "OLI_GOVTID_TRN",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "US Employer Identification Number",
+   "Name": "OLI_GOVTID_USEMPID",
+   "Value": 8,
+   "Definition": "",
+   "Notes": ""
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+   "Description": "Accumulate at interest",
+   "Name": "OLI_DIVOPT_ACCUM",
+   "Value": 5,
+   "Definition": "A life insurance policy dividend option under which policy dividends are left on deposit with the insurer to accumulate at interest. Also called the accumulation option.",
+   "Notes": ""
+ },
+ {
+   "Description": "Add dividend to cash value (UL)",
+   "Name": "OLI_DIVOPT_CV",
+   "Value": 10,
+   "Definition": "Adding dividends to the cash value of the policy in Universal life will build up the cash value of the policy quicker.",
+   "Notes": ""
+ },
+ {
+   "Description": "Buy Paid Up Additions to a planned specified amount Remainder to Cash",
+   "Name": "OLI_DIVOPT_PUACASH",
+   "Value": 27,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Contract Fund",
+   "Name": "OLI_DIVOPT_CONTRACT",
+   "Value": 14,
+   "Definition": "Dividends are paid into the contract fund",
+   "Notes": ""
+ },
+ {
+   "Description": "Economatic",
+   "Name": "OLI_DIVOPT_ECONO",
+   "Value": 13,
+   "Definition": "Dividends payable under the Economatic Dividend Type are used to purchase an amount of One Year Term insurance and paid-up additions in such amounts that the total insurance provided continues the original amount of insurance. This dividend option is available only on specified Economatic policies or on policies which have an Economatic rider attached. These products provide for a decrease in the base policy face amount, usually after three years. The decreased face amount of the base policy insurance is referred to as the Ultimate Amount of insurance. After the decrease, the annual dividend is used to purchase a combination of OYT and PUA insurance, the total of which is equivalent to the difference between the original and ultimate amounts of insurance.",
+   "Notes": ""
+ },
+ {
+   "Description": "Enhanced",
+   "Name": "OLI_DIVTYPE_ENHANCED",
+   "Value": 32,
+   "Definition": "The dividends are used to purchase a pre-determined amount of additional life insurance through a combination of paid-up additions and one-year term life insurance. A portion of the dividend is used to purchase paid-up additions each year whenever dividends exceed the ECO one-year term cost. Over time, the amount of term life insurance may be completely replaced by paid-up life insurance at which timethe death benefit will begin to increase.",
+   "Notes": ""
+ },
+ {
+   "Description": "Investment Fund",
+   "Name": "OLI_DIVTYPE_INVEST",
+   "Value": 35,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "None",
+   "Name": "OLI_DIVOPT_NONE",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paid in cash",
+   "Name": "OLI_DIVOPT_CASH",
+   "Value": 2,
+   "Definition": "A life insurance policy dividend option under which policy dividends are paid to the policyholder in cash without reinvesting or depositing for interest.",
+   "Notes": ""
+ },
+ {
+   "Description": "Paid Up Addition and Loan Reduction",
+   "Name": "OLI_DIVTYPE_PUALR",
+   "Value": 26,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paid-Up Additions",
+   "Name": "OLI_DIVOPT_PUA",
+   "Value": 3,
+   "Definition": "Additional life insurance purchased with policydividends. No additional premiums are needed for paid-up additions. Also called dividend additions. ORThe dividend option under which the insurer uses each policy dividend to purchase paid-up additional insurance on the insured's life.",
+   "Notes": ""
+ },
+ {
+   "Description": "Paid up additions to a planned specified amount remainder accumulate at interest",
+   "Name": "OLI_DIVTYPE_PUAACCUM",
+   "Value": 23,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paid up additions to a planned specified amount remainder to loan reduction",
+   "Name": "OLI_DIVTYPE_PUALOANRED",
+   "Value": 24,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paid up additions to a planned specified amount remainder to one year term",
+   "Name": "OLI_DIVTYPE_PUAOYT",
+   "Value": 25,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pay off loan and accumulate remainder at interest",
+   "Name": "OLI_DIVTYPE_PAYINT",
+   "Value": 22,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pay off loan and purchase one year term",
+   "Name": "OLI_DIVTYPE_PAY",
+   "Value": 21,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Plan Enhancement",
+   "Name": "OLI_DIVOPT_PLANENHANCE",
+   "Value": 19,
+   "Definition": "Improves until lifetime then shortens premium duration",
+   "Notes": ""
+ },
+ {
+   "Description": "Policy Improvement",
+   "Name": "OLI_DIVOPT_POLIMPROVE",
+   "Value": 18,
+   "Definition": "Improves until lifetime plan",
+   "Notes": ""
+ },
+ {
+   "Description": "Pre-paid premium, surrender PUA",
+   "Name": "OLI_DIVTYPE_PPSURPUA",
+   "Value": 34,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pre-paid premium, surrender whole life additions",
+   "Name": "OLI_DIVTYPE_PPSURRWLA",
+   "Value": 33,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Profit Accumulation",
+   "Name": "OLI_DIVTYPE_PROFITACCUM",
+   "Value": 38,
+   "Definition": "Some products available in South Africa have a profit-sharing method that combines the Accumulation of Apportionment  and Special Benefit Accounts.This is also known as Profit Share Amount.",
+   "Notes": ""
+ },
+ {
+   "Description": "PVT Met Same as 10 Allocate to investment subaccounts.",
+   "Name": "OLI_DIVOPT_ALLOCATETOINV",
+   "Value": 20,
+   "Definition": "Allows the policyowner allocate policy dividends into various investment subaccounts and/or purchase single premium variable life insurance.",
+   "Notes": ""
+ },
+ {
+   "Description": "Reduce Loan Values",
+   "Name": "OLI_DIVOPT_REDLOAN",
+   "Value": 11,
+   "Definition": "A life insurance policy dividend option under which policy dividends are applied toward the payment of a loan to reduce the outstanding balance.",
+   "Notes": ""
+ },
+ {
+   "Description": "Reduce loan values, balance in cash",
+   "Name": "OLI_DIVOPT_REDLNCASH",
+   "Value": 15,
+   "Definition": "A life insurance policy dividend option under which policy dividends are applied toward the payment of a loan to reduce the outstanding balance.",
+   "Notes": ""
+ },
+ {
+   "Description": "Reduce loan values, balance to accumulate",
+   "Name": "OLI_DIVOPT_REDLNACCUM",
+   "Value": 17,
+   "Definition": "A life insurance policy dividend option under which policy dividends are applied toward the payment of loan to reduce the outstanding balance to accumulate. OR The dividend paid to the owner of the insurance contract, which can be applied to reduce the loan value borrowed against the policy or left on deposit with the insurance company to accumulate at interest.",
+   "Notes": ""
+ },
+ {
+   "Description": "Reduce loan values, balance to PUA",
+   "Name": "OLI_DIVOPT_REDLNPUA",
+   "Value": 16,
+   "Definition": "A life insurance policy dividend option under which policy dividends are applied toward the payment of the loan to reduce the outstanding balance.ORThe dividend paid to the owner of the insurance contract, which can be applied to reduce the loan value borrowed against the policy or applied to purchase an increment of Paid-Up Insurance.",
+   "Notes": ""
+ },
+ {
+   "Description": "Reduce Premium",
+   "Name": "OLI_DIVOPT_RED",
+   "Value": 4,
+   "Definition": "A life insurance policy dividend option under which policy dividends are applied toward the payment of renewal premiums.",
+   "Notes": ""
+ },
+ {
+   "Description": "Reduce premium, balance in cash",
+   "Name": "OLI_DIVOPT_REDCASH",
+   "Value": 7,
+   "Definition": "Life insurance policy dividend options under which policy dividends are applied toward the payment of a loan to reduce the outstanding balance.",
+   "Notes": ""
+ },
+ {
+   "Description": "Reduce premium, balance to accumulate",
+   "Name": "OLI_DIVOPT_REDACCUM",
+   "Value": 9,
+   "Definition": "Life insurance policy dividend options under which policy dividends are applied toward the payment of policy to lessen the premium amount. OR The dividend paid to the owner of the insurance contract, which can be applied to reduce the premium or left on deposit with the insurance company to accumulate at interest.",
+   "Notes": ""
+ },
+ {
+   "Description": "Reduce premium, balance to PUA",
+   "Name": "OLI_DIVOPT_REDPUA",
+   "Value": 8,
+   "Definition": "A life insurance policy in which part of each dividend provides paid-up additions.",
+   "Notes": ""
+ },
+ {
+   "Description": "Reduce Premium, balance to Reduce Loan Value",
+   "Name": "OLI_DIVOPT_REDPREMREDLOAN",
+   "Value": 29,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Reduce Premiums, Excess to Suspense",
+   "Name": "OLI_DIVTYPE_SUSPENSE",
+   "Value": 37,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Special Arrangement",
+   "Name": "OLI_DIVOPT_SPECARRANGE",
+   "Value": 28,
+   "Definition": "An unusual or exceptional manner of dealing with the dividends. This will normally be applicable to a dividend payout that has been \"tailor made\" to suit an individual Investment",
+   "Notes": ""
+ },
+ {
+   "Description": "Specified amount in cash balance to Paid Up Additions",
+   "Name": "OLI_DIVOPT_SPECPUA",
+   "Value": 12,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Term Dividend Option (FULL)",
+   "Name": "OLI_DIVOPT_OYT",
+   "Value": 6,
+   "Definition": "A life insurance policy dividend option under which policy dividends are used as a net single premium to purchase one-year term insurance. Also called the additional insurance option or the fifth dividend option.",
+   "Notes": ""
+ },
+ {
+   "Description": "Term Dividend Option (maximum purchase amount)",
+   "Name": "OLI_DIVOPT_OYTWITHMAX",
+   "Value": 30,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Transfer to equity deposit",
+   "Name": "OLI_DIVTYPE_TRANSFER",
+   "Value": 31,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Whole life additions",
+   "Name": "OLI_DIVTYPE_WLA",
+   "Value": 36,
+   "Definition": "The annual policy dividend is used to pay for an additional death benefit amount of the Whole Life Additions rider which consists of One Year Term Insurance and/or Paid Up Additions",
+   "Notes": ""
+ }
+]

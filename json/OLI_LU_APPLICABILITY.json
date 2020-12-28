@@ -1,0 +1,37 @@
+[
+ {
+   "Description": "Applies",
+   "Name": "OLI_APPLICABILITY_POS",
+   "Value": 1,
+   "Definition": "Known to apply. Same as a YES response to a question.",
+   "Notes": ""
+ },
+ {
+   "Description": "Does not apply",
+   "Name": "OLI_APPLICABILITY_NEG",
+   "Value": 2,
+   "Definition": "Does not apply. Same as a NO response to a question.",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Stated as Not Known",
+   "Name": "OLI_APPLICABILITY_UNKNOWN",
+   "Value": 3,
+   "Definition": "May or may not apply. This status is slightly different than \"Unknown.\" If a question was asked and not answered - or if a question was never asked, then the Applicability Response is \"Unknown.\" Use OLI_UNKNOWN (NOT this code) in this case. However, if a question was asked, and a the response provided is \"Unknown\" (or some equivalent), then the answer is known and modeled using this code value.",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ }
+]

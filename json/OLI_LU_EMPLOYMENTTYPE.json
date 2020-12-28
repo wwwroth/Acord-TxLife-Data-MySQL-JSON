@@ -1,0 +1,6421 @@
+[
+ {
+   "Description": "Abrasives Industry, Foreman (Supervising Only)",
+   "Name": "OLI_EMPTYPE_ABRFOR",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Abrasives Industry, Superintendent Only",
+   "Name": "OLI_EMPTYPE_AVRSUP",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Abrasives Manufacture",
+   "Name": "OLI_EMPTYPE_ABRWORKER",
+   "Value": 845,
+   "Definition": "A person working in the manufacture of silica abrasives.",
+   "Notes": ""
+ },
+ {
+   "Description": "Accountants, Certified Public Accountants",
+   "Name": "OLI_EMPTYPE_ACPA",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Accountants, Others",
+   "Name": "OLI_EMPTYPE_AOTH",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Acid Manufacture",
+   "Name": "OLI_EMPTYPE_ACIDWORKER",
+   "Value": 846,
+   "Definition": "A person working in the manufacture of hydrochloric, hydrocyanic, hydrofluoric, nitric, picric, sulphurous or sulphuric acids.",
+   "Notes": ""
+ },
+ {
+   "Description": "Actor/Actress",
+   "Name": "OLI_EMPTYPE_ACTOR",
+   "Value": 867,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Actuaries, ASA Or FSA",
+   "Name": "OLI_EMPTYPE_ACTUARY",
+   "Value": 5,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Actuary, Others",
+   "Name": "OLI_EMPTYPE_ACTUARIAL",
+   "Value": 6,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Acupuncturists",
+   "Name": "OLI_EMPTYPE_ACUPUNCT",
+   "Value": 7,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Adjusters, Fire And Marine",
+   "Name": "OLI_EMPTYPE_ADJFIRE",
+   "Value": 8,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Adjusters, Insurance (Not Fire Or Marine)",
+   "Name": "OLI_EMPTYPE_ADJINS",
+   "Value": 9,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Advertising (Agency Staff, Not Free Lance)",
+   "Name": "OLI_EMPTYPE_ADVER",
+   "Value": 10,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Agriculture (Farm/Orchard/Ranch/Nursery/Dairy/Hatchery/Proprietor)",
+   "Name": "OLI_EMPTYPE_AGRIGN",
+   "Value": 13,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Agriculture (Farm/Orchard/Ranch)Foreman/Other Skilled Workers)",
+   "Name": "OLI_EMPTYPE_AGRIOS",
+   "Value": 12,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Agriculture (Farm/Orchard/Ranch) Hired Hand",
+   "Name": "OLI_EMPTYPE_AGRIHH",
+   "Value": 11,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Air Conditioning,Engineer(Office&Consult Duties Only",
+   "Name": "OLI_EMPTYPE_ACOFF",
+   "Value": 16,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Air Conditioning, Engineer (Superintending/Inspector)",
+   "Name": "OLI_EMPTYPE_ACENG",
+   "Value": 14,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Air Conditioning, Installer/Repairer/Servicemen",
+   "Name": "OLI_EMPTYPE_ACINST",
+   "Value": 15,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Air Drill Operators",
+   "Name": "OLI_EMPTYPE_ADRILLO",
+   "Value": 17,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Airport Personnel, Baggage Handler/Porter/Freight",
+   "Name": "OLI_EMPTYPE_AIRBAG",
+   "Value": 19,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Airport Personnel, Dispatchers(Office), Operations",
+   "Name": "OLI_EMPTYPE_AIRDISPP",
+   "Value": 21,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Airport Personnel, Dispatchers On Line",
+   "Name": "OLI_EMPTYPE_AIRDISPO",
+   "Value": 20,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Airport Personnel, Instrument Installers",
+   "Name": "OLI_EMPTYPE_AIRINST",
+   "Value": 22,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Airport Personnel, Manager, Office&Supervision Duties",
+   "Name": "OLI_EMPTYPE_AIRMGR",
+   "Value": 23,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Air Traffic Controllers",
+   "Name": "OLI_EMPTYPE_ATC",
+   "Value": 18,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Allergist",
+   "Name": "OLI_EMPTYPE_ALLERGIST",
+   "Value": 24,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ambulance Drivers",
+   "Name": "OLI_EMPTYPE_AMBDRV",
+   "Value": 25,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Anesthesiologists",
+   "Name": "OLI_EMPTYPE_PHYANESTH",
+   "Value": 26,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Anesthetist--Other Than Physician",
+   "Name": "OLI_EMPTYPE_ANTHES",
+   "Value": 27,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Animal Trainer",
+   "Name": "OLI_EMPTYPE_ANIMALTRAINER",
+   "Value": 843,
+   "Definition": "A person who trains or exhibits animals. Includes Horse Trainer, Dog Trainer, or Tamer.",
+   "Notes": ""
+ },
+ {
+   "Description": "Antique Dealer, Purchase/Repair/Collect/Delivery",
+   "Name": "OLI_EMPTYPE_ANTDEAL",
+   "Value": 28,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Antique Dealers, Sales Only",
+   "Name": "OLI_EMPTYPE_ANTSALES",
+   "Value": 29,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Appraisers",
+   "Name": "OLI_EMPTYPE_APPRAISER",
+   "Value": 30,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Aquanics",
+   "Name": "OLI_EMPTYPE_AQUANICS",
+   "Value": 847,
+   "Definition": "Divers involved in deep-water diving for construction, salvage, search and rescue, military or scientific or exploration.",
+   "Notes": ""
+ },
+ {
+   "Description": "Arbitrager",
+   "Name": "OLI_EMPTYPE_ARBITRAGER",
+   "Value": 31,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Architects",
+   "Name": "OLI_EMPTYPE_ARCHITECT",
+   "Value": 32,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Art Dealer",
+   "Name": "OLI_EMPTYPE_ARTDEALER",
+   "Value": 891,
+   "Definition": "Person or company who buys and sells works of art.",
+   "Notes": ""
+ },
+ {
+   "Description": "Art Glass, Assemblers (No Erecting Or Setting)",
+   "Name": "OLI_EMPTYPE_ARTGLAASM",
+   "Value": 33,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Art Glass, Erectors Or Setters",
+   "Name": "OLI_EMPTYPE_ARTGLAERR",
+   "Value": 34,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Artificial Flower Makers",
+   "Name": "OLI_EMPTYPE_ARTFLWMKR",
+   "Value": 35,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Artificial Gas--See Gas Manufacture",
+   "Name": "OLI_EMPTYPE_ARTGASMFG",
+   "Value": 36,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Artificial Limb Manuf, Dealer (Not Maker Or Repairer)",
+   "Name": "OLI_EMPTYPE_ARTLMBMFGS",
+   "Value": 37,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Artificial Limb Manufacture, Makers Or Repairers",
+   "Name": "OLI_EMPTYPE_ARTMFGM",
+   "Value": 38,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Artist, Commercial (Cartoon, Illust) Not Free Lance",
+   "Name": "OLI_EMPTYPE_ARTISTCOM",
+   "Value": 39,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Asbestos Mill (& Concentrating Mill), Skilled Worker",
+   "Name": "OLI_EMPTYPE_ASBSW",
+   "Value": 40,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Asbestos Mill (& Concentrating Mill), Supervisors",
+   "Name": "OLI_EMPTYPE_ASBSUP",
+   "Value": 41,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Asphalt Refining, Foreman (Supervise Only), Inspector",
+   "Name": "OLI_EMPTYPE_ASPSUP",
+   "Value": 42,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Asphalt Refining, Others",
+   "Name": "OLI_EMPTYPE_ASPOTH",
+   "Value": 43,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Assayers (Not Working In Mine)",
+   "Name": "OLI_EMPTYPE_ASSAYERS",
+   "Value": 44,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Assessors",
+   "Name": "OLI_EMPTYPE_ASSESSORS",
+   "Value": 45,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Astronaut",
+   "Name": "OLI_EMPTYPE_ASTRONAUT",
+   "Value": 839,
+   "Definition": "A person who is trained to make rocket flights into outer space.",
+   "Notes": ""
+ },
+ {
+   "Description": "Attorneys",
+   "Name": "OLI_EMPTYPE_ATY",
+   "Value": 46,
+   "Definition": "One who is legally appointed to transact business on another's behalf; specifically : a legal agent qualified to act for suitors and defendants in legal proceedings",
+   "Notes": ""
+ },
+ {
+   "Description": "Auctioneers, Livestock",
+   "Name": "OLI_EMPTYPE_AUCTLIVE",
+   "Value": 47,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Auctioneers, Others",
+   "Name": "OLI_EMPTYPE_AUCTOTHY",
+   "Value": 48,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Audiologists",
+   "Name": "OLI_EMPTYPE_AUDIO",
+   "Value": 49,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Auditor",
+   "Name": "OLI_EMPTYPE_AUDITOR",
+   "Value": 50,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Automobile Industry Dealer/Owner, Sales,-New Vehicles",
+   "Name": "OLI_EMPTYPE_AUTISALES",
+   "Value": 51,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Automobile Industry Dealer/Salesmen, Used Vehicles",
+   "Name": "OLI_EMPTYPE_AUTOUSEDMAN",
+   "Value": 54,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Automobile Industry Dealer/Salesmen New Vehicle",
+   "Name": "OLI_EMPTYPE_AUTOSAMESMAN",
+   "Value": 53,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Automobile Industry Garage/Filling&Service, Manager",
+   "Name": "OLI_EMPTYPE_AUTOSM",
+   "Value": 55,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Automobile Industry Garage/Filling&Service,Other Duties",
+   "Name": "OLI_EMPTYPE_AUTOFILL",
+   "Value": 56,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Automobile Industry Manufacturing, (Supervisory Only)",
+   "Name": "OLI_EMPTYPE_AUTOMFGSUP",
+   "Value": 57,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Automobile Industry Manufacturing,Assembler/Machinist",
+   "Name": "OLI_EMPTYPE_AUTOMFGMAC",
+   "Value": 52,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Automobile Industry Manufacturing, Foreman",
+   "Name": "OLI_EMPTYPE_AUTOMFGFOR",
+   "Value": 58,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Automobile Industry Testers, Shop",
+   "Name": "OLI_EMPTYPE_AUTOTEST",
+   "Value": 59,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Automobile Racer",
+   "Name": "OLI_EMPTYPE_AUTORACER",
+   "Value": 868,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Aviation (Military)",
+   "Name": "OLI_EMPTYPE_AVIATIONMIL",
+   "Value": 848,
+   "Definition": "Risk depends on age and type of aircraft flown.",
+   "Notes": ""
+ },
+ {
+   "Description": "Awning Industry, Erector, Hanger, Installer",
+   "Name": "OLI_EMPTYPE_AWNERECT",
+   "Value": 60,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Awning Industry, Maker",
+   "Name": "OLI_EMPTYPE_AWMMFG",
+   "Value": 61,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bacteriologists",
+   "Name": "OLI_EMPTYPE_BACTER",
+   "Value": 62,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bailiffs, Court Duties",
+   "Name": "OLI_EMPTYPE_BALIFF",
+   "Value": 63,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bakeries (Shops And Factories), All Others",
+   "Name": "OLI_EMPTYPE_BAKEROTH",
+   "Value": 64,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bakery (Shop/Factory), Superintendent/Foremen/Manager",
+   "Name": "OLI_EMPTYPE_BAKERSUP",
+   "Value": 65,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bank, Armored Car Guard/Other Armed Personnel, Collector",
+   "Name": "OLI_EMPTYPE_BANKARMED",
+   "Value": 66,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Banks, Messengers (Unarmed)",
+   "Name": "OLI_EMPTYPE_BANKMSG",
+   "Value": 67,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Banks, Officers",
+   "Name": "OLI_EMPTYPE_BANKOFF",
+   "Value": 68,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Banks, Tellers, Clerks",
+   "Name": "OLI_EMPTYPE_BANKTEL",
+   "Value": 69,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Barbers, Proprietors And Journeymen",
+   "Name": "OLI_EMPTYPE_BARBER",
+   "Value": 70,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bartender",
+   "Name": "OLI_EMPTYPE_BARTNDR",
+   "Value": 892,
+   "Definition": "Someone who serves either alcoholic or non alcoholic beverages from behind a bar in a restaurant, bar, tavern or pub.",
+   "Notes": ""
+ },
+ {
+   "Description": "Beauty Parlors, Away From Home",
+   "Name": "OLI_EMPTYPE_BEAUTYPAR",
+   "Value": 71,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Beverage Manufacture Non-Alcoholic, Skilled Worker",
+   "Name": "OLI_EMPTYPE_BEVMFGSW",
+   "Value": 72,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Beverage Manufacture Non-Alcoholic, Superintendent",
+   "Name": "OLI_EMPTYPE_BEVMFGSUP",
+   "Value": 73,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Beverage Manufacture Non-Alcoholic, Unskilled Worker",
+   "Name": "OLI_EMPTYPE_BEVMFGUW",
+   "Value": 74,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bicycle Industry, All Others",
+   "Name": "OLI_EMPTYPE_BICOTH",
+   "Value": 75,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bicycle Industry, Dealer, Sales-No Assembly Or Repair",
+   "Name": "OLI_EMPTYPE_BICDEAL",
+   "Value": 76,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bill Collector",
+   "Name": "OLI_EMPTYPE_BILLCLTR",
+   "Value": 893,
+   "Definition": "Person who attempts to collect payment on overdue bills.",
+   "Notes": ""
+ },
+ {
+   "Description": "Bill Poster",
+   "Name": "OLI_EMPTYPE_BILLPOST",
+   "Value": 77,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Biochemists, Office Duties Only",
+   "Name": "OLI_EMPTYPE_BIOCHEMOD",
+   "Value": 78,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Biochemists, Others",
+   "Name": "OLI_EMPTYPE_BIOCHEMOT",
+   "Value": 79,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Biologists, Office Duties Only",
+   "Name": "OLI_EMPTYPE_BIOLOF",
+   "Value": 80,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Biologists, Others",
+   "Name": "OLI_EMPTYPE_BIOLOTH",
+   "Value": 81,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Blacksmiths (No Unusual Hazard)",
+   "Name": "OLI_EMPTYPE_BLACKSMTH",
+   "Value": 82,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Boiler Manufacture, Installation/Maintenance, Inspector",
+   "Name": "OLI_EMPTYPE_BLRMFGINS",
+   "Value": 83,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Boiler Manufacture/Installation/Maintenance, Cleaner",
+   "Name": "OLI_EMPTYPE_BLRMFGINSCLK",
+   "Value": 84,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Boiler Manufacture/Installation/Maintenance, Foremen",
+   "Name": "OLI_EMPTYPE_BLRMFGSUP",
+   "Value": 85,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bond Brokers Or Salesmen",
+   "Name": "OLI_EMPTYPE_BONDBROKER",
+   "Value": 86,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Booking Agents (Full-Time & Working Out Of Office)",
+   "Name": "OLI_EMPTYPE_BOOKINGAGENT",
+   "Value": 87,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bookkeepers",
+   "Name": "OLI_EMPTYPE_BOOKEEPER",
+   "Value": 88,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bookmaker",
+   "Name": "OLI_EMPTYPE_BOOKMAKER",
+   "Value": 869,
+   "Definition": "Gambler - taker of wagers",
+   "Notes": ""
+ },
+ {
+   "Description": "Borax Mill (Employees Not In Mines), Superintendent",
+   "Name": "OLI_EMPTYPE_BORAXSUP",
+   "Value": 89,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Borax Mill (Not In Mine), All Other Mill Employees",
+   "Name": "OLI_EMPTYPE_BORAXOTH",
+   "Value": 90,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Borax Mill(Not In Mines) Superintendent/Foremen Mill Employee",
+   "Name": "OLI_EMPTYPE_BORAXMILL",
+   "Value": 91,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Botanists, Office Duties Only",
+   "Name": "OLI_EMPTYPE_BOTANISTOF",
+   "Value": 92,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Botanists, Others",
+   "Name": "OLI_EMPTYPE_BOTANISTOTH",
+   "Value": 93,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bricklayer/Masons (No Unusual Hazard)",
+   "Name": "OLI_EMPTYPE_BRICKLAYER",
+   "Value": 96,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Brick Manufacture, Foremen And Skilled Workers",
+   "Name": "OLI_EMPTYPE_BRICKMFGSUP",
+   "Value": 94,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Brick Manufacture, Stacker/Brick&Clay Wheeler/Other Laborer",
+   "Name": "OLI_EMPTYPE_BRICKMFGLB",
+   "Value": 95,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bridge Worker",
+   "Name": "OLI_EMPTYPE_BRIDGEWKR",
+   "Value": 870,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Briquette Manufacture, All Others",
+   "Name": "OLI_EMPTYPE_BRIQMFGOTH",
+   "Value": 97,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Briquette Manufacture, Foremen",
+   "Name": "OLI_EMPTYPE_BGIQMFGSUP",
+   "Value": 98,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Broker, Commodity, Futures, Options--Individual Consultant",
+   "Name": "OLI_EMPTYPE_BROKCOMCONS",
+   "Value": 99,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Broker, Commodity/Future/Option,Medium/Large-Size",
+   "Name": "OLI_EMPTYPE_BROKCOMLARGE",
+   "Value": 100,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Broker, Stock/Bond (Not Commodities) Floor Self-Employed",
+   "Name": "OLI_EMPTYPE_BROKSBFLOORSELF",
+   "Value": 103,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Broker, Stock/Bond (Not Commodities) Floor Trader",
+   "Name": "OLI_EMPTYPE_BROKSBFLOOR",
+   "Value": 104,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Broker, Stock/Bond (Not Commodities) Office Duties",
+   "Name": "OLI_EMPTYPE_BROKSBOFFICE",
+   "Value": 105,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Brokers, Mortgage Broker, Office Duties Only",
+   "Name": "OLI_EMPTYPE_BROKMORTOFFICE",
+   "Value": 106,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Brokers, Produce Broker, Not Visiting Market&Handling Goods",
+   "Name": "OLI_EMPTYPE_BROKPROD",
+   "Value": 101,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Brokers, Produce Broker, Others",
+   "Name": "OLI_EMPTYPE_BROKPRODUCEOTHERS",
+   "Value": 107,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Brokers, Real Estate Broker, Others Working Full-Time",
+   "Name": "OLI_EMPTYPE_BROKREALESTFT",
+   "Value": 108,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Brokers, Real Estate Broker, Principal/Owner, Working F/T",
+   "Name": "OLI_EMPTYPE_BROKREALEST",
+   "Value": 102,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Brokers, Stocks Or Bonds (Not Commodities) Pawn",
+   "Name": "OLI_EMPTYPE_BROKPAWN",
+   "Value": 109,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Broom/Brush Factories, Superintendents And Foremen",
+   "Name": "OLI_EMPTYPE_BRMBRSHSUP",
+   "Value": 111,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Broom/Brush Factory, Assembler/Tier/Trimmer/Skilled",
+   "Name": "OLI_EMPTYPE_BRMBRSHSKILLED",
+   "Value": 112,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Broom And Brush Factories, All Others",
+   "Name": "OLI_EMPTYPE_BRMBRSHOTH",
+   "Value": 110,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Buffer, Metal",
+   "Name": "OLI_EMPTYPE_BUFFERMETAL",
+   "Value": 113,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Building/Construction, Contractor/Superintendent Site",
+   "Name": "OLI_EMPTYPE_BLDMAINTSUPONSITE",
+   "Value": 124,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Building/Construction, Contractor/Super Not At Site",
+   "Name": "OLI_EMPTYPE_BLDMAINTSUPOFFSITE",
+   "Value": 123,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Building/Construction, Electricians And Plumbers",
+   "Name": "OLI_EMPTYPE_BLDMAINTELECPLUMB",
+   "Value": 125,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Building & Construction, Civil Engineer",
+   "Name": "OLI_EMPTYPE_BLDCONCIVENG",
+   "Value": 114,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Building & Construction, Estimator Not At Building",
+   "Name": "OLI_EMPTYPE_BLDCONESTIM",
+   "Value": 115,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Building And Construction, Architects",
+   "Name": "OLI_EMPTYPE_BLDCONARCHITECT",
+   "Value": 116,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Building And Construction, Other Skilled Workers",
+   "Name": "OLI_EMPTYPE_BLDCONOTHSKILLED",
+   "Value": 117,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Building And Construction, Project Managers",
+   "Name": "OLI_EMPTYPE_BLDCONPROJMGR",
+   "Value": 118,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Building Demolition",
+   "Name": "OLI_EMPTYPE_DEMOLITION",
+   "Value": 849,
+   "Definition": "Involves demolition of buildings and other structures with exposure to the same hazards found in the erection of buildings plus the added danger of unsound structures which may collapse.",
+   "Notes": ""
+ },
+ {
+   "Description": "Building Maintenance, Building Cleaner/Elevator Installer",
+   "Name": "OLI_EMPTYPE_BLDMAINTELEVATOR",
+   "Value": 119,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Building Maintenance, Elevator Operator/Starter Door",
+   "Name": "OLI_EMPTYPE_BLDMAINTSTARTERDOOR",
+   "Value": 120,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Building Maintenance, Super (Supervising Only)",
+   "Name": "OLI_EMPTYPE_BLDMAINTSUP",
+   "Value": 121,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Building Mover/Wrecker, Superintendent/Foremen/Manager",
+   "Name": "OLI_EMPTYPE_BLDMAINTFOR",
+   "Value": 122,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bus Drivers",
+   "Name": "OLI_EMPTYPE_BUSDRIVER",
+   "Value": 126,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Machine Sales/Service, Servicemen/All Other",
+   "Name": "OLI_EMPTYPE_BUSMACOTH",
+   "Value": 128,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Machine Sales & Service, Manager & Sales",
+   "Name": "OLI_EMPTYPE_BUSMACSALES",
+   "Value": 127,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Owners;Small, Administrative, Minimal Duties",
+   "Name": "OLI_EMPTYPE_OWNERADM",
+   "Value": 129,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Owners;Small, Some Travel &/Or Retail Sales",
+   "Name": "OLI_EMPTYPE_OWNERRETAIL",
+   "Value": 130,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Owners;Small, Supervising Blue Collar Employee",
+   "Name": "OLI_EMPTYPE_OWNERBLUECOLLAR",
+   "Value": 131,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Butchers, Others",
+   "Name": "OLI_EMPTYPE_BUTCHEROTH",
+   "Value": 132,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Butchers, Proprietor And Retail Store",
+   "Name": "OLI_EMPTYPE_OWNERBUTCHER",
+   "Value": 133,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Butlers, Not Living On Premises",
+   "Name": "OLI_EMPTYPE_BUTLER",
+   "Value": 134,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Button Manufacture, Foremen",
+   "Name": "OLI_EMPTYPE_BUTTONMFGFOR",
+   "Value": 135,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Button Manufacture, Others",
+   "Name": "OLI_EMPTYPE_BUTTONMFGOTH",
+   "Value": 136,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Button Manufacture, Superintendents",
+   "Name": "OLI_EMPTYPE_BUTTONMFGSUP",
+   "Value": 137,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Buyer Department Store, Office Duties Only",
+   "Name": "OLI_EMPTYPE_BUYEROFFICE",
+   "Value": 138,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Buyers, Cotton, Grain, Poultry, Tobacco, Wool",
+   "Name": "OLI_EMPTYPE_BUYERCOMMODITIES",
+   "Value": 140,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Buyers, Ore, Livestock, Lumber, Fur",
+   "Name": "OLI_EMPTYPE_BUYERLIVESTOCK",
+   "Value": 141,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Buyers Department Store, Others",
+   "Name": "OLI_EMPTYPE_BUYEROTH",
+   "Value": 139,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cabinet Makers",
+   "Name": "OLI_EMPTYPE_CABMFG",
+   "Value": 142,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Caisson Worker",
+   "Name": "OLI_EMPTYPE_CAISSON",
+   "Value": 871,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Calcium Carbide/Cyanamide Manufacture, All Other Emp",
+   "Name": "OLI_EMPTYPE_CALCARBMFGOTH",
+   "Value": 143,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Calcium Carbide/Cyanamide Manufacture, Foremen/Packers",
+   "Name": "OLI_EMPTYPE_CALCARBMFGFOR",
+   "Value": 144,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Camera Manufacture, Assembler/Finisher/Lens Grinders",
+   "Name": "OLI_EMPTYPE_CAMMFGGRINDER",
+   "Value": 145,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Camera Manufacture, Engineer/Superintendent/Foremen",
+   "Name": "OLI_EMPTYPE_CAMMFGSUP",
+   "Value": 146,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Camera Manufacture, Others",
+   "Name": "OLI_EMPTYPE_CAMMFGOTH",
+   "Value": 147,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Camps/Park (Year Round), Proprietor/Manager/Director",
+   "Name": "OLI_EMPTYPE_CAMPMGR",
+   "Value": 148,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Canal Worker, Dockmaster/Superintendent/Inspector",
+   "Name": "OLI_EMPTYPE_CANALDOCK",
+   "Value": 151,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Canal Workers, Bridge, Lock Or Buoy Tenders",
+   "Name": "OLI_EMPTYPE_CANALTENDER",
+   "Value": 152,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Can Manufacturing, Others",
+   "Name": "OLI_EMPTYPE_CANMFGOTH",
+   "Value": 149,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Can Manufacturing, Superintendents, Foremen",
+   "Name": "OLI_EMPTYPE_CANMFGSUP",
+   "Value": 150,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Canning/Pickling/Preserving Factories, Foremen",
+   "Name": "OLI_EMPTYPE_CANPREFOR",
+   "Value": 153,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Canning/Pickling/Preserving Factory, All Others",
+   "Name": "OLI_EMPTYPE_CANPREOTH",
+   "Value": 154,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Canning/Pickling/Preserving Factory, Superintendents",
+   "Name": "OLI_EMPTYPE_CANPRESUP",
+   "Value": 155,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cantors",
+   "Name": "OLI_EMPTYPE_CANTOR",
+   "Value": 156,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Carbon Electrode/Graphite Manufacture, Foremen",
+   "Name": "OLI_EMPTYPE_CARBELECMFGFOR",
+   "Value": 157,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Carbon Electrode/Graphite Manufacture, Superintendent",
+   "Name": "OLI_EMPTYPE_CARBELECMFGSUP",
+   "Value": 158,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cardiac Surgeons",
+   "Name": "OLI_EMPTYPE_SURGCARDIO",
+   "Value": 159,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cardiologists",
+   "Name": "OLI_EMPTYPE_CARDIO",
+   "Value": 160,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Caretaker (Not On Premises) Private House & Grounds",
+   "Name": "OLI_EMPTYPE_GARDNER_PVT",
+   "Value": 161,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Carnival, circus and fair worker",
+   "Name": "OLI_EMPTYPE_CARNIVAL",
+   "Value": 850,
+   "Definition": "May include daredevil, trapeze or equestrian acts. Also includes general laborers or roustabouts.",
+   "Notes": ""
+ },
+ {
+   "Description": "Carpenters",
+   "Name": "OLI_EMPTYPE_CARPENTER",
+   "Value": 162,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Carpet Installers",
+   "Name": "OLI_EMPTYPE_CARPETINSTALLER",
+   "Value": 163,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cartographer",
+   "Name": "OLI_EMPTYPE_CTRGRPHR",
+   "Value": 894,
+   "Definition": "Person who analyzes, interprets and map geographic information using data from surveys and photographs.",
+   "Notes": ""
+ },
+ {
+   "Description": "Cattle Dealers, Handling Livestock",
+   "Name": "OLI_EMPTYPE_CATTLEDEALERHANDLER",
+   "Value": 164,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cattle Dealers, Not Handling Livestock",
+   "Name": "OLI_EMPTYPE_CATTLEDEALERNONHANDLER",
+   "Value": 165,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cement, Lime And Gypsum Manufacture, Foremen",
+   "Name": "OLI_EMPTYPE_CEMENTMFGFOR",
+   "Value": 166,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cement/Lime/Gypsum Manufacture, Superintendent",
+   "Name": "OLI_EMPTYPE_CEMENTMFGSUP",
+   "Value": 167,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cemeteries, All Others",
+   "Name": "OLI_EMPTYPE_CEMETERYOTH",
+   "Value": 168,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cemeteries, Superintendent & Clerk, No Manual Labor",
+   "Name": "OLI_EMPTYPE_CEMETERYSUP",
+   "Value": 169,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Charcoal Manufacture Open Pit, Proprietor/Superintendent",
+   "Name": "OLI_EMPTYPE_CHARMFGSUP",
+   "Value": 171,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Charcoal Manufacture Open Pit Process, Foremen",
+   "Name": "OLI_EMPTYPE_CHARMFGFOR",
+   "Value": 170,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chauffeur",
+   "Name": "OLI_EMPTYPE_CHAUFFER",
+   "Value": 895,
+   "Definition": "Person who drives a limousine, van or private car to transfer a customer from one place to another on a prearranged basis.",
+   "Notes": ""
+ },
+ {
+   "Description": "Chemical Industry, Chemist(Lab Duty)/Superintendent",
+   "Name": "OLI_EMPTYPE_CHEMISTSUP",
+   "Value": 172,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chemical Industry, Chemists (Office Duties Only)",
+   "Name": "OLI_EMPTYPE_CHEMISTOFFICE",
+   "Value": 173,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chemical Industry, Foremen/Chemist In Process Work",
+   "Name": "OLI_EMPTYPE_CHEMICALFOR",
+   "Value": 174,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chemical Industry, Other Skilled Workers",
+   "Name": "OLI_EMPTYPE_CHEMOCALOSW",
+   "Value": 175,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chemist/Assayer/Metallurgist, Engaged In Process Work",
+   "Name": "OLI_EMPTYPE_CHEMISTASSAYER",
+   "Value": 176,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chemist/Assayer/Metallurgist--Lab Duties",
+   "Name": "OLI_EMPTYPE_CHEMISTASSAYLAB",
+   "Value": 178,
+   "Definition": "May also be classified as --> 44 OLI_EMPTYPE_ASSAYERS",
+   "Notes": ""
+ },
+ {
+   "Description": "Chemist/Assayer/Metallurgist--Office Duties Only",
+   "Name": "OLI_EMPTYPE_CHEMISTASSAYEROFF",
+   "Value": 177,
+   "Definition": "May also be classified as --> 44 OLI_EMPTYPE_ASSAYERSMay also be classified as --> 487 OLI_EMPTYPE_METALURGIST",
+   "Notes": ""
+ },
+ {
+   "Description": "Chimney Cleaners Or Sweeps",
+   "Name": "OLI_EMPTYPE_CHIMNEYSWEEP",
+   "Value": 179,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chiropodists",
+   "Name": "OLI_EMPTYPE_CHIROPODISTS",
+   "Value": 180,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Chiropractors",
+   "Name": "OLI_EMPTYPE_CHIROPRACTORS",
+   "Value": 181,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "City Marshals, Office And Court Duties Only",
+   "Name": "OLI_EMPTYPE_MARSHALLOFFICE",
+   "Value": 184,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "City Marshals Process Serving, Armed",
+   "Name": "OLI_EMPTYPE_MARSHALLARMED",
+   "Value": 182,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "City Marshals Process Serving, Unarmed",
+   "Name": "OLI_EMPTYPE_MARSHALLNOTARMED",
+   "Value": 183,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Civil Engineer",
+   "Name": "OLI_EMPTYPE_CIVILENG",
+   "Value": 185,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Claim Adjusters, Insurance, Fire Or Marine",
+   "Name": "OLI_EMPTYPE_CLAINADJFIREMAR",
+   "Value": 186,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Claim Adjusters, Insurance, Not Fire Or Marine",
+   "Name": "OLI_EMPTYPE_CLAINADJOTH",
+   "Value": 187,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Clergymen",
+   "Name": "OLI_EMPTYPE_CLERGY",
+   "Value": 188,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Clock Manufacturing/Repair, Using Hand Tools Only",
+   "Name": "OLI_EMPTYPE_CLOCKMFGTOOLS",
+   "Value": 190,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Clock Manufacturing Or Repair, All Others",
+   "Name": "OLI_EMPTYPE_CLOCKMFGOTH",
+   "Value": 189,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Clothing Manufacture (Factory/Shop/Store), Other Workers",
+   "Name": "OLI_EMPTYPE_CLOTHINGMFGOFFICE",
+   "Value": 193,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Clothing Manufacture (Factory Shop/Store), Custom",
+   "Name": "OLI_EMPTYPE_CLOTHINGMFGCUSTOM",
+   "Value": 191,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Clothing Manufacture (Factory Shop/Store), Proprietor",
+   "Name": "OLI_EMPTYPE_CLOTHINGMFGOWNER",
+   "Value": 192,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Coal/Wood Yard, Manager/Proprietor/Superintendent",
+   "Name": "OLI_EMPTYPE_COALSUP",
+   "Value": 195,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Coal And Wood Yards, Foremen",
+   "Name": "OLI_EMPTYPE_COALFOR",
+   "Value": 194,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Coal Miner",
+   "Name": "OLI_EMPTYPE_COALMINER",
+   "Value": 844,
+   "Definition": "A person who works in a coal mine. Also commonly known as a collier, or pitman.",
+   "Notes": ""
+ },
+ {
+   "Description": "Cobblers",
+   "Name": "OLI_EMPTYPE_COBBLER",
+   "Value": 196,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cold Storage, Others",
+   "Name": "OLI_EMPTYPE_COLDSTOROTH",
+   "Value": 197,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cold Storage, Proprietors Or Managers",
+   "Name": "OLI_EMPTYPE_COLDSTODMGR",
+   "Value": 198,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Collectors, Accounts, All Others",
+   "Name": "OLI_EMPTYPE_COLLECTOROTH",
+   "Value": 199,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Collectors, Accounts, Office Only",
+   "Name": "OLI_EMPTYPE_COLLECTOROTHCLK",
+   "Value": 200,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Commercial fisherman",
+   "Name": "OLI_EMPTYPE_COMMFISHERMAN",
+   "Value": 856,
+   "Definition": "Commercial fisherman",
+   "Notes": ""
+ },
+ {
+   "Description": "Commissary Clerks",
+   "Name": "OLI_EMPTYPE_COMMISARYCLERK",
+   "Value": 201,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Comptroller",
+   "Name": "OLI_EMPTYPE_COMPTROLLER",
+   "Value": 202,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Computer Industry--Not At Home, Analyst, Keypunch",
+   "Name": "OLI_EMPTYPE_COMPINDANALYSTOFF",
+   "Value": 203,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Computer Industry--Not At Home, Deliverymen-Heavy Equipment",
+   "Name": "OLI_EMPTYPE_COMPINDDELIVERYOFF",
+   "Value": 204,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Computer Industry--Not Working At Home, Deliverymen",
+   "Name": "OLI_EMPTYPE_COMPINDDELIVERY",
+   "Value": 205,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Computer Industry--Not Working At Home, Salesmen",
+   "Name": "OLI_EMPTYPE_COMPINDSALES",
+   "Value": 206,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Computer Programmer",
+   "Name": "OLI_EMPTYPE_CMPTRPROG",
+   "Value": 896,
+   "Definition": "Person who designs a logical series of instructions a computer can follow in a programming language. They can also repair, modify or update existing programs.",
+   "Notes": ""
+ },
+ {
+   "Description": "Confectioner (Candy/Cake), Local Delivery",
+   "Name": "OLI_EMPTYPE_CONFECTIONERDEL",
+   "Value": 207,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Confectioner (Candy/Cake), Packer/Checker/Wrapper",
+   "Name": "OLI_EMPTYPE_CONFECTIONERPACKER",
+   "Value": 208,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Confectioner (Candy/Cake), Superintendent/Foremen",
+   "Name": "OLI_EMPTYPE_CONFECTIONERSUP",
+   "Value": 209,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Consultants, Office Duties Only",
+   "Name": "OLI_EMPTYPE_CONSULTANTOFF",
+   "Value": 210,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Copyist (Office Duties Only)",
+   "Name": "OLI_EMPTYPE_COPYIST",
+   "Value": 212,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cork Manufacture, Foremen And Inspectors",
+   "Name": "OLI_EMPTYPE_CORKMFGFOR",
+   "Value": 213,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cork Manufacture, Others",
+   "Name": "OLI_EMPTYPE_CORKMFGOTH",
+   "Value": 214,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Cork Manufacture, Skilled Workers",
+   "Name": "OLI_EMPTYPE_CORKMFGSKILLED",
+   "Value": 215,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Coroners",
+   "Name": "OLI_EMPTYPE_CORONER",
+   "Value": 216,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Corporate Executive",
+   "Name": "OLI_EMPTYPE_CORPEXEC",
+   "Value": 217,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Corrections Officer",
+   "Name": "OLI_EMPTYPE_COOROFC",
+   "Value": 897,
+   "Definition": "Person who is responsible for the supervision, safety and security of prisoners in a prison, jail or other form of secure custody.",
+   "Notes": ""
+ },
+ {
+   "Description": "Court Reporters",
+   "Name": "OLI_EMPTYPE_COURTREPORTER",
+   "Value": 218,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Crane Operator",
+   "Name": "OLI_EMPTYPE_CRNOPER",
+   "Value": 898,
+   "Definition": "Also known as a Tower Operator. Person who uses mechanical boom and cable or tower and cable equipment to lift and move materials, machinery and other heavy objects.",
+   "Notes": ""
+ },
+ {
+   "Description": "Credit Men--(Office Duties)",
+   "Name": "OLI_EMPTYPE_CERDITMEN",
+   "Value": 219,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Crematories, Attendants",
+   "Name": "OLI_EMPTYPE_CERMATORYATT",
+   "Value": 220,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Crematories, Proprietors (Management Duties Only)",
+   "Name": "OLI_EMPTYPE_CERMATORYOTH",
+   "Value": 221,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Critical Care MD'S",
+   "Name": "OLI_EMPTYPE_CRITCAREMD",
+   "Value": 222,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Curators, Library, Museum Or Art Gallery",
+   "Name": "OLI_EMPTYPE_CURATOR",
+   "Value": 223,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Custodians",
+   "Name": "OLI_EMPTYPE_CUSTODIAN",
+   "Value": 224,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Customs Official",
+   "Name": "OLI_EMPTYPE_CUSTOFF",
+   "Value": 899,
+   "Definition": "Person who enforces federal laws governing imports and exports by inspecting cargo, baggage, and articles worn or carried by people, vessels, vehicles, trains, and aircraft entering or leaving the United States.",
+   "Notes": ""
+ },
+ {
+   "Description": "Dairy Product Manufacture, Milk Depot/Creamery, Others",
+   "Name": "OLI_EMPTYPE_DAIRYOTH",
+   "Value": 225,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dairy Product Manufacture, Milk Depot/Creamery, Skilled Employees",
+   "Name": "OLI_EMPTYPE_DAIRYSKILLED",
+   "Value": 226,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dancer",
+   "Name": "OLI_EMPTYPE_DANCER",
+   "Value": 872,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dance Teacher (Full Time,Studio Other Than Residence)",
+   "Name": "OLI_EMPTYPE_DANCEINST",
+   "Value": 227,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Day Care Owner/Employee,Non-Resid Teaching, Licensed",
+   "Name": "OLI_EMPTYPE_DAYCAREOWNER",
+   "Value": 228,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Decorator/Interior, Other,Including Paper Hanger",
+   "Name": "OLI_EMPTYPE_DECORATOROTH",
+   "Value": 229,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Decorators, Interior, Consulting Duties Only",
+   "Name": "OLI_EMPTYPE_DECORATORCON",
+   "Value": 230,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Decorators, Interior, Window And Display",
+   "Name": "OLI_EMPTYPE_DECORATORINT",
+   "Value": 231,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dental Hygienist,Office Assist(Not Nurses),Dentistry",
+   "Name": "OLI_EMPTYPE_DENTALHYGENIST",
+   "Value": 232,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dental Lab Worker, Technician, Nurse, Dentistry",
+   "Name": "OLI_EMPTYPE_DENTALLAB",
+   "Value": 233,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dermatologists",
+   "Name": "OLI_EMPTYPE_DERMATOLOGIST",
+   "Value": 234,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Designers, Interior",
+   "Name": "OLI_EMPTYPE_DESIGNER",
+   "Value": 235,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Detective",
+   "Name": "OLI_EMPTYPE_DETECTIVE",
+   "Value": 842,
+   "Definition": "A person whose work involves investigating and trying to solve crimes, including participation on stake outs for suspected persons.",
+   "Notes": ""
+ },
+ {
+   "Description": "Diamond Cutters, Polishers And Setters",
+   "Name": "OLI_EMPTYPE_DIAMONDCUTTER",
+   "Value": 236,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Die Makers (No Grinding)",
+   "Name": "OLI_EMPTYPE_DIEMAKER",
+   "Value": 237,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Disc Jockey",
+   "Name": "OLI_EMPTYPE_DJ",
+   "Value": 873,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dock Worker (Marine), Superintendent/Office Clerks",
+   "Name": "OLI_EMPTYPE_DOCKWORKER",
+   "Value": 238,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Doctors Of Medicine",
+   "Name": "OLI_EMPTYPE_MD",
+   "Value": 239,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dog Catchers",
+   "Name": "OLI_EMPTYPE_DOGCATCHER",
+   "Value": 240,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dog Kennels, Groomers (Away From Home)",
+   "Name": "OLI_EMPTYPE_KENNELGROOMER_RMT",
+   "Value": 241,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Doormen",
+   "Name": "OLI_EMPTYPE_DOORMAN",
+   "Value": 243,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Draftsmen (Office Away From Home Only)",
+   "Name": "OLI_EMPTYPE_DRAFTSMAN",
+   "Value": 244,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Drawbridge Tenders, In Towers",
+   "Name": "OLI_EMPTYPE_DRAWBRIDGETENGERTOW",
+   "Value": 245,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Drawbridge Tenders, Others",
+   "Name": "OLI_EMPTYPE_DRAWBRIDGETENGEROTH",
+   "Value": 246,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dressmakers, In Shop",
+   "Name": "OLI_EMPTYPE_DRESSMAKER",
+   "Value": 247,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Drill Press Operators",
+   "Name": "OLI_EMPTYPE_DRILLPRESSOPER",
+   "Value": 248,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Driver, Taxi,Including Proprietor Of Small Taxi Company",
+   "Name": "OLI_EMPTYPE_DRIVERTAXI",
+   "Value": 249,
+   "Definition": "May also be classified as --> 736 OLI_EMPTYPE_TAXICABDRIVER",
+   "Notes": ""
+ },
+ {
+   "Description": "Driver, Truck-Non-hazardous: Light Trucking, Local",
+   "Name": "OLI_EMPTYPE_DRIVERTRUCKLIGHT",
+   "Value": 250,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Drivers, Ambulances/Ambulance Drivers",
+   "Name": "OLI_EMPTYPE_DRIVERAMBULANCE",
+   "Value": 251,
+   "Definition": "Unclassified Ambulance Driver",
+   "Notes": ""
+ },
+ {
+   "Description": "Drug/Toilet Preparation Manufacturing, Foremen/Superintendent",
+   "Name": "OLI_EMPTYPE_DRUGSUP",
+   "Value": 254,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Drug/Toilet Preparation Manufacturing,Skilled Worker",
+   "Name": "OLI_EMPTYPE_DRUGSKILLED",
+   "Value": 255,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Drug And Toilet Preparations Manufacturing, Others",
+   "Name": "OLI_EMPTYPE_DRUGMFG",
+   "Value": 252,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Drug Store, Clerks",
+   "Name": "OLI_EMPTYPE_DRUGCLERK",
+   "Value": 253,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dry Cleaning/Dyeing, Clerk(Counter Duty/Manager",
+   "Name": "OLI_EMPTYPE_DRYCLEANCTR",
+   "Value": 258,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dry Cleaning And Dyeing, Foremen",
+   "Name": "OLI_EMPTYPE_DRYCLEANFOR",
+   "Value": 256,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dry Cleaning And Dyeing, Others",
+   "Name": "OLI_EMPTYPE_DRYCLEANOTH",
+   "Value": 257,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dye/Dye Intermediate Manufacturing, Chemist Process",
+   "Name": "OLI_EMPTYPE_DYEMFGCHEMIST",
+   "Value": 260,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Dye/Dye Intermediate Manufacturing, Superintendent/Chemists",
+   "Name": "OLI_EMPTYPE_DYEMFGSUP",
+   "Value": 259,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ear Nose And Throat MD'S",
+   "Name": "OLI_EMPTYPE_ENFMD",
+   "Value": 261,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Economists",
+   "Name": "OLI_EMPTYPE_ECONOMIST",
+   "Value": 262,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Editors, Magazine And Newspaper, Office Duties Only",
+   "Name": "OLI_EMPTYPE_EDITOR",
+   "Value": 263,
+   "Definition": "May also be classified as --> 513 OLI_EMPTYPE_NEWSOFFICE",
+   "Notes": ""
+ },
+ {
+   "Description": "Efficiency Expert/Industrial Engineer, Factory/Plant",
+   "Name": "OLI_EMPTYPE_EFFECEXPPLANT",
+   "Value": 264,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Efficiency Expert/Industrial Engineer, Office Duties",
+   "Name": "OLI_EMPTYPE_OFFICE",
+   "Value": 265,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Egg Handlers Or Testers",
+   "Name": "OLI_EMPTYPE_EGGTESTER",
+   "Value": 266,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--Apparatus Manufacture, Foremen",
+   "Name": "OLI_EMPTYPE_ELECTRICALMFGFOR",
+   "Value": 268,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--Battery Manufacture, All Others",
+   "Name": "OLI_EMPTYPE_ELECTRICALMFGBATOTH",
+   "Value": 269,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--Battery Manufacture,Foremen",
+   "Name": "OLI_EMPTYPE_ELECTRICALMFGBATFOR",
+   "Value": 270,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--Battery Manufacture/Superintendent",
+   "Name": "OLI_EMPTYPE_ELECTRICALMFGBATSUP",
+   "Value": 271,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--Electrical Apparatus, All Other",
+   "Name": "OLI_EMPTYPE_ELECTRICALAPPMFGOTH",
+   "Value": 273,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--Electrical Apparatus Manufacturer",
+   "Name": "OLI_EMPTYPE_ELECTRICALAPPMFG",
+   "Value": 272,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--General,Electrical Contractor",
+   "Name": "OLI_EMPTYPE_ELECTRICALCONTRACTOR",
+   "Value": 277,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--General,Electrical Engineers",
+   "Name": "OLI_EMPTYPE_ELECTRICALENGINEER",
+   "Value": 278,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--General, Installer/Repairmen",
+   "Name": "OLI_EMPTYPE_ELECTRICALINSTALLER",
+   "Value": 275,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--General, Meter Readers",
+   "Name": "OLI_EMPTYPE_ELECTRICALMETERREADER",
+   "Value": 276,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--General/Electrical Contractor",
+   "Name": "OLI_EMPTYPE_ELECTRICALCONTRACTOR2",
+   "Value": 279,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--General Engineer: Consult/Design",
+   "Name": "OLI_EMPTYPE_ELECTRICALENGINEERCON",
+   "Value": 274,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--Overhead/Tunnel Linemen/Splicer",
+   "Name": "OLI_EMPTYPE_ELECTRICALTUNNELSPLICER",
+   "Value": 281,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--Overhead/Tunnel Pole Setters",
+   "Name": "OLI_EMPTYPE_ELECTRICALTUNNELPOLESETTER",
+   "Value": 282,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--Overhead/Tunnel Tower Erectors",
+   "Name": "OLI_EMPTYPE_ELECTRICALTOWERERECTOR",
+   "Value": 283,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--Overhead/Tunnel Transformer",
+   "Name": "OLI_EMPTYPE_ELECTRICALTUNNELTRANSFORMAR",
+   "Value": 284,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--Overhead Line/Tunnel Foremen",
+   "Name": "OLI_EMPTYPE_ELECTRICALTUNNELFOR",
+   "Value": 280,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry-Power House/Sub-Stations, All Other",
+   "Name": "OLI_EMPTYPE_ELECTRICALPOWOTH",
+   "Value": 267,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrical Industry--Power Houses/Sub-Station Superintendent",
+   "Name": "OLI_EMPTYPE_ELECTRICALPOWERSUP",
+   "Value": 285,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrologists",
+   "Name": "OLI_EMPTYPE_ELECTROLOGIST",
+   "Value": 286,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electroplaters",
+   "Name": "OLI_EMPTYPE_ELECTRPLATER",
+   "Value": 287,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Electrotypers",
+   "Name": "OLI_EMPTYPE_ELECTRTYPER",
+   "Value": 288,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Elevator Operator, Passenger Operator/Starters",
+   "Name": "OLI_EMPTYPE_ELEVATOROPER",
+   "Value": 289,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Elevator Operators, Freight Operators",
+   "Name": "OLI_EMPTYPE_ELEVATORFREIGHT",
+   "Value": 290,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Embalmer/Assistant",
+   "Name": "OLI_EMPTYPE_EMBALMER",
+   "Value": 291,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Emergency Room Physicians",
+   "Name": "OLI_EMPTYPE_EMERRMMD",
+   "Value": 292,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Enamel Factory/Tinware/Sanitary Ware, All Others",
+   "Name": "OLI_EMPTYPE_ENAMELMFGOTH",
+   "Value": 293,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Enamel Factory/Tinware/Sanitary Ware, Foremen",
+   "Name": "OLI_EMPTYPE_ENAMELMFGFOR",
+   "Value": 294,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Enamel Factory/Tinware/Sanitary Ware, Superintendent",
+   "Name": "OLI_EMPTYPE_ENAMELMFGSUP",
+   "Value": 295,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Endocrinologist",
+   "Name": "OLI_EMPTYPE_ENDOCRINOLOGIST",
+   "Value": 296,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Endodontists",
+   "Name": "OLI_EMPTYPE_ENDODONTIST",
+   "Value": 297,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Engineer, Stationary--Non-Hazardous Industries",
+   "Name": "OLI_EMPTYPE_ENGINEERSTATNONHAZARD",
+   "Value": 300,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Engineer (Registered Professional) Non-Hazardous",
+   "Name": "OLI_EMPTYPE_ENGINEERRPENONHAZ",
+   "Value": 298,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Engineer (Registered Professional) Office/Consultant",
+   "Name": "OLI_EMPTYPE_ENGINEERRPEOFFICE",
+   "Value": 299,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Engineers,Office Duties And Consulting Duties Only",
+   "Name": "OLI_EMPTYPE_ENGINEEROFFICE",
+   "Value": 301,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Engravers, Celluloid Glass/Metal/Plate Photoengraver",
+   "Name": "OLI_EMPTYPE_ENGRAVERMISC",
+   "Value": 302,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Engravers, Monument",
+   "Name": "OLI_EMPTYPE_ENGRAVERMONUMENT",
+   "Value": 303,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Enterologists",
+   "Name": "OLI_EMPTYPE_ENTEROLOGIST",
+   "Value": 304,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Entertainer",
+   "Name": "OLI_EMPTYPE_ENTERTAINER",
+   "Value": 874,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Entomologists, Ethnologists",
+   "Name": "OLI_EMPTYPE_ENTOMOLOGISTS",
+   "Value": 305,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Epidemiologists",
+   "Name": "OLI_EMPTYPE_EPIDEMIOLOGIST",
+   "Value": 306,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Executive/Corporate, Office Primarily, 35+ Employee",
+   "Name": "OLI_EMPTYPE_EXECBIGCO",
+   "Value": 307,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Executive/Corporate, Other Executive, Primarily Office",
+   "Name": "OLI_EMPTYPE_EXECOTH",
+   "Value": 308,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Exerciser",
+   "Name": "OLI_EMPTYPE_EXERCISER",
+   "Value": 875,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Expediters, Office And Store Systems Only",
+   "Name": "OLI_EMPTYPE_EXPEDITERSYS",
+   "Value": 309,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Expediters, Others",
+   "Name": "OLI_EMPTYPE_EXPEDITEROTH",
+   "Value": 310,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Explosive Manuf, Office Worker Over01/2 Mile From",
+   "Name": "OLI_EMPTYPE_EXPLOSIVEMFGOFFICE",
+   "Value": 311,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Explosives and Munitions",
+   "Name": "OLI_EMPTYPE_EXPLOSIVES",
+   "Value": 853,
+   "Definition": "Manufacture, assembling, loading, testing and delivering of explosives and other elements for the preparation of ammunition for firing.",
+   "Notes": ""
+ },
+ {
+   "Description": "Explosives Manufacture, Superintendent/Chemist",
+   "Name": "OLI_EMPTYPE_EXPLOSIVEMFGSUP",
+   "Value": 312,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Exterminators",
+   "Name": "OLI_EMPTYPE_EXTERMINATOR",
+   "Value": 313,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Factory Worker Non-Hazardous, Skilled Worker, Heavy",
+   "Name": "OLI_EMPTYPE_FACWKRSKILLEDHEAVY",
+   "Value": 315,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Factory Worker Non-Hazardous, Unskilled Worker, Light",
+   "Name": "OLI_EMPTYPE_FACWKRUNSKILLEDLIGHT",
+   "Value": 316,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Factory Worker Non-Hazardous Industry, Skilled Worker",
+   "Name": "OLI_EMPTYPE_FACWKRSKILLERNONHAZ",
+   "Value": 314,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Family Practitioners",
+   "Name": "OLI_EMPTYPE_FAMILYPRACTITIONER",
+   "Value": 317,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Farmer(General/Dairy/Fruit) Year Round, All Others",
+   "Name": "OLI_EMPTYPE_FARMEROTH",
+   "Value": 319,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Farmer(General/Dairy/Fruit)Year Round,Proprietor",
+   "Name": "OLI_EMPTYPE_FARMEROWNER",
+   "Value": 320,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Farmer (General Farm/Dairy/Fruit/Nursery/Garden)",
+   "Name": "OLI_EMPTYPE_FARMERMISC",
+   "Value": 318,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Felt Workers",
+   "Name": "OLI_EMPTYPE_FELTWORKER",
+   "Value": 321,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Film Manufacture, Foremen(Supervising Duties Only)",
+   "Name": "OLI_EMPTYPE_FILMMFGSUP",
+   "Value": 322,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Film Manufacture, Skilled Workers",
+   "Name": "OLI_EMPTYPE_FILMMFGSKILLED",
+   "Value": 323,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Financial Advisor",
+   "Name": "OLI_EMPTYPE_FINADVSR",
+   "Value": 900,
+   "Definition": "Person who assesses the financial needs of individuals and assists them with investments, tax laws and insurance decisions.",
+   "Notes": ""
+ },
+ {
+   "Description": "Firearm, Inspector/Repairer(Not Testing) Salesmen",
+   "Name": "OLI_EMPTYPE_FIREARMSALESMAN",
+   "Value": 325,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fire Department Chief/Marshal/Superintendent",
+   "Name": "OLI_EMPTYPE_FIREDEPTSUP",
+   "Value": 324,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fireman",
+   "Name": "OLI_EMPTYPE_FIREMAN",
+   "Value": 838,
+   "Definition": "A person whose work is to extinguish fires. A member of a Fire Department.",
+   "Notes": ""
+ },
+ {
+   "Description": "Fireman, Off-shore Oil or Gas wells",
+   "Name": "OLI_EMPTYPE_FIREMANOFFSHORE",
+   "Value": 855,
+   "Definition": "A fireman specializing in extinguishing fires on off-shore wells.",
+   "Notes": ""
+ },
+ {
+   "Description": "Fireman, Smoke Jumper",
+   "Name": "OLI_EMPTYPE_SMOKEJUMPER",
+   "Value": 854,
+   "Definition": "A fireman specializing in extinguishing forest fires.",
+   "Notes": ""
+ },
+ {
+   "Description": "Fishing Industry Hatcheries, Others",
+   "Name": "OLI_EMPTYPE_FISHHATCHOTH",
+   "Value": 326,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fishing Industry Hatcheries, Superintendents",
+   "Name": "OLI_EMPTYPE_FISHHATCHSUP",
+   "Value": 327,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Flight Attendant",
+   "Name": "OLI_EMPTYPE_FLGHTATT",
+   "Value": 901,
+   "Definition": "Member of the flight crew who ensures the safety and comfort of passengers on aircraft.",
+   "Notes": ""
+ },
+ {
+   "Description": "Flight Instructor",
+   "Name": "OLI_EMPTYPE_FLGHTINSTR",
+   "Value": 902,
+   "Definition": "Person who teaches others how to fly aircraft. Also evaluates the abilties and skill level of the student who is pursuing a pilot's license.",
+   "Notes": ""
+ },
+ {
+   "Description": "Floor Finishers And Sanders",
+   "Name": "OLI_EMPTYPE_FLOORFININSER",
+   "Value": 328,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Floorwalker (In Store)",
+   "Name": "OLI_EMPTYPE_FLOORWALKER",
+   "Value": 329,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Florists, Artificial Flower Makers",
+   "Name": "OLI_EMPTYPE_FLORISTARTMFG",
+   "Value": 330,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Florists, Greenhouse And Light Delivery",
+   "Name": "OLI_EMPTYPE_FLORISTGRNHSE",
+   "Value": 331,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Florists, Store Duties Only",
+   "Name": "OLI_EMPTYPE_FLORISTSTORE",
+   "Value": 332,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Foreign Correspondents or Journalists",
+   "Name": "OLI_EMPTYPE_FOREIGNJOURNALIST",
+   "Value": 857,
+   "Definition": "Journalist, news crew member or photographer whose assignments include foreign travel.",
+   "Notes": ""
+ },
+ {
+   "Description": "Freight Handler, Foremen/Superintendent (Supervising)",
+   "Name": "OLI_EMPTYPE_FREIGHTSUP",
+   "Value": 333,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Freight Handlers, All Others",
+   "Name": "OLI_EMPTYPE_FREIGHTOTH",
+   "Value": 334,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fumigators",
+   "Name": "OLI_EMPTYPE_FUMIGATOR",
+   "Value": 335,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Funeral Industry, Director, Proprietor",
+   "Name": "OLI_EMPTYPE_FUNERALDIRECTOR",
+   "Value": 336,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Funeral Industry, Embalmers",
+   "Name": "OLI_EMPTYPE_FUNERALEMBALMER",
+   "Value": 337,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Funeral Industry, Others",
+   "Name": "OLI_EMPTYPE_FUNERALOTH",
+   "Value": 338,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Funeral Industry, Undertakers, Assistants And Embalmers",
+   "Name": "OLI_EMPTYPE_UNDERTAKERASSIST",
+   "Value": 773,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fur Industry, Fur-Bearing Animal Raisers",
+   "Name": "OLI_EMPTYPE_FURRAISER",
+   "Value": 347,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fur Industry Manufacture Of Fur Goods, Foremen",
+   "Name": "OLI_EMPTYPE_FURMFGFOR",
+   "Value": 339,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fur Industry Manufacture Of Fur Goods, Others",
+   "Name": "OLI_EMPTYPE_FURMFGOTH",
+   "Value": 340,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fur Industry Manufacture Of Fur Goods, Skilled Worker",
+   "Name": "OLI_EMPTYPE_FURMFGSKILLED",
+   "Value": 341,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fur Industry Preparation Of Skins, Foremen",
+   "Name": "OLI_EMPTYPE_FURPREPFOR",
+   "Value": 342,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fur Industry Preparation Of Skins, Others",
+   "Name": "OLI_EMPTYPE_FURPREPOTH",
+   "Value": 343,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fur Industry Retail/Wholesale Dealer, Store Sales",
+   "Name": "OLI_EMPTYPE_FURSALESSTORE",
+   "Value": 344,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fur Industry Retail/Wholesale Dealer/Repairing/Alter",
+   "Name": "OLI_EMPTYPE_FURSALESREPAIR",
+   "Value": 345,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Fur Industry Retail/Wholesale Dealer/Sales (Travel)",
+   "Name": "OLI_EMPTYPE_FURSALESTRAVEL",
+   "Value": 346,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Furniture/Woodworking Factories, All Others",
+   "Name": "OLI_EMPTYPE_FURNITUREFACTOTH",
+   "Value": 349,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Furniture/Woodworking Factories, Office Duties Only",
+   "Name": "OLI_EMPTYPE_FURNITUREFACTOFFICE",
+   "Value": 350,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Furniture/Woodworking Factories, Upholsterers",
+   "Name": "OLI_EMPTYPE_FURNITUREFACTUPHOL",
+   "Value": 351,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Furniture/Woodworking Factory, Foremen/Superintendent",
+   "Name": "OLI_EMPTYPE_FURNITUREFOR",
+   "Value": 352,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Furniture Mover (Including Machinery/Safe Movers)",
+   "Name": "OLI_EMPTYPE_FURNITUREMOVER",
+   "Value": 348,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Galvanizers And Tinners (Not Roofers)",
+   "Name": "OLI_EMPTYPE_GALVANIZER",
+   "Value": 353,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gambling Industry (Legal), Card Dealer/Croupier/Dice",
+   "Name": "OLI_EMPTYPE_GAMBLINGDEALER",
+   "Value": 354,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gambling Industry (Where Legalized/Operated In Law)",
+   "Name": "OLI_EMPTYPE_GAMBLING",
+   "Value": 355,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Garbage/Ash Collection/Scavenging, Foremen (Supervision)",
+   "Name": "OLI_EMPTYPE_GARBAGESUP",
+   "Value": 358,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Garbage Disposal Plant/Incinerator, Chemists (Supervision)",
+   "Name": "OLI_EMPTYPE_GARBAGECHEMIST",
+   "Value": 356,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Garbage Disposal Plant/Incinerator, Skilled Workers",
+   "Name": "OLI_EMPTYPE_GARBAGESKILLED",
+   "Value": 357,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gardener/Landscaper (Year Round,Regularly Employed)",
+   "Name": "OLI_EMPTYPE_GARDNER",
+   "Value": 359,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gas Manufacture Acetylene/Coal, Chemist (No Lab Duties)",
+   "Name": "OLI_EMPTYPE_GASMFGFLAMCHEMIST",
+   "Value": 361,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gas Manufacture Acetylene/Coal Foremen (Supervising)",
+   "Name": "OLI_EMPTYPE_GASMFGFLAMSUP",
+   "Value": 360,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gas Manufacture Coke Oven/Artificial Gas--Chemists",
+   "Name": "OLI_EMPTYPE_GASMFGCOKECHEMIST",
+   "Value": 362,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gas Manufacture Coke Oven/Artificials--Burner/Charge",
+   "Name": "OLI_EMPTYPE_GASMFGCOKENURNER",
+   "Value": 363,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gas Manufacture Compressed/Liquified,Chemist(No Lab)",
+   "Name": "OLI_EMPTYPE_GASMFGCOMPCHEMIST",
+   "Value": 365,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gas Manufacture Compressed/Liquified, Foremen/Cellme",
+   "Name": "OLI_EMPTYPE_GASMFGCOMPFOR",
+   "Value": 364,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gas Manufacture Compressed/Liquified--Rackmen/Trucker",
+   "Name": "OLI_EMPTYPE_GASMFGCOMPTRUCKER",
+   "Value": 366,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gastroenterologists",
+   "Name": "OLI_EMPTYPE_GASTROENTEROLOGIST",
+   "Value": 367,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "General Dentistry, Dentists",
+   "Name": "OLI_EMPTYPE_DENTIST",
+   "Value": 368,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "General Practitioners",
+   "Name": "OLI_EMPTYPE_GENPRACT",
+   "Value": 369,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "General Surgeons",
+   "Name": "OLI_EMPTYPE_GENSURGEON",
+   "Value": 370,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Generic hazardous occupation",
+   "Name": "OLI_EMPTYPE_HAZARDOUS",
+   "Value": 915,
+   "Definition": "Hazardous occupation as defined by the insurer, specific type unknown.",
+   "Notes": ""
+ },
+ {
+   "Description": "Geologist, Working In Us/Canada Only, Field Work",
+   "Name": "OLI_EMPTYPE_GEOLOGISTFIELD",
+   "Value": 371,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Geologist, Working In Us/Canada Only, Office/Consult",
+   "Name": "OLI_EMPTYPE_GEOLOGISTFOR",
+   "Value": 372,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Geriatrician",
+   "Name": "OLI_EMPTYPE_GERIATRIC",
+   "Value": 903,
+   "Definition": "Physician who focuses on health care for the elderly.",
+   "Notes": ""
+ },
+ {
+   "Description": "Glass Industry, Foremen",
+   "Name": "OLI_EMPTYPE_GLASSFOR",
+   "Value": 373,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Glass Industry, Other Skilled Workers",
+   "Name": "OLI_EMPTYPE_GLASSSKILLED",
+   "Value": 374,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Glass Industry, Superintendents (Supervising Only)",
+   "Name": "OLI_EMPTYPE_GLASSSUP",
+   "Value": 375,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Glaziers",
+   "Name": "OLI_EMPTYPE_GLAZIER",
+   "Value": 376,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Goldsmiths, Beaters And Refiners",
+   "Name": "OLI_EMPTYPE_GOLDSMITH",
+   "Value": 377,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Golf--(Year Round), Caddie Master/Starter/Caretaker",
+   "Name": "OLI_EMPTYPE_GOLFCARETAKER",
+   "Value": 380,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Golf--(Year Round), Proprietor/Managers,Driving Range",
+   "Name": "OLI_EMPTYPE_GOLFRANGE",
+   "Value": 381,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Golf--(Year Round) Instructor/Professional (Resident)",
+   "Name": "OLI_EMPTYPE_GOLFPRO",
+   "Value": 379,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Golf (Year Round Industry Only), Proprietor/Managers",
+   "Name": "OLI_EMPTYPE_GOLFMGR",
+   "Value": 378,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Government Service-State/Municipal",
+   "Name": "OLI_EMPTYPE_GOVERNMENT",
+   "Value": 382,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Grain Mill/Elevator, Foremen, Skilled Workers",
+   "Name": "OLI_EMPTYPE_GRAINSKILLED",
+   "Value": 383,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Grain Mill/Grain Elevator, Superintendent/Inspector",
+   "Name": "OLI_EMPTYPE_GRAINSUP",
+   "Value": 384,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Grain Mills, Grain Elevators, All Other Employees",
+   "Name": "OLI_EMPTYPE_GRAINOTH",
+   "Value": 385,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Graphic Designers",
+   "Name": "OLI_EMPTYPE_GRAPHICDESIGN",
+   "Value": 386,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Grave Diggers",
+   "Name": "OLI_EMPTYPE_GRAVEDIGGER",
+   "Value": 387,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Grinder/Buffer/Polisher Metal, Superintendent/Foremen",
+   "Name": "OLI_EMPTYPE_METALGRINDERSUP",
+   "Value": 388,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Grinders, Buffers, And Polishers Metal, All Others",
+   "Name": "OLI_EMPTYPE_GRINDEROTH",
+   "Value": 389,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Guides, Other Sightseeing--Employed All Year",
+   "Name": "OLI_EMPTYPE_GUIDE",
+   "Value": 390,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gunsmiths",
+   "Name": "OLI_EMPTYPE_GUNSMITH",
+   "Value": 391,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Gynecologists",
+   "Name": "OLI_EMPTYPE_GYNECOLOGIST",
+   "Value": 392,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hair Good Manufacture, Bleacher/Curler/Dyer/Spinner",
+   "Name": "OLI_EMPTYPE_HAIRMFGCHEM",
+   "Value": 393,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hair Goods Manufacture, All Others",
+   "Name": "OLI_EMPTYPE_HAIRMFGOTH",
+   "Value": 394,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hair Goods Manufacture, Foremen (Supervising Only)",
+   "Name": "OLI_EMPTYPE_HAIRMFGSUP",
+   "Value": 395,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hairstylist",
+   "Name": "OLI_EMPTYPE_HAIRSTYL",
+   "Value": 904,
+   "Definition": "Specializes in the styling of hair, including cutting and chemical services such as relaxers, texturizers, perms, and color, as well as restorative treatments.",
+   "Notes": ""
+ },
+ {
+   "Description": "Hand Surgeons",
+   "Name": "OLI_EMPTYPE_HANDSURGEON",
+   "Value": 396,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Harbor Masters",
+   "Name": "OLI_EMPTYPE_HARBORMASTER",
+   "Value": 397,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hat Manufacturing, All Others",
+   "Name": "OLI_EMPTYPE_HATMFGOTH",
+   "Value": 398,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hat Manufacturing, Millinery Dealers",
+   "Name": "OLI_EMPTYPE_HATMFRDEALER",
+   "Value": 399,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hat Manufacturing, Superintending Duties Only",
+   "Name": "OLI_EMPTYPE_HETMFGSUP",
+   "Value": 400,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Health Officials, Field Duties(No Hazardous Activity",
+   "Name": "OLI_EMPTYPE_HEALTHOFFHAZ",
+   "Value": 401,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Heating Apparatus (Coal/Oil/Gas/Electric), Dealer",
+   "Name": "OLI_EMPTYPE_HEATINGDEALER",
+   "Value": 402,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Heating Apparatus (Coal/Oil/Gas/Electric), Installer",
+   "Name": "OLI_EMPTYPE_HEATINGINSTALLER",
+   "Value": 403,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hematologists",
+   "Name": "OLI_EMPTYPE_HEMATOLOGIST",
+   "Value": 404,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Home Inspector",
+   "Name": "OLI_EMPTYPE_HOMEINSP",
+   "Value": 905,
+   "Definition": "Person who determines the condition of a structure.",
+   "Notes": ""
+ },
+ {
+   "Description": "Homemaker",
+   "Name": "OLI_EMPTYPE_HOMEMAKER",
+   "Value": 866,
+   "Definition": "One who manages a household, as one's main daily activity",
+   "Notes": ""
+ },
+ {
+   "Description": "Hospital/Asylum/Sanitarium,All Non-Professional/Unskilled",
+   "Name": "OLI_EMPTYPE_HOSPITALNONPRO",
+   "Value": 407,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hospital/Asylum/Sanitarium, EMT/Ambulance Driver/Na",
+   "Name": "OLI_EMPTYPE_HOSPITALAMBULANCEDRV",
+   "Value": 405,
+   "Definition": "One who is employed by Hospital/Asylum/Sanitarium as an EMT/Ambulance Driver",
+   "Notes": ""
+ },
+ {
+   "Description": "Hospital/Asylum/Sanitarium, Manager, Superintendent",
+   "Name": "OLI_EMPTYPE_HOSPITALSUP",
+   "Value": 406,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hospitals, Asylums, And Sanitariums, Administrators",
+   "Name": "OLI_EMPTYPE_HOSPITALADMIN",
+   "Value": 408,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hotel/Motel/Inn, Proprietor, Manager, Cashier, Clerk",
+   "Name": "OLI_EMPTYPE_HOTELMGR",
+   "Value": 409,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hotels, Motels, Inns, All Others",
+   "Name": "OLI_EMPTYPE_HOTELOTH",
+   "Value": 410,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Household Appliances, Dealers And Salesmen",
+   "Name": "OLI_EMPTYPE_HOUSEHOLDDEALER",
+   "Value": 411,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Household Appliances, Installers And Repairmen",
+   "Name": "OLI_EMPTYPE_HOUSEHOLDDREPAIR",
+   "Value": 412,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Humane Society Agents",
+   "Name": "OLI_EMPTYPE_HUMANESOCIETYAGENT",
+   "Value": 413,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hydraulic Press Operators",
+   "Name": "OLI_EMPTYPE_HYDRAULICPRESSOPR",
+   "Value": 414,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Hypnotherapists",
+   "Name": "OLI_EMPTYPE_HYPNOTHERAPIST",
+   "Value": 415,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ice Industry (Year-Round), All Other Employees",
+   "Name": "OLI_EMPTYPE_ICEOTH",
+   "Value": 416,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ice Industry (Year-Round), Foremen/Stationary Engineer",
+   "Name": "OLI_EMPTYPE_ICEFOR",
+   "Value": 417,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ice Industry(Year-Round)Manager/Proprietors/Superintendent",
+   "Name": "OLI_EMPTYPE_ICEMGR",
+   "Value": 418,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Import/Export",
+   "Name": "OLI_EMPTYPE_IMPORT",
+   "Value": 419,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Industrial Rehab Executive",
+   "Name": "OLI_EMPTYPE_INDUSTREHABEXEC",
+   "Value": 420,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Infectious Disease Specialists",
+   "Name": "OLI_EMPTYPE_INFECTDISEASESPEC",
+   "Value": 421,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Insecticide Manuf(Disinfectant/Fumigants), All Other",
+   "Name": "OLI_EMPTYPE_INSECTOTH",
+   "Value": 422,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Insecticide Manufacture (Disinfectant/Fumigants)",
+   "Name": "OLI_EMPTYPE_INSECTMFG",
+   "Value": 423,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Insecticide Mfg (Disinfectant/Fumigants) Lab Chemist",
+   "Name": "OLI_EMPTYPE_9NSECTCHEMIST",
+   "Value": 424,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Insurance Industry--",
+   "Name": "OLI_EMPTYPE_INSURANCE",
+   "Value": 425,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Insurance Industry-Adjuster, Agent, Broker, Solicitor",
+   "Name": "OLI_EMPTYPE_INSURANCEAGENT",
+   "Value": 426,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Internists",
+   "Name": "OLI_EMPTYPE_INTERNIST",
+   "Value": 427,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Interpreters-Full Time Only",
+   "Name": "OLI_EMPTYPE_INTREPRETER",
+   "Value": 428,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Investment Banker",
+   "Name": "OLI_EMPTYPE_INVESTBANKER",
+   "Value": 429,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Iron Worker",
+   "Name": "OLI_EMPTYPE_IRONWKR",
+   "Value": 876,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Irrigation Worker, Superintendent/Water Masters",
+   "Name": "OLI_EMPTYPE_IMMIGRATION",
+   "Value": 430,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Janitors--Regular/Full Time, Building Superintendent",
+   "Name": "OLI_EMPTYPE_JANITORSUP",
+   "Value": 432,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Janitors--Regular/Full Time Janitor/Porters,No Outside",
+   "Name": "OLI_EMPTYPE_JANITOR",
+   "Value": 431,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Jewelry Industry--Not At Residence, Others",
+   "Name": "OLI_EMPTYPE_JEWELRYOTH",
+   "Value": 433,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Jewelry Industry--Not At Residence, Proprietor, Mgr",
+   "Name": "OLI_EMPTYPE_JEWELRYMGR",
+   "Value": 434,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Jewelry Industry--Not Residence, Maker/Repairer Hand",
+   "Name": "OLI_EMPTYPE_JEWELRYMAKER",
+   "Value": 435,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Jockey",
+   "Name": "OLI_EMPTYPE_JOCKEY",
+   "Value": 877,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Judge/Courthouse Official, Not In Charge Of Prisoner",
+   "Name": "OLI_EMPTYPE_JUDGE",
+   "Value": 436,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Junk Dealer, Proprietor/Superintending Duties Only",
+   "Name": "OLI_EMPTYPE_JUNKDEALER",
+   "Value": 437,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Justices Of The Peace",
+   "Name": "OLI_EMPTYPE_JUSTICEOFPEACE",
+   "Value": 438,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kennels, Groomers",
+   "Name": "OLI_EMPTYPE_KENNELGROOMER",
+   "Value": 439,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kennels, Managers Or Operators (Supervising Only)",
+   "Name": "OLI_EMPTYPE_KENNELMGR",
+   "Value": 440,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kennels, Proprietors, Breeders, Trainers",
+   "Name": "OLI_EMPTYPE_KENNELOWNER",
+   "Value": 242,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kennels, Veterinarians, Household Pets",
+   "Name": "OLI_EMPTYPE_KENNELVETPET",
+   "Value": 441,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Kennels, Veterinarians, Large Animals",
+   "Name": "OLI_EMPTYPE_KENNELVETLARGE",
+   "Value": 442,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Keno Writers",
+   "Name": "OLI_EMPTYPE_KENOWRITER",
+   "Value": 443,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Laborers",
+   "Name": "OLI_EMPTYPE_LABORER",
+   "Value": 446,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Labor Union, Union Official, Office Duties Only",
+   "Name": "OLI_EMPTYPE_LABORUNIONOFF",
+   "Value": 445,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lab Tech, Other Rn, Hospital, Asylum, & Sanitarium",
+   "Name": "OLI_EMPTYPE_LABTECHOTH",
+   "Value": 444,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Landscape Architects, With Architecture Degree",
+   "Name": "OLI_EMPTYPE_LANDSCAPEARCHITECT",
+   "Value": 447,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Laundries, Supervisory Duties Only",
+   "Name": "OLI_EMPTYPE_LAUNDRYSUP",
+   "Value": 448,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lawyers",
+   "Name": "OLI_EMPTYPE_LAWTER",
+   "Value": 449,
+   "Definition": "One whose profession is to conduct lawsuits for clients or to advise as to legal rights and obligations in other matters (Passed the bar)",
+   "Notes": ""
+ },
+ {
+   "Description": "Lens Grinders, Polishers, Or Cutters",
+   "Name": "OLI_EMPTYPE_LENGRINDER",
+   "Value": 450,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Librarian",
+   "Name": "OLI_EMPTYPE_LIBRARIAN",
+   "Value": 451,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lighthouse Keepers, Land Duties Only",
+   "Name": "OLI_EMPTYPE_LIGHTHOUSEKEEPER",
+   "Value": 452,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lineman",
+   "Name": "OLI_EMPTYPE_LINEMAN",
+   "Value": 878,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Linoleum/Oilcloth Manufacture, Stone Dresser/Laborer",
+   "Name": "OLI_EMPTYPE_LINOLEUMLABOR",
+   "Value": 454,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Linoleum/Oilcloth Manufacture, Supervisory Only",
+   "Name": "OLI_EMPTYPE_LINOLEUMSUP",
+   "Value": 455,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Linoleum Installers",
+   "Name": "OLI_EMPTYPE_LINOLEUMINSTALLER",
+   "Value": 453,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Linotypers",
+   "Name": "OLI_EMPTYPE_LINOTYPER",
+   "Value": 456,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Liquor Industry Brewery/Distillery/Wineries, Supervision",
+   "Name": "OLI_EMPTYPE_LIQUORMFGSUP",
+   "Value": 457,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Liquor Industry Brewery/Distillery/Winery, All Other",
+   "Name": "OLI_EMPTYPE_LIQUORMFGOTH",
+   "Value": 458,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Liquor Industry Brewery/Distillery/Winery, Foremen",
+   "Name": "OLI_EMPTYPE_LIQUORDISTSTORE",
+   "Value": 459,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Liquor Industry Distribution/Sales, Others Light Del",
+   "Name": "OLI_EMPTYPE_LIQUORDISTOTH",
+   "Value": 461,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Liquor Industry Distribution/Sales, Solicitor/Collector",
+   "Name": "OLI_EMPTYPE_LIQUORSALES",
+   "Value": 462,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Liquor Industry Distribution/Sale Warehouse/Store",
+   "Name": "OLI_EMPTYPE_LIQUORDISTDEL",
+   "Value": 460,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Liquor Industry Sales/Package Store, No Liquor Consumed",
+   "Name": "OLI_EMPTYPE_LIQUORPACKSTORE",
+   "Value": 463,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Literary Agents",
+   "Name": "OLI_EMPTYPE_LITERARYAGENT",
+   "Value": 464,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lithographers, All Others",
+   "Name": "OLI_EMPTYPE_LITHOGRAPHEROTH",
+   "Value": 465,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lithographers, Office Duties Only And Artists",
+   "Name": "OLI_EMPTYPE_LITHOGRAPHEROFFICE",
+   "Value": 466,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Loan Officer",
+   "Name": "OLI_EMPTYPE_LOANOFF",
+   "Value": 906,
+   "Definition": "Person who gathers information from a person or business to determine the likelihood they will repay the loan. They can also assist the person or business with determining the most appropriate type of loan for them.",
+   "Notes": ""
+ },
+ {
+   "Description": "Lobbyists",
+   "Name": "OLI_EMPTYPE_LOBBYIST",
+   "Value": 467,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Locksmiths",
+   "Name": "OLI_EMPTYPE_LOCKSMITH",
+   "Value": 468,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lumber Industry Logging/Proprietor/Manager/Clerk",
+   "Name": "OLI_EMPTYPE_LUMBERCLERK",
+   "Value": 469,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lumber Industry Wood Processing Factories, Foremen",
+   "Name": "OLI_EMPTYPE_LUMBERFOR",
+   "Value": 470,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lumber Industry Yard, Foremen/Grader/Inspector/Sales",
+   "Name": "OLI_EMPTYPE_LUMBERSALES",
+   "Value": 471,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Lumberman",
+   "Name": "OLI_EMPTYPE_LUMBERMAN",
+   "Value": 864,
+   "Definition": "Boom men, high climbers, raftsmen, riggers, rivermen, topmen",
+   "Notes": ""
+ },
+ {
+   "Description": "Machine Shop Workers, Millwrights",
+   "Name": "OLI_EMPTYPE_MACHINESHOP",
+   "Value": 472,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Manicurists (In Shops)",
+   "Name": "OLI_EMPTYPE_MANICURIST",
+   "Value": 473,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Marine Industry, Harbor Masters",
+   "Name": "OLI_EMPTYPE_HARBORMAST2",
+   "Value": 474,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Masons And Bricklayers (No Unusual Hazard)",
+   "Name": "OLI_EMPTYPE_MASON",
+   "Value": 475,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Match Factories, Foremen",
+   "Name": "OLI_EMPTYPE_MATCHMFGFOR",
+   "Value": 476,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Match Factories, Supervisory Duties Only",
+   "Name": "OLI_EMPTYPE_MATCHMFGSUP",
+   "Value": 477,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mattress/Pillow Factories, Supervisory Duties Only",
+   "Name": "OLI_EMPTYPE_MATRESSSUP",
+   "Value": 480,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mattress And Pillow Factories, All Others",
+   "Name": "OLI_EMPTYPE_MATTRESSOTH",
+   "Value": 478,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mattress And Pillow Factories, Foremen",
+   "Name": "OLI_EMPTYPE_MATTERSSFOR",
+   "Value": 479,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Messenger--Armed Or Using Motorcycle",
+   "Name": "OLI_EMPTYPE_MESSENGER",
+   "Value": 481,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Messengers--Banks, Unarmed",
+   "Name": "OLI_EMPTYPE_MESSENGERBANK",
+   "Value": 482,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Metal Industry",
+   "Name": "OLI_EMPTYPE_METALS",
+   "Value": 858,
+   "Definition": "Workers in heavy (iron and steel) and light (magnesium and aluminum) metal industries.",
+   "Notes": ""
+ },
+ {
+   "Description": "Metal Industry/Trade--Not Other Classified, Foremen",
+   "Name": "OLI_EMPTYPE_METALTRADEFOR",
+   "Value": 484,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Metal Industry/Trade-Not Otherwise Classified, Office",
+   "Name": "OLI_EMPTYPE_METALTRADEOFFICE",
+   "Value": 485,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Metal Industry/Trades--Not Otherwise Classified, Engineer",
+   "Name": "OLI_EMPTYPE_METALTRADEENGR",
+   "Value": 486,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Metal Industry/Trades--Not Otherwise Classified, Skilled",
+   "Name": "OLI_EMPTYPE_METALTRADEOTH",
+   "Value": 483,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Metallurgists--Office Duties Only",
+   "Name": "OLI_EMPTYPE_METALURGIST",
+   "Value": 487,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Meteorologists",
+   "Name": "OLI_EMPTYPE_METEOROLOGIST",
+   "Value": 488,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Meter Readers",
+   "Name": "OLI_EMPTYPE_METERREADER",
+   "Value": 489,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mica Mills, Skilled Workers",
+   "Name": "OLI_EMPTYPE_MICAMILLSKILLED",
+   "Value": 490,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mica Mills, Supervisory Duties",
+   "Name": "OLI_EMPTYPE_MICAMILLSUP",
+   "Value": 491,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Midwives--Individ Consideration, Consult Home Office",
+   "Name": "OLI_EMPTYPE_MIDWIFE",
+   "Value": 492,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Military",
+   "Name": "OLI_EMPTYPE_MILITARY",
+   "Value": 859,
+   "Definition": "Those individuals on active duty in the military",
+   "Notes": ""
+ },
+ {
+   "Description": "Millwrights",
+   "Name": "OLI_EMPTYPE_MILLWRIGHT",
+   "Value": 493,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mining/Quarry/Dressing/Concentrating Surface Operator",
+   "Name": "OLI_EMPTYPE_MININGMISC",
+   "Value": 495,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mining/Quarrying/Ore/Concentrating Surface Operators",
+   "Name": "OLI_EMPTYPE_MININGOTH",
+   "Value": 498,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mining/Quarrying/Ore-Surface Operator, Other Skilled",
+   "Name": "OLI_EMPTYPE_MININGSUP",
+   "Value": 497,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mining/Quarrying Surface Operator, Office Duty Only",
+   "Name": "OLI_EMPTYPE_MININGOFFICE",
+   "Value": 496,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Minister",
+   "Name": "OLI_EMPTYPE_MINISTER",
+   "Value": 494,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Missile Worker",
+   "Name": "OLI_EMPTYPE_MISSILEWKR",
+   "Value": 879,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Model",
+   "Name": "OLI_EMPTYPE_MODEL",
+   "Value": 880,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Monument Industry, Carvers, Engravers, Setters",
+   "Name": "OLI_EMPTYPE_MONUMENTSKILLED",
+   "Value": 499,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Motion Picture/Theater, Management Personnel, Office",
+   "Name": "OLI_EMPTYPE_MOVIEOFFICE",
+   "Value": 501,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Motion Picture/Theater, Projectionist In Theater,Bo",
+   "Name": "OLI_EMPTYPE_MOVIETHEATER",
+   "Value": 502,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Motion Picture/Theater, Theater Manager/Proprietors",
+   "Name": "OLI_EMPTYPE_MOVIEMGR",
+   "Value": 503,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Motion Picture/Theater Industry, Director/Producers",
+   "Name": "OLI_EMPTYPE_MOVIEDIRECTOR",
+   "Value": 500,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Motorcycle Racer",
+   "Name": "OLI_EMPTYPE_MOTORACER",
+   "Value": 881,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Movers",
+   "Name": "OLI_EMPTYPE_MOVER",
+   "Value": 504,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Musician (Sole Occupation),Concert/Theater/ Symphony",
+   "Name": "OLI_EMPTYPE_MUSICIAN",
+   "Value": 505,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Neonatologists",
+   "Name": "OLI_EMPTYPE_NEONASTOLOGIST",
+   "Value": 506,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nephrologists",
+   "Name": "OLI_EMPTYPE_NEPHROLOGIST",
+   "Value": 507,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Neurologists",
+   "Name": "OLI_EMPTYPE_NEUROLOGIST",
+   "Value": 509,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Neuro Surgeons",
+   "Name": "OLI_EMPTYPE_NEUROSURGEON",
+   "Value": 508,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "News/Magazine Dealer, Newsstand Inside Duties",
+   "Name": "OLI_EMPTYPE_NEWSDEALER",
+   "Value": 511,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "News And Magazine Dealers, Light Delivery",
+   "Name": "OLI_EMPTYPE_NEWSDEALERDEL",
+   "Value": 510,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Newspapers, Delivery",
+   "Name": "OLI_EMPTYPE_NEWSDELIVERY",
+   "Value": 512,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Newspapers, Editors, Office Clerks",
+   "Name": "OLI_EMPTYPE_NEWSOFFICE",
+   "Value": 513,
+   "Definition": "May also be classified as --> 263 OLI_EMPTYPE_EDITOR",
+   "Notes": ""
+ },
+ {
+   "Description": "Newspapers, Helpers",
+   "Name": "OLI_EMPTYPE_NEWSHELPER",
+   "Value": 514,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Newspapers, Reporters, Photographers (No Flying)",
+   "Name": "OLI_EMPTYPE_NEWSREPORTER",
+   "Value": 515,
+   "Definition": "May also be classified as --> 649 OLI_EMPTYPE_REPORTERNEWS",
+   "Notes": ""
+ },
+ {
+   "Description": "Nuclear energy industry",
+   "Name": "OLI_EMPTYPE_NUCLEAR",
+   "Value": 860,
+   "Definition": "Workers in nuclear reactors, power generating plants, isotope production, research and testing facilities and waste conversion.",
+   "Notes": ""
+ },
+ {
+   "Description": "Nuclear Medicine",
+   "Name": "OLI_EMPTYPE_NECLESEARMEDICINE",
+   "Value": 516,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Nurse Anesthetist (CRNA)",
+   "Name": "OLI_EMPTYPE_NURANES",
+   "Value": 907,
+   "Definition": "A Registered Nurse who has acquired graduate level education and who specializes in the administration of anaesthesia.",
+   "Notes": ""
+ },
+ {
+   "Description": "Nurse Practioner (RNP)",
+   "Name": "OLI_EMPTYPE_NURPRAC",
+   "Value": 908,
+   "Definition": "A registered nurse who has completed specific advanced nursing education (generally a masters degree or doctoral degree) and training in the diagnosis and management of common as well as a few complex medical conditions.",
+   "Notes": ""
+ },
+ {
+   "Description": "Ob-Gyn",
+   "Name": "OLI_EMPTYPE_OBGYN",
+   "Value": 517,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Obstetricians",
+   "Name": "OLI_EMPTYPE_OBSTETRICIAN",
+   "Value": 518,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Occupational Therapists",
+   "Name": "OLI_EMPTYPE_OCCUPATIONALTHERAPIST",
+   "Value": 519,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Office Clerk(Typist,Stenographer,General Office Help",
+   "Name": "OLI_EMPTYPE_OFFICECLERK",
+   "Value": 520,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Office Machine Operators (Office Duties Only)",
+   "Name": "OLI_EMPTYPE_OFFICEMACHINEOPERATOR",
+   "Value": 521,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oil/Natural Gas Industry Fire Protection Dept/Inspector",
+   "Name": "OLI_EMPTYPE_OILINSPECTOR",
+   "Value": 525,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oil/Natural Gas Industry General, Boss/Chemist Process",
+   "Name": "OLI_EMPTYPE_OILMGR",
+   "Value": 526,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oil/Natural Gas Industry General, Other Skilled Work",
+   "Name": "OLI_EMPTYPE_OILOFFICE",
+   "Value": 527,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oil/Natural Gas Industry General/Chemist In Lab",
+   "Name": "OLI_EMPTYPE_OILLABTECH",
+   "Value": 528,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oil(Vegetable)Mill/Refinery, Unskilled Workers",
+   "Name": "OLI_EMPTYPE_OILUNSKILLED",
+   "Value": 524,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oil (Vegetable) Mill/Refinery All Processes, Skilled",
+   "Name": "OLI_EMPTYPE_OILSKILLED",
+   "Value": 522,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oil (Vegetable) Mill/Refinery Superintendent/Chemist",
+   "Name": "OLI_EMPTYPE_OILCHEMIST",
+   "Value": 523,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oil and natural gas industry",
+   "Name": "OLI_EMPTYPE_OILGAS",
+   "Value": 861,
+   "Definition": "Workers involved in the exploration, drilling and production of oil and natural gas, at both on and off-shore locations.",
+   "Notes": ""
+ },
+ {
+   "Description": "Oilers, Non-Hazardous Industries",
+   "Name": "OLI_EMPTYPE_OILER",
+   "Value": 529,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oncologists",
+   "Name": "OLI_EMPTYPE_ONCOLOGIST",
+   "Value": 530,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ophthalmic Surgeons",
+   "Name": "OLI_EMPTYPE_OPPTHAALMICSURGEON",
+   "Value": 531,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ophthalmologists",
+   "Name": "OLI_EMPTYPE_OPPTHAALMOLOGIST",
+   "Value": 532,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Optician, Oculist, Selling And Fining Duties Only",
+   "Name": "OLI_EMPTYPE_OPTICIANSALES",
+   "Value": 533,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Opticians, Oculists",
+   "Name": "OLI_EMPTYPE_OPTICIAN",
+   "Value": 534,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Optometrists (No Selling Duties)",
+   "Name": "OLI_EMPTYPE_OPTOMETRIST",
+   "Value": 535,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Oral Surgeons",
+   "Name": "OLI_EMPTYPE_ORALSURGEON",
+   "Value": 536,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Orthodontists",
+   "Name": "OLI_EMPTYPE_ORTHODONTIST",
+   "Value": 537,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Orthopedic Surgeons",
+   "Name": "OLI_EMPTYPE_ORTHOPEDICSURGEON",
+   "Value": 538,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Orthopedists",
+   "Name": "OLI_EMPTYPE_ORTHOPEDIST",
+   "Value": 539,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Orthotists, Prosthetists; Sales, Fitters",
+   "Name": "OLI_EMPTYPE_ORTHOTIST",
+   "Value": 540,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Osteopaths",
+   "Name": "OLI_EMPTYPE_OSTEOPATH",
+   "Value": 541,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Otolaryngolic Surgeons",
+   "Name": "OLI_EMPTYPE_ORTOARYYNGOLIC",
+   "Value": 542,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Otolaryngologists",
+   "Name": "OLI_EMPTYPE_ORTOARYYNGOLOGIST",
+   "Value": 543,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paint/Varnish/Lacquer Manufacture, Foremen, Skilled Worker",
+   "Name": "OLI_EMPTYPE_PAINTSKILLED",
+   "Value": 544,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paint/Varnish/Lacquer Manufacture, Unskilled Workers",
+   "Name": "OLI_EMPTYPE_PAINTUNSKILLED",
+   "Value": 545,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paint/Varnish/Manufacture, Supervisory Duties Only",
+   "Name": "OLI_EMPTYPE_PAINTSUP",
+   "Value": 546,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Painter/Lacquerer/Varnisher, Bridge & Railroad",
+   "Name": "OLI_EMPTYPE_PAINTBRIDGE",
+   "Value": 551,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Painter/Lacquerer/Varnisher, Highway-Direct Line/Si",
+   "Name": "OLI_EMPTYPE_PAINTHWY",
+   "Value": 552,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Painter/Lacquerer/Varnisher, House Painters",
+   "Name": "OLI_EMPTYPE_PAINTHOUSE",
+   "Value": 553,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Painter/Lacquerer/Varnisher, Ship Painter (Hull/Interest)",
+   "Name": "OLI_EMPTYPE_PAINTSHIP",
+   "Value": 554,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Painter/Lacquerer/Varnisher Shop Painter, Manufacturer",
+   "Name": "OLI_EMPTYPE_PAINTMFG",
+   "Value": 547,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Painter/Lacquerer/Varnisher Sign Painter, Outside",
+   "Name": "OLI_EMPTYPE_PAINTSIGNOUTSIDE",
+   "Value": 548,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Painter/Lacquerer/Varnisher Sign Painter, Shop Only",
+   "Name": "OLI_EMPTYPE_PAINTSIGNINSIDE",
+   "Value": 549,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Painter/Lacquerer/Varnisher Sign Painter, Structural",
+   "Name": "OLI_EMPTYPE_PAINTSIGNSTRUCTURAL",
+   "Value": 550,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paper/Pulp Industries, Superintendents And Foremen",
+   "Name": "OLI_EMPTYPE_PAPERPULPSUP",
+   "Value": 556,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paper Hangers",
+   "Name": "OLI_EMPTYPE_PAPERHANGER",
+   "Value": 555,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paralegal",
+   "Name": "OLI_EMPTYPE_PARALEGAL",
+   "Value": 557,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Park Ranger",
+   "Name": "OLI_EMPTYPE_PARKRANG",
+   "Value": 909,
+   "Definition": "Person at the national, state or provincial level who is entrusted with protecting and preserving parklands.",
+   "Notes": ""
+ },
+ {
+   "Description": "Parks (City/State/National), Superintendent-Supervisor",
+   "Name": "OLI_EMPTYPE_PARKSUP",
+   "Value": 560,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Parks (City/State/National) Administration Employees",
+   "Name": "OLI_EMPTYPE_PARKADMIN",
+   "Value": 558,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Parks (City/State/National) Maintenance & Operating",
+   "Name": "OLI_EMPTYPE_PARKMAINT",
+   "Value": 559,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pastor",
+   "Name": "OLI_EMPTYPE_PASTOR",
+   "Value": 561,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pathologists",
+   "Name": "OLI_EMPTYPE_PATHOLOGIST",
+   "Value": 562,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pattern/Model Makers (Metal, Wood, Paper, Wax)",
+   "Name": "OLI_EMPTYPE_PATTERNMAKER",
+   "Value": 563,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pawnbrokers",
+   "Name": "OLI_EMPTYPE_PAWNBROKER",
+   "Value": 564,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Paymasters",
+   "Name": "OLI_EMPTYPE_PAYMASTER",
+   "Value": 565,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pediatricians",
+   "Name": "OLI_EMPTYPE_PEDIATRICIAN",
+   "Value": 566,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pedodontists",
+   "Name": "OLI_EMPTYPE_PEDODONTIST",
+   "Value": 567,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Perfusionists",
+   "Name": "OLI_EMPTYPE_FERFUSIONIST",
+   "Value": 568,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Periodontists",
+   "Name": "OLI_EMPTYPE_PERIDONTIST",
+   "Value": 569,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Personnel Recruiter",
+   "Name": "OLI_EMPTYPE_RECRUITER",
+   "Value": 570,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pharmacist, Registered--Clinical,Hospital,Research",
+   "Name": "OLI_EMPTYPE_PHARMACISTHOSPITAL",
+   "Value": 571,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pharmacists, Registered - Drug Store",
+   "Name": "OLI_EMPTYPE_PHARMACISTDRUGSTORE",
+   "Value": 572,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Photoengravers",
+   "Name": "OLI_EMPTYPE_PHOTOENGRAVER",
+   "Value": 573,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Photographer/Cameramen, Newspaper/Newsreel/Motion Picture",
+   "Name": "OLI_EMPTYPE_PHOTOGRAPHER",
+   "Value": 574,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Photographer/Cameramen, X-Ray Technicians",
+   "Name": "OLI_EMPTYPE_PHOTOGRAPHERXRAY",
+   "Value": 575,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Photographers And Cameramen, Commercial (Studio)",
+   "Name": "OLI_EMPTYPE_PHOTOGRAPHERSTUDIO",
+   "Value": 576,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Photostat Operators",
+   "Name": "OLI_EMPTYPE_PHOTOSTAT",
+   "Value": 577,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Physiatrists",
+   "Name": "OLI_EMPTYPE_PHYSIATRIST",
+   "Value": 578,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Physician's Assistants",
+   "Name": "OLI_EMPTYPE_PHYSICIANASSIST",
+   "Value": 580,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Physician - Rehabilitation Medicine",
+   "Name": "OLI_EMPTYPE_PHYSICIANREHAB",
+   "Value": 579,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Physicists",
+   "Name": "OLI_EMPTYPE_PHYSICIAN",
+   "Value": 581,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Physiotherapists",
+   "Name": "OLI_EMPTYPE_PHYSIOTHERAPIST",
+   "Value": 582,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Piano Repairers Or Tuners",
+   "Name": "OLI_EMPTYPE_PIANOTUNER",
+   "Value": 583,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pile Driver Operators",
+   "Name": "OLI_EMPTYPE_PIPEDRIVER",
+   "Value": 584,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pilot",
+   "Name": "OLI_EMPTYPE_PILOT",
+   "Value": 840,
+   "Definition": "A person who is trained to fly airplanes, airships, or hot air balloons.",
+   "Notes": ""
+ },
+ {
+   "Description": "Pipefitters--Non-Hazardous Industries",
+   "Name": "OLI_EMPTYPE_PIPEFITTER",
+   "Value": 585,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Plasterers",
+   "Name": "OLI_EMPTYPE_PLASTERER",
+   "Value": 586,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Plastic Industry Article Manufacture, Skilled Worker",
+   "Name": "OLI_EMPTYPE_PLASTICSKILLED",
+   "Value": 587,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Plastic Industry Articles Manuf, Unskilled Workers",
+   "Name": "OLI_EMPTYPE_PLASTICUNSKILLED",
+   "Value": 588,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Plastic Industry Plastic Foremen: Nitrating Dept",
+   "Name": "OLI_EMPTYPE_PLASTICFOR",
+   "Value": 589,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Plastic Industry Plastic Manufacture, Baker/ Coolerm",
+   "Name": "OLI_EMPTYPE_PLASTICBAKER",
+   "Value": 591,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Plastic Industry Plastic Manufacture Foremen/Supervisory",
+   "Name": "OLI_EMPTYPE_PLASTICMFGFOR",
+   "Value": 590,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Plastics Industry Articles Manufacture, Foremen",
+   "Name": "OLI_EMPTYPE_PLASTICMFGFORART",
+   "Value": 593,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Plastics Industry Plastic Manufacture, Others",
+   "Name": "OLI_EMPTYPE_PLASTICMFGOTH",
+   "Value": 594,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Plastic Surgeons",
+   "Name": "OLI_EMPTYPE_PLASTICSURGEON",
+   "Value": 592,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Plater (Electroplater/Galvanizer/Tinners)",
+   "Name": "OLI_EMPTYPE_PLATER",
+   "Value": 595,
+   "Definition": "May also be classified as --> 287 OLI_EMPTYPE_ELECTRPLATER or 353 OLI_EMPTYPE_GALVANIZER",
+   "Notes": ""
+ },
+ {
+   "Description": "Plumbers",
+   "Name": "OLI_EMPTYPE_PLUMBER",
+   "Value": 596,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Podiatrists",
+   "Name": "OLI_EMPTYPE_PODIATRIST",
+   "Value": 597,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Police/Law Enforcement Officer, Armed",
+   "Name": "OLI_EMPTYPE_POLICEARMED",
+   "Value": 600,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Police/Law Enforcement Officer, Unarmed",
+   "Name": "OLI_EMPTYPE_POLICEUNARMED",
+   "Value": 601,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Police/Law Enforcement Officer, Wardens",
+   "Name": "OLI_EMPTYPE_POLICEWARDEN",
+   "Value": 602,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Police/Law Enforcement Officer All Other Employees",
+   "Name": "OLI_EMPTYPE_POLICEOTH",
+   "Value": 598,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Police/Law Enforcement Officer Probation/Truant Officer",
+   "Name": "OLI_EMPTYPE_POLICETRUANT",
+   "Value": 599,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Political appointments",
+   "Name": "OLI_EMPTYPE_POLITICAL",
+   "Value": 862,
+   "Definition": "Embassy personnel, foreign diplomats and governmental officials.",
+   "Notes": ""
+ },
+ {
+   "Description": "Pottery (China/Earthenware/Glazed Brick), All Others",
+   "Name": "OLI_EMPTYPE_POTTERYOTH",
+   "Value": 603,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pottery (China/Earthenware/Glazed Brick), Decorating",
+   "Name": "OLI_EMPTYPE_POTTERYDECORATER",
+   "Value": 604,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pottery China/Earthenware/Glazed Brick,Foremen",
+   "Name": "OLI_EMPTYPE_POTTERYFOR",
+   "Value": 605,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pottery China/Earthenware/Glazed Brick,Inspectors",
+   "Name": "OLI_EMPTYPE_POTTERYINSPECTOR",
+   "Value": 606,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Poultry--Dealer, Dresser, Raiser Or Breeder",
+   "Name": "OLI_EMPTYPE_POULTRY",
+   "Value": 607,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Power Shovel Operator/Firemen, Non-Hazardous, Usually",
+   "Name": "OLI_EMPTYPE_POWERSHOVEL",
+   "Value": 608,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Practical Nurse, Hospitals, Asylums, Nd Sanitariums",
+   "Name": "OLI_EMPTYPE_PRACTICALNURSE",
+   "Value": 609,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Priest",
+   "Name": "OLI_EMPTYPE_PRIEST",
+   "Value": 610,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Primary Care MD'S",
+   "Name": "OLI_EMPTYPE_PRIMARYCAREMD",
+   "Value": 611,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Printing And Publishing, All Others",
+   "Name": "OLI_EMPTYPE_PRINTOTH",
+   "Value": 612,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Printing And Publishing, Office Duties Only",
+   "Name": "OLI_EMPTYPE_PRINTOFFICE",
+   "Value": 613,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Private Investigator",
+   "Name": "OLI_EMPTYPE_PRIVINVES",
+   "Value": 910,
+   "Definition": "Person who assist individuals, businesses and attorneys by finding and analyzing information by connecting clues to uncover facts about legal, financial or personal matters.",
+   "Notes": ""
+ },
+ {
+   "Description": "Proctologists",
+   "Name": "OLI_EMPTYPE_PROCTOLOGIST",
+   "Value": 614,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Professional athletes",
+   "Name": "OLI_EMPTYPE_PROATHLETES",
+   "Value": 863,
+   "Definition": "Those whose primary avocation is that of a paid athlete.",
+   "Notes": ""
+ },
+ {
+   "Description": "Professional Racer",
+   "Name": "OLI_EMPTYPE_PRORACER",
+   "Value": 882,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Proofreaders",
+   "Name": "OLI_EMPTYPE_PROOFREADER",
+   "Value": 615,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Prosthodontists",
+   "Name": "OLI_EMPTYPE_PROSTHODONTIST",
+   "Value": 616,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Psychiatrists",
+   "Name": "OLI_EMPTYPE_PSYCHIATRIST",
+   "Value": 617,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Psychologists",
+   "Name": "OLI_EMPTYPE_PSYCHOLOGIST",
+   "Value": 618,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Publicity Agent Or Managers",
+   "Name": "OLI_EMPTYPE_PUBLICITY",
+   "Value": 619,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pulmonologists",
+   "Name": "OLI_EMPTYPE_PULMONOLOGIST",
+   "Value": 620,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Purchasing Agent",
+   "Name": "OLI_EMPTYPE_PURCHASING",
+   "Value": 621,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Pyrotechnist",
+   "Name": "OLI_EMPTYPE_PYROTECHNIST",
+   "Value": 841,
+   "Definition": "A person who is skilled in the art of creating and using fireworks",
+   "Notes": ""
+ },
+ {
+   "Description": "Rabbi",
+   "Name": "OLI_EMPTYPE_RABBI",
+   "Value": 622,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Radio/Television Broadcast Control: Maintenance Engineer",
+   "Name": "OLI_EMPTYPE_RADIOMAINTENGR",
+   "Value": 623,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Radio/Television Broadcasting Control: Chief Engineer",
+   "Name": "OLI_EMPTYPE_RADIOCHIEFENGR",
+   "Value": 625,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Radio/Television Broadcasting Transmit: Supervisors",
+   "Name": "OLI_EMPTYPE_RADIOCONTROLSUP",
+   "Value": 626,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Radio/Television Broadcast Transmit: Operator/Engineer",
+   "Name": "OLI_EMPTYPE_RADIOOPERENGR",
+   "Value": 624,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Radio/Television Industry Broadcasting Studio: Announcer",
+   "Name": "OLI_EMPTYPE_RADIOBROADCASTSUP",
+   "Value": 627,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Radio/Television Industry Manufacture, Proprietors",
+   "Name": "OLI_EMPTYPE_RADIOMFG",
+   "Value": 628,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Radio/Television Industry Sales/Repairing, All Other",
+   "Name": "OLI_EMPTYPE_RADIOREPAIROTH",
+   "Value": 629,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Radio/Television Industry Sales/Repairing, Clerical",
+   "Name": "OLI_EMPTYPE_RADIOREPAIROFFICE",
+   "Value": 630,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Radio/Television Manufacturing, All Others",
+   "Name": "OLI_EMPTYPE_RADIOMFGOTH",
+   "Value": 631,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Radio/Television Manufacturing, Supervisor/Foremen",
+   "Name": "OLI_EMPTYPE_RADIOMFGSUP",
+   "Value": 632,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Radiologists",
+   "Name": "OLI_EMPTYPE_RADIOLOGIST",
+   "Value": 633,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Radium Ore Reduction & Refining, Chemist/Lab Workers",
+   "Name": "OLI_EMPTYPE_RADIUMLAB",
+   "Value": 634,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Radium Ore Reduction & Refining, Watch/Dial Painters",
+   "Name": "OLI_EMPTYPE_RADIUMPAINTER",
+   "Value": 635,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Railroad Conductor",
+   "Name": "OLI_EMPTYPE_CNDCTR",
+   "Value": 911,
+   "Definition": "Coordinates all activities of freight or passenger trains.",
+   "Notes": ""
+ },
+ {
+   "Description": "Railroads, Executives And Office Workers",
+   "Name": "OLI_EMPTYPE_RAILROADOFFICE",
+   "Value": 636,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Real Estate Developer",
+   "Name": "OLI_EMPTYPE_REALESTATEDEV",
+   "Value": 637,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Real Estate Salesperson",
+   "Name": "OLI_EMPTYPE_REALESTATESALES",
+   "Value": 638,
+   "Definition": "Unclassified Real Estate sales, may not be licensed",
+   "Notes": ""
+ },
+ {
+   "Description": "Receiving Or Shipping Clerks, All Others",
+   "Name": "OLI_EMPTYPE_RECIEVINGOTH",
+   "Value": 639,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Receiving Or Shipping Clerks, Light Goods Only",
+   "Name": "OLI_EMPTYPE_RECEIVINGLIGHT",
+   "Value": 640,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Refrigerator Manufacture, Charging/Purifying Refrigerants",
+   "Name": "OLI_EMPTYPE_REFRIGMFG",
+   "Value": 641,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Registered Nurses, Doctor's Office Only",
+   "Name": "OLI_EMPTYPE_REGISTEREDNURSEOFFICE",
+   "Value": 642,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Registered Nurses, Hospitals, Asylums, & Sanitariums",
+   "Name": "OLI_EMPTYPE_REGISTEREDNURSEHOSPITAL",
+   "Value": 643,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Registered Nurses, Private Duty",
+   "Name": "OLI_EMPTYPE_REGISTEREDNURSEPFT",
+   "Value": 644,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Rendering Plant (Animal/Fish)--Chemist/Lab Assistant",
+   "Name": "OLI_EMPTYPE_RENDERINGCHEMIST",
+   "Value": 645,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Rendering Plant (Animal/Fish)--Not Slaughter/Packing",
+   "Name": "OLI_EMPTYPE_RENDERINGNOTSLAUGHTER",
+   "Value": 646,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Rendering Plant (Animals/Fish)--All Others",
+   "Name": "OLI_EMPTYPE_RENDERINGOTH",
+   "Value": 647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Reporters, Court Reporter",
+   "Name": "OLI_EMPTYPE_REPORTERCOURT",
+   "Value": 648,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Reporters, Newspaper",
+   "Name": "OLI_EMPTYPE_REPORTERNEWS",
+   "Value": 649,
+   "Definition": "May also be classified as --> 515 OLI_EMPTYPE_NEWSREPORTER",
+   "Notes": ""
+ },
+ {
+   "Description": "Respitory Therapist",
+   "Name": "OLI_EMPTYPE_RESPTHER",
+   "Value": 912,
+   "Definition": "Also known as Respitory Care Practitioner, person who evaluates, treats and cares for patients with breathing or other cadiopulmonary disorders.",
+   "Notes": ""
+ },
+ {
+   "Description": "Restaurant 1st Class 2nd Liquor, Cook",
+   "Name": "OLI_EMPTYPE_COOK",
+   "Value": 211,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Restaurant 1st Class 2nd Liquor,Head Chef, Supervising",
+   "Name": "OLI_EMPTYPE_RESTAURANTCHEF",
+   "Value": 658,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Restaurant 1st Class 2nd Liquor Proprietor/Tend Bar",
+   "Name": "OLI_EMPTYPE_RESTAURANTBAR",
+   "Value": 652,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Restaurant 1st Class 2nd Liquor Sale, Head Waiter/Matre'd",
+   "Name": "OLI_EMPTYPE_RESTAURANTHEAD",
+   "Value": 656,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Restaurant 1st Class 2nd Liquor Sale,Prop,Supervising",
+   "Name": "OLI_EMPTYPE_RESTAURANTSUP",
+   "Value": 657,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Restaurant 1st Class 2nd Liquor Sale Proprietor/Man",
+   "Name": "OLI_EMPTYPE_RESTAURANTMAN",
+   "Value": 653,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Restaurant 1st Class 2nd Liquor Sale Tending Bar",
+   "Name": "OLI_EMPTYPE_RESTAURANTBARTEND",
+   "Value": 654,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Restaurant 1st Class 2nd Liquor Sale Waiters/Kitchen",
+   "Name": "OLI_EMPTYPE_RESTAURANTWAITER",
+   "Value": 655,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Restaurant Mainly Liquor,Proprietors, Not Bar Tending",
+   "Name": "OLI_EMPTYPE_RESTAURANTNOBAR",
+   "Value": 650,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Restaurant Mostly Liquor Sales, All Others",
+   "Name": "OLI_EMPTYPE_RESTAURANTOTH",
+   "Value": 651,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Retail Outlet--Store Clerks, Usually",
+   "Name": "OLI_EMPTYPE_RETAIL",
+   "Value": 659,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Retinal Surgeons",
+   "Name": "OLI_EMPTYPE_RETINALSURGEON",
+   "Value": 660,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Rheumatologist",
+   "Name": "OLI_EMPTYPE_RHEUMATOLOGIST",
+   "Value": 661,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Riggers, All Others",
+   "Name": "OLI_EMPTYPE_RIGGEROTH",
+   "Value": 662,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Riggers, Motion Picture Studios, Sign Erectors",
+   "Name": "OLI_EMPTYPE_RIGGERMOVIE",
+   "Value": 663,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Rock Wool, All Others",
+   "Name": "OLI_EMPTYPE_ROCKWOOLOTH",
+   "Value": 664,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Rock Wool,Insulating Building, Manufacturing-Foremen",
+   "Name": "OLI_EMPTYPE_ROCKWOOLFOR",
+   "Value": 665,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Rodeo Performer",
+   "Name": "OLI_EMPTYPE_RODEO",
+   "Value": 883,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Roofing Material Manufacture Asphalt/Asbestos, Foremen",
+   "Name": "OLI_EMPTYPE_ROOFINGFOR",
+   "Value": 666,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Roofing Material Manufacture Asphalt/Asbestos, Other",
+   "Name": "OLI_EMPTYPE_ROOFINGOTH",
+   "Value": 667,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Rubber/Rubber Product Manufacture, All Others",
+   "Name": "OLI_EMPTYPE_RUBBERMFGOTH",
+   "Value": 669,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Rubber/Rubber Product Manufacture, Foremen",
+   "Name": "OLI_EMPTYPE_RUBBERMFGSUP",
+   "Value": 670,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Rubber Products Manufacture, Superintendent/Chemist",
+   "Name": "OLI_EMPTYPE_RUBBERSUP",
+   "Value": 668,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Safe And Machinery Movers",
+   "Name": "OLI_EMPTYPE_SAFEMOVER",
+   "Value": 671,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Safety Engineers-Non-Hazardous Industries",
+   "Name": "OLI_EMPTYPE_SAFTYENGR",
+   "Value": 672,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Salesmen, Office & Outside Soliciting, No Delivering",
+   "Name": "OLI_EMPTYPE_SALESNODEL",
+   "Value": 673,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Salesmen--Full Time--Delivering By Light Truck/Van",
+   "Name": "OLI_EMPTYPE_SALESDEL",
+   "Value": 674,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Salesmen--Full Time--Installing/Repairing/Servicing",
+   "Name": "OLI_EMPTYPE_SALESSERVICE",
+   "Value": 675,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Salesmen--Full Time-Soliciting/Delivery By Auto Only",
+   "Name": "OLI_EMPTYPE_SALESDELAUTO",
+   "Value": 676,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sandblaster, Building Cleaner/Glass/Pottery/Stone",
+   "Name": "OLI_EMPTYPE_SANDBLASTER",
+   "Value": 677,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "School, Principal/Superintendents/Administrative Office",
+   "Name": "OLI_EMPTYPE_SCHOOL",
+   "Value": 678,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Seamstresses And Dressmakers, In Shop",
+   "Name": "OLI_EMPTYPE_SEAMSTRESS",
+   "Value": 679,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sewer/Sewage Disposal/Cesspool Worker Inspector, Forman",
+   "Name": "OLI_EMPTYPE_SEWERINSP",
+   "Value": 680,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sewer/Sewage Disposal/Cesspool Workers, Others",
+   "Name": "OLI_EMPTYPE_SEWEROTH",
+   "Value": 681,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sewing Machine Operators And Repairmen",
+   "Name": "OLI_EMPTYPE_SEWING",
+   "Value": 682,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sextons",
+   "Name": "OLI_EMPTYPE_SECTON",
+   "Value": 683,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sheet Metal Workers, Tinsmiths, Others",
+   "Name": "OLI_EMPTYPE_SHEETMETALOTH",
+   "Value": 684,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sheet Metal Workers, Tinsmiths, Shop Work Only",
+   "Name": "OLI_EMPTYPE_SHEETMETALSHOP",
+   "Value": 685,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ship Hull Worker",
+   "Name": "OLI_EMPTYPE_SHIPHULLWKR",
+   "Value": 884,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Shoe Manufacture/Repair Factory, Unskilled Employees",
+   "Name": "OLI_EMPTYPE_SHOEMFGUNSKILLED",
+   "Value": 687,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Shoe Manufacture/Repair Factory Worker, All Skilled",
+   "Name": "OLI_EMPTYPE_SHOEMFGSKILLED",
+   "Value": 686,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Shoe Manufacture/Repair Non-Factory, Shoemaker/Repair",
+   "Name": "OLI_EMPTYPE_SHOEMFGREPAIR",
+   "Value": 688,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Shovel Operator (Power)/Firemen, Non-Hazardous",
+   "Name": "OLI_EMPTYPE_SHOVELOPRFOR",
+   "Value": 689,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sign/Billboard Erector/Builder, Bench Work Only",
+   "Name": "OLI_EMPTYPE_SIGNBENCH",
+   "Value": 690,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sign/Billboard Erectors Or Builders, All Others",
+   "Name": "OLI_EMPTYPE_SIGNERECTOR",
+   "Value": 691,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Silver Polishers",
+   "Name": "OLI_EMPTYPE_SILVERPOLISHER",
+   "Value": 692,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Silversmiths",
+   "Name": "OLI_EMPTYPE_SILVERSMITH",
+   "Value": 693,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Slot Machine (Legal), Collector/Distributor/Repairer",
+   "Name": "OLI_EMPTYPE_SLOTMACHREPAIR",
+   "Value": 694,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Soap/Detergent Manufacture, Workmen,Abrasive Grinding",
+   "Name": "OLI_EMPTYPE_SOAPMFGWORKMAN",
+   "Value": 696,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Soap And Detergent Manufacture, All Others",
+   "Name": "OLI_EMPTYPE_SOAPMFGOTH",
+   "Value": 695,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Social Workers, All Others",
+   "Name": "OLI_EMPTYPE_SOCIALWORKEROTH",
+   "Value": 697,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Social Workers, Office Duties Only",
+   "Name": "OLI_EMPTYPE_SOCIALWORKEROFFICE",
+   "Value": 698,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Solderers, Non-Hazardous Industries, Usually",
+   "Name": "OLI_EMPTYPE_SOLDERER",
+   "Value": 700,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Solder Makers",
+   "Name": "OLI_EMPTYPE_SOLDERMAKER",
+   "Value": 699,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Speech Therapists",
+   "Name": "OLI_EMPTYPE_SPEECHTHERAPIST",
+   "Value": 701,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Spice Grinders And Packers",
+   "Name": "OLI_EMPTYPE_SPICEGRINDER",
+   "Value": 702,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sports (Pro)Owner/Manager/Coach/Scout (Non-Part)",
+   "Name": "OLI_EMPTYPE_SPORTSOWNER",
+   "Value": 703,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sports Athletic Instructor/Director, School/College",
+   "Name": "OLI_EMPTYPE_SPORTSATHDIR",
+   "Value": 704,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sports Beach/Pool/Billiard/Bowling Alley, Attendants",
+   "Name": "OLI_EMPTYPE_SPORTSATTNEDANT",
+   "Value": 705,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sports Beach/Pool/Billiard/Bowling Proprietor/Manager",
+   "Name": "OLI_EMPTYPE_SPORTSMANAGER",
+   "Value": 706,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sports Dance Hall/Skating, Proprietor/Manager, Fulltime",
+   "Name": "OLI_EMPTYPE_SPORTSSKATING",
+   "Value": 707,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sports Racing Automobile: Mechanics, No Driving",
+   "Name": "OLI_EMPTYPE_SPORTSAUTONODRIVE",
+   "Value": 708,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sports Racing Horse/Dog: Starter/Judge/Steward/Office",
+   "Name": "OLI_EMPTYPE_SPORTSSTARTER",
+   "Value": 710,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sports Racing Horse And Dog: Parimutuel Clerks",
+   "Name": "OLI_EMPTYPE_SPORTSCLERK",
+   "Value": 709,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sports Riding School, Proprietor/Manager (Supervision)",
+   "Name": "OLI_EMPTYPE_SPORTSRIDINGMGR",
+   "Value": 711,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sports Riding Schools, Instructors",
+   "Name": "OLI_EMPTYPE_SPORTSRIDINGINST",
+   "Value": 712,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Stable Hand",
+   "Name": "OLI_EMPTYPE_STABLEHAND",
+   "Value": 885,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Starters, Taxicab, Elevator",
+   "Name": "OLI_EMPTYPE_STARTER",
+   "Value": 713,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Stationary Engineer/Firemen, Non-Hazardous Industry",
+   "Name": "OLI_EMPTYPE_STATIONARYENGR",
+   "Value": 714,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Statistician",
+   "Name": "OLI_EMPTYPE_STATISTICIAN",
+   "Value": 715,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Steamfitter--Non-hazardous Industries, Usually",
+   "Name": "OLI_EMPTYPE_STEAMFITTER",
+   "Value": 716,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Steeplejack",
+   "Name": "OLI_EMPTYPE_STEEPLEJACK",
+   "Value": 886,
+   "Definition": "One whose work is building smokestacks, towers, or steeples or climbing up the outside of such structures to paint and make repairs.",
+   "Notes": ""
+ },
+ {
+   "Description": "Stenographers",
+   "Name": "OLI_EMPTYPE_STENOGRAPHER",
+   "Value": 717,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Stock And Bond Brokers Or Salespeople",
+   "Name": "OLI_EMPTYPE_STOCKSALES",
+   "Value": 718,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Stock Clerk/Keeper/Chaser, Light Goods Only",
+   "Name": "OLI_EMPTYPE_STOCKCLERK",
+   "Value": 719,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Stock Clerks, Keepers Or Chasers, All Others",
+   "Name": "OLI_EMPTYPE_STOCKCLERKOTH",
+   "Value": 720,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Stockyard/Slaughter/Packing House, Commission Men",
+   "Name": "OLI_EMPTYPE_STOCKYARDCOMMISSIONMAN",
+   "Value": 722,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Stockyard/Slaughter/Packing House Superintendent",
+   "Name": "OLI_EMPTYPE_STOCKYARDSUP",
+   "Value": 721,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Stone Industry Other Stone, All Others",
+   "Name": "OLI_EMPTYPE_STONEOTH",
+   "Value": 723,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Stone Industry Other Stone, Foremen",
+   "Name": "OLI_EMPTYPE_STONEFOR",
+   "Value": 724,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Street Cleaning, All Others Including Drivers",
+   "Name": "OLI_EMPTYPE_STREETCLEANER",
+   "Value": 725,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Street Cleaning, Foremen (Inspectors)",
+   "Name": "OLI_EMPTYPE_STREETCLEANFOR",
+   "Value": 726,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Student",
+   "Name": "OLI_EMPTYPE_STUDENT",
+   "Value": 865,
+   "Definition": "One who is enrolled or attends classes at a school, college, or university on a full time basis",
+   "Notes": ""
+ },
+ {
+   "Description": "Stunt men",
+   "Name": "OLI_EMPTYPE_STUNTMAN",
+   "Value": 852,
+   "Definition": "Acting performers who may be involved in high-speed driving, leaps and dives and fire/explosive exposure.",
+   "Notes": ""
+ },
+ {
+   "Description": "Subway Worker",
+   "Name": "OLI_EMPTYPE_SUBWAYWKR",
+   "Value": 887,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sugar Refinery (Starch/Corn), Kiln Cleaner/ Unskilled",
+   "Name": "OLI_EMPTYPE_SUGARUNSKILLED",
+   "Value": 730,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sugar Refinery (Starch/Corn Product), Superintendent",
+   "Name": "OLI_EMPTYPE_SUGARSUP",
+   "Value": 728,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sugar Refinery (Starch/Corn Products), All Others",
+   "Name": "OLI_EMPTYPE_SUGAROTH",
+   "Value": 729,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Sugar Refinery (Starch And Corn Products), Foremen",
+   "Name": "OLI_EMPTYPE_SUGARFOR",
+   "Value": 727,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Surveyors, Non-hazardous Industries, Usually",
+   "Name": "OLI_EMPTYPE_SURVEYOR",
+   "Value": 731,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tailor (Working Away From Home), Not Pressing/Cleaning",
+   "Name": "OLI_EMPTYPE_TAILOR",
+   "Value": 732,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tailors (Working Away From Home), General Duties",
+   "Name": "OLI_EMPTYPE_TAILORGEN",
+   "Value": 733,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Talc Industry Mills, All Other Workers",
+   "Name": "OLI_EMPTYPE_TALCOTH",
+   "Value": 734,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Talc Industry Mills, Foremen, Skilled Workers",
+   "Name": "OLI_EMPTYPE_TALCSKILLED",
+   "Value": 735,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Taxicab Drivers",
+   "Name": "OLI_EMPTYPE_TAXICABDRIVER",
+   "Value": 736,
+   "Definition": "May also be classified as --> 249 OLI_EMPTYPE_DRIVERTAXI",
+   "Notes": ""
+ },
+ {
+   "Description": "Taxidermists",
+   "Name": "OLI_EMPTYPE_TAXIDERMIST",
+   "Value": 737,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Teacher,School/College (F/T)-Agri/Animal Husbandry",
+   "Name": "OLI_EMPTYPE_TEACHERANIMAL",
+   "Value": 740,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Teacher, School/College (Fulltime Employment)",
+   "Name": "OLI_EMPTYPE_TEACHER",
+   "Value": 738,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Teacher, School/College (Part-time Employment)",
+   "Name": "OLI_EMPTYPE_TEACHERPARTTIMER",
+   "Value": 739,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Telegraph/Telephone Inside Worker/Inspector/Installer",
+   "Name": "OLI_EMPTYPE_TELEPHONEINSTALLER",
+   "Value": 742,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Telegraph/Telephone Inside Worker/Operator/Exchange",
+   "Name": "OLI_EMPTYPE_TELEPHONEOPERATOR",
+   "Value": 743,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Telegraph/Telephone Inside Worker/Repairmen",
+   "Name": "OLI_EMPTYPE_TELEPHONEREPAIRMAN",
+   "Value": 744,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Telegraph/Telephone Outside Line Construct/Maintenance",
+   "Name": "OLI_EMPTYPE_TELEPHONEMAINT",
+   "Value": 745,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Telegraph/Telephone Outside Lines Constr, Maintenance",
+   "Name": "OLI_EMPTYPE_TELEPHONEMAINT2",
+   "Value": 746,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Telegraph And Telephone Inside Workers, All Others",
+   "Name": "OLI_EMPTYPE_TELEPHONEOTH",
+   "Value": 741,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Telemarketer",
+   "Name": "OLI_EMPTYPE_TELEMKT",
+   "Value": 913,
+   "Definition": "Person who solicits orders for goods and services over the telephone.",
+   "Notes": ""
+ },
+ {
+   "Description": "Tent Makers",
+   "Name": "OLI_EMPTYPE_TENTMAKER",
+   "Value": 747,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Textile Industry, Inspectors, Graders, Sorters",
+   "Name": "OLI_EMPTYPE_TEXTILESKILLED",
+   "Value": 748,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Textile Industry, Other Skilled Workers",
+   "Name": "OLI_EMPTYPE_TEXTILEOTH",
+   "Value": 749,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Textile Industry, Superintendents And Foreman",
+   "Name": "OLI_EMPTYPE_TEXTILESUP",
+   "Value": 750,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Therapists--Occupational",
+   "Name": "OLI_EMPTYPE_THERAPISTOCCUP",
+   "Value": 751,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Thoracic Surgeons",
+   "Name": "OLI_EMPTYPE_THORASICSURGEON",
+   "Value": 752,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Ticket Agents (Office Duties Only)",
+   "Name": "OLI_EMPTYPE_TICKETAGENT",
+   "Value": 753,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tile Layers/Setters, Pipers Or Drains Or Roofers",
+   "Name": "OLI_EMPTYPE_TILELAYER",
+   "Value": 754,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Timekeepers",
+   "Name": "OLI_EMPTYPE_TIMEKEEPER",
+   "Value": 755,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tinners And Galvanizers (Not Roofers)",
+   "Name": "OLI_EMPTYPE_TINNER",
+   "Value": 756,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tinsmiths, Others",
+   "Name": "OLI_EMPTYPE_TINSMITHOTH",
+   "Value": 757,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tinsmiths, Shop Work Only",
+   "Name": "OLI_EMPTYPE_TINSMITHSHOP",
+   "Value": 758,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tobacco Manufacture, Auctioneer/Buyer/Inspectors",
+   "Name": "OLI_EMPTYPE_TOBACCOBUYER",
+   "Value": 759,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tobacco Manufacture, Other Skilled Workers",
+   "Name": "OLI_EMPTYPE_TOBACCOOTH",
+   "Value": 760,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Toll Collectors",
+   "Name": "OLI_EMPTYPE_TOLLCOLLECTOR",
+   "Value": 761,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Topographers",
+   "Name": "OLI_EMPTYPE_TOPOGRAPHER",
+   "Value": 762,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tour Directors Or Conductors",
+   "Name": "OLI_EMPTYPE_TOURDIRECTOR",
+   "Value": 763,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tower Erector",
+   "Name": "OLI_EMPTYPE_TOWERERECTOR",
+   "Value": 888,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Traffic Managers (Office Duties Only)",
+   "Name": "OLI_EMPTYPE_TRAFFICMGR",
+   "Value": 764,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Travel Agency, Agents",
+   "Name": "OLI_EMPTYPE_TRAVELAGENT",
+   "Value": 765,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Travel Agency, Proprietors",
+   "Name": "OLI_EMPTYPE_TRAVELAGENTOWNER",
+   "Value": 766,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tree Workers, Fumigators And Sprayers",
+   "Name": "OLI_EMPTYPE_TREEWORKERSPRAY",
+   "Value": 767,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tree Workers, Surgeons And Trimmers",
+   "Name": "OLI_EMPTYPE_TREEWORKER",
+   "Value": 768,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Trotting Horse Driver",
+   "Name": "OLI_EMPTYPE_TROTTINGDRV",
+   "Value": 889,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Tunnel Worker",
+   "Name": "OLI_EMPTYPE_TUNNELWKR",
+   "Value": 890,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Turpentine Industry, All Others",
+   "Name": "OLI_EMPTYPE_TURPENTINEOTH",
+   "Value": 769,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Turpentine Industry, Superintendents",
+   "Name": "OLI_EMPTYPE_TURPENTINESUP",
+   "Value": 770,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Typists",
+   "Name": "OLI_EMPTYPE_TYPIST",
+   "Value": 771,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Umbrella Makers Or Repairers",
+   "Name": "OLI_EMPTYPE_UMBRELLAMFG",
+   "Value": 772,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Umpire",
+   "Name": "OLI_EMPTYPE_UMPIRE",
+   "Value": 914,
+   "Definition": "Person who officiates at competitive or sporting events by observing the play and impose penalties for infractions as established by the rules and regulations of various sports.",
+   "Notes": ""
+ },
+ {
+   "Description": "Undertakers, Others",
+   "Name": "OLI_EMPTYPE_UNDERTAKEROTH",
+   "Value": 774,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Undertakers, Proprietors (Not Embalming)",
+   "Name": "OLI_EMPTYPE_UNDERTAKEROWNER",
+   "Value": 775,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unemployed, Retired",
+   "Name": "OLI_EMPTYPE_RETIRED",
+   "Value": 776,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Upholsterers",
+   "Name": "OLI_EMPTYPE_UPHOLSTERER",
+   "Value": 777,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Urological Surgeons",
+   "Name": "OLI_EMPTYPE_UROLOGISTSURGEON",
+   "Value": 778,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Urologists",
+   "Name": "OLI_EMPTYPE_UROLOGIST",
+   "Value": 779,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Vacuum Cleaner Dealer/Salesmen, No Repairing, Delivery",
+   "Name": "OLI_EMPTYPE_VACUUMSALES",
+   "Value": 780,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Vacuum Cleaner Dealers And Salesmen, Repairing",
+   "Name": "OLI_EMPTYPE_VACUUMREPAIR",
+   "Value": 781,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Vascular Surgeons",
+   "Name": "OLI_EMPTYPE_VASCULARSURGEON",
+   "Value": 782,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Vending Machine (Legal) Collector/Filler/ Installers",
+   "Name": "OLI_EMPTYPE_VENDINGMACHINE",
+   "Value": 783,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Venetian Blinds--Installer",
+   "Name": "OLI_EMPTYPE_VENETIANBLINDINSTALLER",
+   "Value": 784,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Venetian Blinds--Makers Or Repairers",
+   "Name": "OLI_EMPTYPE_VENETIANBLINDNFG",
+   "Value": 785,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Veterinarian (DVM)--Large Animals",
+   "Name": "OLI_EMPTYPE_VETERINANRIANLARGE",
+   "Value": 786,
+   "Definition": "May also be classified as --> 441 OLI_EMPTYPE_KENNELVETLARGE",
+   "Notes": ""
+ },
+ {
+   "Description": "Veterinarians (DVM)--Small Animals",
+   "Name": "OLI_EMPTYPE_VETERINANRIANSMALL",
+   "Value": 787,
+   "Definition": "May also be classified as --> 442 OLI_EMPTYPE_KENNELVETPET",
+   "Notes": ""
+ },
+ {
+   "Description": "Vinegar Makers",
+   "Name": "OLI_EMPTYPE_VINEGARMFG",
+   "Value": 788,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Violin Makers Or Repairers",
+   "Name": "OLI_EMPTYPE_VIOLINMFG",
+   "Value": 789,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wall Paper, Designers",
+   "Name": "OLI_EMPTYPE_WALLPAPERDESIGNER",
+   "Value": 790,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wall Paper, Hangers Or Printers",
+   "Name": "OLI_EMPTYPE_WALLPAPERHANGER",
+   "Value": 791,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wall Paper, Makers",
+   "Name": "OLI_EMPTYPE_WALLPAPERMAKER",
+   "Value": 792,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Warehousemen, All Other Warehouse Employees",
+   "Name": "OLI_EMPTYPE_WAREHOUSEMANOTH",
+   "Value": 793,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Warehousemen, Checker/Crater/Foremen Or Packers",
+   "Name": "OLI_EMPTYPE_WAREHOUSEMANFOR",
+   "Value": 794,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Warehousemen, Checkers, Not Handling Goods",
+   "Name": "OLI_EMPTYPE_WAREHOUSEMANCHECKER",
+   "Value": 795,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Washing Machine, Dealer/Salesmen, Not Delivery/Repair",
+   "Name": "OLI_EMPTYPE_WASHINGMACHINESALES",
+   "Value": 796,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Washing Machine, Delivering Or Repairing",
+   "Name": "OLI_EMPTYPE_WASHINGTMACHINEREPAIR",
+   "Value": 797,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Watch/Watch Cases, Maker/Repairer, Hand Tools Only",
+   "Name": "OLI_EMPTYPE_WATCHREPAIR",
+   "Value": 798,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Watches/Watch Case, Maker/Repairer, Using Other Tool",
+   "Name": "OLI_EMPTYPE_WATCHCASEREPAIR",
+   "Value": 800,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Watches Or Watch Cases, Testers, In Factory",
+   "Name": "OLI_EMPTYPE_WATCHTESTER",
+   "Value": 799,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Watchmen",
+   "Name": "OLI_EMPTYPE_WATCHMAN",
+   "Value": 801,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Water Meters, Installers, Repairers, Or Testers",
+   "Name": "OLI_EMPTYPE_WATERMETERINSTALLER",
+   "Value": 802,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Water Meters, Readers Or Inspectors",
+   "Name": "OLI_EMPTYPE_WATERMETERREADER",
+   "Value": 803,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Water Works, All Others Employees",
+   "Name": "OLI_EMPTYPE_WATERWORKSOTH",
+   "Value": 804,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Water Works, Filtermen Or Pumpmen",
+   "Name": "OLI_EMPTYPE_WATERWORKSFOR",
+   "Value": 805,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Water Works, Superintendent (Superintending Only)",
+   "Name": "OLI_EMPTYPE_WATERWORKSSUP",
+   "Value": 806,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Weaponry, Chemical and biological",
+   "Name": "OLI_EMPTYPE_WEAPONS",
+   "Value": 851,
+   "Definition": "Engaged in research, development, testing, storage, disposal or transportation of various toxic agents.",
+   "Notes": ""
+ },
+ {
+   "Description": "Weather Observers",
+   "Name": "OLI_EMPTYPE_WEATHEROBSERVER",
+   "Value": 807,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Weighers, Not Otherwise Classified",
+   "Name": "OLI_EMPTYPE_WEIGHERUNCLASSIFIED",
+   "Value": 808,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Weighers, Office Duties Only",
+   "Name": "OLI_EMPTYPE_WEIGHEROFFICE",
+   "Value": 809,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Welders And Cutters (No Unusual Hazard)",
+   "Name": "OLI_EMPTYPE_WELDER",
+   "Value": 810,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Welfare Workers, All Others",
+   "Name": "OLI_EMPTYPE_WELFAREWORKEROTH",
+   "Value": 811,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Welfare Workers, Office Duties Only",
+   "Name": "OLI_EMPTYPE_WELFAREWORKEROFFICE",
+   "Value": 812,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Well (Not Gas/Oil/Salt), Borer/Diggers, No Explosive",
+   "Name": "OLI_EMPTYPE_WELLDIGGER",
+   "Value": 813,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wheelwrights, Not Using Machinery",
+   "Name": "OLI_EMPTYPE_WHEELWRIGHTNOMACHINE",
+   "Value": 814,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wheelwrights, Using Machinery",
+   "Name": "OLI_EMPTYPE_WHEELWRIGHTMACHINE",
+   "Value": 815,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "White Lead Manufacture, All Others",
+   "Name": "OLI_EMPTYPE_WHITELEADMFGOTH",
+   "Value": 816,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "White Lead Manufacture, Foremen",
+   "Name": "OLI_EMPTYPE_WHITELEADMFGFOR",
+   "Value": 817,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "White Lead Manufacture, Superintendent/Chemist",
+   "Name": "OLI_EMPTYPE_WHITELEADMFGSUP",
+   "Value": 818,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wig Makers",
+   "Name": "OLI_EMPTYPE_WIGMAKER",
+   "Value": 819,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Window Industry, Cleaner Inside/Ground Floor Only",
+   "Name": "OLI_EMPTYPE_WINDOWCLEANER",
+   "Value": 820,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Window Industry, Dresser/Trimmer, Shade Maker/Hanger",
+   "Name": "OLI_EMPTYPE_WINDOWDRESSER",
+   "Value": 821,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Window Industry, Screen Makers Or Installers",
+   "Name": "OLI_EMPTYPE_WINDOWINSTALLER",
+   "Value": 822,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wire Fence Erectors",
+   "Name": "OLI_EMPTYPE_WIREFENCEERECTOR",
+   "Value": 823,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wireless/Radio Operator, Lighthouse--Mainland Only",
+   "Name": "OLI_EMPTYPE_WIRELESSLIGHTHOUSE",
+   "Value": 827,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wireless And Radio Operators, Shore Stations",
+   "Name": "OLI_EMPTYPE_WIRELESSOPERATOR",
+   "Value": 826,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wire Mill Worker, Annealer/Drawer/Oiler/Laborers",
+   "Name": "OLI_EMPTYPE_WIREWORKER",
+   "Value": 824,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Wire Mill Workers, All Other Mill Employees",
+   "Name": "OLI_EMPTYPE_WIREWORKEROTH",
+   "Value": 825,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "X-Ray, Operators, Salesmen, Technicians",
+   "Name": "OLI_EMPTYPE_XRAYOPERATOR",
+   "Value": 828,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "X-Ray, Repairmen, Servicemen, Testers",
+   "Name": "OLI_EMPTYPE_XRAYREPAIR",
+   "Value": 829,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Yarn Makers",
+   "Name": "OLI_EMPTYPE_YARNMAKER",
+   "Value": 830,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Yeast Maker, Superintendent/Foremen (Supervising Only)",
+   "Name": "OLI_EMPTYPE_YEASTMAKERSUP",
+   "Value": 831,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Yeast Makers, Process Workers",
+   "Name": "OLI_EMPTYPE_YEASTMAKERWRK",
+   "Value": 832,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Yeast Makers, Unskilled Workers",
+   "Name": "OLI_EMPTYPE_YEASTMAKERUNSKILLED",
+   "Value": 833,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "YMCA/Similar Organizations, Officers, Directors",
+   "Name": "OLI_EMPTYPE_YMCEMGT",
+   "Value": 834,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "YMCA/Similar Organizations, Physical Directors",
+   "Name": "OLI_EMPTYPE_YMCADIRECTOR",
+   "Value": 835,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Zoos, Zoo Director (No Contact With Animals)",
+   "Name": "OLI_EMPTYPE_ZOODIRECTOR",
+   "Value": 836,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Zoos, Zoo Keeper",
+   "Name": "OLI_EMPTYPE_ZOOKEEPER",
+   "Value": 837,
+   "Definition": "",
+   "Notes": ""
+ }
+]

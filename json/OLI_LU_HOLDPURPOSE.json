@@ -1,0 +1,289 @@
+[
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "None",
+   "Name": "OLI_HOLDPURP_NONE",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Retirement",
+   "Name": "OLI_HOLDPURP_RETIREMENT",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business",
+   "Name": "OLI_HOLDPURP_BUSINESS",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Personal",
+   "Name": "OLI_HOLDPURP_PERSONAL",
+   "Value": 4,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Education",
+   "Name": "OLI_HOLDPURP_EDUCATION",
+   "Value": 5,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Executive Benefit",
+   "Name": "OLI_HOLDPURP_EXECBENEFIT",
+   "Value": 6,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Investment",
+   "Name": "OLI_HOLDPURP_INV",
+   "Value": 7,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Estate Liquidity",
+   "Name": "OLI_HOLDPURP_ESTLIQUID",
+   "Value": 8,
+   "Definition": "Estate Conservation",
+   "Notes": ""
+ },
+ {
+   "Description": "Charitable Remainder Trust",
+   "Name": "OLI_HOLDPURP_CHARREMTRUST",
+   "Value": 9,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Group Carve Out",
+   "Name": "OLI_HOLDPURP_GRPCARVEOUT",
+   "Value": 10,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Split Dollar",
+   "Name": "OLI_HOLDPURP_SPLITDOLLAR",
+   "Value": 11,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Deferred Compensation",
+   "Name": "OLI_HOLDPURP_DEFCOMP",
+   "Value": 12,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Simplified Employee Retirement Plan",
+   "Name": "OLI_HOLDPURP_EMPRETPLAN",
+   "Value": 13,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Key man",
+   "Name": "OLI_HOLDPURP_KEYMAN",
+   "Value": 14,
+   "Definition": "Key Employee",
+   "Notes": ""
+ },
+ {
+   "Description": "Buy/Sell",
+   "Name": "OLI_HOLDPURP_BUYSELL",
+   "Value": 15,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Executive Bonus",
+   "Name": "OLI_HOLDPURP_EXECBONUS",
+   "Value": 16,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Corporate Owned Life Insurance",
+   "Name": "OLI_HOLDPURP_COLI",
+   "Value": 17,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Bank Owned Life Insurance",
+   "Name": "OLI_HOLDPURP_BOLI",
+   "Value": 18,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mass Marketing Life Insurance",
+   "Name": "OLI_HOLDPURP_MOLI",
+   "Value": 19,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Guaranteed Issue Life Insurance",
+   "Name": "OLI_HOLDPURP_HOLI",
+   "Value": 20,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Family Income",
+   "Name": "OLI_HOLDPURP_FAMILYINC",
+   "Value": 21,
+   "Definition": "Income Replacement",
+   "Notes": ""
+ },
+ {
+   "Description": "Family Protection",
+   "Name": "OLI_HOLDPURP_FAMILYPROTECTION",
+   "Value": 22,
+   "Definition": "Debt Repayment",
+   "Notes": ""
+ },
+ {
+   "Description": "Creditor",
+   "Name": "OLI_HOLDPURP_CREDITOR",
+   "Value": 23,
+   "Definition": "Secure Credit",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Loan",
+   "Name": "OLI_HOLDPURP_BUSINESSLOAN",
+   "Value": 24,
+   "Definition": "Sometimes a purpose for a Holding can be for a business loan.",
+   "Notes": ""
+ },
+ {
+   "Description": "Critical illness protection",
+   "Name": "OLI_HOLDPURP_CI",
+   "Value": 25,
+   "Definition": "For reinsurance messages, the LREACT mappings treat the coverage level as the policy being insured with all riders and benefits being considered for reinsurance at that time described as options. Thus, certain codes that are traditionally riders are need",
+   "Notes": ""
+ },
+ {
+   "Description": "Disability income",
+   "Name": "OLI_HOLDPURP_DI",
+   "Value": 26,
+   "Definition": "For reinsurance messages, the LREACT mappings treat the coverage level as the policy being insured with all riders and benefits being considered for reinsurance at that time described as options. Thus, certain codes that are traditionally riders are need",
+   "Notes": ""
+ },
+ {
+   "Description": "Partnership or closed corporation.",
+   "Name": "OLI_HOLDPURP_PARTNER",
+   "Value": 27,
+   "Definition": "Repurchasing insured's business interest in an organization not having more than 5 principal owners",
+   "Notes": ""
+ },
+ {
+   "Description": "Estate Tax",
+   "Name": "OLI_HOLDPURP_ESTATE",
+   "Value": 28,
+   "Definition": "An individual who wants to ensure that his estate will be settled in accordance with his wishes can choose this option. In the event of the insured's death, the benefit amount will be spent to pay the taxes and other debts and then the assets will be passed to his heirs.",
+   "Notes": ""
+ },
+ {
+   "Description": "Sole Proprietorship",
+   "Name": "OLI_HOLDPURP_SOLEPROP",
+   "Value": 29,
+   "Definition": "\"Sole Proprietorship\" is a purpose for personal insurance. It is an arrangement to continue the business and to provide the insured's estate with the funds needed to continue the business in the event of the insured's death. Proceeds can be used to pay taxes, bills, etc. as it may not be an opportune time to sell the business and the estate would suffer a loss if this insurance was not in place. This is not a Buy/Sell agreement as the purpose is not to provide the funds to buy the business.",
+   "Notes": ""
+ },
+ {
+   "Description": "Trust",
+   "Name": "OLI_HOLDPURP_TRUST",
+   "Value": 30,
+   "Definition": "To fund a trust",
+   "Notes": ""
+ },
+ {
+   "Description": "Basic last expenses",
+   "Name": "OLI_HOLDPURP_LASTEXPENSE",
+   "Value": 31,
+   "Definition": "Last expenses including funeral",
+   "Notes": ""
+ },
+ {
+   "Description": "Mortgage Protection",
+   "Name": "OLI_HOLDPURP_MORTGAGE",
+   "Value": 32,
+   "Definition": "When the insured dies, certain bills, like mortgage may become payable. The benefit amount comes out from the policy will be used to settle the mortgage.",
+   "Notes": ""
+ },
+ {
+   "Description": "Charitable Giving",
+   "Name": "OLI_HOLDPURP_CHARITY",
+   "Value": 33,
+   "Definition": "Once the insured dies, the benefit amount comes from the policy will be spent towards charity.",
+   "Notes": ""
+ },
+ {
+   "Description": "Loan Indemnification",
+   "Name": "OLI_HOLDPURP_LOAN",
+   "Value": 34,
+   "Definition": "This is similar to Mortgage Protection but this option is available under Business Insurance. If the insured has taken a loan for his business, the benefit amount will be spent to pay the loan when he dies.",
+   "Notes": ""
+ },
+ {
+   "Description": "Cash Accumulation",
+   "Name": "OLI_HOLDPURP_CASHACCUM",
+   "Value": 35,
+   "Definition": "Permanent life insurance can be used to accumulate savings that are available for future savings. For example: parents can use permanent life insurance to provide educational funds even if the parents are still living during the child's college years.",
+   "Notes": ""
+ },
+ {
+   "Description": "Succession Planning",
+   "Name": "OLI_HOLDPURP_SUCPLAN",
+   "Value": 36,
+   "Definition": "For protection and preservation of the value of the business at an owners' retirement, disability or death. The funds will be used to continue the business and overcome the set backs due to the loss of this person. The funds will also help through the process of identifying the successor and the transition period.",
+   "Notes": ""
+ },
+ {
+   "Description": "Qualified Plan",
+   "Name": "OLI_HOLDPURP_QUALPLAN",
+   "Value": 37,
+   "Definition": "This insurance is being bought as a part of a qualified plan for a business. A qualified plan is a retirement savings plan. Qualified plans provide significant income tax advantages for employers and employees. Certain qualified retirement plans are permitted to own life insurance. There can be certain income tax advantages to having life insurance owned by a qualified plan.",
+   "Notes": ""
+ },
+ {
+   "Description": "Employee Benefit",
+   "Name": "OLI_HOLDPURP_EMPLOYEEBEN",
+   "Value": 38,
+   "Definition": "Insurance being applied for will be paid for by the employer and provided to their employee as a benefit",
+   "Notes": ""
+ },
+ {
+   "Description": "Pension maximization",
+   "Name": "OLI_HOLDPURP_PENSION",
+   "Value": 39,
+   "Definition": "Purchase of insurance is in lieu of contributions to a pension plan where the insurance policy will be of greater value than the pension",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ }
+]

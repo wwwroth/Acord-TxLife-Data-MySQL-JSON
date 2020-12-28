@@ -1,0 +1,177 @@
+[
+ {
+   "Description": "Address to be used for appointment purposes",
+   "Name": "OLI_ADTYPE_APPTPURPOSE",
+   "Value": 13,
+   "Definition": "This Address is applicable for an appointment such as a paramed exam, signature, or some other appointment.",
+   "Notes": ""
+ },
+ {
+   "Description": "Agent customer service address",
+   "Name": "OLI_ADTYPE_AGENTCSA",
+   "Value": 24,
+   "Definition": "Carrier's address to be used by the agent for customer service.",
+   "Notes": ""
+ },
+ {
+   "Description": "Billing Mailing",
+   "Name": "OLI_ADTYPE_BILLMAIL",
+   "Value": 26,
+   "Definition": "The address used to send the bill notices.",
+   "Notes": ""
+ },
+ {
+   "Description": "Billing Return To Address",
+   "Name": "OLI_ADTYPE_BILLINGRETTO",
+   "Value": 14,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business",
+   "Name": "OLI_ADTYPE_BUS",
+   "Value": 2,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Business Shipping Address",
+   "Name": "OLI_ADTYPE_BUSSHIPPING",
+   "Value": 16,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Claim Center",
+   "Name": "OLI_ADTYPE_CLAIMCENTER",
+   "Value": 18,
+   "Definition": "Indicates that the address is the address for claim inquiries or claim processing submission.",
+   "Notes": ""
+ },
+ {
+   "Description": "Client customer service address",
+   "Name": "OLI_ADTYPE_CLIENTCSA",
+   "Value": 25,
+   "Definition": "Carrier's address to be used by the client for customer service.",
+   "Notes": ""
+ },
+ {
+   "Description": "Commission Mailing Address",
+   "Name": "OLI_ADTYPE_COMM",
+   "Value": 21,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Headquarters Address",
+   "Name": "OLI_ADTYPE_HDQRTRS",
+   "Value": 27,
+   "Definition": "The address of a company or organization's headquarters location.",
+   "Notes": ""
+ },
+ {
+   "Description": "Individual Work Location",
+   "Name": "OLI_ADTYPE_INDVWORKLOC",
+   "Value": 15,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Mailing",
+   "Name": "OLI_ADTYPE_MAILING",
+   "Value": 17,
+   "Definition": "The address to receive all correspondence unless otherwise specified address and can be different from a residential or business address. It can be different from a business shipping address. This address might be a post office box.",
+   "Notes": ""
+ },
+ {
+   "Description": "Other",
+   "Name": "OLI_OTHER",
+   "Value": 2147483647,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Overnight Mail Address",
+   "Name": "OLI_ADTYPE_OVERNIGHT",
+   "Value": 19,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Policy Mailing Address",
+   "Name": "OLI_ADTYPE_POLMAIL",
+   "Value": 20,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Previous",
+   "Name": "OLI_ADTYPE_PREVIOUS",
+   "Value": 12,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Previous Business Address",
+   "Name": "OLI_ADTYPE_PREVBUS",
+   "Value": 28,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Previous Residence Address",
+   "Name": "OLI_ADTYPE_PREVRES",
+   "Value": 29,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Primary Address",
+   "Name": "OLI_ADTYPE_PRIMARY",
+   "Value": 30,
+   "Definition": "An address that has been designated as the primary address for contact by mail. May be used when no other information (residence, mailing, billing, etc.) is known.",
+   "Notes": ""
+ },
+ {
+   "Description": "Regional Office",
+   "Name": "OLI_ADTYPE_REGOFFICE",
+   "Value": 9,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Residence",
+   "Name": "OLI_ADTYPE_HOME",
+   "Value": 1,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Secondary or Alternate Address",
+   "Name": "OLI_ADTYPE_ALTERNATE",
+   "Value": 31,
+   "Definition": "An address that has been designated as the secondary or alternate address for contact by mail. May be used when no other information (residence, mailing, billing, etc.) is known.",
+   "Notes": ""
+ },
+ {
+   "Description": "Temporary",
+   "Name": "OLI_ADTYPE_TEMP",
+   "Value": 11,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Unknown",
+   "Name": "OLI_UNKNOWN",
+   "Value": 0,
+   "Definition": "",
+   "Notes": ""
+ },
+ {
+   "Description": "Vacation",
+   "Name": "OLI_ADTYPE_VAC",
+   "Value": 3,
+   "Definition": "",
+   "Notes": ""
+ }
+]
